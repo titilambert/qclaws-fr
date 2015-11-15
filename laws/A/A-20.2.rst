@@ -1,0 +1,555 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-20.2:
+
+========================================
+A-20.2 Loi sur l'aquaculture commerciale
+========================================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+CHAPITRE I
+----------
+
+**CHAMP D'APPLICATION**
+
+1. La présente loi s'applique à l'aquaculture pratiquée à des fins commerciales et, dans le domaine hydrique de l'État, à des fins de recherche ou d'expérimentation. Elle s'applique également à l'exploitation d'étangs de pêche à des fins commerciales.
+
+Ces activités s'exercent dans le respect de la santé et de la sécurité du public, de l'environnement et de la faune.
+
+Par «aquaculture», on entend la culture ou l'élevage d'organismes aquatiques, notamment les poissons, amphibiens, échinodermes, mollusques, crustacés et végétaux, à l'exception des organismes cultivés ou élevés à des fins d'aquariophilie.
+
+Par «étang de pêche», on entend une étendue d'eau d'une superficie maximale de 20 hectares, contenant exclusivement des poissons d'élevage, fermée de tous côtés de façon à garder le poisson captif et utilisée pour la pêche récréative.
+
+Pour l'application de la présente loi et à moins que le contexte n'indique un sens différent, le mot «personne» comprend également une société, une association ou un organisme.
+
+2003, c. 23, a. 1.
+
+CHAPITRE II
+-----------
+
+**CADRES DE DÉVELOPPEMENT AQUACOLE**
+
+2. Le ministre peut, dans une perspective de développement durable, établir des cadres régionaux ou locaux de développement aquacole favorisant la croissance ordonnée de l'aquaculture dans le domaine hydrique de l'État.
+
+Ces cadres sont élaborés et révisés en consultation avec les intervenants concernés par l'utilisation du milieu hydrique de l'État et de ses ressources ainsi qu'avec les communautés régionales ou locales.
+
+Ces cadres indiquent notamment, pour des secteurs géographiques donnés, les endroits privilégiés pour l'aquaculture ainsi que, en tenant compte entre autres du zonage aquacole déterminé en vertu de la Loi sur la conservation et la mise en valeur de la faune (chapitre C-61.1), les espèces et les variétés d'organismes aquatiques, les pratiques et les techniques privilégiées à ces endroits. Ils peuvent également proposer le développement d'infrastructures et de services utiles aux aquaculteurs.
+
+2003, c. 23, a. 2.
+
+3. Les cadres et leur révision sont soumis à l'approbation du gouvernement qui peut les modifier.
+
+2003, c. 23, a. 3.
+
+CHAPITRE III
+------------
+
+**PERMIS ET AUTORISATION**
+
+SECTION I
+~~~~~~~~~
+
+**PERMIS D'AQUACULTURE ET PERMIS D'ÉTANG DE PÊCHE**
+
+4. Nul ne peut exercer des activités d'aquaculture commerciale ou exploiter un étang de pêche à des fins commerciales à moins d'être titulaire d'un permis.
+
+2003, c. 23, a. 4.
+
+5. Le ministre délivre un permis de l'une ou l'autre des catégories suivantes:
+
+ 1° permis d'aquaculture;
+
+ 2° permis d'étang de pêche.
+
+Le ministre délivre un permis par site aquacole ou étang de pêche. Il peut toutefois délivrer un permis pour plus d'un étang de pêche lorsque ces étangs sont situés à proximité l'un de l'autre.
+
+Par «site aquacole», on entend un emplacement géographique déterminé, en milieu terrestre ou hydrique, sur lequel sont menées des activités d'aquaculture.
+
+2003, c. 23, a. 5.
+
+6. Un permis est valable pour une période de 10 ans et peut être renouvelé pour la même période.
+
+Toutefois, le ministre peut délivrer ou renouveler un permis pour une période moindre, s'il l'estime opportun.
+
+2003, c. 23, a. 6.
+
+7. Nul ne peut céder un permis sans y être autorisé par le ministre.
+
+De plus, le ministre peut autoriser temporairement une autre personne que son titulaire à agir sous l'autorité du permis en cas, notamment, de décès du titulaire du permis, de liquidation de ses biens, de mise en faillite ou d'une autre situation similaire. Cette personne est alors tenue à toutes les obligations imposées au titulaire du permis en vertu de la présente loi et de ses règlements.
+
+2003, c. 23, a. 7.
+
+8. Le ministre délivre, modifie ou renouvelle un permis ou en autorise la cession pour toute personne qui:
+
+ 1° satisfait aux conditions et verse les droits déterminés par règlement;
+
+ 2° fournit, lorsque requis, le certificat d'autorisation prévu à l'article 22 de la Loi sur la qualité de l'environnement (chapitre Q-2) et l'autorisation prévue à l'article 128.7 de la Loi sur la conservation et la mise en valeur de la faune (chapitre C-61.1).
+
+2003, c. 23, a. 8.
+
+9. Le ministre peut assujettir la délivrance, la modification, le renouvellement ou la cession d'un permis à toute autre condition, restriction ou interdiction qu'il détermine et inscrit au permis.
+
+2003, c. 23, a. 9.
+
+10. Le ministre peut, lors d'une demande de délivrance ou de modification de permis d'aquaculture, soumettre cette demande à une consultation publique aux conditions et selon les modalités qu'il détermine.
+
+2003, c. 23, a. 10.
+
+11. Le ministre peut, conformément à l'article 47, refuser la délivrance, la modification, le renouvellement ou l'autorisation de céder un permis d'aquaculture pour des motifs d'intérêt public.
+
+2003, c. 23, a. 11.
+
+12. Le titulaire d'un permis doit, dans l'exercice de ses activités, utiliser les livres, registres et autres documents déterminés par règlement et les fournir au ministre à sa demande.
+
+Il doit également, sur demande du ministre, lui fournir tout renseignement relatif à ses activités.
+
+2003, c. 23, a. 12.
+
+13. Le titulaire d'un permis doit satisfaire aux normes que le gouvernement peut prévoir par règlement relativement à l'exploitation d'un site aquacole ou d'un étang de pêche, concernant notamment:
+
+ 1° la construction, l'aménagement et l'équipement d'un site aquacole ou d'un étang de pêche;
+
+ 2° la culture, l'élevage et la garde en captivité d'organismes aquatiques ainsi que le transport, à l'état vivant, de ceux destinés à la consommation;
+
+ 3° la qualité de l'exploitation et des organismes aquatiques qui sont cultivés, élevés ou gardés en captivité.
+
+2003, c. 23, a. 13.
+
+14. Le titulaire d'un permis doit verser les droits annuels fixés par règlement.
+
+2003, c. 23, a. 14.
+
+15. Le titulaire d'un permis doit également fournir annuellement au ministre un rapport de ses activités ainsi que tout autre renseignement ou document déterminés par règlement.
+
+2003, c. 23, a. 15.
+
+16. Un titulaire de permis ne peut, sans l'autorisation du ministre, faire une modification à ses activités ayant pour effet de rendre inexacts ou incomplets les renseignements et documents qu'il lui a fournis.
+
+Il doit en outre, dans les 60 jours, informer le ministre de tout changement du nom utilisé dans l'exercice de ses activités.
+
+2003, c. 23, a. 16.
+
+17. Le titulaire d'un permis doit afficher son permis ou un duplicata de ce dernier de manière à ce qu'il soit lisible à un endroit bien en vue dans son établissement d'entreprise.
+
+Il doit, de la même manière, afficher un duplicata ou le numéro de son permis sur son site aquacole, son étang de pêche ou sur un des équipements qui s'y trouvent.
+
+2003, c. 23, a. 17.
+
+18. Le titulaire d'un permis doit, dans les plus brefs délais, corriger une défectuosité ou une détérioration d'un équipement ou d'une installation qui constitue un risque pour la santé ou la sécurité du public, l'environnement ou la faune.
+
+À défaut pour le titulaire de permis de se conformer au premier alinéa, le ministre peut, aux frais du titulaire de permis, prendre les moyens nécessaires pour corriger la défectuosité ou la détérioration.
+
+2003, c. 23, a. 18.
+
+19. Le titulaire d'un permis d'aquaculture pour un site aquacole dans le domaine hydrique de l'État doit détenir un bail à des fins d'aquaculture délivré en vertu de la Loi sur le régime des eaux (chapitre R-13).
+
+2003, c. 23, a. 19.
+
+20. Le titulaire d'un permis d'aquaculture pour un site aquacole dans le domaine de l'État doit satisfaire aux normes de mise en valeur et de rendement établies par règlement.
+
+2003, c. 23, a. 20.
+
+21. Toute personne exploitant un site aquacole dans le domaine de l'État et dont le permis d'aquaculture a été annulé ou est expiré doit, à ses frais, remettre le site en état à la satisfaction du ministre.
+
+De plus, toute personne exploitant un site aquacole dont la superficie initiale est réduite doit, à ses frais, remettre la partie retranchée en état à la satisfaction du ministre.
+
+À défaut pour la personne de se conformer au premier ou au deuxième alinéa, le ministre peut, aux frais de l'exploitant, prendre les mesures nécessaires pour remettre le site en état.
+
+En cas d'abandon sur un site aquacole d'une construction, d'un équipement, d'une installation ou d'un autre objet, le ministre peut disposer de ces biens conformément aux règles du Code civil.
+
+Le présent article n'a pas pour effet de restreindre les pouvoirs du ministre du Développement durable, de l'Environnement et des Parcs concernant la gestion du domaine hydrique de l'État et la protection de l'environnement.
+
+2003, c. 23, a. 21; 2006, c. 3, a. 35.
+
+SECTION II
+~~~~~~~~~~
+
+**AUTORISATION À DES FINS DE RECHERCHE ET D'EXPÉRIMENTATION**
+
+22. À moins d'être titulaire d'un permis d'aquaculture, nul ne peut, dans le domaine hydrique de l'État, exercer des activités d'aquaculture à des fins de recherche ou d'expérimentation sans y être autorisé par le ministre.
+
+Le titulaire de cette autorisation doit se conformer aux conditions, restrictions ou interdictions déterminées par le ministre et inscrites sur l'autorisation.
+
+2003, c. 23, a. 22.
+
+23. Les articles 8, 10 à 18 et 21 s'appliquent, compte tenu des adaptations nécessaires, à une autorisation délivrée en vertu de la présente section.
+
+2003, c. 23, a. 23.
+
+CHAPITRE IV
+-----------
+
+**REGISTRE ET RENSEIGNEMENTS**
+
+24. Le ministre tient un registre des titulaires de permis contenant les informations qui sont inscrites aux permis.
+
+Les informations contenues au registre ont un caractère public.
+
+2003, c. 23, a. 24.
+
+25. Le ministre ou la personne qu'il désigne dans son ministère transmet au ministre du Développement durable, de l'Environnement et des Parcs, au ministre des Ressources naturelles et de la Faune et au ministre de la Santé et des Services sociaux, et reçoit de leur part, les renseignements industriels, financiers, commerciaux, scientifiques ou techniques de nature confidentielle qu'il détient ou qui sont fournis par un tiers et nécessaires à l'application de la présente loi et de ses règlements ou à la prévention d'un risque pour la santé ou la sécurité du public, l'environnement ou la faune ainsi qu'à leur protection.
+
+2003, c. 23, a. 25; 2004, c. 11, a. 80; 2006, c. 3, a. 35; 2006, c. 22, a. 156.
+
+26. Le ministre ou la personne qu'il désigne dans son ministère peut transmettre au ministre des Pêches et des Océans du Canada, et recevoir de sa part, les renseignements industriels, financiers, commerciaux, scientifiques ou techniques de nature confidentielle qu'il détient ou qui sont fournis par un tiers et nécessaires à l'application de la présente loi et de ses règlements ou à la prévention d'un risque pour la santé ou la sécurité du public, l'environnement ou la faune ainsi qu'à leur protection.
+
+2003, c. 23, a. 26; 2006, c. 22, a. 157.
+
+CHAPITRE V
+----------
+
+**INSPECTION, SAISIE ET CONFISCATION**
+
+27. Le ministre peut nommer les inspecteurs nécessaires à la mise en oeuvre de la présente loi et de ses règlements et peut pourvoir à la rémunération de ceux qui ne sont pas rémunérés suivant la Loi sur la fonction publique (chapitre F-3.1.1).
+
+2003, c. 23, a. 27.
+
+28. Dans l'exercice de leurs fonctions, les inspecteurs ont les pouvoirs des agents de la paix.
+
+Sur demande, ils doivent s'identifier et exhiber le certificat, signé par le ministre, attestant leur qualité.
+
+2003, c. 23, a. 28.
+
+29. Il est interdit de nuire aux inspecteurs dans l'exercice de leurs fonctions ou de refuser de leur obéir.
+
+De plus, toute personne faisant l'objet d'une inspection est tenue de prêter à l'inspecteur toute aide raisonnable.
+
+2003, c. 23, a. 29.
+
+30. Les inspecteurs ne peuvent être poursuivis en justice pour les actes officiels accomplis de bonne foi dans l'exercice de leurs fonctions.
+
+2003, c. 23, a. 30.
+
+31. Tout inspecteur peut, dans l'exercice de ses fonctions:
+
+ 1° pénétrer, à toute heure raisonnable, dans l'établissement d'entreprise et avoir accès au site aquacole ou à l'étang de pêche d'un titulaire de permis ou d'autorisation ou d'une personne contrevenant à l'article 4 ou 22 et en faire l'inspection;
+
+ 2° examiner le lieu, l'équipement, l'installation, le matériel, les appareils, le produit ou tout autre bien auxquels s'appliquent la présente loi ou ses règlements, prélever gratuitement des échantillons et prendre des photographies ou des enregistrements;
+
+ 3° ordonner l'immobilisation de tout véhicule servant au transport d'un produit et en faire l'inspection;
+
+ 4° exiger la communication pour examen ou pour prendre une copie ou un extrait de tout livre, registre, connaissement ou autre document ou dossier, s'il a des motifs raisonnables de croire qu'ils contiennent des renseignements relatifs à l'application de la présente loi ou de ses règlements.
+
+2003, c. 23, a. 31.
+
+32. Tout inspecteur peut, dans l'exercice de ses fonctions, saisir un produit ou tout autre bien s'il a des motifs raisonnables de croire qu'une infraction à la présente loi ou aux règlements a été commise à l'égard de ce bien ou qu'il a servi à commettre une telle infraction.
+
+L'inspecteur qui saisit un bien dresse un procès-verbal et le remet à la personne entre les mains de laquelle le bien a été saisi.
+
+2003, c. 23, a. 32.
+
+33. Le propriétaire ou le possesseur du bien saisi doit en assurer la garde. Toutefois, l'inspecteur peut, s'il le juge à propos, désigner un autre gardien ou placer ce bien dans un autre lieu pour fins de garde. Le gardien assume en outre la garde des biens saisis mis en preuve, à moins que le juge qui les a reçus en preuve n'en décide autrement.
+
+La garde d'un bien saisi est maintenue jusqu'à ce qu'il en soit disposé conformément aux articles 34 à 37, 39 ou 40 ou, en cas de poursuite, jusqu'à ce qu'un juge en ait disposé par jugement.
+
+2003, c. 23, a. 33.
+
+34. Lorsque le bien saisi est périssable ou susceptible de se déprécier rapidement, un juge peut en autoriser la vente à la demande du saisissant.
+
+Un préavis d'au moins un jour franc de cette demande est signifié au saisi et à toute personne qui prétend avoir droit à ce bien. Toutefois, le juge peut dispenser le saisissant d'effectuer cette signification si la détérioration du bien est imminente.
+
+La vente est effectuée aux conditions que le juge détermine. Le produit de la vente est déposé auprès du ministre des Finances conformément à la Loi sur les dépôts et consignations (chapitre D-5).
+
+2003, c. 23, a. 34.
+
+35. Le bien saisi ou le produit de sa vente doit être remis à son propriétaire ou au possesseur lorsque survient l'une ou l'autre des situations suivantes:
+
+ 1° un délai de 90 jours s'est écoulé depuis la date de la saisie et aucune poursuite n'a été intentée;
+
+ 2° l'inspecteur est d'avis, après vérification au cours de ce délai, qu'il n'y a pas eu infraction à la présente loi ou aux règlements ou que le propriétaire ou le possesseur du bien saisi s'est conformé, depuis la saisie, aux dispositions de la loi ou des règlements.
+
+2003, c. 23, a. 35.
+
+36. Le propriétaire ou le possesseur du bien saisi peut, à tout moment, demander à un juge que ce bien ou le produit de sa vente lui soit remis.
+
+Cette demande doit être signifiée au saisissant ou, si une poursuite est intentée, au poursuivant.
+
+Le juge accueille cette demande s'il est convaincu que le demandeur subira un préjudice sérieux ou irréparable si la rétention du bien saisi ou du produit de sa vente se poursuit et que sa remise n'entravera pas le cours de la justice.
+
+2003, c. 23, a. 36.
+
+37. Malgré l'article 36, lorsque l'illégalité de la possession empêche la remise du bien saisi ou du produit de sa vente au saisi ou à une personne qui prétend y avoir droit, le juge en ordonne la confiscation sur demande du saisissant ou du poursuivant; si l'illégalité de la possession n'est pas établie, le juge désigne la personne à qui le bien ou le produit peut alors être remis.
+
+Un préavis de cette demande est signifié au saisi et à l'autre personne qui peut présenter la demande, sauf s'ils sont en présence du juge. Ce préavis peut, le cas échéant, être donné au constat d'infraction et indiquer que la demande de confiscation sera présentée lors du jugement.
+
+Le ministre prescrit la manière dont il est disposé du bien confisqué.
+
+2003, c. 23, a. 37.
+
+38. Sur demande du saisissant, un juge peut ordonner que la période de maintien sous saisie soit prolongée pour un maximum de 90 jours.
+
+Avant de statuer sur le fond de la demande, le juge peut ordonner qu'elle soit signifiée à la personne qu'il désigne.
+
+2003, c. 23, a. 38.
+
+39. Sur déclaration de culpabilité pour une infraction à la présente loi ou l'un de ses règlements, un juge peut, sur demande du poursuivant, lorsqu'il y a saisie effectuée en vertu de l'article 32, prononcer la confiscation des biens saisis.
+
+Toutefois, en pareil cas, s'il se trouve parmi les biens saisis des organismes aquatiques ou de leurs produits, la déclaration de culpabilité opère confiscation.
+
+Un préavis de la demande de confiscation doit être donné par le poursuivant au saisi et au défendeur, sauf s'ils sont en présence du juge.
+
+Le ministre prescrit la manière dont il est disposé du bien confisqué.
+
+2003, c. 23, a. 39.
+
+40. Tout bien saisi par un inspecteur et dont le propriétaire ou le possesseur légitime est inconnu ou introuvable, ou le produit de la vente d'un tel bien, est remis au ministre du Revenu ou au ministre des Finances, selon qu'il s'agit du bien même ou du produit de sa vente, 90 jours après le jour de la saisie; un état décrivant le bien ou le produit de la vente et indiquant, le cas échéant, les nom et dernière adresse connue de l'ayant droit doit, au moment de la remise, être transmis au ministre du Revenu.
+
+La Loi sur les biens non réclamés (chapitre B-5.1) s'applique au bien ou au produit de la vente ainsi remis au ministre du Revenu ou au ministre des Finances.
+
+2003, c. 23, a. 40; 2005, c. 44, a. 54; 2011, c. 10, a. 98.
+
+41. Sous réserve de l'article 34, nul ne peut, sans l'assentiment d'une personne autorisée, vendre ou offrir en vente un bien saisi ou confisqué ni enlever ou permettre d'enlever ce bien, son contenant, le bulletin de saisie ou de confiscation, ni enlever ou briser un scellé apposé par un inspecteur.
+
+2003, c. 23, a. 41.
+
+CHAPITRE VI
+-----------
+
+**POUVOIRS RÉGLEMENTAIRES**
+
+42. Le gouvernement peut, par règlement:
+
+ 1° déterminer des sous-catégories de permis ainsi que les droits, conditions, restrictions ou interdictions relatifs à chacune des sous-catégories et que doit respecter le titulaire de permis;
+
+ 2° déterminer les conditions de délivrance, de modification, de renouvellement ou de cession de permis ainsi que les droits et les frais d'administration afférents;
+
+ 3° déterminer les droits et les frais d'administration exigibles lors de la délivrance d'une autorisation;
+
+ 4° déterminer les livres, registres et autres documents que le titulaire de permis doit utiliser dans l'exercice de ses activités;
+
+ 5° prévoir des normes relativement à l'exploitation d'un site aquacole ou d'un étang de pêche concernant notamment:
+
+a)  la construction, l'aménagement et l'équipement d'un site aquacole ou d'un étang de pêche;
+
+b)  la culture, l'élevage et la garde en captivité d'organismes aquatiques ainsi que le transport, à l'état vivant, de ceux destinés à la consommation;
+
+c)  la qualité de l'exploitation et des organismes aquatiques qui sont cultivés, élevés ou gardés en captivité;
+
+ 6° déterminer les droits annuels que doit verser un titulaire de permis;
+
+ 7° déterminer les rapports, renseignements et documents que doit fournir annuellement un titulaire de permis;
+
+ 8° prévoir des normes de mise en valeur et de rendement pour les sites aquacoles dans le domaine de l'État;
+
+ 9° prescrire les règles relatives à l'inspection, au prélèvement, à la saisie ou à la confiscation;
+
+ 10° exempter de l'application de tout ou partie de la présente loi ou de ses règlements, aux conditions qu'il peut fixer, une catégorie de personnes, de produits, d'organismes aquatiques, d'établissements ou d'activités ou des endroits qu'il détermine;
+
+ 11° déterminer, parmi les dispositions d'un règlement pris en application de la présente loi, celles dont la violation constitue une infraction.
+
+2003, c. 23, a. 42.
+
+CHAPITRE VII
+------------
+
+**SANCTIONS ADMINISTRATIVES ET RECOURS DEVANT LE TRIBUNAL ADMINISTRATIF DU QUÉBEC**
+
+43. Le ministre peut suspendre, annuler ou refuser de renouveler le permis d'un titulaire qui:
+
+ 1° a été déclaré coupable d'une infraction à une disposition de la présente loi ou de ses règlements, à moins qu'il n'en ait obtenu le pardon;
+
+ 2° ne satisfait plus aux conditions requises pour obtenir son permis ou ne détient plus le certificat d'autorisation ou l'autorisation requis en vertu du paragraphe 2° de l'article 8;
+
+ 3° ne respecte pas une condition, une restriction ou une interdiction inscrite au permis;
+
+ 4° ne satisfait pas aux exigences prévues à l'article 14, 15, 16, 18 ou 19;
+
+ 5° qui, de façon répétitive, ne respecte pas une disposition de la présente loi ou d'un règlement édicté en vertu de celle-ci;
+
+ 6° a cessé ses opérations de façon définitive ou durant au moins 12 mois consécutifs.
+
+De plus, le ministre peut refuser d'autoriser un titulaire de permis à céder un permis à toute personne visée au paragraphe 1° du premier alinéa.
+
+En outre, le ministre peut suspendre, annuler ou refuser de renouveler le permis de celui qui refuse de prendre une mesure prescrite dans une ordonnance émise en vertu des dispositions de la section II du chapitre IV.1 de la Loi sur la conservation et la mise en valeur de la faune (chapitre C-61.1), de la section I de la Loi sur la protection sanitaire des animaux (chapitre P-42), du chapitre IV ou du chapitre V de la Loi sur la protection sanitaire des cultures (chapitre P-42.1) ou de la section IV du chapitre I de la Loi sur la qualité de l'environnement (chapitre Q-2).
+
+2003, c. 23, a. 43; 2008, c. 16, a. 46.
+
+44. Le ministre peut modifier, suspendre, annuler ou refuser de renouveler un permis d'aquaculture pour un site aquacole dans le domaine de l'État lorsque le titulaire du permis n'exploite pas son site selon les normes de mise en valeur et de rendement établies par règlement.
+
+2003, c. 23, a. 44.
+
+45. Le ministre peut révoquer l'autorisation de recherche et d'expérimentation dans le domaine hydrique de l'État d'un titulaire qui fait défaut de se conformer aux conditions, restrictions ou interdictions qui y sont inscrites.
+
+2003, c. 23, a. 45.
+
+46. Le ministre peut modifier, suspendre ou annuler un permis ou révoquer une autorisation pour des motifs d'intérêt public.
+
+2003, c. 23, a. 46.
+
+47. Le ministre doit, avant de prononcer la modification, la suspension, l'annulation ou le refus de délivrance, de modification, de renouvellement ou de cession d'un permis ou le refus de délivrance ou la révocation d'une autorisation, notifier par écrit au titulaire le préavis prescrit par l'article 5 de la Loi sur la justice administrative (chapitre J-3) et lui accorder un délai d'au moins 10 jours pour présenter ses observations. Il doit aussi notifier par écrit sa décision, en la motivant, à la personne dont il modifie, suspend, annule ou refuse de délivrer, modifier, renouveler ou céder le permis ou refuse de délivrer ou révoque l'autorisation.
+
+2003, c. 23, a. 47.
+
+48. Toute personne dont la demande de permis ou d'autorisation est refusée, dont le permis est modifié, suspendu, annulé ou n'est pas modifié, renouvelé ou cédé ou dont l'autorisation est révoquée peut contester la décision du ministre devant le Tribunal administratif du Québec dans les 30 jours de sa notification.
+
+2003, c. 23, a. 48.
+
+CHAPITRE VIII
+-------------
+
+**DISPOSITIONS PÉNALES**
+
+49. Quiconque contrevient à l'article 13 ou 14, au deuxième alinéa de l'article 16 ou à l'article 17 ou à une disposition d'un règlement dont la violation constitue une infraction en vertu du paragraphe 11° de l'article 42 commet une infraction et est passible d'une amende de 250 $ à 750 $ et, en cas de récidive, d'une amende de 750 $ à 2 500 $.
+
+Lorsqu'une personne est déclarée coupable d'une infraction visée à l'article 13 et que cette infraction présente un risque pour la santé ou la sécurité du public, l'environnement ou la faune, le montant de l'amende est de 2 000 $ à 6 000 $ et, en cas de récidive, de 6 000 $ à 18 000 $.
+
+2003, c. 23, a. 49.
+
+50. Quiconque contrevient au premier alinéa de l'article 7 ou à l'article 12, 15 ou 19 commet une infraction et est passible d'une amende de 500 $ à 1 500 $ et, en cas de récidive, d'une amende de 1 500 $ à 4 500 $.
+
+2003, c. 23, a. 50.
+
+51. Quiconque contrevient à l'article 4, 20, 22, 29, 33 ou 41 ou ne respecte pas une condition, restriction ou interdiction inscrite à son permis ou son autorisation commet une infraction et est passible d'une amende de 1 000 $ à 3 000 $ et, en cas de récidive, d'une amende de 3 000 $ à 9 000 $.
+
+De plus, quiconque exerce une activité visée à l'article 4 ou 22 tout en étant sous le coup d'une suspension ou d'une annulation de permis ou d'une révocation d'autorisation en vertu de l'un des articles 43 à 46 commet une infraction et est passible d'une amende de 2 000 $ à 6 000 $ et, en cas de récidive, d'une amende de 6 000 $ à 18 000 $.
+
+2003, c. 23, a. 51.
+
+52. Quiconque contrevient au premier alinéa de l'article 16 ou à l'article 18 ou 21 commet une infraction et est passible d'une amende de 2 000 $ à 6 000 $ et, en cas de récidive, d'une amende de 6 000 $ à 18 000 $.
+
+2003, c. 23, a. 52.
+
+53. Lorsqu'une personne morale, une société, une association ou un organisme commet une infraction à la présente loi ou à un de ses règlements, l'administrateur, le dirigeant, l'employé, l'associé ou le mandataire de la personne morale, société, association ou organisme qui a ordonné, autorisé ou conseillé la commission de l'infraction ou qui y a consenti est partie à l'infraction et est passible de la peine prévue pour cette infraction.
+
+2003, c. 23, a. 53.
+
+54. Celui qui sciemment, par action ou omission, aide une personne à commettre une infraction visée à l'un des articles 49 à 52 ou qui conseille à une personne de la commettre, l'y encourage ou l'y incite est lui-même partie à l'infraction et est passible de la peine prévue pour cette infraction.
+
+2003, c. 23, a. 54.
+
+55. Dans la poursuite d'une infraction prévue au présent chapitre, le rapport d'inspection, d'analyse ou d'échantillonnage et le procès-verbal de saisie ou de confiscation signés par un inspecteur font preuve de leur contenu, en l'absence de toute preuve contraire, sans qu'il soit nécessaire de prouver la signature ou la qualité du signataire, si cette personne atteste sur le rapport d'inspection, d'analyse ou d'échantillonnage qu'elle a elle-même constaté les faits qui y sont mentionnés.
+
+2003, c. 23, a. 55.
+
+CHAPITRE IX
+-----------
+
+**DISPOSITIONS MODIFICATIVES**
+
+56. (Modification intégrée au c. P-9.01, titre de la loi).
+
+2003, c. 23, a. 56.
+
+57. (Modification intégrée au c. P-9.01, intitulé du chapitre II).
+
+2003, c. 23, a. 57.
+
+58. (Omis).
+
+2003, c. 23, a. 58.
+
+59. (Modification intégrée au c. P-9.01, a. 13).
+
+2003, c. 23, a. 59.
+
+60. (Modification intégrée au c. P-9.01, a. 14).
+
+2003, c. 23, a. 60.
+
+61. (Omis).
+
+2003, c. 23, a. 61.
+
+62. (Modification intégrée au c. P-9.01, a. 19).
+
+2003, c. 23, a. 62.
+
+63. (Modification intégrée au c. P-9.01, a. 49).
+
+2003, c. 23, a. 63.
+
+64. (Modification intégrée au c. P-9.01, a. 51).
+
+2003, c. 23, a. 64.
+
+65. (Modification intégrée au c. P-9.01, a. 52).
+
+2003, c. 23, a. 65.
+
+66. (Modification intégrée au c. C-61.1, a. 1).
+
+2003, c. 23, a. 66.
+
+67. (Modification intégrée au c. C-61.1, a. 51).
+
+2003, c. 23, a. 67.
+
+68. (Modification intégrée au c. C-61.1, a. 73).
+
+2003, c. 23, a. 68.
+
+69. (Modification intégrée au c. C-61.1, a. 74).
+
+2003, c. 23, a. 69.
+
+70. (Modification intégrée au c. C-61.1, a. 84.2).
+
+2003, c. 23, a. 70.
+
+71. (Modification intégrée au c. F-1.3, a. 6.1).
+
+2003, c. 23, a. 71.
+
+72. (Modification intégrée au c. J-3, annexe IV).
+
+2003, c. 23, a. 72.
+
+73. (Modification intégrée au c. M-35.1, a. 44).
+
+2003, c. 23, a. 73.
+
+74. (Modification intégrée au c. P-28, a. 1).
+
+2003, c. 23, a. 74.
+
+75. (Modification intégrée au c. P-42, a. 2).
+
+2003, c. 23, a. 75.
+
+CHAPITRE X
+----------
+
+**DISPOSITIONS TRANSITOIRES**
+
+76. Dans le Règlement sur la signature de certains permis du ministère de l'Agriculture, des Pêcheries et de l'Alimentation (Décret 1541-95 du 29 novembre 1995), un renvoi à la Loi sur les pêcheries et l'aquaculture commerciales (chapitre P-9.01) devient un renvoi à la Loi sur l'aquaculture commerciale (chapitre A-20.2) et à la Loi sur les pêcheries commerciales et la récolte commerciale de végétaux aquatiques (chapitre P-9.01).
+
+2003, c. 23, a. 76.
+
+77. À moins que le contexte ne s'y oppose et compte tenu des adaptations nécessaires, dans toute loi et dans tout règlement, décret ou autre texte d'application:
+
+ 1° un renvoi à l'un des articles 1 à 11 de la Loi sur les pêcheries et l'aquaculture commerciales (chapitre P-9.01) devient un renvoi aux articles 1 à 11 de la Loi sur les pêcheries commerciales et la récolte commerciale de végétaux aquatiques (chapitre P-9.01);
+
+ 2° un renvoi à la Loi sur les pêcheries et l'aquaculture commerciales ou à l'une de ses dispositions, autre que celles visées au paragraphe 1°, devient un renvoi à la Loi sur l'aquaculture commerciale (chapitre A-20.2) ou à la disposition correspondante de cette loi.
+
+2003, c. 23, a. 77.
+
+78. Les permis d'établissement piscicole, d'étang de pêche ou de culture de végétaux aquatiques délivrés en vertu de la Loi sur les pêcheries et l'aquaculture commerciales (chapitre P-9.01) demeurent valides pour une année à compter du 1er septembre 2004.
+
+2003, c. 23, a. 78.
+
+79. Un règlement pris en vertu de la Loi sur les pêcheries et l'aquaculture commerciales (chapitre P-9.01) demeure en vigueur jusqu'à ce qu'il soit remplacé ou abrogé par un règlement pris en vertu de la Loi sur l'aquaculture commerciale (chapitre A-20.2) ou en vertu de la Loi sur les pêcheries commerciales et la récolte commerciale de végétaux aquatiques (chapitre P-9.01).
+
+2003, c. 23, a. 79.
+
+CHAPITRE XI
+-----------
+
+**DISPOSITIONS FINALES**
+
+80. Le ministre de l'Agriculture, des Pêcheries et de l'Alimentation est responsable de l'application de la présente loi.
+
+2003, c. 23, a. 80.
+
+81. (Omis).
+
+2003, c. 23, a. 81.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 23 des lois de 2003, tel qu'en vigueur le 1er mars 2005, à l'exception de l'article 81, est abrogé à compter de l'entrée en vigueur du chapitre A-20.2 des Lois refondues.

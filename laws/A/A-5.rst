@@ -1,0 +1,92 @@
+.. warning:: Remplacée le 1er octobre 1990
+
+.. _A-5:
+
+===============================
+A-5 Loi sur les actions pénales
+===============================
+
+.. sidebar:: État courant
+
+    :Statut: Remplacée
+    :Date: 01 oct 1990
+
+Le chapitre A-5 est remplacé par le Code de procédure pénale (chapitre C-25.1).  (1987, c. 96, a. 374; 1990, c. 4, a. 11).
+
+1. Une action, poursuite ou dénonciation en recouvrement d'une amende imposée par une loi qui décrète que l'amende est attribuée à la couronne seulement, ne peut être intentée ou faite que dans les deux années du jour où l'infraction a été commise contre les dispositions de cette loi.
+
+Une action, poursuite ou dénonciation en recouvrement d'une amende imposée par une loi, dont le bénéfice et la poursuite sont réservés par cette loi à la couronne et à toute autre personne qui peut en poursuivre le recouvrement, peut être intentée ou faite par cette autre personne dans le cours d'une année du jour où l'infraction a été commise, et non plus tard; et, à défaut de poursuite de la part de cette personne, elle peut être intentée pour la couronne, dans le cours des deux années qui suivent l'expiration de cette première année.
+
+S. R. 1964, c. 34, a. 1.
+
+2. Toute action, poursuite ou dénonciation intentée ou faite pour contravention à une loi après le temps prescrit à cet égard, est nulle; mais quand la contravention consiste en l'omission de remplir un devoir imposé par la loi, le temps pendant lequel subsiste ce devoir et continue l'omission de le remplir, ne compte pas.
+
+S. R. 1964, c. 34, a. 2.
+
+3. Les articles 1 et 2 s'appliquent uniquement aux cas pour lesquels la loi n'a rien prévu, et rien de contenu dans la présente loi ne doit avoir l'effet de prolonger ou étendre, en aucune manière, le délai pour intenter une action ou une poursuite ou pour faire une dénonciation en vertu de quelque loi qui fixe un temps plus court que celui prescrit par la présente loi.
+
+S. R. 1964, c. 34, a. 3.
+
+4. À moins que le tribunal ou le juge devant lequel une poursuite doit être portée, ou que la procédure qui doit être suivie ne soient indiqués par la loi décrétant une pénalité, la poursuite est portée, instruite devant, et jugée par un magistrat d'après les dispositions de la Loi sur les poursuites sommaires (chapitre P-15).
+
+S. R. 1964, c. 34, a. 4.
+
+5. Si la loi qui décrète une pénalité en autorise le recouvrement devant un tribunal de juridiction civile, mais sans attribuer à personne le droit d'intenter la poursuite, l'action peut être intentée par toute personne majeure, en son nom particulier.
+
+S. R. 1964, c. 34, a. 5.
+
+6. Le tribunal, le juge ou le magistrat, saisi d'une poursuite pour pénalité, peut, dans tous les cas, accorder les frais et dépens au poursuivant lorsque l'action est maintenue, ou au défendeur lorsqu'elle est renvoyée.
+
+S. R. 1964, c. 34, a. 6.
+
+7. Lorsqu'il n'a pas été prescrit d'autre mode pour faire prononcer une confiscation imposée par une loi, la procédure pour y parvenir, avec dépens, est la même que pour le recouvrement d'une dette ordinaire d'un égal montant, et elle est intentée devant le même tribunal, à la poursuite de la couronne, ou de toute partie privée poursuivant en son propre nom.
+
+S. R. 1964, c. 34, a. 7.
+
+8.  1. Lorsque, par la loi ou en vertu d'un règlement municipal, une personne est autorisée à poursuivre devant les cours civiles le recouvrement d'une amende ou d'une pénalité, elle peut les recouvrer en son propre nom, de la même manière que toute dette ordinaire d'un égal montant, lors même que l'amende doit entièrement ou partiellement revenir à la couronne ou à une corporation municipale.
+
+ 2. Aucune déposition sous serment n'est requise de la part du poursuivant ni d'aucune autre personne avant cette poursuite.
+
+S. R. 1964, c. 34, a. 8.
+
+9. Avis de toute action intentée devant une cour civile en recouvrement d'une amende ou pénalité revenant entièrement ou partiellement à la couronne ou à une corporation municipale, doit être signifié sans délai, par le poursuivant, au procureur général ou à la corporation municipale; et l'original de cet avis, accompagné d'un certificat de sa signification, doit être rapporté en cour avec l'action.  Aucune procédure ne peut être faite sur l'action avant tel rapport.
+
+S. R. 1964, c. 34, a. 9.
+
+10. La couronne ou la corporation municipale peut intervenir dans l'instance, en tout état de cause, pour y protéger ses intérêts et conduire la cause à jugement.
+
+S. R. 1964, c. 34, a. 10.
+
+11. Le défendeur ne peut en aucun cas s'acquitter valablement, soit avant, soit après jugement, qu'en déposant au greffe le montant de l'amende et des frais.  Le protonotaire ou le greffier distribue ensuite suivant la loi le montant ainsi déposé.
+
+S. R. 1964, c. 34, a. 11.
+
+12. S'il n'a pas été établi d'autres dispositions pour l'attribution d'une amende, moitié en appartient à la couronne, et moitié à la partie privée poursuivante; à défaut de partie privée, la totalité appartient à la couronne.
+
+S. R. 1964, c. 34, a. 12.
+
+13. S'il n'existe pas de dispositions contraires, les droits, amendes, sommes d'argent ou produits de confiscation, recouvrés par la couronne en vertu d'une loi, forment partie du fonds consolidé du revenu et il en est rendu compte en conséquence.
+
+S. R. 1964, c. 34, a. 13.
+
+14. Nulle disposition contenue dans une charte municipale, par laquelle des amendes sont déclarées appartenir à une corporation, n'est censée affecter le droit qu'aurait eu la couronne à la propriété de ces amendes ou de partie de ces amendes si cette disposition n'avait pas été passée.
+
+S. R. 1964, c. 34, a. 14.
+
+15. S'il n'est pas fixé d'autre lieu d'emprisonnement, lorsqu'une loi prescrit l'incarcération d'une personne, la détention a lieu dans l'établissement de détention du district où l'ordre d'emprisonnement a été donné, ou, s'il n'y a pas d'établissement de détention dans ce district, elle a lieu dans l'établissement de détention le plus rapproché.
+
+S. R. 1964, c. 34, a. 15; 1969, c. 21, a. 35.
+
+16. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 34 des Statuts refondus, 1964, tel qu'en vigueur au 31 décembre 1977, est abrogé à compter de l'entrée en vigueur du chapitre A-5 des Lois refondues.
+
+MISES À JOUR TOUCHANT CE CHAPITRE:
+
+1er JUILLET 1982
+
+1er SEPTEMBRE 1987

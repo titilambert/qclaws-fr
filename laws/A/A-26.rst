@@ -1,0 +1,814 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-26:
+
+===============================
+A-26 Loi sur l'assurance-dépôts
+===============================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+SECTION I
+~~~~~~~~~
+
+**OBJET, CHAMP D'APPLICATION ET DÉFINITIONS**
+
+1. La présente loi a pour objet de favoriser la stabilité du système financier au Québec en établissant un régime de protection des dépôts d'argent en cas d'insolvabilité réelle ou appréhendée d'une institution inscrite.
+
+1966-67, c. 73, a. 1; 1968, c. 71, a. 1; 1987, c. 95, a. 368; 1988, c. 64, a. 587; 1997, c. 43, a. 875; 1999, c. 40, a. 27; 2000, c. 29, a. 618; 2002, c. 45, a. 179; 2002, c. 70, a. 186; 2002, c. 45, a. 179; 2004, c. 37, a. 90; 2009, c. 58, a. 3.
+
+1.1. La présente loi s'applique à tous les dépôts d'argent effectués au Québec.
+
+Toutefois, la présente loi ne s'applique pas aux dépôts, y compris aux fonds, aux sommes et aux effets suivants:
+
+ 1° les dépôts payables à l'étranger ou en devises étrangères;
+
+ 2° les dépôts effectués auprès de banques non membres de la Société d'assurance-dépôts du Canada constituée en vertu de la Loi sur la Société d'assurance-dépôts du Canada (Lois révisées du Canada (1985), chapitre C-3);
+
+ 3° les dépôts dont le terme de remboursement est supérieur à celui prescrit par les règlements;
+
+ 4° les fonds obtenus lors d'une émission de valeurs mobilières conformément à la Loi sur les valeurs mobilières (chapitre V-1.1), à moins que les règlements en disposent autrement;
+
+ 5° les sommes payables en vertu d'un contrat d'assurance ou de rente souscrit par un assureur exerçant des activités au Québec, conformément à la Loi sur les assurances (chapitre A-32);
+
+ 6° un billet à échéance d'un an ou moins et qui, s'il fait l'objet d'un placement auprès d'une personne physique, constate une créance d'une somme de 50 000 $ ou plus;
+
+ 7° tout autre dépôt déterminé par règlement.
+
+2009, c. 58, a. 3.
+
+1.2. Dans la présente loi, à moins que le contexte n'indique un sens différent, les expressions suivantes signifient:
+
+«banque»: une banque figurant aux annexes I et II de la Loi sur les banques (Lois du Canada, 1991, chapitre 46);
+
+«institution»: une personne morale autre qu'une banque;
+
+«institution inscrite»: un assureur titulaire d'un permis conformément à la Loi sur les assurances (chapitre A-32), une coopérative de services financiers au sens de la Loi sur les coopératives de services financiers (chapitre C-67.3), une société de fiducie ou une société d'épargne titulaire d'un permis conformément à la Loi sur les sociétés de fiducie et les sociétés d'épargne (chapitre S-29.01) ou toute autre institution déterminée par règlement titulaire d'un permis délivré en vertu de la présente loi;
+
+«régime équivalent»: toute loi qui accorde aux déposants une protection similaire à celle que prévoit la présente loi.
+
+2009, c. 58, a. 3.
+
+SECTION II
+~~~~~~~~~~
+
+**DISPOSITIONS GÉNÉRALES**
+
+2. (Abrogé).
+
+1966-67, c. 73, a. 2; 1977, c. 5, a. 14; 2002, c. 45, a. 181.
+
+2.1. L'Autorité a pour fonctions de
+
+ a) régir, dans le cadre de la présente loi, la sollicitation et la réception de dépôts d'argent du public;
+
+ b) garantir le paiement des dépôts d'argent dans la mesure et de la manière prévues par la présente loi et les règlements;
+
+ c) gérer le fonds d'assurance-dépôts; et
+
+ d) administrer le régime de permis établi à la section IV.
+
+1983, c. 10, a. 1; 2002, c. 45, a. 182; 2004, c. 37, a. 90.
+
+3. (Abrogé).
+
+1966-67, c. 73, a. 3; 1996, c. 2, a. 77; 2000, c. 56, a. 224; 2002, c. 45, a. 183.
+
+4. (Abrogé).
+
+1966-67, c. 73, a. 4; 1999, c. 40, a. 27; 2002, c. 45, a. 183.
+
+5. (Abrogé).
+
+1966-67, c. 73, a. 5; 1999, c. 40, a. 27; 2002, c. 45, a. 183.
+
+6. (Abrogé).
+
+1966-67, c. 73, a. 6; 1983, c. 10, a. 2; 1983, c. 55, a. 161; 1997, c. 35, a. 9; 2002, c. 45, a. 183.
+
+6.1. (Abrogé).
+
+1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+6.2. (Abrogé).
+
+1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+6.3. (Abrogé).
+
+1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+7. (Abrogé).
+
+1966-67, c. 73, a. 7; 1983, c. 10, a. 2; 1997, c. 35, a. 10; 2002, c. 45, a. 183.
+
+7.1. (Abrogé).
+
+1983, c. 10, a. 2; 1999, c. 40, a. 27; 2002, c. 45, a. 183.
+
+8. (Abrogé).
+
+1966-67, c. 73, a. 8; 1983, c. 10, a. 2; 1997, c. 35, a. 11; 2002, c. 45, a. 183.
+
+8.1. (Abrogé).
+
+1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+8.2. (Abrogé).
+
+1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+8.3. (Abrogé).
+
+1983, c. 10, a. 2; 1997, c. 35, a. 12; 2002, c. 45, a. 183.
+
+9. (Abrogé).
+
+1966-67, c. 73, a. 9; 1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+10. (Abrogé).
+
+1966-67, c. 73, a. 10; 1983, c. 10, a. 2; 1997, c. 35, a. 13; 2002, c. 45, a. 183.
+
+10.1. (Abrogé).
+
+1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+10.2. (Abrogé).
+
+1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+11. (Abrogé).
+
+1966-67, c. 73, a. 11; 1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+11.1. (Abrogé).
+
+1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+12. (Abrogé).
+
+1966-67, c. 73, a. 12; 1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+13. (Abrogé).
+
+1966-67, c. 73, a. 13; 1978, c. 15, a. 133, a. 140; 1983, c. 10, a. 2; 2000, c. 8, a. 242; 2002, c. 45, a. 183.
+
+13.1. (Abrogé).
+
+1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+14. (Abrogé).
+
+1966-67, c. 73, a. 14; 1983, c. 10, a. 2; 2002, c. 45, a. 183.
+
+15. (Abrogé).
+
+1966-67, c. 73, a. 15; 2002, c. 45, a. 183.
+
+16. (Abrogé).
+
+1966-67, c. 73, a. 16; 1979, c. 37, a. 43; 2002, c. 45, a. 183.
+
+17. (Abrogé).
+
+1966-67, c. 73, a. 17; 1992, c. 61, a. 65; 2002, c. 45, a. 184; 2004, c. 37, a. 90; 2009, c. 58, a. 4.
+
+18. (Abrogé).
+
+1966-67, c. 73, a. 18; 1983, c. 10, a. 3; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2009, c. 58, a. 4.
+
+19. (Abrogé).
+
+1966-67, c. 73, a. 19; 2002, c. 45, a. 185.
+
+20. L'Autorité doit, au plus tard le 31 juillet de chaque année, produire au ministre un rapport de ses activités reliées à l'administration de la présente loi pour l'année financière précédente.
+
+Le rapport d'activités doit contenir tous les renseignements exigés par le ministre.
+
+Le ministre dépose le rapport d'activités de l'Autorité devant l'Assemblée nationale dans les 30 jours de sa réception ou, si elle ne siège pas, dans les 30 jours de la reprise de ses travaux.
+
+1966-67, c. 73, a. 20; 1966-1967, c. 72, a. 23; 1968, c. 9, a. 90; 1975, c. 76, a. 11; 1981, c. 9, a. 24; 1982, c. 52, a. 52; 1983, c. 10, a. 4; 2002, c. 45, a. 186; 2004, c. 37, a. 90.
+
+21. (Abrogé).
+
+1966-67, c. 73, a. 21; 1970, c. 17, a. 102; 2002, c. 45, a. 187.
+
+22. (Abrogé).
+
+1966-67, c. 73, a. 22; 1966-67, c. 72, a. 23; 1975, c. 76, a. 11; 1981, c. 9, a. 24; 1982, c. 52, a. 52; 2002, c. 45, a. 187.
+
+SECTION III
+~~~~~~~~~~~
+
+**DES DÉPÔTS D'ARGENT**
+
+23. Nul individu ne peut solliciter des dépôts d'argent du public.
+
+1966-67, c. 73, a. 23.
+
+24. Nonobstant toute disposition inconciliable d'une loi générale ou spéciale, nulle institution ne peut solliciter des dépôts d'argent du public ou en recevoir à moins qu'elle ne soit une institution inscrite.
+
+1966-67, c. 73, a. 24.
+
+25. (Abrogé).
+
+1966-67, c. 73, a. 25; 1968, c. 71, a. 2; 1987, c. 95, a. 369; 1988, c. 64, a. 551; 1999, c. 40, a. 27; 2009, c. 58, a. 4.
+
+26. (Abrogé).
+
+1966-67, c. 73, a. 26; 1968, c. 71, a. 3; 1974, c. 70, a. 473; 2002, c. 45, a. 188; 2004, c. 37, a. 90; 2009, c. 58, a. 4.
+
+SECTION IV
+~~~~~~~~~~
+
+**DES PERMIS**
+
+27.  1. Toute institution qui sollicite un permis doit transmettre sa demande à l'Autorité dans la forme prescrite, accompagnée des documents prévus par les règlements.
+
+ 2. L'Autorité délivre le permis si l'institution requérante remplit les conditions prescrites par les règlements.
+
+ 3. La décision doit être publiée au Bulletin de l'Autorité et à la Gazette officielle du Québec.
+
+1966-67, c. 73, a. 27; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2009, c. 58, a. 5.
+
+28. Un permis ne peut être délivré qu'à une coopérative de services financiers, un assureur, une société de fiducie, une société d'épargne ou une autre institution admissible en vertu des règlements.
+
+1966-67, c. 73, a. 28; 1987, c. 95, a. 370; 2009, c. 58, a. 6.
+
+29. Toute institution inscrite doit tenir les livres et comptes prescrits par les règlements.
+
+1966-67, c. 73, a. 29.
+
+30. Un permis demeure en vigueur à moins qu'il ne soit suspendu ou révoqué.
+
+1966-67, c. 73, a. 30; 1983, c. 10, a. 5.
+
+31. L'Autorité peut suspendre ou révoquer le permis d'une institution qui:
+
+ a) a commis une infraction ou qui, de l'avis de l'Autorité, contrevient à la présente loi, à une loi du Québec, d'une autre province ou du Parlement du Canada qui régit ses activités ou à un règlement ou une règle adopté en vertu de ces lois;
+
+ b) sous réserve des règlements, ne satisfait plus, de l'avis de l'Autorité, aux conditions requises pour obtenir un permis;
+
+ c) est insolvable ou, de l'avis de l'Autorité, est sur le point de le devenir;
+
+ d) ne suit pas, de l'avis de l'Autorité, des pratiques commerciales et financières saines;
+
+ e) est, de l'avis de l'Autorité, dans une situation financière insatisfaisante qui ne pourra être corrigée;
+
+ f) a fait défaut de rembourser à échéance un dépôt d'argent ou de payer à échéance les intérêts dus sur un dépôt;
+
+ g) ne reçoit plus de dépôts d'argent du public.
+
+1966-67, c. 73, a. 31; 1983, c. 10, a. 10; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+31.1. L'Autorité peut révoquer le permis d'une institution à la demande de celle-ci. De plus, elle peut révoquer le permis d'une institution qui a fusionné.
+
+1983, c. 10, a. 10; 1987, c. 95, a. 371; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+31.2. Avant de suspendre ou de révoquer un permis, l'Autorité doit donner l'occasion au titulaire de présenter ses observations, sauf s'il s'agit de révoquer un permis en vertu de l'article 31.1.
+
+1983, c. 10, a. 10; 1997, c. 43, a. 875; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+31.3. Le permis d'une institution est révoqué de plein droit dès que:
+
+ a) l'institution est dissoute;
+
+ a.1) l'institution n'est plus titulaire du permis d'assureur conformément à la Loi sur les assurances (chapitre A-32) ou du permis de société de fiducie ou de société d'épargne conformément à la Loi sur les sociétés de fiducie et les sociétés d'épargne (chapitre S-29.01) ou n'est plus une coopérative de services financiers au sens de la Loi sur les coopératives de services financiers (chapitre C-67.3);
+
+ a.2) l'institution ne reçoit plus de dépôts d'argent depuis plus de trois ans;
+
+ a.3) l'institution, de l'avis de l'Autorité, a un actif insuffisant qui met en péril le remboursement des dépôts d'argent garantis aux déposants;
+
+ b) une résolution décrétant la liquidation de l'institution a été adoptée ou approuvée par ses actionnaires ou membres, autre qu'une résolution demandant l'émission d'une ordonnance visée au paragraphe d;
+
+ c) l'institution est sous le coup d'une ordonnance de liquidation pour une raison autre que la faillite ou l'insolvabilité;
+
+ d) l'institution est sous le coup d'une ordonnance de mise en liquidation en vertu de la Loi sur les liquidations (Lois révisées du Canada (1985), chapitre W-11); ou 
+
+ e) (paragraphe abrogé).
+
+1983, c. 10, a. 10; 2009, c. 58, a. 7.
+
+31.4. Pour les fins de l'application de l'article 31.3, une société de fiducie ou une société d'épargne qui est dans une situation prévue à l'article 250 de la Loi sur les sociétés de fiducie et les sociétés d'épargne (chapitre S-29.01) est réputée sous le coup d'une ordonnance visée au paragraphe c de l'article 31.3.
+
+1983, c. 10, a. 10; 1987, c. 95, a. 372; 1999, c. 40, a. 27; 2002, c. 45, a. 189; 2004, c. 37, a. 90; 2009, c. 58, a. 8.
+
+32. Une institution dont le permis a été suspendu ou révoqué ou dont la police visée à l'article 34 a été suspendue, annulée ou résiliée, selon le cas, doit révéler ce fait à ses déposants et éliminer tout signe, marque, annonce ou autre moyen publicitaire employé afin de faire connaître que les dépôts qui lui sont confiés sont garantis aux termes de la présente loi.
+
+1966-67, c. 73, a. 32; 1983, c. 10, a. 11.
+
+32.1. L'Autorité publie un avis de la suspension ou de la révocation du permis d'une institution inscrite au Bulletin de l'Autorité et à la Gazette officielle du Québec.
+
+1983, c. 10, a. 11; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2009, c. 58, a. 9.
+
+SECTION V
+~~~~~~~~~
+
+**DE LA GARANTIE DE DÉPÔTS D'ARGENT**
+
+33. (Abrogé).
+
+1966-67, c. 73, a. 33; 1968, c. 71, a. 4; 1983, c. 10, a. 12; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2007, c. 15, a. 16.
+
+33.1. L'Autorité garantit à toute personne qui fait un dépôt d'argent à une institution inscrite ou à une banque le paiement, à leur échéance respective, du capital et des intérêts de ce dépôt, jusqu'à concurrence d'une somme de 100 000 $.
+
+Cette garantie ne s'applique pas aux dépôts d'argent qui sont faits à l'extérieur du Québec, ni à ceux qui sont payables uniquement à l'extérieur du Québec. Elle ne s'applique pas non plus aux dépôts d'argent qui sont faits ou payables en une autre monnaie que la monnaie canadienne.
+
+Le ministre peut déterminer, pour une période n'excédant pas deux ans, que la somme maximale de la garantie prévue au premier alinéa sera supérieure à 100 000 $.
+
+Il peut également déterminer, pour cette même période, que les dépôts seront garantis à 100%.
+
+La somme de la garantie ainsi déterminée par le ministre se substitue à la somme de 100 000 $ mentionnée aux articles 34, 34.4, 38.1, 39 et 57.
+
+1983, c. 10, a. 13; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2007, c. 15, a. 17; 2009, c. 27, a. 9; 2009, c. 58, a. 10.
+
+33.2. (Abrogé).
+
+1983, c. 10, a. 13; 2007, c. 15, a. 18.
+
+34. L'Autorité peut, moyennant une prime et aux autres conditions stipulées dans une police qu'elle délivre, garantir le paiement du capital et des intérêts, à leur échéance respective, jusqu'à concurrence d'une somme de 100 000 $, de tout dépôt d'argent fait à l'extérieur du Québec à une institution inscrite qui est constituée en vertu d'une loi du Québec, ou à une banque, si celle-ci est autorisée à cette fin par le gouverneur-général en conseil.
+
+Toutefois, la suspension du permis d'une institution emporte la suspension de toute police qui lui est délivrée en vertu de l'alinéa précédent et sa révocation emporte la résiliation de la police.
+
+1966-67, c. 73, a. 34; 1966-67, c. 74, a. 1; 1983, c. 10, a. 14; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2007, c. 15, a. 19.
+
+34.1. L'Autorité exécute son obligation de garantie lorsque l'institution est dans l'impossibilité d'effectuer à échéance un paiement visé par la garantie dans les cas suivants:
+
+ a) lorsque l'institution ne peut effectuer ce paiement en raison d'une ordonnance d'une cour;
+
+ b) lorsque l'institution est dissoute;
+
+ c) lorsque l'institution est en liquidation suite à l'adoption ou l'approbation par ses actionnaires ou membres d'une résolution décrétant sa liquidation, autre qu'une résolution demandant l'émission d'une ordonnance visée au paragraphe e;
+
+ d) lorsque l'institution est sous le coup d'une ordonnance de liquidation pour une raison autre que la faillite ou l'insolvabilité; ou
+
+ e) lorsque l'institution est sous le coup d'une ordonnance de mise en liquidation en vertu de la Loi sur les liquidations (Lois révisées du Canada (1985), chapitre W-11);
+
+ f) (paragraphe abrogé).
+
+Aux fins du premier alinéa, le mot «institution» inclut une banque.
+
+Dans le cas d'une coopérative de services financiers membre, au sens de la Loi sur les coopératives de services financiers (chapitre C-67.3), d'un fonds de sécurité, l'obligation de garantie de l'Autorité n'est exécutoire que lorsque le fonds est épuisé.
+
+1983, c. 10, a. 15; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2009, c. 58, a. 11.
+
+34.2. Pour les fins de l'application de l'article 34.1, une société de fiducie ou une société d'épargne qui est dans une situation prévue à l'article 250 de la Loi sur les sociétés de fiducie et les sociétés d'épargne (chapitre S-29.01) est réputée sous le coup d'une ordonnance visée au paragraphe d du premier alinéa de l'article 34.1.
+
+1983, c. 10, a. 15; 1987, c. 95, a. 373; 1999, c. 40, a. 27; 2002, c. 45, a. 190; 2004, c. 37, a. 90; 2009, c. 58, a. 12.
+
+34.3. L'Autorité effectue dans un délai raisonnable les paiements en exécution de son obligation de garantie.
+
+Elle peut exécuter son obligation de garantie en mettant à la disposition du déposant un dépôt à une institution inscrite ou à une banque.
+
+1983, c. 10, a. 15; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+34.4. L'Autorité peut, avec l'autorisation du ministre, lorsque l'institution est en processus de liquidation au sens des paragraphes d et e du premier alinéa de l'article 34.1, octroyer à un déposant des intérêts calculés sur son dépôt d'argent à un taux déterminé par règlement pour la période commençant à la date de la liquidation et se terminant à la date du paiement complet du dépôt d'argent. Le total des sommes payées par l'Autorité ne peut excéder 100 000 $.
+
+2009, c. 58, a. 13.
+
+35. L'Autorité qui paie un dépôt d'argent aux lieu et place de l'institution inscrite est subrogée de plein droit dans tous les droits du déposant contre cette institution jusqu'à concurrence de la somme ainsi payée.
+
+La créance de l'Autorité contre l'institution inscrite porte intérêt, à compter du paiement au déposant, à un taux égal à celui déterminé en vertu de l'article 28 de la Loi sur l'administration fiscale (chapitre A-6.002).
+
+Lorsque le déposant n'a reçu de l'Autorité qu'une partie de sa créance, il n'a pas, à l'égard de l'Autorité, la préférence prévue à l'article 1658 du Code civil.
+
+1966-67, c. 73, a. 35; 1983, c. 10, a. 16; 1999, c. 40, a. 27; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2009, c. 58, a. 14; 2010, c. 31, a. 175.
+
+35.1. Lorsque l'Autorité effectue le remboursement d'une partie d'un dépôt garanti, elle prend rang également avec le déposant à l'égard de ce remboursement et des intérêts courus et payables prévus à l'article 34.4.
+
+2009, c. 58, a. 15.
+
+36. Les dépôts d'argent dus par une institution à la date de la délivrance d'un permis ou d'une police visée à l'article 34 sont réputés avoir été faits à une institution inscrite.
+
+Il en est de même des dépôts d'argent faits à une institution après la date de la délivrance d'un permis ou d'une police visée à l'article 34 mais avant le 1er juillet 1970.
+
+1966-67, c. 73, a. 36; 1968, c. 71, a. 5.
+
+37. Les dépôts d'argent dus par une institution à la date de la suspension ou de la révocation de son permis ou de la suspension, de la résiliation ou de l'expiration d'une police délivrée conformément à l'article 34 continuent d'être garantis en vertu de la présente loi, ou, le cas échéant, d'une telle police.
+
+Ces dépôts continuent d'être ainsi garantis pour une période de deux ans ou, dans le cas de dépôts à terme échéant à plus de deux ans, jusqu'à leur date d'échéance.
+
+Les institutions dans lesquelles ces dépôts continuent d'être ainsi garantis demeurent assujetties, relativement à ces dépôts et jusqu'à la date à laquelle ils continuent d'être ainsi garantis, aux dispositions applicables de la présente loi, des règlements ou, le cas échéant, de la police, sauf dans la mesure prévue par les règlements.
+
+1968, c. 71, a. 6; 1983, c. 10, a. 17.
+
+38. Lorsqu'une personne fait plusieurs dépôts d'argent à une même institution ou à une même banque, ces dépôts sont réputés, pour les fins de la présente loi, n'en former qu'un seul.  Toutefois, ces dépôts peuvent être considérés distincts selon ce qui est prévu par les règlements.
+
+1966-67, c. 73, a. 37; 1968, c. 71, a. 7; 1983, c. 10, a. 19.
+
+38.1. Lorsque deux ou plusieurs institutions ont fusionné et qu'une personne avait fait des dépôts dans plus d'une d'entre elles, un dépôt dû à cette personne, immédiatement avant la fusion, par une de ces institutions, doit être réputé distinct de tout dépôt dû à cette personne, immédiatement avant la fusion, par une autre de ces institutions ainsi que de tout dépôt fait par cette personne à l'institution née de la fusion après la date de la fusion.
+
+Toutefois, un dépôt fait par cette personne à l'institution née de la fusion après la date de la fusion n'est garanti que dans la mesure où l'ensemble des dépôts de cette personne à cette institution, à l'exception de ce dépôt, est inférieur à 100 000 $.
+
+Cet article s'applique également dans le cas de la fusion de deux ou plusieurs banques.
+
+1983, c. 10, a. 19; 1999, c. 40, a. 27; 2007, c. 15, a. 19.
+
+38.2. L'article 38.1 s'applique, compte tenu des adaptations nécessaires, au cas de l'acquisition, par une institution inscrite ou par une banque, de l'actif, accompagnée de la prise en charge du passif, d'une institution inscrite ou d'une banque ou d'une institution dont le permis vient d'être suspendu ou révoqué.
+
+Pour l'application de l'article 38.1, les institutions ou les banques visées au premier alinéa sont réputées des institutions qui ont fusionné et les dépôts faits après la date de l'acquisition sont réputés faits à l'institution née de la fusion.
+
+1983, c. 10, a. 19; 1999, c. 40, a. 27.
+
+39. Lorsque plusieurs dépôts sont réputés n'en former qu'un seul en vertu de l'article 38 et qu'ils sont garantis en partie par l'application de l'article 33.1 et en partie par une police visée à l'article 34, la garantie totale applicable à ces dépôts ne peut excéder la somme de 100 000 $ en capital et intérêts.
+
+1968, c. 71, a. 8; 1983, c. 10, a. 20; 2007, c. 15, a. 19.
+
+SECTION VI
+~~~~~~~~~~
+
+**DES POUVOIRS SPÉCIAUX DE L'AUTORITÉ**
+
+40. L'Autorité peut notamment, aux conditions qu'elle détermine, dans le but de réduire un risque qu'elle court ou d'éviter ou de réduire une perte qui la menace:
+
+ a) consentir des avances d'argent, avec ou sans garantie, à une institution inscrite ou à une institution dont le permis est suspendu ou a été révoqué ou garantir le paiement des dettes d'une telle institution;
+
+ b) acquérir l'actif d'une institution inscrite ou d'une institution dont le permis est suspendu ou a été révoqué;
+
+ c) faire un dépôt ou garantir un dépôt fait à une institution inscrite;
+
+ d) garantir une institution inscrite contre les pertes qu'elle pourrait subir par suite d'une fusion avec une institution inscrite ou avec une institution dont le permis est suspendu ou a été révoqué, ou par suite de l'acquisition de l'actif accompagnée de la prise en charge du passif d'une telle institution;
+
+ e) conclure, avec l'autorisation du ministre, avec tout organisme qui de l'avis de l'Autorité administre un régime équivalent, tout accord concernant une institution dont les dépôts sont garantis ou assurés en partie par l'Autorité et en partie par cet organisme;
+
+ f) obtenir l'autorisation du ministre afin:
+
+ i. de constituer une personne morale ou une société en vertu d'une loi du Québec afin qu'elle procède à la liquidation des actifs acquis d'une institution inscrite;
+
+ ii. d'acquérir tout titre émis par une institution inscrite;
+
+ g) requérir une ordonnance de la Cour supérieure afin de forcer la vente ou la fusion d'une institution inscrite dont le permis est suspendu ou a été annulé.
+
+De plus, l'Autorité peut agir comme liquidateur d'une institution dont le permis a été révoqué ou agir comme séquestre d'une institution inscrite ou d'une institution dont le permis vient d'être suspendu ou révoqué.
+
+Une coopérative de services financiers peut recevoir un dépôt visé au paragraphe c du premier alinéa.
+
+1966-67, c. 73, a. 38; 1983, c. 10, a. 21; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2009, c. 58, a. 16.
+
+40.0.1. L'Autorité peut, après consultation du ministre, donner, aux institutions inscrites, des lignes directrices portant sur la publicité et sur les renseignements concernant la garantie assortie aux produits de dépôt d'argent.
+
+Elle consulte également la fédération dont elles sont membres lorsque les institutions inscrites sont des coopératives de services financiers.
+
+Les lignes directrices ne sont pas des règlements. Elles peuvent porter sur l'exécution, l'interprétation ou l'application d'une matière prévue au premier alinéa, que cette matière soit ou non visée par une disposition d'un règlement pris en vertu de la présente loi.
+
+2009, c. 58, a. 17.
+
+40.0.2. L'institution inscrite qui ne se conforme pas aux lignes directrices est présumée ne pas suivre des pratiques commerciales saines.
+
+2009, c. 58, a. 17.
+
+40.0.3. L'Autorité peut, lorsqu'elle l'estime opportun, donner des instructions écrites à une institution inscrite concernant les matières mentionnées au premier alinéa de l'article 40.0.1.
+
+Avant d'exercer son pouvoir, l'Autorité doit aviser l'institution inscrite de son intention et lui donner l'occasion de présenter ses observations.
+
+2009, c. 58, a. 17.
+
+40.0.4. L'Autorité peut ordonner à une institution inscrite de cesser une conduite ou de prendre les mesures qu'elle indique lorsqu'elle estime que l'institution inscrite ne suit pas de saines pratiques commerciales, notamment concernant l'un des objets visés au premier alinéa de l'article 40.0.1.
+
+2009, c. 58, a. 17.
+
+40.0.5. L'Autorité peut également ordonner à une institution inscrite de cesser une conduite ou de prendre les mesures qu'elle indique, lorsqu'elle estime que l'institution inscrite ne se conforme pas à l'une des dispositions de la présente loi, d'un règlement ou d'une instruction écrite.
+
+Avant de rendre une ordonnance, l'Autorité, en application de l'article 5 de la Loi sur la justice administrative (chapitre J-3), notifie au contrevenant un préavis d'au moins 15 jours mentionnant les motifs qui paraissent justifier l'ordonnance, la date projetée pour sa prise d'effet et la possibilité pour le contrevenant de présenter ses observations.
+
+2009, c. 58, a. 17.
+
+40.0.6. L'ordonnance de l'Autorité doit énoncer les motifs qui la sous-tendent et est transmise à chacune des personnes visées par cette ordonnance. Elle est également transmise à chacun des administrateurs de l'institution inscrite concernée. Elle prend effet à la date de sa signification ou à toute autre date ultérieure qui y est indiquée.
+
+2009, c. 58, a. 17.
+
+40.0.7. Toutefois, l'Autorité peut, sans préavis, rendre une ordonnance provisoire valable pour une période d'au plus 15 jours, lorsqu'elle estime que tout délai accordé pour permettre à l'institution inscrite concernée de présenter ses observations peut porter préjudice.
+
+Cette ordonnance doit être motivée et prend effet à la date de sa signification à la personne qui y est visée. Celle-ci peut, dans les six jours de sa réception, présenter ses observations à l'Autorité.
+
+2009, c. 58, a. 17.
+
+40.0.8. L'Autorité peut révoquer l'ordonnance rendue en vertu de la présente loi.
+
+2009, c. 58, a. 17.
+
+40.0.9. L'Autorité peut, par requête, demander à un juge de la Cour supérieure de prononcer une injonction dans toute matière se rapportant à la présente loi ou à un règlement pris pour son application.
+
+La requête en injonction constitue une instance par elle-même.
+
+La procédure prévue au Code de procédure civile (chapitre C-25) s'applique, sauf que l'Autorité ne peut être tenue de fournir un cautionnement.
+
+2009, c. 58, a. 17.
+
+SECTION VI.1
+~~~~~~~~~~~~
+
+**DE LA PRIME**
+
+40.1. Dans la présente section, on entend par «exercice comptable de prime» la période qui s'étend du 1er mai de chaque année au 30 avril de l'année suivante.
+
+1981, c. 30, a. 1; 1983, c. 10, a. 22.
+
+40.2. Aux fins de la garantie prévue à l'article 33.1 et pour chaque exercice comptable de prime, l'Autorité fixe et recouvre de chaque institution inscrite une prime que celle-ci doit payer.
+
+1981, c. 30, a. 1; 1983, c. 10, a. 24; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+40.2.1. Aux fins d'établir la prime exigible, une institution inscrite doit compléter le formulaire de déclaration de dépôts garantis prescrit par l'Autorité en procédant au calcul des dépôts d'argent réels qu'elle détient.
+
+non en vigueurMéthode de calcul.
+Malgré le premier alinéa, une institution inscrite peut produire le formulaire de déclaration de dépôts garantis en procédant à une évaluation des dépôts d'argent selon la méthode de calcul déterminée par règlement de l'Autorité.
+
+
+2009, c. 58, a. 18.
+
+40.3. Le montant de la prime est égal au plus élevé des montants suivants:
+
+ a) un pourcentage, déterminé par les règlements, d'un montant égal au total de la partie de chaque dépôt qui est garantie par l'Autorité en vertu de l'article 33.1 et qui est en dépôt à l'institution inscrite le 30 avril précédant l'exercice comptable de prime; ou
+
+ b) un montant déterminé par les règlements.
+
+1981, c. 30, a. 1; 1983, c. 10, a. 25; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+40.3.1. La prime d'une coopérative de services financiers est réduite de moitié lorsqu'elle est membre, au sens de la Loi sur les coopératives de services financiers (chapitre C-67.3), d'un fonds de sécurité dont la mission est d'éviter ou de réduire les déboursés de l'Autorité en regard de la présente loi.
+
+À la demande de l'Autorité, le gouvernement peut fixer une réduction différente.
+
+1982, c. 52, a. 53; 1999, c. 40, a. 27; 2000, c. 29, a. 619; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2009, c. 58, a. 19.
+
+40.3.2. (Abrogé).
+
+1982, c. 52, a. 53; 1999, c. 40, a. 27; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2009, c. 58, a. 20.
+
+40.3.3. (Abrogé).
+
+1982, c. 52, a. 53; 1999, c. 40, a. 27; 2000, c. 29, a. 620; 2009, c. 58, a. 20.
+
+40.3.4. La réduction ne peut avoir pour effet de réduire la prime payable à un montant inférieur au montant déterminé en vertu du paragraphe b de l'article 40.3.
+
+1982, c. 52, a. 53.
+
+40.4. L'Autorité peut, avec l'autorisation du gouvernement, ne pas fixer ni recouvrer de prime dans le cas d'une institution inscrite dont les dépôts d'argent reçus ou payables par elle au Québec sont garantis ou assurés par un régime qui, de l'avis de l'Autorité, équivaut au régime établi par la présente loi.
+
+1981, c. 30, a. 1; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+SECTION VII
+~~~~~~~~~~~
+
+**DES RAPPORTS ET DE L'INSPECTION**
+
+41. Toute institution inscrite doit, aux époques fixées par les règlements, fournir à l'Autorité un rapport détaillé de ses opérations contenant les renseignements prescrits par les règlements; ce rapport doit être accompagné d'états financiers faits en la forme prescrite par règlement et revêtus du certificat du vérificateur de l'institution.
+
+1966-67, c. 73, a. 39; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+41.1. Toute institution inscrite doit également produire, à toute époque que l'Autorité détermine, tout état ou rapport que celle-ci détermine.
+
+1983, c. 10, a. 27; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+41.2. L'Autorité peut requérir tout renseignement ou toute précision supplémentaire qu'elle détermine à l'égard du rapport visé dans l'article 41 ou des documents qui l'accompagnent ou de l'état ou rapport visé dans l'article 41.1. L'institution doit les fournir à l'Autorité dans le délai que celle-ci détermine.
+
+1983, c. 10, a. 27; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+41.3. L'Autorité peut vérifier ou faire vérifier tout livre, registre, compte, contrat, dossier ou autre document d'une institution inscrite lorsque, de l'avis de l'Autorité, l'exécution de l'obligation de garantie de cette dernière semble inévitable. Elle doit aviser le ministre de cette vérification.
+
+Les frais encourus pour la vérification sont déterminés par l'Autorité et sont à la charge de l'institution inscrite.
+
+2009, c. 58, a. 21.
+
+42. L'Autorité doit, au moins une fois l'an, procéder ou faire procéder, aux conditions qu'elle détermine, à l'inspection des affaires de toute institution inscrite.
+
+Cependant, l'inspection des affaires d'une institution fait par l'Autorité en vertu de toute autre loi applicable à l'institution tient lieu de l'inspection des affaires de cette institution.
+
+Les frais encourus pour l'inspection des affaires des institutions sont déterminés par l'Autorité et sont à la charge des institutions suivant ce que l'Autorité détermine par règlement.
+
+Lorsque l'inspection des affaires d'une institution est fait par l'Autorité en vertu de la présente loi ainsi qu'en vertu d'une autre loi applicable à l'institution, l'Autorité tient compte de ce fait pour la détermination des frais encourus pour l'inspection des affaires de cette institution.
+
+1966-67, c. 73, a. 40; 1983, c. 10, a. 28; 1988, c. 64, a. 552; 2000, c. 29, a. 722; 2002, c. 45, a. 192; 2004, c. 37, a. 90; 2009, c. 58, a. 22.
+
+SECTION VIII
+~~~~~~~~~~~~
+
+**DES RÈGLEMENTS**
+
+43. En outre des pouvoirs de réglementation qui lui sont conférés par la présente loi, l'Autorité peut faire des règlements pour:
+
+ a) déterminer les conditions que doit remplir et les renseignements et documents que doit fournir toute institution qui sollicite un permis ou une police visée à l'article 34 ainsi que les conditions requises pour la délivrance du permis ou de la police;
+
+ a.1) déterminer, parmi les conditions requises pour la délivrance d'un permis, celles relatives au contrôle d'une institution par des non-résidents et les personnes qui leur sont liées et prévoir un délai dans lequel une institution inscrite qui ne satisfait pas à ces conditions à la date de leur entrée en vigueur doit y satisfaire;
+
+ a.2) définir, aux fins de l'application du paragraphe a.1, les expressions «contrôle d'une institution par des non-résidents», «non-résidents» et «personnes liées»;
+
+ b) déterminer les classes d'institutions auxquelles, outre les coopératives de services financiers ainsi que les sociétés de fiducie et les sociétés d'épargne, un permis peut être délivré;
+
+ c) déterminer des catégories de permis et des classes de titulaires de permis de même que les conditions et restrictions afférentes à chaque catégorie et à chaque classe;
+
+ c.1) établir un tarif des droits exigibles pour la délivrance des permis;
+
+ d) déterminer la forme et la teneur des demandes de permis et de police ainsi que celles des permis et des polices;
+
+ e) déterminer la durée des polices, les conditions auxquelles il peut y être mis fin et les autres stipulations qu'elles doivent contenir;
+
+ e.0.1) déterminer, aux fins de l'application du deuxième alinéa de l'article 40.2.1, une méthode de calcul pour évaluer les dépôts d'argent;
+
+ e.1) déterminer aux fins de l'application de la section VI.1, le pourcentage et le montant visés dans l'article 40.3, les modalités du paiement de la prime, le taux d'intérêt exigible lorsqu'une prime est en souffrance et, dans le cas d'une institution qui devient inscrite en cours d'exercice, les modalités du calcul de la prime qu'elle doit payer ainsi que la base de ce calcul;
+
+ e.2) (paragraphe abrogé);
+
+ e.3) (paragraphe abrogé);
+
+ f) déterminer les taux de prime pour la garantie visée à l'article 34, les modalités de paiement de la prime et le taux de l'intérêt exigible lorsqu'une prime est en souffrance;
+
+ g) déterminer, pour chaque classe d'institutions inscrites, sauf les sociétés de fiducie et les sociétés d'épargne, les livres et comptes qu'elles doivent tenir;
+
+ h) déterminer, pour chaque classe d'institutions inscrites sauf les coopératives de services financiers ainsi que les sociétés de fiducie et les sociétés d'épargne, les règles et normes relatives à la composition et la liquidité de leur actif, y compris les catégories de placements permis et les normes quantitatives et qualitatives applicables à chaque catégorie;
+
+ h.1) déterminer le taux d'intérêt applicable pour l'octroi à un déposant d'un intérêt calculé sur son dépôt d'argent pour l'application de l'article 34.4;
+
+ i) déterminer les seuls signes, marques, annonces ou autres moyens publicitaires qu'une institution inscrite peut employer afin de faire connaître que les dépôts d'argent qui y sont faits sont garantis en vertu de la présente loi;
+
+ i.1) déterminer les cas dans lesquels un document attestant qu'une institution inscrite a reçu des fonds d'une personne doit contenir une mention, en la forme et la teneur que l'Autorité détermine, à l'effet qu'il ne s'agit pas d'un dépôt au sens de la présente loi et des règlements;
+
+ j) définir, sous réserve des dispositions de la présente loi, l'expression «dépôt d'argent»;
+
+ k) déterminer l'époque, la forme et la teneur des renseignements que doit fournir un fonds de sécurité pour l'application du deuxième alinéa de l'article 40.3.1;
+
+ l) prescrire, pour chaque classe d'institutions inscrites, l'étendue de la vérification que doivent faire leurs vérificateurs pour les fins des rapports ou états qu'elles doivent fournir à l'Autorité de même que la forme de leur certificat;
+
+ l.1) déterminer les frais exigibles pour la vérification visée à l'article 41.3;
+
+ m) déterminer la forme des rapports d'inspection faits pour l'Autorité et les renseignements qu'ils doivent contenir;
+
+ m.1) déterminer le mode de répartition, entre les institutions ou classes d'institutions inscrites, des frais encourus pour l'inspection des affaires des institutions inscrites et la proportion, les conditions et les dates suivant lesquelles ces frais sont perçus;
+
+ m.2) déterminer quelles sont les conditions requises pour obtenir un permis qui, si elles ne sont pas maintenues, donnent ouverture à la suspension ou la révocation d'un permis en vertu du paragraphe b de l'article 31;
+
+ n) déterminer la procédure qui doit être suivie et les avis qui doivent être donnés avant que l'Autorité ne suspende ou révoque le permis d'une institution inscrite;
+
+ n.1) déterminer, en outre de ce qui est prévu à l'article 37, les cas ou circonstances dans lesquels les dépôts continuent d'être garantis, et fixer le terme et les conditions de la continuation;
+
+ n.2) prolonger, dans les cas ou circonstances et suivant les conditions qu'elle détermine, la période de garantie prévue au deuxième alinéa de l'article 37;
+
+ o) déterminer les dispositions de la présente loi, des règlements ou d'une police délivrée conformément à l'article 34 qui cessent de s'appliquer à une institution relativement aux dépôts qui continuent d'être garantis en vertu de l'article 37;
+
+ p) prescrire les cas dans lesquels un dépôt fait par une personne dans une institution ou dans une banque peut être considéré, pour les fins de la présente loi, distinct de tout autre dépôt fait par la même personne dans la même institution ou dans la même banque;
+
+ q) déterminer les renseignements, les documents et les preuves à fournir par un déposant qui requiert un paiement en exécution de la garantie prévue à la présente loi;
+
+ r) déterminer la forme et la teneur des réclamations ainsi que les cas dans lesquels un déposant qui requiert un paiement en exécution de la garantie prévue à la présente loi n'a pas à produire une formule de réclamation à l'Autorité;
+
+ s) prescrire les conditions relatives au remplacement de permis endommagés, perdus, volés ou détruits et déterminer les frais payables pour le remplacement;
+
+ t) prescrire toute formule qu'elle juge appropriée pour l'application de la présente loi;
+
+ u) prescrire toute autre mesure qu'elle juge appropriée pour l'application de la présente loi.
+
+1966-67, c. 73, a. 41; 1968, c. 71, a. 9; 1974, c. 72, a. 3; 1981, c. 30, a. 2; 1982, c. 52, a. 54; 1983, c. 10, a. 29; 1984, c. 47, a. 14; 1987, c. 95, a. 374; 1997, c. 43, a. 875; 1999, c. 40, a. 27; 2000, c. 29, a. 621; 2002, c. 45, a. 193; 2004, c. 37, a. 90; 2009, c. 58, a. 23.
+
+44. (Abrogé).
+
+1974, c. 72, a. 4; 1988, c. 64, a. 553.
+
+45. Un règlement pris par l'Autorité en application de la présente loi est soumis à l'approbation du ministre, qui peut l'approuver avec ou sans modification.
+
+Toutefois, un règlement pris par l'Autorité en application des paragraphes c.1, l.1, m.1 et s de l'article 43 est soumis à l'approbation du gouvernement, qui peut l'approuver avec ou sans modification.
+
+Un projet de règlement visé au premier alinéa ne peut être soumis pour approbation ou être édicté avant l'expiration d'un délai de 30 jours à compter de sa publication. Il entre en vigueur à la date de sa publication à la Gazette officielle du Québec ou à toute autre date ultérieure qui y est déterminée. Les articles 4, 8, 11 et 17 à 19 de la Loi sur les règlements (chapitre R-18.1) ne s'appliquent pas à ce règlement.
+
+Le ministre peut prendre un règlement visé au premier alinéa à défaut par l'Autorité de le prendre dans le délai qu'il indique.
+
+Le gouvernement peut prendre un règlement visé au deuxième alinéa à défaut par l'Autorité de le prendre dans le délai qu'il indique.
+
+1966-67, c. 73, a. 42; 1968, c. 23, a. 8; 2002, c. 45, a. 194; 2004, c. 37, a. 90; 2009, c. 58, a. 24.
+
+45.1. L'Autorité peut prescrire les formulaires nécessaires à l'application de la présente loi.
+
+2009, c. 58, a. 25.
+
+SECTION IX
+~~~~~~~~~~
+
+**DISPOSITIONS PÉNALES**
+
+46. Commet une infraction, toute personne qui:
+
+ a) fait une fausse déclaration dans une demande de permis ou de police visée à l'article 34;
+
+ b) fournit à l'Autorité des renseignements inexacts;
+
+ c) donne faussement lieu de croire, de quelque façon que ce soit, que les dépôts d'argent reçus par elle sont garantis en vertu de la présente loi;
+
+ d) entrave ou tente d'entraver, de quelque façon que ce soit, une personne qui fait un acte que la présente loi ou les règlements l'obligent ou l'autorisent à faire;
+
+ e) contrevient à la présente loi ou aux règlements.
+
+Commet aussi une infraction, toute institution qui souscrit ou délivre un document dont le texte indique ou donne lieu de croire que des fonds lui sont confiés en dépôts, sans qu'elle soit une institution inscrite.
+
+1966-67, c. 73, a. 43; 1983, c. 10, a. 30; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+47. Lorsqu'une personne morale commet une infraction à la présente loi ou à un règlement, tout fonctionnaire, administrateur, employé ou agent de cette personne morale qui a prescrit ou autorisé l'accomplissement de l'infraction ou qui y a consenti, acquiescé ou participé, est réputé être partie à l'infraction et est passible de la même peine que celle qui est prévue pour la personne morale, que celle-ci ait ou non été poursuivie ou déclarée coupable.
+
+1966-67, c. 73, a. 44; 1999, c. 40, a. 27.
+
+48. Toute personne déclarée coupable d'une infraction à une disposition de la présente loi ou de ses règlements est passible d'une amende minimale, selon le plus élevé des montants, de 1 000 $ pour une personne physique et de 3 000 $ pour une personne morale, du double du bénéfice réalisé ou du cinquième des sommes qui lui ont été confiées ou qu'elle a perçues.
+
+Toutefois, dans le cas des infractions prévues aux paragraphes a, b et d du premier alinéa de l'article 46, l'amende minimale est, selon le plus élevé des montants, de 5 000 $, du double du bénéfice réalisé ou du cinquième des sommes qui lui ont été confiées ou qu'elle a perçues.
+
+Dans tous les cas, le montant maximal de l'amende est, selon le plus élevé des montants, de 50 000 $ pour une personne physique et de 200 000 $ pour une personne morale, du quadruple du bénéfice réalisé ou de la moitié des sommes qui lui ont été confiées ou qu'elle a perçues.
+
+En cas de récidive, les amendes minimales et maximales sont portées au double.
+
+1966-67, c. 73, a. 45; 1983, c. 10, a. 31; 1990, c. 4, a. 71; 2008, c. 7, a. 16.
+
+48.1. Une poursuite pénale pour une infraction à une disposition de la présente loi peut être intentée par l'Autorité.
+
+2008, c. 7, a. 16.
+
+48.2. L'amende imposée par le tribunal est remise à l'Autorité lorsqu'elle a assumé la conduite de la poursuite.
+
+2008, c. 7, a. 16.
+
+48.3. Une poursuite pénale pour une infraction prévue à l'article 46 se prescrit par trois ans à compter de la date de l'ouverture du dossier d'enquête relatif à cette infraction. Toutefois, aucune poursuite ne peut être intentée s'il s'est écoulé plus de cinq ans depuis la date de l'infraction.
+
+Le certificat du secrétaire de l'Autorité indiquant la date d'ouverture du dossier d'enquête constitue, en l'absence de toute preuve contraire, une preuve concluante de ce fait.
+
+2008, c. 7, a. 16.
+
+49. (Abrogé).
+
+1966-67, c. 73, a. 46; 1983, c. 10, a. 31; 1992, c. 61, a. 67.
+
+50. (Abrogé).
+
+1966-67, c. 73, a. 47; 1983, c. 10, a. 31; 1990, c. 4, a. 72.
+
+51. (Abrogé).
+
+1966-67, c. 73, a. 48; 1983, c. 10, a. 32; 2002, c. 45, a. 195; 2004, c. 37, a. 90; 2009, c. 58, a. 26.
+
+SECTION X
+~~~~~~~~~
+
+**FONDS D'ASSURANCE-DÉPÔTS ET AUTRES DISPOSITIONS FINANCIÈRES**
+
+52. L'Autorité doit maintenir un fonds d'assurance-dépôts.
+
+L'ensemble des obligations financières de l'Autorité prévues à la présente loi sont assumées à même le fonds d'assurance-dépôts.
+
+1966-67, c. 73, a. 49; 1983, c. 10, a. 34; 2002, c. 45, a. 196; 2004, c. 37, a. 90.
+
+52.1. Les primes recouvrées par l'Autorité conformément à la section VI.1 sont versées au fonds d'assurance-dépôts ainsi que les sommes que le ministre des Finances peut, avec l'autorisation du gouvernement et aux conditions que ce dernier détermine, y verser de temps à autre.
+
+1983, c. 10, a. 34; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+52.2. L'Autorité doit tenir un compte désigné «compte des bénéfices nets accumulés» auquel sont crédités tous les bénéfices comprenant les profits réalisés sur la vente de valeurs et auquel sont imputées toutes les dépenses d'exploitation, les pertes et les réserves expresses pour pertes afférentes aux activités de l'Autorité ainsi que les pertes sur la vente de valeurs.
+
+Les bénéfices nets accumulés doivent figurer sous forme de poste distinct dans tout état de l'actif et du passif de l'Autorité et être indiqués comme une addition au fonds d'assurance-dépôts ou une réduction de ce fonds.
+
+1983, c. 10, a. 34; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+53. Lorsque les ressources de l'Autorité sont insuffisantes pour le paiement de ses obligations ou l'exercice de pouvoirs qui lui sont attribués par l'article 40, le ministre des Finances peut, avec l'autorisation du gouvernement et aux conditions qu'il détermine, faire à l'Autorité, à même le fonds consolidé du revenu, les avances nécessaires à cette fin.
+
+1966-67, c. 73, a. 50; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+54. Le ministre des Finances peut, avec l'autorisation du gouvernement et aux conditions qu'il détermine, garantir le paiement de tout engagement de l'Autorité; les sommes que le gouvernement peut être appelé à payer en vertu de cette garantie sont prises sur le fonds consolidé du revenu.
+
+1966-67, c. 73, a. 51; 2002, c. 45, a. 198; 2004, c. 37, a. 90.
+
+55. (Abrogé).
+
+1966-67, c. 73, a. 52; 1981, c. 30, a. 3; 2009, c. 58, a. 26.
+
+56. L'Autorité place les sommes constituant le fonds d'assurance-dépôts conformément à l'article 38.6 de la Loi sur l'Autorité des marchés financiers (chapitre A-33.2).
+
+1966-67, c. 73, a. 53; 1988, c. 64, a. 587; 2000, c. 29, a. 622; 2002, c. 45, a. 197; 2004, c. 37, a. 90; 2008, c. 7, a. 17.
+
+SECTION XI
+~~~~~~~~~~
+
+**DISPOSITIONS FINALES**
+
+57. L'Autorité peut, avec l'approbation du gouvernement, conclure des accords avec tout autre gouvernement au Canada qui, à son avis, administre un régime équivalent, aux fins de faciliter l'application de la présente loi ou d'une loi similaire administrée par cet autre gouvernement. Elle peut également, avec l'approbation du gouvernement, conclure un tel accord avec tout organisme qui, à son avis, administre un régime équivalent. Un tel accord peut notamment:
+
+ a) déterminer les cas dans lesquels doit être limitée à la somme de 100 000 $, en capital et intérêts la garantie totale qui peut être accordée à une personne qui a fait plusieurs dépôts d'argent dans une même institution ou une même banque lorsque ces dépôts sont garantis en partie par l'application des dispositions de la présente loi et en partie par l'application des dispositions d'un régime équivalent;
+
+ b) établir, dans les cas visés au paragraphe a, des normes relatives à la répartition, entre l'Autorité et tout autre organisme chargé de garantir des dépôts d'argent en vertu d'un régime équivalent, des obligations qui découlent des garanties accordées par ces organismes;
+
+ c) prescrire les critères selon lesquels est déterminé, pour les fins de la présente loi et de tout régime équivalent, le lieu où un dépôt d'argent est fait ou celui où il est payable;
+
+ d) établir des mécanismes pour assurer la collaboration entre l'Autorité et tout autre organisme chargé de garantir des dépôts d'argent en vertu d'un régime équivalent, dans la surveillance et l'inspection des institutions.
+
+Pour donner effet à un tel accord, l'Autorité peut par règlement déterminer la manière selon laquelle la présente loi doit s'appliquer à tout cas visé par l'accord.
+
+1966-67, c. 73, a. 55; 1968, c. 71, a. 10; 1983, c. 10, a. 35; 2002, c. 70, a. 157; 2002, c. 45, a. 198; 2004, c. 37, a. 90; 2007, c. 15, a. 19.
+
+58. Le ministre des Finances est chargé de la mise à exécution de la présente loi.
+
+1966-67, c. 73, a. 56; 1966-67, c. 72, a. 23; 1975, c. 76, a. 11; 1981, c. 9, a. 24; 1982, c. 52, a. 52.
+
+59. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 73 des lois de 1966/1967, tel qu'en vigueur au 31 décembre 1977, à l'exception des articles 54 et 57, est abrogé à compter de l'entrée en vigueur du chapitre A-26 des Lois refondues.

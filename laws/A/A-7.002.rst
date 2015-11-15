@@ -1,0 +1,482 @@
+.. warning:: Abrogée le 17 mars 2010
+
+.. _A-7.002:
+
+================================================================
+A-7.002 Loi sur l'Agence des partenariats public-privé du Québec
+================================================================
+
+.. sidebar:: État courant
+
+    :Statut: Abrogée
+    :Date: 17 mar 2010
+
+La Loi sur l'Agence des partenariats public-privé du Québec est abrogée, à l'exception des articles 62 à 67 qui continuent de s'appliquer aux employés visés à l'article 60 qui sont transférés à Infrastructure Québec en vertu de l'article 58 de la Loi sur Infrastructure Québec (chapitre I-8.2). (2009, c. 53, a. 63).
+
+CHAPITRE I
+----------
+
+**CONSTITUTION**
+
+1. Est instituée l'« Agence des partenariats public-privé du Québec ». L'Agence peut également s'identifier sous le nom de « Partenariats public-privé Québec ».
+
+2004, c. 32, a. 1.
+
+2. L'Agence est une personne morale, mandataire de l'État.
+
+Ses biens font partie du domaine de l'État, mais l'exécution de ses obligations peut être poursuivie sur ces biens.
+
+L'Agence n'engage qu'elle-même lorsqu'elle agit en son nom.
+
+2004, c. 32, a. 2.
+
+3. L'Agence a son siège sur le territoire de la Communauté métropolitaine de Québec à l'endroit qu'elle détermine. Elle peut toutefois le déplacer ailleurs avec l'autorisation du gouvernement. L'adresse du siège est publiée à la Gazette officielle du Québec; il en est de même de tout déplacement dont il fait l'objet.
+
+L'Agence peut tenir ses séances à tout endroit au Québec.
+
+2004, c. 32, a. 3.
+
+CHAPITRE II
+-----------
+
+**MISSION ET POUVOIRS**
+
+4. L'Agence a pour mission de contribuer, par ses conseils et son expertise, au renouvellement des infrastructures publiques et à l'amélioration de la qualité des services aux citoyens dans le cadre de la mise en oeuvre de projets de partenariats public-privé.
+
+Elle favorise, dans l'exercice de ses fonctions, l'application des principes suivants:
+
+ 1° un processus de sélection de partenaires et de conclusion de contrats qui est à la fois transparent et équitable, de façon à assurer une saine concurrence entre les entreprises intéressées;
+
+ 2° la mise en oeuvre de moyens permettant aux citoyens de connaître le processus de partenariat public-privé et la valeur ajoutée des fonds publics investis;
+
+ 3° le recours à des mécanismes de reddition de comptes fondés sur l'imputabilité des organismes publics et sur le fait que ceux-ci doivent assurer la maîtrise des projets d'infrastructures, d'équipements ou de prestation de services publics;
+
+ 4° le recours, dans l'intérêt du public, à des processus de consultation et de communication impliquant les personnes concernées par les projets.
+
+2004, c. 32, a. 4.
+
+5. Dans la réalisation de sa mission, l'Agence:
+
+ 1° conseille le gouvernement sur toute question relative au partenariat public-privé, notamment en ce qui concerne la sélection et la priorité de réalisation des projets;
+
+ 2° met à la portée des personnes intéressées un centre de connaissances et d'expertise sur toute question afférente au partenariat public-privé et, à cette fin, recueille et analyse des informations sur les expériences de partenariats public-privé conduites au Canada et à l'étranger;
+
+ 3° informe les organismes publics, le milieu des affaires et le public en général sur le concept de gestion publique en mode de partenariat public-privé;
+
+ 4° fournit aux organismes publics tout service d'expertise relatif à l'évaluation de la faisabilité en mode de partenariat public-privé de leurs projets d'infrastructures, d'équipements ou de prestation de services publics, au processus de sélection de leurs partenaires, ainsi qu'à la négociation, la conclusion et la gestion de tels contrats.
+
+2004, c. 32, a. 5.
+
+6. Un contrat de partenariat public-privé est un contrat à long terme par lequel un organisme public associe une entreprise du secteur privé, avec ou sans financement de la part de celle-ci, à la conception, à la réalisation et à l'exploitation d'un ouvrage public. Un tel contrat peut avoir pour objet la prestation d'un service public.
+
+Le contrat stipule les résultats à atteindre et établit un partage des responsabilités, des investissements, des risques et des bénéfices dans un objectif d'amélioration de la qualité des services offerts aux citoyens.
+
+2004, c. 32, a. 6.
+
+7. Pour l'application de la présente loi, sont des organismes publics:
+
+ 1° les ministères;
+
+ 2° les personnes, les organismes et les entreprises du gouvernement visés à l'article 2 de la Loi sur l'administration financière (chapitre A-6.001);
+
+ 3° les organismes du gouvernement qui exercent des activités de nature fiduciaire apparaissant en annexe aux comptes publics;
+
+ 4° un collège d'enseignement général et professionnel régi par la Loi sur les collèges d'enseignement général et professionnel (chapitre C-29);
+
+ 5° une commission scolaire et le Comité de gestion de la taxe scolaire de l'île de Montréal régis par la Loi sur l'instruction publique (chapitre I-13.3), ainsi qu'une commission scolaire régie par la Loi sur l'instruction publique pour les autochtones cris, inuit et naskapis (chapitre I-14);
+
+ 6° un établissement universitaire régi par la Loi sur les investissements universitaires (chapitre I-17);
+
+ 7° un établissement public régi par la Loi sur les services de santé et les services sociaux (chapitre S-4.2), ainsi qu'une agence de la santé et des services sociaux instituée en vertu de cette loi;
+
+ 8° un établissement public régi par la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5) ainsi qu'un conseil régional institué en vertu de cette loi;
+
+ 9° un organisme municipal au sens de la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1);
+
+ 10° tout autre organisme désigné par le gouvernement.
+
+2004, c. 32, a. 7; 2005, c. 32, a. 305.
+
+8. Un organisme public peut recourir aux services de conseil et d'expertise de l'Agence pour l'évaluation de la faisabilité en mode de partenariat public-privé de ses projets d'infrastructures, d'équipements ou de prestation de services publics, pour le processus de sélection de ses partenaires, ainsi que pour la négociation et la conclusion de ses contrats de partenariats public-privé. Ces services sont rendus si, selon l'Agence, la nature et l'importance du projet le justifient.
+
+En outre, un ministère doit recourir aux services de l'Agence pour tout projet pour lequel un partenariat public-privé est envisagé, si ce ministère assume principalement le financement du projet, directement ou indirectement, et si le projet est considéré comme majeur selon les critères déterminés à cette fin par le gouvernement.
+
+2004, c. 32, a. 8.
+
+9. L'Agence donne son avis au président du Conseil du trésor sur toute question relevant de sa compétence qu'il lui soumet et y joint, le cas échéant, toute recommandation qu'elle estime opportune.
+
+2004, c. 32, a. 9.
+
+10. Le gouvernement peut, lorsqu'un projet d'investissement présente un intérêt important, confier à l'Agence le mandat d'évaluer sa faisabilité en mode de partenariat public-privé et, le cas échéant, de procéder à la sélection d'un partenaire, de négocier et de conclure un contrat de partenariat public-privé en vue de sa réalisation.
+
+2004, c. 32, a. 10.
+
+11. L'Agence peut, conformément à la loi, conclure une entente avec un gouvernement autre que celui du Québec, l'un de ses ministères, une organisation internationale ou un organisme de ce gouvernement ou de cette organisation.
+
+Elle peut, de même, conclure une entente avec un organisme public ainsi qu'avec toute personne ou autre entité et participer avec eux à des projets communs.
+
+2004, c. 32, a. 11.
+
+12. Un organisme public partie à un contrat de partenariat peut, aux conditions qu'il détermine, déléguer à un partenaire l'exercice de toute fonction ou de tout pouvoir autre que réglementaire requis pour l'exécution du contrat.
+
+Il peut, dans les mêmes conditions, autoriser la subdélégation de toute fonction ou de tout pouvoir.
+
+2004, c. 32, a. 12.
+
+13. L'Agence peut, avec l'autorisation du gouvernement, acquérir ou constituer toute filiale utile aux fins de la réalisation de sa mission.
+
+Est une filiale de l'Agence la personne morale dont elle détient plus de 50% des droits de vote afférents à toutes les actions émises et en circulation ou la société dont elle détient plus de 50% des parts. Est également une filiale de l'Agence toute personne morale ou société dont elle peut élire la majorité des administrateurs.
+
+2004, c. 32, a. 13.
+
+14. Les articles 2 et 12 s'appliquent, compte tenu des adaptations nécessaires, aux filiales de l'Agence dont elle détient, directement ou indirectement, la totalité des actions. Ces filiales sont considérées comme des mandataires de l'État.
+
+La Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1) s'applique à toute filiale de l'Agence.
+
+2004, c. 32, a. 14.
+
+15. L'Agence ne peut, sans l'autorisation du gouvernement:
+
+ 1° contracter un emprunt qui porte au-delà du montant déterminé par le gouvernement le total de ses emprunts en cours et non encore remboursés;
+
+ 2° s'engager financièrement au-delà des limites ou contrairement aux modalités déterminées par le gouvernement;
+
+ 3° acquérir ou détenir des actions ou des parts d'une personne morale ou d'une société au-delà des limites ou contrairement aux modalités déterminées par le gouvernement;
+
+ 4° céder des actions ou des parts d'une personne morale ou d'une société au-delà des limites ou contrairement aux modalités déterminées par le gouvernement;
+
+ 5° acquérir ou céder d'autres actifs au-delà des limites ou contrairement aux modalités déterminées par le gouvernement;
+
+ 6° accepter un don ou un legs auquel est attachée une charge ou une condition.
+
+Le gouvernement peut déterminer que l'une des dispositions du premier alinéa s'applique à l'ensemble des filiales de l'Agence ou à l'une d'entre elles seulement.
+
+Les dispositions du premier alinéa ne s'appliquent pas aux transactions effectuées entre l'Agence et ses filiales ni entre les filiales de l'Agence.
+
+2004, c. 32, a. 15.
+
+16. (Abrogé).
+
+2004, c. 32, a. 16; 2006, c. 29, a. 51.
+
+17. L'Agence peut, avec l'autorisation du gouvernement, aux fins de l'exécution d'un mandat qui lui est confié par celui-ci en vertu de l'article 10 ou par un organisme public, acquérir par expropriation tout immeuble ou droit réel nécessaire pour la réalisation d'un projet de partenariat.
+
+Elle peut, aux mêmes fins, céder ou donner en location tout bien qu'elle possède.
+
+2004, c. 32, a. 17.
+
+18. L'Agence exerce toute autre fonction que lui attribue le gouvernement.
+
+2004, c. 32, a. 18.
+
+CHAPITRE III
+------------
+
+**ORGANISATION ET FONCTIONNEMENT**
+
+19. Les affaires de l'Agence sont administrées par un conseil d'administration composé:
+
+ 1° du président-directeur général de l'Agence, qui en est membre d'office;
+
+ 2° de huit autres membres nommés par le gouvernement dont quatre sont issus des organismes publics et quatre du secteur privé.
+
+2004, c. 32, a. 19.
+
+20. Le président-directeur général de l'Agence est nommé par le gouvernement pour un mandat d'au plus cinq ans et le mandat des autres membres est d'au plus trois ans.
+
+À l'expiration de leur mandat, les membres demeurent en fonction jusqu'à ce qu'ils soient remplacés ou nommés de nouveau.
+
+2004, c. 32, a. 20.
+
+21. Le gouvernement désigne parmi les membres du conseil d'administration un président et un vice-président du conseil.
+
+2004, c. 32, a. 21.
+
+22. Les fonctions de président du conseil et celles de président-directeur général ne peuvent être cumulées.
+
+2004, c. 32, a. 22.
+
+23. Le président-directeur général est responsable de l'administration et de la direction de l'Agence dans le cadre de ses règlements et de ses orientations. Il exerce ses fonctions à plein temps.
+
+Le président du conseil convoque les séances du conseil d'administration, les préside et voit à son bon fonctionnement. Il exerce en outre les autres fonctions qui lui sont assignées par le conseil d'administration.
+
+Le vice-président exerce les fonctions du président du conseil, en cas d'absence ou d'empêchement de celui-ci.
+
+2004, c. 32, a. 23.
+
+24. Toute vacance parmi les membres du conseil, autre que celles du président du conseil et du président-directeur général, est comblée par le gouvernement pour la durée non écoulée du mandat du membre à remplacer.
+
+Constitue une vacance l'absence à un nombre déterminé de réunions du conseil que fixe le règlement intérieur de l'Agence, dans les cas et les circonstances qu'il indique.
+
+2004, c. 32, a. 24.
+
+25. Le gouvernement détermine la rémunération, les avantages sociaux et les autres conditions de travail du président-directeur général.
+
+Les autres membres du conseil ne sont pas rémunérés, sauf dans les cas, aux conditions et dans la mesure que peut déterminer le gouvernement. Ils ont cependant droit au remboursement des dépenses faites dans l'exercice de leurs fonctions, dans les cas, aux conditions et dans la mesure que détermine le gouvernement.
+
+2004, c. 32, a. 25.
+
+26. Le quorum aux séances du conseil est constitué de la majorité de ses membres, dont le président-directeur général ou le président du conseil.
+
+Les décisions du conseil sont prises à la majorité des voix exprimées par les membres présents. En cas de partage, la personne qui préside a voix prépondérante.
+
+2004, c. 32, a. 26.
+
+27. Les membres du conseil d'administration peuvent renoncer à l'avis de convocation à une réunion du conseil. Leur seule présence équivaut à une renonciation à l'avis de convocation, à moins qu'ils ne soient là pour contester la régularité de la convocation.
+
+2004, c. 32, a. 27.
+
+28. Les membres du conseil d'administration peuvent, si tous sont d'accord, participer à une réunion du conseil à l'aide de moyens permettant à tous les participants de communiquer immédiatement entre eux.
+
+2004, c. 32, a. 28.
+
+29. Les résolutions écrites, signées par tous les membres habiles à voter, ont la même valeur que si elles avaient été adoptées lors d'une réunion du conseil d'administration.
+
+Un exemplaire de ces résolutions est conservé avec les procès-verbaux des délibérations ou ce qui en tient lieu.
+
+2004, c. 32, a. 29.
+
+30. Les procès-verbaux des réunions du conseil d'administration, approuvés par celui-ci et certifiés par le président du conseil d'administration, le président-directeur général, le secrétaire ou toute autre personne autorisée par l'Agence, sont authentiques. Il en est de même des documents et des copies de documents émanant de l'Agence ou faisant partie de ses archives lorsqu'ils sont ainsi certifiés.
+
+2004, c. 32, a. 30.
+
+31. Une transcription écrite et intelligible d'une décision ou de toute autre donnée emmagasinée par l'Agence sur ordinateur ou sur tout autre support informatique constitue un document de l'Agence; elle fait preuve de son contenu lorsqu'elle est certifiée conforme par une personne visée à l'article 30.
+
+2004, c. 32, a. 31.
+
+32. Aucun acte, document ou écrit n'engage l'Agence ni ne peut lui être attribué s'il n'est signé par le président du conseil, le président-directeur général, le vice-président, le secrétaire ou un autre membre du personnel de l'Agence, mais dans le cas de ce dernier, uniquement dans la mesure déterminée par le règlement de l'Agence.
+
+2004, c. 32, a. 32.
+
+33. Le règlement intérieur de l'Agence peut permettre, dans les conditions et sur les documents qui y sont indiqués, qu'une signature soit apposée au moyen d'un appareil automatique, qu'elle soit électronique ou qu'un fac-similé d'une signature soit gravé, lithographié ou imprimé. Toutefois, le fac-similé n'a la même valeur que la signature elle-même que si le document est contresigné par une personne visée à l'article 30.
+
+2004, c. 32, a. 33.
+
+34. L'Agence peut, dans son règlement intérieur, pourvoir au fonctionnement du conseil d'administration. Elle peut constituer un comité exécutif ou tout autre comité, pourvoir à leur fonctionnement et leur déléguer l'exercice des pouvoirs du conseil.
+
+2004, c. 32, a. 34.
+
+35. Les normes d'éthique et de déontologie établies par l'Agence conformément au règlement pris en application de l'article 3.0.1 de la Loi sur le ministère du Conseil exécutif (chapitre M-30) et applicables aux membres du conseil d'administration sont publiées par l'Agence dans son rapport d'activité.
+
+2004, c. 32, a. 35.
+
+36. L'Agence établit les normes applicables, en matière d'éthique et de déontologie, à son personnel. Ces normes contiennent des dispositions comportant au moins les exigences prescrites à l'égard d'un fonctionnaire en vertu de la Loi sur la fonction publique (chapitre F-3.1.1). Elles sont publiées par l'Agence dans son rapport d'activité.
+
+2004, c. 32, a. 36.
+
+37. Les dispositions relatives à l'éthique et à la déontologie établies conformément à un règlement pris en vertu de l'article 3.0.1 de la Loi sur le ministère du Conseil exécutif (chapitre M-30) s'appliquent, compte tenu des adaptations nécessaires, dans le cas de toute filiale de l'Agence.
+
+Toute filiale de l'Agence établit les normes applicables, en matière d'éthique et de déontologie, à son personnel. Ces normes contiennent des dispositions comportant au moins les exigences prescrites à l'égard d'un fonctionnaire en vertu de la Loi sur la fonction publique (chapitre F-3.1.1).
+
+Une filiale rend publiques les normes qu'elle établit conformément au présent article.
+
+2004, c. 32, a. 37.
+
+38. Le secrétaire et les autres membres du personnel de l'Agence sont nommés selon le plan d'effectifs établi par règlement de l'Agence.
+
+Sous réserve des dispositions d'une convention collective, l'Agence détermine, par règlement, les normes et barèmes de rémunération, les avantages sociaux et les autres conditions de travail des membres de son personnel conformément aux conditions définies par le gouvernement.
+
+2004, c. 32, a. 38.
+
+39. Un membre du personnel de l'Agence qui a un intérêt direct ou indirect dans une entreprise mettant en conflit son intérêt personnel et celui de l'Agence doit, sous peine de déchéance de sa charge, dénoncer par écrit son intérêt au président-directeur général.
+
+2004, c. 32, a. 39.
+
+40. Le président du Conseil du trésor peut donner des directives sur les orientations et les objectifs généraux que l'Agence doit poursuivre.
+
+Ces directives sont soumises à l'approbation du gouvernement. Une fois approuvées, elles lient l'Agence.
+
+Toute directive est déposée à l'Assemblée nationale dans les 15 jours de son approbation par le gouvernement ou, si elle ne siège pas, dans les 15 jours de la reprise de ses travaux.
+
+2004, c. 32, a. 40.
+
+CHAPITRE IV
+-----------
+
+**DISPOSITIONS FINANCIÈRES**
+
+41. Le gouvernement peut, aux conditions et selon les modalités qu'il détermine:
+
+ 1° garantir le paiement en capital et intérêts de tout emprunt contracté par l'Agence ou par l'une de ses filiales visées à l'article 14 ainsi que toute obligation de celles-ci;
+
+ 2° autoriser le ministre des Finances à avancer à l'Agence ou à l'une de ces filiales tout montant jugé nécessaire pour s'acquitter de leurs obligations ou pour réaliser leur mission.
+
+Les sommes requises pour l'application du présent article sont prises sur le fonds consolidé du revenu.
+
+2004, c. 32, a. 41.
+
+42. L'Agence peut déterminer un tarif de frais, de commissions et d'honoraires pour l'utilisation des biens et services qu'elle offre.
+
+2004, c. 32, a. 42.
+
+43. L'Agence finance ses activités par les revenus provenant de ses interventions financières, des frais, commissions et honoraires qu'elle perçoit ainsi que des autres sommes qu'elle reçoit.
+
+2004, c. 32, a. 43.
+
+44. Les sommes reçues par l'Agence doivent être affectées au paiement de ses obligations. Le surplus, s'il en est, est conservé par l'Agence à moins que le gouvernement en décide autrement.
+
+2004, c. 32, a. 44.
+
+45. Le gouvernement rembourse les frais et les dépenses que l'Agence assume pour l'exécution des mandats qu'il lui confie en vertu de l'article 10.
+
+2004, c. 32, a. 45.
+
+46. L'Agence soumet chaque année au président du Conseil du trésor ses prévisions budgétaires pour l'exercice suivant, selon la forme, la teneur et la périodicité que détermine le président du Conseil du trésor.
+
+Ces prévisions sont soumises à l'approbation du gouvernement.
+
+2004, c. 32, a. 46.
+
+CHAPITRE V
+----------
+
+**COMPTES ET RAPPORTS**
+
+47. L'exercice financier de l'Agence se termine le 31 mars de chaque année.
+
+2004, c. 32, a. 47.
+
+48. L'Agence doit, au plus tard le 31 juillet de chaque année, produire au président du Conseil du trésor ses états financiers ainsi qu'un rapport de ses activités pour l'exercice précédent.
+
+Les états financiers et le rapport d'activité doivent contenir tous les renseignements exigés par le président du Conseil du trésor.
+
+2004, c. 32, a. 48.
+
+49. Le président du Conseil du trésor dépose le rapport d'activité et les états financiers de l'Agence à l'Assemblée nationale dans les 30 jours de leur réception ou, si elle ne siège pas, dans les 30 jours de la reprise de ses travaux.
+
+2004, c. 32, a. 49.
+
+50. L'Agence établit, selon la forme, la teneur et la périodicité fixées par le président du Conseil du trésor, un plan d'affaires qui doit inclure les activités de ses filiales. Ce plan est soumis à l'approbation du gouvernement.
+
+Au terme de la période de validité d'un plan d'affaires, celui-ci continue de s'appliquer jusqu'à ce qu'un nouveau plan soit approuvé.
+
+2004, c. 32, a. 50.
+
+51. Les livres et comptes de l'Agence sont vérifiés par le vérificateur général chaque année et chaque fois que le décrète le gouvernement.
+
+Le rapport du vérificateur doit accompagner le rapport d'activité et les états financiers de l'Agence.
+
+Le vérificateur général peut, à l'égard de l'Agence et de ses filiales, procéder à la vérification de l'optimisation des ressources sans qu'intervienne l'entente prévue au deuxième alinéa de l'article 28 de la Loi sur le vérificateur général (chapitre V-5.01).
+
+2004, c. 32, a. 51.
+
+52. L'Agence doit communiquer au président du Conseil du trésor tout renseignement qu'il requiert sur ses activités et celles de ses filiales.
+
+2004, c. 32, a. 52.
+
+CHAPITRE VI
+-----------
+
+**DISPOSITIONS MODIFICATIVES**
+
+LOI SUR L'ADMINISTRATION FINANCIÈRE
+-----------------------------------
+
+53. (Modification intégrée au c. A-6.001, annexe 2).
+
+2004, c. 32, a. 53.
+
+LOI CONCERNANT LES PARTENARIATS EN MATIÈRE D'INFRASTRUCTURES DE TRANSPORT
+-------------------------------------------------------------------------
+
+54. (Modification intégrée au c. P-9.001, a. 1.1).
+
+2004, c. 32, a. 54.
+
+55. (Modification intégrée au c. P-9.001, a. 5).
+
+2004, c. 32, a. 55.
+
+LOI SUR LE RÉGIME DE NÉGOCIATION DES CONVENTIONS COLLECTIVES DANS LES SECTEURS PUBLIC ET PARAPUBLIC
+---------------------------------------------------------------------------------------------------
+
+56. (Modification intégrée au c. R-8.2, annexe C).
+
+2004, c. 32, a. 56.
+
+LOI SUR LE RÉGIME DE RETRAITE DES EMPLOYÉS DU GOUVERNEMENT ET DES ORGANISMES PUBLICS
+------------------------------------------------------------------------------------
+
+57. (Modification intégrée au c. R-10, annexe I).
+
+2004, c. 32, a. 57.
+
+LOI SUR LE RÉGIME DE RETRAITE DU PERSONNEL D'ENCADREMENT
+--------------------------------------------------------
+
+58. (Modification intégrée au c. R-12.1, annexe II).
+
+2004, c. 32, a. 58.
+
+CHAPITRE VII
+------------
+
+**DISPOSITIONS TRANSITOIRES ET DIVERSES**
+
+59. Les dossiers et autres documents de la Direction des partenariats d'affaires du secrétariat du Conseil du trésor deviennent les dossiers et les documents de l'Agence des partenariats public-privé du Québec.
+
+2004, c. 32, a. 59.
+
+60. Les employés du secrétariat du Conseil du trésor affectés à la Direction des partenariats d'affaires, en fonction le 17 avril 2005 deviennent, sous réserve des conditions de travail qui leur sont applicables, des employés de l'Agence des partenariats public-privé du Québec, et ce, dans la mesure où une décision du Conseil du trésor prévoyant leur transfert est prise avant le 18 avril 2006.
+
+2004, c. 32, a. 60.
+
+61. Un employé visé à l'article 60 occupe le poste et exerce les fonctions qui lui sont assignés par l'Agence, sous réserve des conditions de travail qui lui sont applicables.
+
+2004, c. 32, a. 61.
+
+62. Tout employé de l'Agence qui, lors de sa nomination à celle-ci, était un fonctionnaire permanent peut demander sa mutation dans un emploi dans la fonction publique ou participer à un concours de promotion pour un tel emploi, conformément à la Loi sur la fonction publique (chapitre F-3.1.1).
+
+2004, c. 32, a. 62.
+
+63. L'article 35 de la Loi sur la fonction publique (chapitre F-3.1.1) s'applique à un employé visé à l'article 62 qui participe à un concours de promotion pour un emploi de la fonction publique.
+
+2004, c. 32, a. 63.
+
+64. Lorsqu'un employé visé à l'article 62 pose sa candidature à la mutation ou à un concours de promotion, il peut demander au président du Conseil du trésor qu'il lui donne un avis sur le classement qu'il aurait dans la fonction publique. Cet avis doit tenir compte du classement que cette personne avait dans la fonction publique à la date de son départ ainsi que de l'expérience et de la scolarité acquise depuis qu'elle est à l'emploi de l'Agence.
+
+Dans le cas où un employé est muté à la suite de l'application de l'article 62, le sous-ministre ou le dirigeant de l'organisme lui établit un classement conforme à l'avis prévu au premier alinéa.
+
+Dans le cas où un employé est promu en application de l'article 62, son classement doit tenir compte des critères prévus au premier alinéa.
+
+2004, c. 32, a. 64.
+
+65. En cas de cessation partielle ou complète des activités de l'Agence ou s'il y a manque de travail, un employé visé à l'article 62 a le droit d'être mis en disponibilité dans la fonction publique, au classement qu'il avait dans la fonction publique à la date de son départ.
+
+Dans ce cas, le président du Conseil du trésor lui établit, le cas échéant, un classement en tenant compte des critères prévus au premier alinéa de l'article 64.
+
+2004, c. 32, a. 65.
+
+66. Une personne qui refuse, conformément aux conditions de travail qui lui sont applicables, d'être transférée à l'Agence est affectée à celle-ci jusqu'à ce que le président du Conseil du trésor puisse la placer conformément à l'article 100 de la Loi sur la fonction publique (chapitre F-3.1.1). Il en est de même de la personne qui est mise en disponibilité suivant l'article 65, laquelle demeure entre-temps à l'emploi de l'Agence.
+
+2004, c. 32, a. 66.
+
+67. Sous réserve des recours qui peuvent exister en vertu d'une convention collective, un employé visé à l'article 62 qui est révoqué ou congédié peut en appeler conformément à l'article 33 de la Loi sur la fonction publique (chapitre F-3.1.1).
+
+2004, c. 32, a. 67.
+
+68. (Abrogé).
+
+2004, c. 32, a. 68; 2006, c. 29, a. 51.
+
+69. Les sommes requises pour l'application de la présente loi pendant l'exercice financier 2005-2006 sont prises sur le fonds consolidé du revenu dans la mesure que détermine le gouvernement.
+
+2004, c. 32, a. 69.
+
+70. Le président du Conseil du trésor doit, au plus tard le 18 mai 2010 et par la suite, tous les cinq ans, veiller à ce que l'application de la présente loi fasse l'objet d'un rapport indépendant.
+
+Ce rapport est déposé dans les 30 jours de sa réception par le président du Conseil du trésor à l'Assemblée nationale ou, si elle ne siège pas, dans les 30 jours de la reprise de ses travaux. La commission compétente de l'Assemblée nationale étudie le rapport.
+
+2004, c. 32, a. 70.
+
+71. Le président du Conseil du trésor est responsable de l'application de la présente loi.
+
+2004, c. 32, a. 71.
+
+72. (Omis).
+
+2004, c. 32, a. 72.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 32 des lois de 2004, tel qu'en vigueur le 1er mars 2006, à l'exception de l'article 72, est abrogé à compter de l'entrée en vigueur du chapitre A-7.002 des Lois refondues.

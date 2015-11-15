@@ -1,0 +1,424 @@
+.. warning:: Abrogée le 1er janvier 2006
+
+.. _A-8.1:
+
+========================================================================================================
+A-8.1 Loi sur les agences de développement de réseaux locaux de services de santé et de services sociaux
+========================================================================================================
+
+.. sidebar:: État courant
+
+    :Statut: Abrogée
+    :Date: 01 jan 2006
+
+Abrogée, 2005, c. 32, a. 340.
+
+SECTION I
+~~~~~~~~~
+
+**INSTITUTION ET ORGANISATION**
+
+1. La présente loi vise, par la mise en place d'une organisation de services de santé et de services sociaux intégrés, notamment, des services de prévention, d'évaluation, de diagnostic et de traitements, de réadaptation et de soutien, à rapprocher les services de la population et à faciliter le cheminement de toute personne dans le réseau de services de santé et de services sociaux.
+
+2003, c. 21, a. 1.
+
+2. Sont instituées les «agences de développement de réseaux locaux de services de santé et de services sociaux» dont le nom apparaît en annexe.
+
+Chacune de ces agences est une personne morale qui succède, de plein droit et sans aucune autre formalité, à la régie régionale de la santé et des services sociaux, désignée à l'annexe, en regard de son nom.
+
+2003, c. 21, a. 2.
+
+3. Chaque agence est mandataire de l'État. Ses biens font partie du domaine de l'État, mais l'exécution de ses obligations peut être poursuivie sur ces biens.
+
+Elle n'engage qu'elle-même lorsqu'elle agit en son nom.
+
+2003, c. 21, a. 3.
+
+4. Le territoire d'une agence est celui de la régie régionale à laquelle elle succède et son siège est situé au même endroit que celui où se trouvait le siège de cette régie régionale.
+
+2003, c. 21, a. 4.
+
+5. Les affaires d'une agence sont administrées par un conseil d'administration composé d'au plus 16 membres nommés par le ministre dont:
+
+ 1° le président-directeur général de l'agence;
+
+ 2° un membre de la commission médicale régionale;
+
+ 3° un membre de la commission infirmière régionale;
+
+ 4° un membre de la commission multidisciplinaire régionale.
+
+2003, c. 21, a. 5.
+
+6. Une personne ne peut être membre du conseil d'administration d'une agence si:
+
+ 1° elle ne réside pas au Québec;
+
+ 2° elle est mineure;
+
+ 3° elle est sous tutelle ou curatelle;
+
+ 4° au cours des cinq années précédentes, elle a été déclarée coupable d'un crime punissable de trois ans d'emprisonnement et plus;
+
+ 5° au cours des trois années précédentes, elle a été déchue de ses fonctions comme membre du conseil d'administration d'un établissement ou d'une régie régionale en vertu du paragraphe 2° de l'article 498 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2);
+
+ 6° au cours des trois années précédentes, elle a été déclarée coupable d'une infraction à la Loi sur les services de santé et les services sociaux ou à ses règlements.
+
+2003, c. 21, a. 6.
+
+7. À l'exception des membres visés aux paragraphes 1° à 4° de l'article 5, une personne qui est à l'emploi du ministère de la Santé et des Services sociaux, d'une agence, d'un établissement ou de la Régie de l'assurance maladie du Québec ou qui reçoit une rémunération de cette dernière de même qu'une personne ayant conclu un contrat de services en vertu de l'article 259.2 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) ne peut faire partie du conseil d'administration de l'agence.
+
+Une bourse d'études, une subvention ou les sommes versées en vertu d'un contrat de recherche ne sont pas réputées être une rémunération aux fins du premier alinéa.
+
+2003, c. 21, a. 7.
+
+8. Un membre visé aux paragraphes 2° à 4° de l'article 5 cesse de faire partie d'un conseil d'administration dès qu'il perd la qualité nécessaire à sa nomination.
+
+2003, c. 21, a. 8.
+
+9. Le mandat du président-directeur général est d'une durée d'au plus trois ans; celui des autres membres est d'une durée d'au plus deux ans.
+
+À l'expiration de leur mandat, ils demeurent en fonction jusqu'à ce qu'ils soient remplacés ou nommés de nouveau.
+
+2003, c. 21, a. 9.
+
+10. Toute vacance survenant après la nomination d'un membre du conseil d'administration doit être comblée pour la durée non écoulée du mandat du membre à remplacer.
+
+Constitue notamment une vacance l'absence non motivée à un nombre de séances du conseil d'administration déterminé dans ses règles de régie interne, dans les cas et circonstances qui y sont prévus.
+
+2003, c. 21, a. 10.
+
+11. Tout membre du conseil d'administration peut démissionner de son poste en transmettant au conseil un avis écrit de son intention. Il y a vacance à compter de l'acceptation de la démission par le conseil d'administration.
+
+2003, c. 21, a. 11.
+
+12. Le président-directeur général est responsable de l'administration et du fonctionnement de l'agence dans le cadre de ses règlements.
+
+Il exerce ses fonctions à temps plein, veille à l'exécution des décisions du conseil d'administration et s'assure que soit transmise à ce dernier toute l'information qu'il requiert ou qui lui est nécessaire pour assumer ses responsabilités.
+
+Le gouvernement détermine la rémunération, les avantages sociaux et les autres conditions de travail du président-directeur général.
+
+2003, c. 21, a. 12.
+
+13. Les membres du conseil d'administration élisent parmi eux le président et le vice-président du conseil.
+
+Le président-directeur général d'une agence ainsi que les membres visés aux paragraphes 2° à 4° de l'article 5 ne peuvent être élus président ou vice-président du conseil.
+
+Le vice-président du conseil remplace le président en cas d'absence ou d'empêchement de ce dernier.
+
+2003, c. 21, a. 13.
+
+14. À l'exception du président-directeur général de l'agence, les membres du conseil d'administration ne sont pas rémunérés. Ils ont cependant droit au remboursement des dépenses faites dans l'exercice de leurs fonctions, aux conditions et dans la mesure que détermine le gouvernement.
+
+2003, c. 21, a. 14.
+
+15. Le quorum aux séances du conseil est de la majorité de ses membres, dont le président du conseil ou le vice-président.
+
+Les décisions sont prises à la majorité des membres présents. En cas de partage, celui qui préside a une voix prépondérante.
+
+2003, c. 21, a. 15.
+
+16. Le président du conseil convoque les séances du conseil, les préside et voit à leur bon déroulement. Il exerce en outre les autres fonctions que lui confie le conseil.
+
+2003, c. 21, a. 16.
+
+17. Le conseil d'administration se réunit au moins six fois par année.
+
+Il doit toutefois se réunir à la demande du président du conseil ou à la demande écrite du tiers de ses membres en fonction.
+
+2003, c. 21, a. 17.
+
+18. Les séances du conseil d'administration sont publiques; toutefois, le conseil peut décréter le huis clos, notamment lorsqu'il l'estime opportun pour éviter un préjudice à une personne et lorsqu'il délibère sur la négociation des conditions de travail; les décisions prises lors des séances tenues à huis clos ont un caractère public, sous réserve des renseignements personnels qu'elles contiennent.
+
+Le conseil d'administration doit tenir, lors de chaque séance, une période de questions.
+
+Les documents déposés ou transmis au conseil d'administration et les renseignements fournis lors des séances publiques de même que les procès-verbaux de ces séances ont un caractère public, sous réserve des renseignements personnels qu'ils contiennent.
+
+2003, c. 21, a. 18.
+
+19. Un membre du conseil d'administration peut, lorsque les autres membres physiquement présents sur les lieux où se tient une séance du conseil d'administration forment le quorum et que la majorité d'entre eux y consent, participer à cette séance par tout moyen permettant à tous les participants de communiquer oralement entre eux, notamment par téléphone ou par vidéoconférence. Il est alors réputé avoir assisté à cette séance.
+
+Le procès-verbal d'une telle séance doit faire mention:
+
+ 1° du fait que la séance s'est tenue avec le concours du moyen de communication qu'il indique;
+
+ 2° du nom de tous les membres physiquement présents lors de la séance avec la mention de ceux qui ont consenti à procéder de cette façon;
+
+ 3° du nom du membre qui a participé grâce à ce moyen de communication.
+
+2003, c. 21, a. 19.
+
+20. En cas d'urgence, les membres du conseil d'administration peuvent également, si le nombre de membres nécessaires au quorum est atteint et que tous y consentent, participer à une séance spéciale par voie de conférence téléphonique.
+
+Le procès-verbal de cette séance doit faire mention du fait que cette séance s'est tenue par voie de conférence téléphonique et que tous les membres qui y ont participé ont exprimé leur accord à procéder de cette façon. Les décisions prises lors de cette séance doivent être déposées à la séance publique subséquente.
+
+2003, c. 21, a. 20.
+
+21. L'exercice financier d'une agence se termine le 31 mars de chaque année.
+
+Une agence peut édicter des règles de régie interne pour la conduite de ses affaires.
+
+2003, c. 21, a. 21.
+
+22. Aucun acte, document ou écrit n'engage une agence s'il n'est signé par le président du conseil, le président-directeur général ou, dans la mesure que le conseil d'administration détermine par règlement, par une personne que ce dernier désigne.
+
+2003, c. 21, a. 22.
+
+23. Les procès-verbaux des séances du conseil d'administration, approuvés par celui-ci et signés par le président du conseil et le secrétaire, sont authentiques. Il en est de même des documents et des copies ou extraits qui émanent de l'agence ou font partie de ses archives, lorsqu'ils sont certifiés conformes par le président du conseil ou le secrétaire.
+
+2003, c. 21, a. 23.
+
+SECTION II
+~~~~~~~~~~
+
+**MISSION**
+
+24. Une agence de développement de réseaux locaux de services de santé et de services sociaux a pour mission de mettre en place, sur son territoire, une organisation de services de santé et de services sociaux intégrés.
+
+2003, c. 21, a. 24.
+
+25. Pour accomplir sa mission, une agence doit définir et proposer au ministre, dans le délai qu'il fixe, un modèle d'organisation basé sur un ou plusieurs réseaux locaux de services de santé et de services sociaux dont la taille peut couvrir tout ou partie du territoire de l'agence.
+
+Chacun de ces réseaux locaux de services de santé et de services sociaux doit être conçu de manière à:
+
+ 1° assurer à la population de son territoire l'accès à une large gamme de services de santé et de services sociaux de première ligne, notamment à des services de prévention, d'évaluation, de diagnostic et de traitement, de réadaptation et de soutien;
+
+ 2° garantir à la population de son territoire, par le biais d'ententes ou d'autres modalités, l'accès aux services spécialisés disponibles sur le territoire de l'agence ainsi que l'accès à des services surspécialisés et ce, en prenant en considération les activités du réseau universitaire intégré de santé reconnu par le ministre et qui est associé au réseau local de services de santé et de services sociaux;
+
+ 3° permettre la mise en place de mécanismes de référence et de suivi des usagers des services de santé et des services sociaux ainsi que l'instauration de protocoles cliniques à l'égard des services offerts à ces derniers;
+
+ 4° impliquer les divers groupes de professionnels du territoire et permettre l'établissement de liens entre eux;
+
+ 5° favoriser la collaboration et l'implication de tous les intervenants des autres secteurs d'activité du territoire ayant un impact sur les services de santé et les services sociaux;
+
+ 6° s'assurer de la participation des ressources humaines disponibles et nécessaires à la prestation des services de santé et des services sociaux.
+
+2003, c. 21, a. 25.
+
+26. Chacun de ces réseaux locaux de services de santé et de services sociaux doit comprendre une instance locale regroupant les établissements, identifiés par l'agence, qui offrent les services d'un centre local de services communautaires, d'un centre d'hébergement et de soins de longue durée et, sauf dans les cas prévus au deuxième alinéa, ceux d'un centre hospitalier.
+
+Une instance locale doit, pour assurer à sa population l'accès à des services hospitaliers généraux et spécialisés, prendre une entente avec un établissement exploitant un centre hospitalier lorsqu'un tel établissement n'a pu être inclus dans l'instance en raison de:
+
+ 1° l'absence de tels services sur son territoire;
+
+ 2° la complexité d'intégrer ou de regrouper de tels services avec les autres services de l'instance locale, notamment, eu égard à l'étendue du territoire desservi par l'établissement, au nombre ou à la capacité des installations qui s'y trouvent ou à la provenance ou aux caractéristiques socio-culturelles, ethno-culturelles ou linguistiques de la clientèle desservie.
+
+2003, c. 21, a. 26.
+
+27. Outre cette instance locale, on doit retrouver dans chacun des réseaux locaux de services de santé et de services sociaux les activités et les services de médecins et de pharmaciens.
+
+On doit retrouver également dans chacun de ces réseaux les activités et les services d'organismes communautaires, d'entreprises d'économie sociale et de ressouces privées de son territoire.
+
+2003, c. 21, a. 27.
+
+28. La coordination des activités et des services qui se retrouvent dans chacun des réseaux locaux de services de santé et de services sociaux est assurée par l'instance locale, par le biais d'ententes ou d'autres modalités.
+
+Dans le cas des médecins, de telles ententes ou modalités doivent faire l'objet de consultations auprès du département régional de médecine générale institué en vertu de l'article 417.1 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) et auprès de la commission médicale régionale instituée en vertu de l'article 367 de cette loi.
+
+2003, c. 21, a. 28.
+
+29. Une agence de développement de réseaux locaux de services de santé et de services sociaux exerce, en lieu et place d'une régie régionale de la santé et des services sociaux et conformément aux règles qui sont applicables à cette dernière, tous les pouvoirs, fonctions et devoirs que la loi confie à celle-ci, sauf si le ministre estime qu'il est inapproprié pour l'agence d'exercer l'un ou l'autre de ces pouvoirs, fonctions et devoirs.
+
+De plus, le président-directeur général d'une telle agence exerce, en lieu et place du président-directeur général d'une régie régionale de la santé et des services sociaux, tous les pouvoirs, fonctions et devoirs que la loi confie à celui-ci.
+
+2003, c. 21, a. 29.
+
+SECTION III
+~~~~~~~~~~~
+
+**MODÈLE D'ORGANISATION**
+
+30. Aux fins de définir et proposer un modèle d'organisation conformément à l'article 25, l'agence effectue des consultations, notamment auprès des établissements concernés, du département régional de médecine générale, institué en vertu de l'article 417.1 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2), auprès du comité régional formé en vertu de l'article 510 de cette loi et auprès de la population de son territoire par l'entremise du Forum de la population, mis sur pied en vertu de l'article 343.1 de cette loi.
+
+L'agence s'assure de plus que les activités du modèle d'organisation qu'elle propose et celles du réseau universitaire intégré de santé s'exerceront de manière complémentaire.
+
+2003, c. 21, a. 30.
+
+31. À l'expiration du délai qu'il a fixé en application de l'article 25, le ministre peut, de sa propre initiative et après s'être conformé à l'article 30, proposer un modèle d'organisation.
+
+2003, c. 21, a. 31.
+
+32. La décision du ministre d'accepter une proposition d'une agence en vertu de l'article 25 doit être approuvée, avec ou sans modification, par le gouvernement. Il en est de même de la proposition du ministre visée à l'article 31.
+
+Le ministre dépose chaque décret édicté en application du premier alinéa devant l'Assemblée nationale dans les 30 jours de son adoption ou, si elle ne siège pas, dans les 30 jours de la reprise de ses travaux.
+
+2003, c. 21, a. 32.
+
+33. Une fois le décret visé à l'article 32 édicté et si nécessaire, le ministre, conformément à l'article 318 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) et malgré les articles 325 à 327 de cette loi, demande au registraire des entreprises la délivrance de lettres patentes fusionnant en un établissement public, constitué en vertu de cette loi, l'ensemble des établissements publics visés par la proposition et qui ont leur siège sur le territoire du réseau local de services de santé et de services sociaux concerné.
+
+Ces lettres patentes doivent, malgré le deuxième alinéa de l'article 319 de la Loi sur les services de santé et les services sociaux, indiquer le nom de 15 personnes qui agiront comme membres provisoires du conseil d'administration de cet établissement pour une période de deux ans à compter de la délivrance des lettres patentes. Ces personnes, choisies après consultation des établissements visés par la proposition, doivent comprendre l'un des membres du conseil d'administration de chacun de ces établissements. Le directeur général de l'établissement fait en outre partie du conseil d'administration dès sa nomination par les membres provisoires du conseil d'administration.
+
+Ce nouvel établissement public, issu de la fusion, agit comme instance locale du réseau local de services de santé et de services sociaux concerné.  Il n'est pas un organisme ni une entreprise du gouvernement au sens de la Loi sur le vérificateur général (chapitre V-5.01).
+
+2003, c. 21, a. 33; 2005, c. 32, a. 234.
+
+34. Lorsqu'une instance locale visée à l'article 33 devient cessionnaire des services qu'un établissement indiqué dans un programme élaboré en application de l'article 348 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) était tenu de rendre accessibles en langue anglaise pour les personnes d'expression anglaise, elle doit continuer de maintenir ces services comme si elle était mentionnée dans le programme et ce, jusqu'à la révision de ce dernier.
+
+2003, c. 21, a. 34.
+
+35. Lorsqu'un établissement reconnu en vertu de l'article 29.1 de la Charte de la langue française (chapitre C-11) est fusionné avec un établissement détenant une telle reconnaissance, le nouvel établissement conserve cette reconnaissance et ce, jusqu'à ce qu'elle soit, à sa demande, retirée par le gouvernement en application de cette charte.
+
+2003, c. 21, a. 35.
+
+36. Lorsqu'un établissement reconnu en vertu de l'article 29.1 de la Charte de la langue française (chapitre C-11) est fusionné avec un établissement ne détenant pas une telle reconnaissance, le nouvel établissement conserve cette reconnaissance uniquement pour les installations qui dépendaient auparavant de l'établissement reconnu et ce, jusqu'à ce que cette reconnaissance soit, à sa demande, retirée par le gouvernement en application de l'article 29.1 de cette charte. Une personne qui exerce ses fonctions ou exécute sa prestation de travail dans une telle installation est, pour l'application des articles 20 et 26 de cette charte, réputée être un employé de cette installation.
+
+2003, c. 21, a. 36.
+
+SECTION IV
+~~~~~~~~~~
+
+**POUVOIRS DU MINISTRE**
+
+37. En tout temps, lorsque le ministre constate qu'une agence ne se conforme pas aux prescriptions de l'article 25, il peut, pour ce seul motif, assumer l'administration provisoire de cette agence de la façon prévue à la Loi sur les services de santé et les services sociaux (chapitre S-4.2).
+
+2003, c. 21, a. 37.
+
+38. Le ministre peut, à l'égard d'une agence, exercer tous les pouvoirs que la loi lui confère à l'égard d'une régie régionale.
+
+En outre, il peut, de son propre chef, exercer les pouvoirs prévus aux articles 499 à 501 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2).
+
+2003, c. 21, a. 38.
+
+SECTION V
+~~~~~~~~~
+
+**DISPOSITIONS TRANSITOIRES ET FINALES**
+
+39. Une agence de développement de réseaux locaux de services de santé et de services sociaux jouit de tous les droits, acquiert tous les biens et assume toutes les obligations d'une régie régionale de la santé et des services sociaux à qui elle succède et les procédures où cette dernière est partie peuvent être continuées par l'agence sans reprise d'instance.
+
+2003, c. 21, a. 39.
+
+40. Les employés d'une régie régionale de la santé et des services sociaux visée à l'annexe, qui sont en fonction le 29 janvier 2004, deviennent, sans autre formalité, des employés de l'agence qui a succédé à cette régie.
+
+Ils occupent le poste et exercent les fonctions qui leur sont assignés par l'agence.
+
+2003, c. 21, a. 40.
+
+41. Le mandat des membres du conseil d'administration d'une régie régionale de la santé et des services sociaux visée à l'annexe se termine le 29 janvier 2004.
+
+Toutefois, la personne qui, le 29 janvier 2004, occupe le poste de président-directeur général d'une régie régionale de la santé et des services sociaux visée à l'annexe, devient, de plein droit, sans aucune autre formalité et jusqu'à l'expiration de son mandat, le président-directeur général de l'agence de développement de réseaux locaux de services de santé et de services sociaux qui succède à cette régie régionale. De plus, la rémunération, les avantages sociaux et les autres conditions de travail qui lui étaient applicables sont maintenus.
+
+2003, c. 21, a. 41.
+
+42. À compter du 30 janvier 2004, les sommes affectées par le ministre au budget de fonctionnement d'une régie régionale de la santé et des services sociaux pour son exercice financier deviennent les sommes affectées au budget de fonctionnement de l'agence qui lui succède.
+
+2003, c. 21, a. 42.
+
+43. Les dossiers et les documents d'une régie régionale de la santé et des services sociaux visée à l'annexe deviennent, sans autre formalité, les dossiers et documents de l'agence de développement de réseaux locaux de services de santé et de services sociaux qui lui succède.
+
+2003, c. 21, a. 43.
+
+44. Un Forum de la population, mis sur pied en vertu de l'article 343.1 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2), une commission médicale régionale, instituée en vertu de l'article 367 de cette loi, une commission infirmière régionale, instituée en vertu de l'article 370.1 de cette loi, une commission multidisciplinaire régionale, instituée en vertu de l'article 370.5 de cette loi, un département régional de médecine générale, institué en vertu de l'article 417.1 de cette loi, de même que les membres de tous ces organismes sont maintenus en fonction et continuent d'exercer leurs responsabilités conformément aux dispositions pertinentes de cette loi.
+
+2003, c. 21, a. 44.
+
+45. À moins que le contexte n'indique un sens différent et à compter du 30 janvier 2004, dans toutes les lois et dans tous les règlements, arrêtés, décrets ou autres documents, une référence à une «régie régionale de la santé et des services sociaux» est une référence à une «agence de développement de réseaux locaux de services de santé et de services sociaux».
+
+2003, c. 21, a. 45.
+
+46. La durée du mandat de chacun des membres provisoires du conseil d'administration d'une instance locale d'un réseau local de services de santé et de services sociaux prévue au deuxième alinéa de l'article 33 peut être prolongée par le ministre, pourvu que le délai de chaque prolongation n'excède pas un an.
+
+2003, c. 21, a. 46.
+
+47. Le ministre de la Santé et des Services sociaux est responsable de l'application de la présente loi.
+
+2003, c. 21, a. 47.
+
+48. Le ministre doit, au plus tard le 30 janvier 2006, faire au gouvernement un rapport sur l'application de la présente loi et, le cas échéant, sur l'opportunité de la maintenir en vigueur ou de la modifier.
+
+Ce rapport est déposé par le ministre dans les 30 jours suivants devant l'Assemblée nationale ou, si elle ne siège pas, dans les 30 jours de la reprise de ses travaux. La commission compétente de l'Assemblée nationale procède à l'étude de ce rapport.
+
+2003, c. 21, a. 48.
+
+49. (Omis).
+
+2003, c. 21, a. 49.
+
+ANNEXE  
+~~~~~~~~
+
+
+::
+
+  
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux de
+   de services sociaux                   l'Abitibi-Témiscamingue
+   de l'Abitibi-Témiscamingue 
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux du 
+   de services sociaux                   Bas-Saint-Laurent
+   du Bas-Saint-Laurent
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux de
+   de services sociaux                   Chaudière-Appalaches
+   de Chaudière-Appalaches
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux de
+   de services sociaux                   la Côte-Nord
+   de la Côte-Nord
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux de
+   de services sociaux                   l'Estrie
+   de l'Estrie
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux de
+   de services sociaux                   la Gaspésie—Iles-de-la-Madeleine
+   de la Gaspésie—Iles-de-la-Madeleine
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux de
+   de services sociaux                   Lanaudière
+   de Lanaudière
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux des 
+   de services sociaux                   Laurentides
+   des Laurentides
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux de
+   de services sociaux                   Laval
+   de Laval
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux de
+   de services sociaux                   la Mauricie et du Centre-du-Québec
+   de la Mauricie et du Centre-du-Québec
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux 
+   de services sociaux                   de la Montérégie
+   de la Montérégie
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux 
+   de services sociaux                   de Montréal-Centre
+   de Montréal
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux 
+   de services sociaux                   de l'Outaouais
+   de l'Outaouais
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux de Québec 
+   de services sociaux                   
+   de la Capitale nationale
+  
+  ·Agence de développement de réseaux   ·Régie régionale de la santé et
+   locaux de services de santé et        des services sociaux 
+   de services sociaux                   du Saguenay—Lac-Saint-Jean
+   du Saguenay—Lac-Saint-Jean
+
+2003, c. 21, annexe.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 21 des lois de 2003, tel qu'en vigueur le 1er mars 2004, à l'exception de l'article 49, est abrogé à compter de l'entrée en vigueur du chapitre A-8.1 des Lois refondues.

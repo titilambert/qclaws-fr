@@ -1,0 +1,240 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-21:
+
+============================
+A-21 Loi sur les architectes
+============================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+SECTION I
+~~~~~~~~~
+
+**DÉFINITIONS**
+
+1. Dans la présente loi et dans les règlements adoptés sous son autorité, à moins que le contexte n'indique un sens différent, les termes suivants signifient:
+
+ a) «Ordre»: l'Ordre des architectes du Québec constitué par la présente loi;
+
+ b) «Conseil d'administration»: le Conseil d'administration de l'Ordre;
+
+ c) «architecte» ou «membre de l'Ordre»: quiconque est inscrit au tableau;
+
+ d) «permis»: un permis délivré conformément au Code des professions (chapitre C-26) et à la présente loi;
+
+ e) «tableau»: la liste des membres en règle de l'Ordre dressée conformément au Code des professions et à la présente loi.
+
+1973, c. 59, a. 1; 1974, c. 65, a. 96; 2008, c. 11, a. 212.
+
+SECTION II
+~~~~~~~~~~
+
+**ORDRE DES ARCHITECTES DU QUÉBEC**
+
+2. L'ensemble des personnes habilitées à exercer la profession d'architecte au Québec constitue un ordre professionnel désigné sous le nom de «Ordre professionnel des architectes du Québec» ou «Ordre des architectes du Québec».
+
+1973, c. 59, a. 2; 1977, c. 5, a. 229; 1994, c. 40, a. 196.
+
+3. Sous réserve des dispositions de la présente loi, l'Ordre et ses membres sont régis par le Code des professions (chapitre C-26).
+
+1973, c. 59, a. 3.
+
+4. Le siège de l'Ordre est à Montréal ou à tout autre endroit du Québec déterminé par règlement du Conseil d'administration pris en application du paragraphe f de l'article 93 du Code des professions (chapitre C-26).
+
+1973, c. 59, a. 4; 1994, c. 40, a. 197; 2008, c. 11, a. 212.
+
+SECTION III
+~~~~~~~~~~~
+
+**CONSEIL D'ADMINISTRATION**
+
+5. L'Ordre est administré par un Conseil d'administration formé d'un président et de 13 administrateurs élus conformément au Code des professions (chapitre C-26) et de trois autres administrateurs nommés par l'Office des professions du Québec, de la manière prévue au Code des professions.
+
+1973, c. 59, a. 5; 2008, c. 11, a. 212.
+
+5.1. En outre des devoirs prévus aux articles 87 à 93 du Code des professions (chapitre C-26), le Conseil d'administration doit, par règlement, déterminer parmi les actes visés à l'article 16 ceux qui, suivant certaines conditions prescrites, peuvent être posés par des classes de personnes autres que des architectes.
+
+2000, c. 43, a. 1; 2008, c. 11, a. 212.
+
+6. (Abrogé).
+
+1973, c. 59, a. 6; 1994, c. 40, a. 198.
+
+7. (Abrogé).
+
+1973, c. 59, a. 7; 1994, c. 40, a. 198.
+
+8. (Abrogé).
+
+1973, c. 59, a. 8; 1994, c. 40, a. 198.
+
+9. (Abrogé).
+
+1973, c. 59, a. 9; 1994, c. 40, a. 198.
+
+SECTION IV
+~~~~~~~~~~
+
+**PERMIS**
+
+10. A droit d'obtenir un permis celui qui en fait la demande et qui:
+
+ a) (paragraphe abrogé);
+
+ b) est titulaire d'un diplôme reconnu valide à cette fin par le gouvernement ou jugé équivalent par le Conseil d'administration;
+
+ c) a satisfait aux exigences des stages de formation professionnelle;
+
+ d) a réussi les examens requis par l'Ordre;
+
+ e) (paragraphe abrogé);
+
+ f) s'est conformé aux conditions et formalités imposées conformément à la présente loi et aux règlements du Conseil d'administration.
+
+1973, c. 59, a. 10; 1994, c. 40, a. 200; 2008, c. 11, a. 212.
+
+11. Le Conseil d'administration peut délivrer un permis, aux conditions qu'il détermine:
+
+ a) à toute personne qui remplit les conditions fixées aux paragraphes d à f de l'article 10 et qui a complété une cléricature de neuf ans chez un patron reconnu par le Conseil d'administration;
+
+ b) à tout membre d'une association d'architectes d'une province canadienne qui remplit les conditions fixées aux paragraphes b, e et f de l'article 10, pourvu qu'il y ait réciprocité dans cette province à l'égard des membres de l'Ordre;
+
+ c) à toute personne qui remplit les conditions fixées aux paragraphes e et f de l'article 10 et qui, suivant l'opinion du Conseil d'administration, possède toutes les qualités requises pour exercer la profession.
+
+Le Conseil d'administration peut, en tout temps, suspendre l'application du paragraphe a, pourvu qu'il accorde un minimum de dix ans aux personnes qui sont alors en train d'effectuer leur cléricature, afin de leur permettre de compléter celle-ci et de subir les examens requis.
+
+1973, c. 59, a. 11; 2008, c. 11, a. 212.
+
+12. Le Conseil d'administration peut délivrer, aux conditions qu'il détermine, un permis temporaire à toute personne engagée comme professeur dans une école d'architecture du Québec reconnue par le gouvernement.  Ce permis est valable pour la durée de l'engagement de cette personne comme professeur.
+
+1973, c. 59, a. 12; 2008, c. 11, a. 212.
+
+13. (Abrogé).
+
+1973, c. 59, a. 13; 1994, c. 40, a. 200.
+
+SECTION V
+~~~~~~~~~
+
+**EXERCICE DE LA PROFESSION D'ARCHITECTE**
+
+14. (Abrogé).
+
+1973, c. 59, a. 14; 1994, c. 40, a. 200.
+
+15. Quiconque, sans être inscrit au tableau:
+
+ a) exerce la profession d'architecte;
+
+ b) prend le titre d'architecte, soit seul, soit avec quelque autre mot;
+
+ c) utilise quelque titre, désignation ou abréviation susceptible de faire croire que l'exercice de la profession lui est permis;
+
+ d) agit comme architecte ou de manière à donner lieu de croire qu'il est autorisé à agir comme tel;
+
+ e) authentifie par sceau, signature ou initiales un document relatif à l'exercice de la profession d'architecte,
+
+ f) (paragraphe abrogé)
+
+commet une infraction et est passible, pour chaque infraction, des peines prévues à l'article 188 du Code des professions (chapitre C-26).
+
+Rien au présent article n'empêche une personne qui, le 1er février 1974, était architecte-paysagiste et s'intitulait comme tel, de continuer à porter ce titre.
+
+Rien au présent article ne doit empêcher une personne de poser des actes réservés aux membres de l'Ordre, pourvu qu'elle les pose en conformité avec les dispositions d'un règlement pris en application du paragraphe h de l'article 94 du Code des professions.
+
+Rien au présent article ne doit empêcher une personne faisant partie d'une classe de personnes visée dans un règlement pris en application de l'article 5.1 de poser des actes réservés aux membres de l'Ordre, pourvu qu'elle les pose en conformité avec les dispositions de ce règlement.
+
+1973, c. 59, a. 15; 1974, c. 65, a. 97; 1994, c. 40, a. 201; 2000, c. 43, a. 2.
+
+16. Tous les plans et devis de travaux d'architecture pour la construction, l'agrandissement, la reconstruction, la rénovation ou la modification d'un édifice, doivent être signés et scellés par un membre de l'Ordre.
+
+1973, c. 59, a. 16; 2000, c. 43, a. 3.
+
+16.1. L'article 16 ne s'applique pas aux plans et devis de travaux d'architecture :
+
+ 1° pour la construction, l'agrandissement, la reconstruction, la rénovation ou la modification de l'un des édifices suivants :
+
+a)  une habitation unifamiliale isolée ;
+
+b)  une habitation unifamiliale jumelée ou en rangée, une habitation multifamiliale d'au plus quatre unités, un établissement commercial, un établissement d'affaires, un établissement industriel ou une combinaison de ces habitations ou établissements lorsque, après réalisation des travaux, l'édifice n'excède pas deux étages et 300 m2 de superficie brute totale des planchers et ne compte qu'un seul niveau de sous-sol ;
+
+ 2° pour une modification ou rénovation de l'aménagement intérieur de tout édifice ou partie d'édifice, qui n'en change pas l'usage, ni n'en affecte l'intégrité structurale, les murs ou séparations coupe-feu, les issues et leurs accès, ainsi que l'enveloppe extérieure.
+
+2000, c. 43, a. 4.
+
+16.2. Aux fins de l'article 16.1, les termes suivants signifient :
+
+ «établissement commercial»  : bâtiment, ou partie de bâtiment, utilisé pour l'étalage ou la vente de marchandises ou de denrées au détail ;
+
+ «établissement d'affaires»  : bâtiment, ou partie de bâtiment, utilisé pour la conduite des affaires ou la prestation de services professionnels ou personnels ;
+
+ «établissement industriel»  : bâtiment, ou partie de bâtiment, utilisé pour l'assemblage, la fabrication, la confection, le traitement, la réparation ou le stockage de produits, de matières ou de matériaux, à l'exclusion des établissements industriels à risques moyens ou très élevés, tels que définis dans un règlement pris en application de la Loi sur le bâtiment (chapitre B-1.1) ; 
+
+ «habitation»  : bâtiment, ou partie de bâtiment, où des personnes peuvent dormir, sans y être hébergées ou internées en vue de recevoir des soins médicaux ou sans y être détenues ;
+
+ «superficie brute totale des planchers»  : la superficie totale de tous les étages au-dessus du niveau du sol, calculée entre les faces externes des murs extérieurs.
+
+2000, c. 43, a. 4.
+
+17. Toute personne qui utilise, ou permet qu'on utilise, pour les fins de travaux pour lesquels l'article 16 s'applique, des plans et devis non conformes à cet article, commet une infraction et est passible d'une amende n'excédant pas 10 000 $.
+
+Toutefois ne devient passible de cette peine l'entrepreneur qui exécute des travaux pour le compte d'autrui, lorsqu'à première vue les plans dont il se sert apparaissent comme ayant été signés et scellés par un membre de l'Ordre, que s'il en continue l'exécution après avoir reçu un avis écrit de l'Ordre que les plans et devis utilisés pour ces travaux ne sont pas conformes à l'article 16.
+
+Également, n'est pas passible de cette peine la personne qui permet que des plans et devis soient utilisés, lorsqu'à première vue, ceux-ci apparaissent comme ayant été signés et scellés par un membre de l'Ordre.
+
+1973, c. 59, a. 17; 2000, c. 43, a. 5.
+
+18. Tout enquêteur désigné par le Conseil d'administration peut pénétrer à toute heure raisonnable dans un chantier de construction, afin de constater si les dispositions de l'article 16 sont respectées.
+
+Cet enquêteur doit, s'il en est requis, exhiber un certificat signé par le secrétaire de l'Ordre, attestant sa qualité.
+
+1973, c. 59, a. 18; 2008, c. 11, a. 212.
+
+19. (Abrogé).
+
+1973, c. 59, a. 19; 1990, c. 4, a. 58; 1992, c. 61, a. 54.
+
+20. Rien aux articles 15 et 16 ne doit être interprété comme affectant de quelque façon les droits conférés par la loi aux membres de l'Ordre des ingénieurs du Québec.
+
+1973, c. 59, a. 20.
+
+21. Le serment de l'architecte constitue une preuve du fait que les services qu'il a rendus ont été requis, et de la nature et de la durée de ces services, mais ce serment peut être contredit de la même manière que toute autre preuve.
+
+1973, c. 59, a. 21.
+
+22. Les actions intentées par les architectes en recouvrement des sommes d'argent à eux dues pour services professionnels sont considérées comme matières qui doivent être instruites et jugées d'urgence conformément au Code de procédure civile (chapitre C-25).
+
+1973, c. 59, a. 22.
+
+SECTION V.1
+~~~~~~~~~~~
+
+**RAPPORT CONCERNANT L'ARTICLE 5.1**
+
+22.1. Le ministre doit, au plus tard à l'expiration d'un délai de deux ans à compter de l'entrée en vigueur de l'article 5.1, faire au gouvernement rapport sur la mise en application de cette disposition.
+
+Ce rapport est déposé dans les 15 jours suivants devant l'Assemblée nationale ou, si elle ne siège pas, dans les 15 jours de la reprise de ses travaux.
+
+Dans les trois mois qui suivent la date de ce dépôt, la commission compétente de l'Assemblée nationale doit procéder à l'étude du rapport et examiner l'application de l'article 5.1. Elle entend à ce sujet les organismes représentatifs qu'elle désigne.
+
+2000, c. 43, a. 7.
+
+SECTION VI
+~~~~~~~~~~
+
+
+.. note:: Cette section a cessé d'avoir effet le 17 avril 1987.
+
+23. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 59 des lois de 1973, tel qu'en vigueur au 31 décembre 1977, à l'exception des articles 23 à 29 et 31, est abrogé à compter de l'entrée en vigueur du chapitre A-21 des Lois refondues.

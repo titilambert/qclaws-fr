@@ -1,0 +1,284 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _B-7.1:
+
+====================================================================================
+B-7.1 Loi sur le Bureau d'accréditation des pêcheurs et des aides-pêcheurs du Québec
+====================================================================================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+CHAPITRE I
+----------
+
+**CONSTITUTION ET MISSION**
+
+1. Est institué le « Bureau d'accréditation des pêcheurs et des aides-pêcheurs du Québec ».
+
+Le Bureau est une personne morale.
+
+1999, c. 32, a. 1.
+
+2. Le Bureau a pour mission d'élaborer et de mettre en oeuvre un régime de reconnaissance de la compétence professionnelle des pêcheurs et aides-pêcheurs en eaux à marée, sauf en ce qui concerne la pêche aux espèces anadromes et catadromes.
+
+À ce titre:
+
+ 1° il délivre des certificats attestant l'aptitude des demandeurs à exercer le métier de pêcheur ou d'aide-pêcheur selon les exigences de la pêche commerciale;
+
+ 2° il donne son avis au ministre sur toute question relative à la compétence professionnelle des pêcheurs et des aides-pêcheurs.
+
+1999, c. 32, a. 2.
+
+CHAPITRE II
+-----------
+
+**ORGANISATION ET FONCTIONNEMENT**
+
+3. Le Bureau a son siège à l'endroit qu'il détermine. Un avis de la situation ou de tout déplacement du siège est publié à la Gazette officielle du Québec.
+
+1999, c. 32, a. 3.
+
+4. Le Bureau est administré par un conseil d'administration de sept membres composé des personnes suivantes:
+
+ 1° un membre nommé par le ministre parmi les employés du gouvernement ou de ses organismes ou parmi les personnes nommées par un ministre ou le gouvernement au sein d'un ministère du gouvernement ou de l'un de ses organismes;
+
+ 2° cinq membres nommés par les associations les plus représentatives, sur l'ensemble du territoire, des groupes suivants et répartis comme suit:
+
+a)  deux pêcheurs semi-hauturiers;
+
+b)  deux pêcheurs côtiers;
+
+c)  un aide-pêcheur, lequel n'a toutefois pas droit de vote sur toutes questions concernant la reconnaissance professionnelle des pêcheurs;
+
+ 3° un membre nommé par l'ensemble des associations régionales de pêcheurs qui ne sont pas membres des associations visées au paragraphe 2°.
+
+Le ministre s'assure du caractère représentatif des associations visées au paragraphe 2° du premier alinéa.
+
+À défaut par les associations visées au paragraphe 3° du premier alinéa de nommer un membre dans les 60 jours d'une vacance, le ministre nomme la personne pour représenter ces associations.
+
+1999, c. 32, a. 4; 2006, c. 27, a. 1.
+
+4.1. Une personne ne peut être membre du conseil d'administration si elle a été déclarée coupable d'une infraction à la Loi sur les pêches (Lois révisées du Canada (1985), chapitre F-14) ou à un de ses règlements ou si elle a été déclarée coupable d'une infraction ou d'un acte criminel commis dans l'exercice des activités de pêche ou comportant fraude ou malhonnêteté, à moins qu'elle n'en ait obtenu le pardon. Cette inhabilité subsiste durant deux ans suivant le prononcé de la déclaration de culpabilité ou jusqu'à la fin de la peine si elle est de plus de deux ans.
+
+2006, c. 27, a. 1.
+
+5. Le mandat des membres du conseil d'administration est d'au plus trois ans.
+
+À l'expiration de leur mandat, les membres demeurent en fonction jusqu'à ce qu'ils soient remplacés ou nommés de nouveau.
+
+1999, c. 32, a. 5.
+
+6. Toute vacance parmi les membres du conseil est comblée suivant les règles de nomination prévues aux articles 4 et 4.1 et pour la durée non écoulée du mandat du membre à remplacer.
+
+Constitue notamment une vacance, l'absence à un nombre de réunions du conseil déterminé par le règlement du Bureau, dans les cas et les circonstances qui y sont indiqués.
+
+1999, c. 32, a. 6; 2006, c. 27, a. 2.
+
+7. Aux conditions et dans la mesure déterminée par règlement du Bureau, les membres du conseil d'administration peuvent être rémunérés et ont droit, sur présentation des pièces justificatives, au remboursement des dépenses raisonnables faites dans l'exercice de leurs fonctions.
+
+1999, c. 32, a. 7; 2006, c. 27, a. 3.
+
+8. Les membres du conseil d'administration choisissent parmi eux un président qui convoque les réunions du conseil, les préside et voit à son bon fonctionnement. Il exerce en outre les autres fonctions qui lui sont assignées par le conseil.
+
+Les membres du conseil d'administration choisissent également parmi eux un vice-président. Il exerce les fonctions du président du conseil, en cas d'absence ou d'empêchement de celui-ci.
+
+1999, c. 32, a. 8; 2006, c. 27, a. 4.
+
+9. Le quorum aux séances du conseil d'administration est constitué de la majorité des membres.
+
+En cas de partage, le président a voix prépondérante.
+
+1999, c. 32, a. 9; 2006, c. 27, a. 5.
+
+10. Le Bureau peut établir des règles pour son fonctionnement.
+
+Il doit en outre élaborer un code d'éthique et de déontologie applicable aux membres de son conseil d'administration.
+
+1999, c. 32, a. 10; 2006, c. 27, a. 6.
+
+11. Le Bureau peut s'adjoindre le personnel nécessaire à son fonctionnement.
+
+1999, c. 32, a. 11; 2000, c. 8, a. 234; 2006, c. 27, a. 7.
+
+12. Un membre du personnel du Bureau qui a un intérêt direct ou indirect dans une entreprise mettant en conflit son intérêt personnel et celui du Bureau doit, sous peine de déchéance de sa charge, dénoncer par écrit son intérêt au Bureau.
+
+1999, c. 32, a. 12.
+
+13. Le Bureau, ses administrateurs, ou toute personne ou organisme à qui le Bureau a confié l'exercice de ses attributions, ne peuvent être poursuivis en justice pour des actes accomplis de bonne foi dans l'exercice de leurs fonctions.
+
+1999, c. 32, a. 13.
+
+CHAPITRE III
+------------
+
+**POUVOIRS**
+
+14. Le Bureau doit prendre des règlements portant sur:
+
+ 1° les conditions de délivrance d'un certificat de pêcheur ou d'aide-pêcheur ainsi que les droits payables;
+
+ 2° la formation professionnelle exigée pour la délivrance d'un certificat, dont l'apprentissage en mer, ainsi que les qualifications équivalentes, dont l'expérience;
+
+ 3° les conditions de délivrance d'un certificat d'apprenti-pêcheur ainsi que les droits payables;
+
+ 4° la délivrance, le contenu et la mise à jour du livret de pêcheur, d'aide-pêcheur et d'apprenti-pêcheur.
+
+Le Bureau peut prendre des règlements portant sur:
+
+ 1° les obligations des titulaires de certificat ainsi que les renseignements et documents à communiquer au Bureau ou à conserver;
+
+ 1.1° les obligations des titulaires de certificat concernant la formation continue;
+
+ 2° la déontologie des titulaires de certificat;
+
+ 3° les cas d'exemption, aux conditions qui y sont prévues le cas échéant, de certaines personnes de l'application de tout ou partie des règlements pris en application du présent article.
+
+1999, c. 32, a. 14; 2006, c. 27, a. 8.
+
+15. Les règlements du Bureau pris en application du paragraphe 2° du premier alinéa et des paragraphes 1.1° et 3° du deuxième alinéa de l'article 14 sont soumis à l'approbation du gouvernement qui peut les modifier.
+
+À défaut par le Bureau de prendre ou de modifier dans le délai indiqué par le ministre un règlement pris en vertu du premier alinéa de l'article 14, le ministre ou, le cas échéant, le gouvernement peut le prendre et ce règlement devient alors le règlement du Bureau.
+
+1999, c. 32, a. 15; 2006, c. 27, a. 9.
+
+15.1. Les règlements du Bureau pris en application du paragraphe 2° du premier alinéa et des paragraphes 1.1° et 3° du deuxième alinéa de l'article 14 ainsi que du deuxième alinéa de l'article 15 sont publiés à la Gazette officielle du Québec et entrent en vigueur le quinzième jour qui suit la date de leur publication ou à toute date ultérieure qui y est indiquée.
+
+Les règlements du Bureau pris en application des paragraphes 1°, 3° et 4° du premier alinéa et des paragraphes 1° et 2° du deuxième alinéa de l'article 14 ainsi que de l'article 22 sont publiés à la Gazette officielle du Québec et entrent en vigueur à la date de leur publication ou à toute autre date ultérieure qui y est indiquée.
+
+2006, c. 27, a. 9.
+
+16. Le Bureau peut suspendre ou révoquer le certificat du titulaire:
+
+ 1° qui ne remplit plus les conditions de délivrance prévues par règlement;
+
+ 2° qui a obtenu son certificat à la suite de représentations fausses ou trompeuses;
+
+ 3° qui ne respecte pas les dispositions réglementaires prises en application de la présente loi;
+
+ 4° qui ne respecte pas les pratiques de pêche commerciale généralement reconnues et applicables aux pêcheurs et aides-pêcheurs professionnels.
+
+Avant de suspendre ou de révoquer le certificat, le Bureau doit notifier par écrit au titulaire un préavis d'au moins 10 jours pour lui permettre de présenter ses observations.
+
+1999, c. 32, a. 16.
+
+16.1. La personne dont la demande de délivrance de certificat est refusée ou dont le certificat est suspendu ou révoqué par le Bureau peut, dans les 30 jours de la réception de la décision, en demander la révision à la personne désignée à cette fin par le ministre.
+
+Le Bureau transmet une copie de sa décision à la personne concernée et l'avise de son droit d'en demander la révision à la personne désignée par le ministre ainsi que du délai dont elle dispose.
+
+2006, c. 27, a. 10.
+
+17. La décision en révision doit être rendue dans les 30 jours de la réception de la demande et transmise par écrit à la personne qui a fait cette demande de révision. Si la demande est rejetée, cette personne peut contester cette décision devant le Tribunal administratif du Québec dans les 30 jours de sa notification.
+
+La personne désignée par le ministre qui rejette la demande de révision transmet une copie de sa décision à la personne concernée et l'avise de son droit de contester la décision devant le Tribunal administratif du Québec ainsi que du délai dont elle dispose.
+
+1999, c. 32, a. 17; 2006, c. 27, a. 11.
+
+18. Le Bureau peut, dans la mesure et aux conditions qu'il détermine par règlement, confier à toute autre personne ou organisme l'exercice de ses fonctions concernant la délivrance des certificats ou la délivrance et la mise à jour des livrets.
+
+1999, c. 32, a. 18; 2006, c. 27, a. 12.
+
+19. (Abrogé).
+
+1999, c. 32, a. 19; 2006, c. 27, a. 13.
+
+20. Le Bureau est soumis à l'application de la Loi sur la protection des renseignements personnels dans le secteur privé (chapitre P-39.1).
+
+1999, c. 32, a. 20; 2006, c. 22, a. 177; 2006, c. 27, a. 14.
+
+CHAPITRE IV
+-----------
+
+**DISPOSITIONS FINANCIÈRES**
+
+21. (Abrogé).
+
+1999, c. 32, a. 21; 2006, c. 27, a. 15.
+
+22. Le Bureau finance ses activités. Il peut, par règlement, prescrire le paiement de droits annuels par les titulaires de certificats, ainsi que le paiement de frais pour l'examen d'une demande par le Bureau et pour tout autre acte accompli par ce dernier.
+
+1999, c. 32, a. 22; 2006, c. 27, a. 16.
+
+23. (Abrogé).
+
+1999, c. 32, a. 23; 2006, c. 27, a. 17.
+
+24. Les sommes reçues par le Bureau doivent être affectées au paiement de ses obligations.
+
+1999, c. 32, a. 24; 2006, c. 27, a. 18.
+
+CHAPITRE V
+----------
+
+**COMPTES ET RAPPORTS**
+
+25. L'exercice financier du Bureau se termine le 31 décembre de chaque année.
+
+1999, c. 32, a. 25; 2006, c. 27, a. 19.
+
+26. (Abrogé).
+
+1999, c. 32, a. 26; 2006, c. 27, a. 20.
+
+27. Le Bureau doit faire vérifier chaque année ses livres et comptes par un vérificateur. Le rapport du vérificateur doit accompagner les états financiers et le rapport d'activités.
+
+À défaut par le Bureau de faire vérifier ses livres et comptes, le ministre peut faire procéder à cette vérification et désigner à cette fin un vérificateur dont la rémunération est à la charge du Bureau.
+
+1999, c. 32, a. 27; 2006, c. 27, a. 21.
+
+27.1. Le vérificateur a accès à tous les livres, registres, comptes et autres écritures comptables du Bureau ainsi qu'aux pièces justificatives. Toute personne en ayant la garde doit lui en faciliter l'examen.
+
+Il peut exiger des administrateurs, des mandataires ou du personnel du Bureau les renseignements et documents nécessaires à l'accomplissement de son mandat.
+
+2006, c. 27, a. 21.
+
+27.2. Le vérificateur peut exiger la tenue d'une séance du conseil d'administration sur toute question relative à son mandat.
+
+2006, c. 27, a. 21.
+
+28. Le Bureau doit, au plus tard le 31 mai de chaque année, produire au ministre ses états financiers ainsi qu'un rapport de ses activités pour l'exercice financier précédent.
+
+Les états financiers et le rapport d'activités doivent contenir tous les renseignements exigés par le ministre.
+
+Le Bureau transmet également une copie du rapport d'activités aux associations des groupes visés à l'article 4.
+
+1999, c. 32, a. 28; 2006, c. 27, a. 22.
+
+29. (Abrogé).
+
+1999, c. 32, a. 29; 2006, c. 27, a. 23.
+
+30. Le Bureau doit transmettre au ministre les documents ou autres renseignements qu'il requiert sur ses activités, dans le délai et suivant la forme qu'il prescrit.
+
+1999, c. 32, a. 30.
+
+CHAPITRE VI
+-----------
+
+**DISPOSITIONS DIVERSES**
+
+31. Lorsque, de l'avis du ministre, le Bureau néglige ou est dans l'incapacité d'exercer les responsabilités qui lui sont confiées, le ministre, après avoir donné à ce dernier l'occasion de présenter ses observations, lui ordonne d'apporter les correctifs nécessaires; à défaut par le Bureau d'agir en conséquence, le ministre prend les moyens appropriés pour assurer l'application de la loi et des règlements, notamment en substituant ses décisions à celles du Bureau.
+
+1999, c. 32, a. 31.
+
+32. (Modification intégrée au c. J-3, annexe IV).
+
+1999, c. 32, a. 32.
+
+33. Le ministre de l'Agriculture, des Pêcheries et de l'Alimentation est responsable de l'application de la présente loi.
+
+1999, c. 32, a. 33.
+
+34. (Omis).
+
+1999, c. 32, a. 34.
+
+ANNEXES ABROGATIVES
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 32 des lois de 1999, tel qu'en vigueur le 1er avril 2000, à l'exception de l'article 34, est abrogé à compter de l'entrée en vigueur du chapitre B-7.1 des Lois refondues.
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le paragraphe 1° du deuxième alinéa de l'article 2 ainsi que les articles 16, 17, 31 et 32 du chapitre 32 des lois de 1999, tels qu'en vigueur le 1er avril 2002, sont abrogés à compter de l'entrée en vigueur de la mise à jour au 1er avril 2002 du chapitre B-7.1 des Lois refondues.

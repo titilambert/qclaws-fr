@@ -1,0 +1,3002 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _B-1.1:
+
+=========================
+B-1.1 Loi sur le bâtiment
+=========================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+CHAPITRE I
+----------
+
+**APPLICATION ET INTERPRÉTATION**
+
+SECTION I
+~~~~~~~~~
+
+**APPLICATION**
+
+1. La présente loi a pour objets:
+
+ 1° d'assurer la qualité des travaux de construction d'un bâtiment et, dans certains cas, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier;
+
+ 2° d'assurer la sécurité du public qui accède à un bâtiment ou à un équipement destiné à l'usage du public ou qui utilise une installation non rattachée à un bâtiment ou une installation d'équipement pétrolier.
+
+Dans la poursuite de ces objets, la présente loi voit notamment à la qualification professionnelle des entrepreneurs et des constructeurs-propriétaires.
+
+1985, c. 34, a. 1; 1991, c. 74, a. 1; 2005, c. 10, a. 24.
+
+2. La présente loi s'applique:
+
+ 1° à un bâtiment utilisé ou destiné à être utilisé pour abriter ou recevoir des personnes, des animaux ou des choses, y compris aux matériaux, aux installations et aux équipements de ce bâtiment;
+
+ 2° à un équipement destiné à l'usage du public;
+
+ 3° aux installations suivantes non rattachées à un bâtiment:
+
+a)  une installation électrique;
+
+b)  une installation destinée à utiliser, à entreposer ou à distribuer du gaz;
+
+c)  une installation sous pression;
+
+d)  une installation de plomberie;
+
+e)  une installation de protection contre la foudre;
+
+ 3.1° à une installation d'équipement pétrolier;
+
+ 4° au voisinage de ces bâtiment, équipement et installations;
+
+ 5° à tout autre ouvrage de génie civil, mais uniquement pour les fins de l'application des chapitres IV et V.
+
+1985, c. 34, a. 2; 1991, c. 74, a. 2; 2005, c. 10, a. 25.
+
+3. La présente loi, à l'exception du chapitre IV, ne s'applique pas à une mine visée par la Loi sur les mines (chapitre M-13.1).
+
+Toutefois, elle s'applique à une installation sous pression ou à une installation d'équipement pétrolier qui y est située.
+
+1985, c. 34, a. 3; 1987, c. 64, a. 344; 2005, c. 10, a. 26.
+
+4. Le gouvernement peut, par règlement, soustraire de l'application totale ou partielle de la présente loi la totalité ou une partie du territoire du Québec décrit à la convention visée à l'article 1 de la Loi approuvant la Convention de la Baie James et du Nord québécois (chapitre C-67) et à la convention visée à l'article 1 de la Loi approuvant la Convention du Nord-Est québécois (chapitre C-67.1), à l'exception des territoires municipaux situés au sud du cinquantième parallèle.
+
+1985, c. 34, a. 4; 1996, c. 2, a. 85.
+
+4.1. La Régie du bâtiment du Québec peut, par règlement, soustraire de l'application totale ou partielle de la présente loi des catégories de personnes, d'entrepreneurs, de constructeurs-propriétaires, de fabricants d'installation sous pression, de propriétaires de bâtiment, d'équipement destiné à l'usage du public, d'installation non rattachée à un bâtiment ou d'installation d'équipement pétrolier de même que des catégories de bâtiments, d'installations sous pression, d'équipements, d'installations ou de travaux de construction.
+
+1991, c. 74, a. 4; 1998, c. 46, a. 2; 2005, c. 10, a. 27; 2010, c. 28, a. 1.
+
+5. La présente loi lie le gouvernement, ses ministères et les organismes mandataires de l'État dans la mesure prévue par règlement du gouvernement.
+
+1985, c. 34, a. 5; 1999, c. 40, a. 37; 1991, c. 74, a. 5.
+
+6. Rien dans la présente loi n'affecte les droits et prérogatives des membres de l'Ordre professionnel des technologues professionnels du Québec et n'empêche le travail effectué par ces technologues, en vertu de la formation qui leur est donnée par un institut de technologie, régi par la Loi sur l'enseignement spécialisé (chapitre E-10) ou par un collège, régi par la Loi sur les collèges d'enseignement général et professionnel (chapitre C-29).
+
+1985, c. 34, a. 6; 1993, c. 38, a. 7; 1994, c. 40, a. 457.
+
+SECTION I.1
+~~~~~~~~~~~
+
+**ENTENTES PERMETTANT L'APPLICATION D'UN RÉGIME PARTICULIER**
+
+6.1. La présente section a pour objet d'autoriser la mise en oeuvre de toute entente conclue relativement à une matière visée par la présente loi entre le gouvernement et les Mohawks de Kahnawake représentés par le Conseil Mohawk de Kahnawake et permettant l'application d'un régime particulier.
+
+L'entente visée au premier alinéa doit prévoir que le régime de Kahnawake contient des normes semblables à celles du régime institué dans cette matière par la présente loi.
+
+2014, c. 18, a. 2.
+
+6.2. Les dispositions d'une entente visée à l'article 6.1 s'appliquent malgré toute disposition contraire de la présente loi, à moins que l'entente n'en dispose autrement.
+
+2014, c. 18, a. 2.
+
+6.3. Le gouvernement peut, par règlement, prendre toute mesure nécessaire à l'application de la présente section, notamment prévoir les adaptations qu'il convient d'apporter aux dispositions d'une loi ou d'un texte d'application pour tenir compte de l'existence d'une entente.
+
+Un règlement pris en vertu du premier alinéa requiert l'assentiment préalable des Mohawks de Kahnawake représentés par le Conseil Mohawk de Kahnawake.
+
+2014, c. 18, a. 2.
+
+6.4. Toute entente visée à l'article 6.1 est déposée par le ministre à l'Assemblée nationale dans les 30 jours de sa signature ou, si elle ne siège pas, dans les 30 jours de la reprise de ses travaux.
+
+La commission compétente de l'Assemblée nationale doit étudier cette entente, de même que tout règlement pris en vertu du premier alinéa de l'article 6.3.
+
+2014, c. 18, a. 2.
+
+6.5. Toute entente est publiée sur le site Internet du ministère du Travail, du ministère du Conseil exécutif et de la Régie, au plus tard à la date de son entrée en vigueur et jusqu'au cinquième anniversaire de sa cessation d'effet, le cas échéant.
+
+2014, c. 18, a. 2.
+
+6.6. La Régie peut conclure avec le Conseil Mohawk de Kahnawake une entente administrative pour faciliter l'application d'une entente visée à l'article 6.1.
+
+2014, c. 18, a. 2; N.I. 2015-01-01.
+
+SECTION II
+~~~~~~~~~~
+
+**INTERPRÉTATION**
+
+7. Dans la présente loi, à moins que le contexte n'indique un sens différent, on entend par:
+
+«constructeur-propriétaire»: une personne qui, pour son propre compte, exécute ou fait exécuter des travaux de construction;
+
+«entrepreneur»: une personne qui, pour autrui, exécute ou fait exécuter des travaux de construction ou fait ou présente des soumissions, personnellement ou par personne interposée, dans le but d'exécuter ou de faire exécuter, à son profit de tels travaux;
+
+«gaz»: le gaz naturel, le gaz manufacturé combustible, une variété ou un mélange de ces gaz, le gaz de pétrole liquéfié ou un mélange de ce gaz et d'air ou tout autre gaz désigné par règlement de la Régie et, dans le cas d'une installation sous pression, tout gaz combustible ou incombustible;
+
+«installation d'équipement pétrolier»: une installation destinée à utiliser, à entreposer ou à distribuer un produit pétrolier;
+
+«installation sous pression»: selon le contexte, l'un ou plusieurs des équipements sous pression suivants assemblés pour former un tout intégré et fonctionnel: un appareil ou une chaudière destinés à contenir un gaz combustible ou non ou un liquide sous pression de même que la tuyauterie et tout accessoire qui y est relié;
+
+«produit pétrolier»: l'essence, le carburant diesel ou biodiesel, l'éthanol-carburant, le mazout, ainsi que tout autre mélange liquide d'hydrocarbures déterminé par règlement de la Régie.
+
+1985, c. 34, a. 7; 1991, c. 74, a. 6; 2005, c. 10, a. 28; 2010, c. 28, a. 2.
+
+8. Est présumée être un entrepreneur, la personne:
+
+ 1° qui offre en vente ou en échange un bâtiment ou un ouvrage de génie civil, à moins qu'elle ne prouve que les travaux de construction de ce bâtiment ou ouvrage n'ont pas été exécutés dans un but de vente ou d'échange;
+
+ 2° qui entreprend de nouveaux travaux de construction moins d'un an à compter de la fin des premiers travaux.
+
+1985, c. 34, a. 8; 1991, c. 74, a. 7.
+
+9. Pour l'application de la présente loi, sont assimilés à des travaux de construction les travaux de fondation, d'érection, de rénovation, de réparation, d'entretien, de modification ou de démolition.
+
+1985, c. 34, a. 9.
+
+10. Est un équipement destiné à l'usage du public un lieu de baignade, un jeu mécanique, une estrade, une remontée mécanique, un ascenseur, une plate-forme élévatrice, un funiculaire, un belvédère, une tente ou une structure gonflable désigné par règlement de la Régie. Il en est de même de tout autre équipement désigné par règlement de la Régie.
+
+La Régie établit, par règlement, les critères permettant de déterminer si un équipement est destiné à l'usage du public.
+
+1985, c. 34, a. 10; 1991, c. 74, a. 8; 2010, c. 28, a. 3.
+
+11. La présente loi n'a pas pour effet de limiter les obligations autrement imposées à une personne visée par la présente loi.
+
+1985, c. 34, a. 11.
+
+11.1. La Commission des relations du travail est seule compétente pour entendre toute question portant sur l'interprétation ou l'application des articles 2, 4, 4.1, 9, 10, 29, 41 et 42 et des règlements adoptés en vertu des paragraphes 1° à 5° de l'article 182.
+
+1991, c. 74, a. 9; 1998, c. 46, a. 3; 2001, c. 26, a. 73; 2006, c. 58, a. 53.
+
+11.2. (Abrogé).
+
+1991, c. 74, a. 9; 2001, c. 26, a. 74.
+
+11.3. (Abrogé).
+
+1991, c. 74, a. 9; 2001, c. 26, a. 74.
+
+CHAPITRE II
+-----------
+
+**TRAVAUX DE CONSTRUCTION**
+
+SECTION I
+~~~~~~~~~
+
+**APPLICATION**
+
+12. Le présent chapitre s'applique à tous les travaux de construction d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier, y compris leur voisinage.
+
+1985, c. 34, a. 12; 1991, c. 74, a. 10; 2005, c. 10, a. 29.
+
+SECTION II
+~~~~~~~~~~
+
+**CODE DE CONSTRUCTION**
+
+13. La Régie du bâtiment du Québec adopte un code de construction qui établit des normes concernant les travaux de construction d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier, y compris leur voisinage.
+
+1985, c. 34, a. 13; 1991, c. 74, a. 11; 2005, c. 10, a. 30.
+
+14. L'entrepreneur doit se conformer au Code de construction (chapitre B-1.1, r. 2) pour les travaux de construction sous sa responsabilité.
+
+1985, c. 34, a. 14.
+
+15. Le constructeur-propriétaire qui exécute lui-même des travaux de construction doit se conformer au Code de construction (chapitre B-1.1, r. 2).
+
+1985, c. 34, a. 15.
+
+16. L'entrepreneur ou le constructeur-propriétaire doit, dans les cas déterminés par règlement de la Régie, fournir à celle-ci une attestation de la conformité des travaux de construction au Code de construction (chapitre B-1.1, r. 2) produite par une personne ou un organisme reconnus par la Régie conformément à un règlement de celle-ci.
+
+1985, c. 34, a. 16; 1991, c. 74, a. 12; 1998, c. 46, a. 4; 2010, c. 28, a. 4.
+
+17. L'entrepreneur ne peut réclamer un montant pour la production d'une attestation de conformité visée à l'article 16.
+
+1985, c. 34, a. 17; 1991, c. 74, a. 12; 1998, c. 46, a. 4.
+
+17.1. (Remplacé).
+
+1991, c. 74, a. 12; 1998, c. 46, a. 4.
+
+17.2. (Remplacé).
+
+1991, c. 74, a. 12; 1998, c. 46, a. 4.
+
+17.3. (Remplacé).
+
+1991, c. 74, a. 12; 1998, c. 46, a. 4.
+
+18. L'architecte ou l'ingénieur qui prépare des plans et devis pour des travaux de construction doit se conformer au Code de construction (chapitre B-1.1, r. 2).
+
+1985, c. 34, a. 18; 1998, c. 46, a. 5.
+
+19. Il est interdit, dans les cas prévus par règlement de la Régie, de vendre, de louer, d'échanger ou d'acquérir un bâtiment usiné, si celui-ci n'est pas approuvé ou certifié par une personne ou un organisme reconnus par règlement de la Régie.
+
+1985, c. 34, a. 19; 1991, c. 74, a. 13; 2010, c. 28, a. 5.
+
+20. (Abrogé).
+
+1985, c. 34, a. 20; 1991, c. 74, a. 168; 1991, c. 74, a. 14; 1998, c. 46, a. 6.
+
+21. La Régie transmet au syndic de l'ordre professionnel, pour enquête, le cas d'un membre de cet ordre qu'elle estime avoir signé une fausse attestation de conformité au Code de construction (chapitre B-1.1, r. 2) dans le cas où celle-ci mène à une poursuite pénale contre le membre de cet ordre.
+
+1985, c. 34, a. 21; 1991, c. 74, a. 168; 1991, c. 74, a. 15; 1994, c. 40, a. 457; 1998, c. 46, a. 7.
+
+22. L'entrepreneur ou le constructeur-propriétaire doit, dans les cas et aux conditions prévus par règlement de la Régie, déclarer à celle-ci les travaux de construction qu'il a exécutés ou entend exécuter.
+
+1985, c. 34, a. 22; 1991, c. 74, a. 168; 1991, c. 74, a. 15.
+
+23. (Remplacé).
+
+1985, c. 34, a. 23; 1991, c. 74, a. 168; 1991, c. 74, a. 15.
+
+SECTION III
+~~~~~~~~~~~
+
+**ENTREPRISES DE DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ OU DE PRODUITS PÉTROLIERS**
+
+24. L'entreprise de distribution d'électricité ou de gaz par canalisation ne peut raccorder à son réseau une installation électrique ou une installation destinée à utiliser du gaz que si les travaux de construction de cette installation ont été exécutés par un entrepreneur ou un constructeur-propriétaire titulaire d'une licence.
+
+Cette entreprise doit aviser, dans les plus brefs délais, la Régie de tout refus de raccorder une installation à son réseau et des motifs de tel refus et, sur demande de la Régie, de tout raccordement effectué à son réseau.
+
+1985, c. 34, a. 24; 1991, c. 74, a. 16.
+
+25. L'entreprise de distribution de gaz ou de produits pétroliers ne peut alimenter une nouvelle installation destinée à utiliser du gaz ou une nouvelle installation d'équipement pétrolier que si les travaux de construction de cette installation ont été exécutés par un entrepreneur ou un constructeur-propriétaire titulaire d'une licence.
+
+Cette entreprise doit aviser, dans les plus brefs délais, la Régie de tout refus d'alimenter une nouvelle installation et des motifs de tel refus et, sur demande de la Régie, de toute alimentation d'une telle installation.
+
+1985, c. 34, a. 25; 1991, c. 74, a. 17; 2005, c. 10, a. 32.
+
+26. L'entreprise de distribution d'électricité ou de gaz par canalisation doit refuser de raccorder une installation électrique ou une installation destinée à utiliser du gaz si la Régie l'avise que son autorisation est requise.
+
+1985, c. 34, a. 26; 1991, c. 74, a. 168.
+
+27. L'entreprise de distribution de gaz ou de produits pétroliers doit refuser d'alimenter une nouvelle installation destinée à utiliser du gaz ou une nouvelle installation d'équipement pétrolier si la Régie l'avise que son autorisation est requise.
+
+1985, c. 34, a. 27; 1991, c. 74, a. 168; 2005, c. 10, a. 33.
+
+28. (Abrogé).
+
+1985, c. 34, a. 28; 1991, c. 74, a. 18.
+
+SECTION IV
+~~~~~~~~~~
+
+28.1. (Abrogé).
+
+1991, c. 74, a. 19; 1995, c. 8, a. 52.
+
+28.2. (Abrogé).
+
+1991, c. 74, a. 19; 1995, c. 8, a. 52.
+
+28.3. (Abrogé).
+
+1991, c. 74, a. 19; 1995, c. 8, a. 52.
+
+28.4. (Abrogé).
+
+1991, c. 74, a. 19; 1995, c. 8, a. 52.
+
+28.5. (Abrogé).
+
+1991, c. 74, a. 19; 1995, c. 8, a. 52.
+
+CHAPITRE III
+------------
+
+**SÉCURITÉ DU PUBLIC**
+
+SECTION I
+~~~~~~~~~
+
+**APPLICATION**
+
+29. Le présent chapitre ne s'applique pas aux bâtiments suivants:
+
+ 1° une maison unifamiliale;
+
+ 2° un bâtiment totalement résidentiel de moins de trois étages ou de moins de neuf logements;
+
+ 3° un bâtiment d'une catégorie exclue par règlement de la Régie.
+
+Toutefois, malgré le premier alinéa, le présent chapitre s'applique à toute résidence privée pour aînés au sens de l'article 346.0.1 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2).
+
+Le présent chapitre s'applique aussi à une installation électrique, à une installation destinée à utiliser du gaz ou à une installation d'équipement pétrolier située dans un bâtiment exclu par les paragraphes 2° et 3° du premier alinéa.
+
+1985, c. 34, a. 29; 1991, c. 74, a. 20; 2005, c. 10, a. 34; 2010, c. 28, a. 6; 2011, c. 27, a. 32.
+
+30. Pour l'application du présent chapitre, sont assimilés à un propriétaire:
+
+ 1° l'exploitant, pour son propre compte ou pour le compte d'autrui, d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier;
+
+ 2° l'occupant d'un bâtiment non résidentiel à l'égard:
+
+a)  d'une installation ou d'un équipement dont il est propriétaire;
+
+b)  des obligations prévues au Code de sécurité (chapitre B-1.1, r. 3) relatives à l'utilisation de ce bâtiment.
+
+1985, c. 34, a. 30; 1991, c. 74, a. 21; 2005, c. 10, a. 35.
+
+SECTION II
+~~~~~~~~~~
+
+**CODE DE SÉCURITÉ**
+
+31. La Régie adopte un code de sécurité dans le but d'assurer la sécurité de toute personne qui accède à un bâtiment ou à un équipement destiné à l'usage du public ou qui utilise une installation non rattachée à un bâtiment ou une installation d'équipement pétrolier.
+
+Il vise également le voisinage de ces bâtiment, équipement et installation.
+
+1985, c. 34, a. 31; 1991, c. 74, a. 22; 2005, c. 10, a. 36.
+
+32. Le propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier doit se conformer au Code de sécurité (chapitre B-1.1, r. 3).
+
+1985, c. 34, a. 32; 2005, c. 10, a. 37.
+
+33. Le propriétaire d'un bâtiment doit, à la demande de la Régie, lui fournir une attestation de solidité du bâtiment ou une attestation de sécurité d'une installation ou d'un équipement de ce bâtiment produite par une personne ou un organisme reconnus par la Régie.
+
+1985, c. 34, a. 33; 1991, c. 74, a. 168; 2010, c. 28, a. 7.
+
+34. Le propriétaire d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier doit, à la demande de la Régie, lui fournir une attestation de sécurité de cet équipement ou de cette installation produite par une personne ou un organisme reconnus par la Régie.
+
+1985, c. 34, a. 34; 1991, c. 74, a. 168; 2005, c. 10, a. 38; 2010, c. 28, a. 8.
+
+35. Le propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier doit, dans les cas déterminés par règlement de la Régie, fournir à celle-ci une attestation de conformité du bâtiment, de l'équipement ou de l'installation au Code de sécurité (chapitre B-1.1, r. 3) produite par une personne ou un organisme reconnus par la Régie conformément à un règlement de celle-ci.
+
+Ce règlement peut prévoir l'exemption pour un propriétaire de fournir une telle attestation s'il a mis en oeuvre un programme de contrôle de la qualité approuvé par la Régie ou par une personne ou un organisme qu'elle a reconnus.
+
+1985, c. 34, a. 35; 1991, c. 74, a. 168; 1991, c. 74, a. 23; 1998, c. 46, a. 8; 2005, c. 10, a. 39; 2010, c. 28, a. 9.
+
+35.1. La Régie transmet au syndic de l'ordre professionnel, pour enquête, le cas d'un membre de cet ordre qu'elle estime avoir signé une fausse attestation de solidité ou de sécurité ou une fausse attestation de conformité au Code de sécurité (chapitre B-1.1, r. 3) dans le cas où celle-ci mène à une poursuite pénale contre ce membre.
+
+1991, c. 74, a. 23; 1994, c. 40, a. 457.
+
+35.2. Le propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier doit, dans les cas, conditions et modalités déterminés par règlement de la Régie, obtenir de celle-ci un permis d'utilisation ou d'exploitation de son bâtiment, de son équipement ou de son installation.
+
+Ce permis peut être délivré pour la totalité ou une partie d'un bâtiment, d'un équipement ou d'une installation.
+
+Le titulaire du permis doit l'afficher dans les cas et à l'endroit déterminés par règlement de la Régie.
+
+1991, c. 74, a. 23; 2005, c. 10, a. 40.
+
+36. Le propriétaire d'un bâtiment ne peut en changer l'usage ou la destination sans le rendre conforme au Code de construction (chapitre B-1.1, r. 2) lorsque, selon ce dernier, le nouvel usage ou la nouvelle destination nécessite, pour les personnes qui accèdent au bâtiment, des mesures de sécurité plus exigeantes.
+
+Le présent article ne s'applique pas si le bâtiment devient, en raison d'un changement d'usage ou de destination, un bâtiment exclu par le premier alinéa de l'article 29.
+
+1985, c. 34, a. 36; 1998, c. 46, a. 9.
+
+SECTION III
+~~~~~~~~~~~
+
+**DISPOSITIONS PARTICULIÈRES**
+
+37. Toute personne qui fabrique, installe, répare, modifie, exploite ou utilise une installation sous pression doit se conformer aux normes et exigences prévues à cette fin par règlement de la Régie.
+
+1985, c. 34, a. 37; 1991, c. 74, a. 168; 1991, c. 74, a. 24; 1998, c. 46, a. 10; 2010, c. 28, a. 10.
+
+37.1. Toute personne qui fabrique, installe, répare, modifie, exploite ou utilise une installation sous pression doit, dans les cas, aux conditions et selon les modalités déterminées par règlement de la Régie, être titulaire d'un permis l'autorisant à exercer cette activité.
+
+La Régie détermine par règlement les cas où l'obtention d'un tel permis est liée à la mise en oeuvre d'un programme de contrôle de la qualité et les conditions et modalités d'approbation d'un tel programme par la Régie ou par une personne ou un organisme reconnus par la Régie.
+
+Le chapitre IV ne s'applique pas à un fabricant ni, dans les cas et aux conditions prévus par règlement de la Régie, à une personne titulaire d'un permis pour les activités autorisées par ce permis.
+
+1991, c. 74, a. 24; 1998, c. 46, a. 11; 2010, c. 28, a. 10.
+
+37.2. Toute personne qui fabrique, installe, répare ou modifie une installation sous pression doit, dans les cas et aux conditions prévus par règlement de la Régie, déclarer à celle-ci les travaux qu'elle a exécutés ou qu'elle entend exécuter et fournir les renseignements et documents requis.
+
+1991, c. 74, a. 24; 2010, c. 28, a. 10.
+
+37.3. (Abrogé).
+
+1991, c. 74, a. 24; 1998, c. 46, a. 12.
+
+37.4. La Régie peut, par règlement, déterminer les conditions d'évaluation de la conformité d'une installation sous pression aux différentes étapes de sa conception, fabrication, installation, réparation, modification, exploitation ou utilisation de même que lors de sa mise en marché et de sa mise en service.
+
+Elle peut notamment déterminer les avis, renseignements ou documents à transmettre ou à colliger dans un registre, les inspections ou vérifications à effectuer, les autorisations à obtenir ainsi que les déclarations, approbations ou attestations de conformité requises.
+
+Elle peut reconnaître des personnes ou des organismes pour procéder à cette évaluation de la conformité ou donner toute approbation ou attestation requise en vertu de la présente section.
+
+1991, c. 74, a. 24; 1998, c. 46, a. 13; 2010, c. 28, a. 11.
+
+38. L'entreprise de distribution d'électricité, de gaz ou de produits pétroliers doit refuser d'alimenter une installation électrique, une installation destinée à utiliser du gaz ou une installation d'équipement pétrolier si cette installation est défectueuse ou présente à sa connaissance un risque d'accident.
+
+Cette entreprise doit aviser alors la Régie, dans les plus brefs délais, de tout refus d'alimenter une installation et des motifs du refus.
+
+1985, c. 34, a. 38; 1991, c. 74, a. 24; 2005, c. 10, a. 41.
+
+38.1. L'entreprise de distribution d'électricité, de gaz ou de produits pétroliers doit refuser d'alimenter une installation électrique, une installation destinée à utiliser du gaz ou une installation d'équipement pétrolier si la Régie l'avise que son autorisation est requise.
+
+1991, c. 74, a. 24; 2005, c. 10, a. 42.
+
+39. L'entreprise de distribution de gaz ne peut utiliser une installation sur véhicule destinée à entreposer ou à distribuer du gaz que si cette installation est conforme aux normes prévues par règlement de la Régie.
+
+1985, c. 34, a. 39; 1991, c. 74, a. 24.
+
+40. (Remplacé).
+
+1985, c. 34, a. 40; 1991, c. 74, a. 24.
+
+CHAPITRE IV
+-----------
+
+**QUALIFICATION**
+
+SECTION I
+~~~~~~~~~
+
+**APPLICATION ET INTERPRÉTATION**
+
+41. Le présent chapitre s'applique à l'entrepreneur et au constructeur-propriétaire pour des travaux de construction d'un bâtiment, d'un équipement ou d'une installation visés aux paragraphes 2°, 3° ou 3.1° de l'article 2 ou d'un ouvrage de génie civil réalisés sur les lieux mêmes du chantier et à pied d'oeuvre, y compris les travaux préalables d'aménagement du sol.
+
+1985, c. 34, a. 41; 1998, c. 46, a. 14; 2005, c. 10, a. 43.
+
+42. Le présent chapitre ne s'applique pas à l'entrepreneur ou au constructeur-propriétaire qui exécute:
+
+ 1° des travaux de construction faits sur une exploitation agricole mise en valeur habituellement par l'exploitant lui-même ou par moins de trois salariés embauchés de façon continue;
+
+ 2° des travaux d'entretien ou de réparation réalisés par les salariés qui le font habituellement ou qui travaillent à la production dans un établissement et sont embauchés directement par un employeur autre qu'un entrepreneur;
+
+ 3° des travaux de construction de canalisation d'eau ou d'égouts, de construction de trottoirs de même que des travaux de pavage et autres travaux de même nature exécutés par les salariés d'une municipalité locale, d'une municipalité régionale de comté ou d'une communauté métropolitaine;
+
+ 4° des travaux de construction rattachés directement à l'exploration ou à l'exploitation d'une mine et exécutés par les salariés d'une entreprise minière;
+
+ 5° des travaux de construction rattachés directement à l'exploitation de la forêt et exécutés par les salariés d'une entreprise forestière;
+
+ 6° des travaux de construction de lignes de transports d'énergie exécutés par les salariés d'une entreprise de distribution d'électricité.
+
+Toutefois, sont assujettis au présent chapitre l'entrepreneur et le constructeur-propriétaire qui exécutent des travaux de construction sur une installation destinée à utiliser ou distribuer du gaz ou sur une installation électrique, à l'exception de ceux visés aux paragraphes 4° et 6°.
+
+1985, c. 34, a. 42; 1990, c. 85, a. 122; 2000, c. 56, a. 218.
+
+43. (Abrogé).
+
+1985, c. 34, a. 43; 1991, c. 74, a. 25.
+
+44. Pour l'application du présent chapitre, sont assimilées à une faillite:
+
+ 1° l'émission d'une ordonnance de liquidation par un tribunal compétent pour cause d'insolvabilité au sens de la Loi sur les liquidations (Lois révisées du Canada (1985), chapitre W-11);
+
+ 2° la cessation d'activités par un entrepreneur pour le motif qu'il est une personne insolvable au sens de la Loi sur la faillite et l'insolvabilité (Lois révisées du Canada (1985), chapitre B-3).
+
+1985, c. 34, a. 44.
+
+45. Est réputé être dirigeant, pour l'application du présent chapitre, le membre d'une société ou, dans le cas d'une personne morale, l'administrateur, le dirigeant, ou l'actionnaire détenant 20% ou plus des actions avec droit de vote ou, le cas échéant, la personne qui peut demander une licence pour le compte d'une société ou personne morale dans les cas déterminés par règlement de la Régie.
+
+1985, c. 34, a. 45; 1991, c. 74, a. 26; 1999, c. 40, a. 37.
+
+SECTION II
+~~~~~~~~~~
+
+**LICENCES**
+
+46. Nul ne peut exercer les fonctions d'entrepreneur de construction, en prendre le titre, ni donner lieu de croire qu'il est entrepreneur de construction, s'il n'est titulaire d'une licence en vigueur à cette fin.
+
+Aucun entrepreneur ne peut utiliser, pour l'exécution de travaux de construction, les services d'un autre entrepreneur qui n'est pas titulaire d'une licence à cette fin.
+
+1985, c. 34, a. 46; 1991, c. 74, a. 27; 1997, c. 43, a. 875; 1998, c. 46, a. 15.
+
+47. Un organisme public, au sens de la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1), ne peut être titulaire d'une licence d'entrepreneur.
+
+Le présent article ne s'applique pas à la Société québécoise des infrastructures ni à la Société d'énergie de la Baie James ni à une société d'économie mixte constituée conformément à la Loi sur les sociétés d'économie mixte dans le secteur municipal (chapitre S-25.01).
+
+1985, c. 34, a. 47; 1999, c. 59, a. 1; 2006, c. 46, a. 24; 2013, c. 23, a. 164.
+
+48. Nul ne peut exercer les fonctions de constructeur-propriétaire ni donner lieu de croire qu'il est constructeur-propriétaire, s'il n'est titulaire d'une licence en vigueur à cette fin.
+
+1985, c. 34, a. 48; 1997, c. 43, a. 875.
+
+49. Aucune licence de constructeur-propriétaire n'est nécessaire:
+
+ 1° pour celui qui fait exécuter des travaux de construction par un entrepreneur titulaire d'une licence, qui a pour activité principale l'organisation ou la coordination des travaux de construction dont l'exécution est confiée à d'autres;
+
+ 2° pour la personne physique qui exécute ou fait exécuter des travaux de construction d'une maison unifamiliale ou d'un ouvrage destinés à son usage personnel ou à celui de sa famille.
+
+Toutefois, une personne physique ne peut exécuter les travaux de construction à une installation destinée à utiliser du gaz ou une installation d'équipement pétrolier ou à une installation électrique si elle n'est pas un entrepreneur.
+
+1985, c. 34, a. 49; 1991, c. 74, a. 28; 2005, c. 10, a. 44.
+
+50. La personne qui n'est pas elle-même un entrepreneur qui a conclu un contrat pour l'exécution de travaux de construction avec un entrepreneur qui n'est pas titulaire de la licence appropriée peut en demander l'annulation.
+
+Le propriétaire d'un immeuble grevé d'une hypothèque légale, visée au paragraphe 2° de l'article 2724 du Code civil et inscrite à la réquisition d'un entrepreneur qui n'est pas titulaire de la licence appropriée, peut demander la radiation de l'inscription de cette hypothèque, de même que celle de toute autre inscription s'y rapportant qu'aurait pu requérir l'entrepreneur.
+
+Une demande d'annulation ou de radiation ne peut être reçue s'il est établi que le demandeur savait que l'entrepreneur n'était pas titulaire de la licence appropriée.
+
+1985, c. 34, a. 50; 1991, c. 74, a. 29; 1995, c. 33, a. 16; 1997, c. 43, a. 875.
+
+51. Une personne qui désire obtenir une licence ou sa modification doit transmettre une demande à la Régie.
+
+1985, c. 34, a. 51; 1991, c. 74, a. 169; 2005, c. 22, a. 1.
+
+52. La licence d'une société ou personne morale est demandée pour son compte par une personne physique qui en est un dirigeant et qui satisfait aux conditions des paragraphes 1°, 3°, 5°, 8° et 9° de l'article 58.
+
+1985, c. 34, a. 52.
+
+53. La société ou personne morale qui demande une licence doit informer la Régie de sa structure juridique et des noms et adresses de ses dirigeants.
+
+1985, c. 34, a. 53; 1991, c. 74, a. 169.
+
+54. Sous réserve d'un règlement adopté par la Régie en vertu des paragraphes 13° et 14° de l'article 185, une même personne physique ne peut demander plus d'une licence pour le compte d'une société ou personne morale, ni demander une telle licence tout en étant titulaire d'une licence.
+
+1985, c. 34, a. 54; 1991, c. 74, a. 169.
+
+55. La Régie délivre une licence si les conditions prescrites par la présente loi et les règlements sont remplies.
+
+1985, c. 34, a. 55; 1991, c. 74, a. 169.
+
+56. La Régie demeure propriétaire de la licence.
+
+Le titulaire d'une licence ne peut la céder.
+
+Lorsqu'il cesse d'y avoir droit, le titulaire d'une licence doit la retourner à la Régie. Il en est de même lorsqu'il doit être indiqué une modification ou une restriction sur une licence. S'il omet de retourner cette licence, la Régie la confisque.
+
+1985, c. 34, a. 56; 1991, c. 74, a. 169; 1998, c. 46, a. 17; 2005, c. 22, a. 2.
+
+57. Une licence est délivrée sur paiement des droits exigibles.
+
+1985, c. 34, a. 57; 1991, c. 74, a. 30, a. 169; 2005, c. 22, a. 3.
+
+57.1. Le titulaire d'une licence doit indiquer dans toute forme de publicité qu'il fait, sur ses estimations, ses soumissions, ses contrats, ses états de compte et sur tout autre document déterminé par règlement de la Régie, le numéro de la licence délivrée en vertu de la présente loi et la mention «titulaire d'une licence délivrée en vertu de la Loi sur le bâtiment du Québec».
+
+1998, c. 46, a. 18.
+
+58. Une licence est délivrée à une personne physique qui satisfait aux conditions suivantes:
+
+ 1° elle démontre, à la suite d'examens prévus par règlement de la Régie ou par tout autre moyen que la Régie juge approprié, qu'elle possède les connaissances ou l'expérience pertinente dans la gestion d'une entreprise de construction et dans l'exécution de travaux de construction pour se valoir la confiance du public;
+
+ 2° elle établit sa solvabilité selon les conditions et critères déterminés par règlement de la Régie;
+
+ 3° elle est majeure;
+
+ 4° elle n'est pas le prête-nom d'une autre personne;
+
+ 5° elle a obtenu sa libération, le cas échéant, à la suite d'une faillite;
+
+ 6° elle a adhéré, le cas échéant, conformément aux articles 77 et 78, à un plan de garantie;
+
+ 7° elle a fourni, le cas échéant, le cautionnement exigible en vertu de l'article 84;
+
+ 7.1° elle a fourni, le cas échéant, le cautionnement exigible en vertu de l'article 85;
+
+ 7.2° elle a versé, le cas échéant, sa cotisation au fonds d'indemnisation visé à l'article 86;
+
+ 8° elle n'a pas été déclarée coupable, dans les cinq ans précédant la demande, d'une infraction à une loi fiscale ou d'un acte criminel et qui sont reliés aux activités que la personne entend exercer dans l'industrie de la construction, ni d'un acte criminel prévu aux articles 467.11 à 467.13 du Code criminel (L.R.C. 1985, c. C-46), à moins qu'elle ait obtenu la réhabilitation ou le pardon;
+
+ 8.1° elle établit, dans le cas où en vertu de la Loi sur les maîtres électriciens (chapitre M-3) ou de la Loi sur les maîtres mécaniciens en tuyauterie (chapitre M-4) elle doit être membre de la Corporation des maîtres électriciens du Québec ou de la Corporation des maîtres mécaniciens en tuyauterie du Québec, que les frais d'admission et la cotisation annuelle exigés en vertu de ces lois ont été versés;
+
+ 8.2° elle a fourni, le cas échéant, la liste de ses prêteurs au terme d'un contrat de prêt d'argent, accompagnée d'une déclaration de chaque prêteur indiquant pour lui et, s'il s'agit d'une société ou d'une personne morale, ses dirigeants dont il précise les noms, s'ils ont été déclarés coupables, dans les cinq ans précédant la date du prêt, d'une infraction à une loi fiscale ou d'un acte criminel, sauf s'ils ont obtenu la réhabilitation ou le pardon;
+
+ 8.3° elle a produit, le cas échéant, toute déclaration ou information ou tout document exigé par la Régie quant aux infractions fiscales ou aux actes criminels dont elle-même ou une personne visée au paragraphe 8.2° a été déclarée coupable;
+
+ 8.4° elle n'a pas été déclarée coupable par un tribunal étranger, dans les cinq ans précédant la demande, d'une infraction visée au paragraphe 8° qui, si elle avait été commise au Canada, aurait fait l'objet d'une poursuite criminelle;
+
+ 9° elle rencontre les autres qualités, remplit les autres conditions et fournit les renseignements déterminés par règlement de la Régie.
+
+Le paragraphe 2° du premier alinéa ne s'applique pas à une personne physique qui satisfait à l'une des conditions prévues aux paragraphes 6°, 7°, 7.1° et 7.2° du même alinéa.
+
+Ne sont pas visés par le paragraphe 8.2° du premier alinéa les assureurs tels que définis par la Loi sur les assurances (chapitre A-32) et dûment autorisés à agir à ce titre, les coopératives de services financiers telles que définies par la Loi sur les coopératives de services financiers (chapitre C-67.3), les sociétés de fiducie et les sociétés d'épargne telles que définies par la Loi sur les sociétés de fiducie et les sociétés d'épargne (chapitre S-29.01) et dûment autorisées à agir à ce titre, ni les banques figurant aux annexes I et II de la Loi sur les banques (L.C. 1991, c. 46).
+
+1985, c. 34, a. 58; 1990, c. 4, a. 95; 1986, c. 95, a. 355; 1991, c. 74, a. 31, a. 169; 1996, c. 74, a. 1; 1998, c. 46, a. 19; 2009, c. 57, a. 1; 2011, c. 35, a. 1.
+
+58.1. (Abrogé).
+
+1996, c. 74, a. 2; 2011, c. 35, a. 2.
+
+59. La Régie peut refuser de délivrer une licence à une personne physique qui a été dirigeant d'une société ou personne morale dans les 12 mois qui précèdent la faillite de celle-ci, dans le cas où cette faillite est survenue depuis moins de trois ans de la date de la demande.
+
+Elle peut également refuser de délivrer une licence lorsque la personne physique a été dirigeant d'une société ou personne morale dont la licence est suspendue ou a été annulée suivant l'article 70, depuis moins de trois ans ou lorsque cette personne physique a été titulaire d'une licence ainsi annulée.
+
+Le présent article s'applique dans le cas d'une personne physique qui demande une licence pour le compte d'une société ou personne morale.
+
+1985, c. 34, a. 59; 1991, c. 74, a. 169; 2005, c. 22, a. 4.
+
+59.1. La Régie peut refuser de délivrer une licence à une personne physique qui demande une licence pour elle-même ou pour le compte d'une société ou personne morale et qui a été dirigeant d'une société ou personne morale dans les 12 mois précédant la cessation d'activités d'entrepreneur de cette société ou personne morale lorsqu'elle estime que cette cessation est due à des causes autres que le décès de l'un de ses dirigeants, l'accomplissement de son objet ou toute autre cause légitime.
+
+1998, c. 46, a. 20.
+
+60. Une licence est délivrée à une société ou personne morale qui satisfait aux conditions suivantes:
+
+ 1° elle établit sa solvabilité selon les conditions et critères déterminés par règlement de la Régie;
+
+ 2° (paragraphe abrogé);
+
+ 3° aucun de ses dirigeants n'est le prête-nom d'une autre personne;
+
+ 4° elle a adhéré, le cas échéant, conformément aux articles 77 et 78, à un plan de garantie;
+
+ 5° elle a fourni, le cas échéant, le cautionnement exigible en vertu de l'article 84;
+
+ 5.1° elle a fourni, le cas échéant, le cautionnement exigible en vertu de l'article 85;
+
+ 5.2° elle a versé, le cas échéant, sa cotisation au fonds d'indemnisation visé à l'article 86;
+
+ 6° elle-même, l'un de ses dirigeants ou, si elle n'est pas un émetteur assujetti au sens de la Loi sur les valeurs mobilières (chapitre V-1.1), l'un de ses actionnaires n'a pas été déclaré coupable, dans les cinq ans précédant la demande, d'une infraction à une loi fiscale ou d'un acte criminel et qui sont reliés aux activités que la personne entend exercer dans l'industrie de la construction ni d'un acte criminel prévu aux articles 467.11 à 467.13 du Code criminel (L.R.C. 1985, c. C-46) ou, ayant été déclaré coupable d'un tel acte ou infraction, cette personne a obtenu la réhabilitation ou le pardon;
+
+ 6.0.1° aucun des dirigeants d'un de ses membres dans le cas d'une société ou d'un de ses actionnaires dans le cas d'une personne morale n'a été déclaré coupable, dans les cinq ans précédant la demande, d'une infraction à une loi fiscale ou d'un acte criminel visés au paragraphe 6°;
+
+ 6.1° (paragraphe remplacé);
+
+ 6.2° elle établit, dans le cas où en vertu de la Loi sur les maîtres électriciens (chapitre M-3) ou de la Loi sur les maîtres mécaniciens en tuyauterie (chapitre M-4) elle doit être membre de la Corporation des maîtres électriciens du Québec ou de la Corporation des maîtres mécaniciens en tuyauterie du Québec, que les frais d'admission et la cotisation annuelle exigés en vertu de ces lois ont été versés;
+
+ 6.3° elle a produit toute déclaration ou information ou tout document exigé par la Régie quant aux infractions fiscales ou aux actes criminels dont elle-même ou une personne visée aux paragraphes 6° ou 8° a été déclarée coupable;
+
+ 6.4° elle-même ou l'un de ses dirigeants n'a pas été déclaré coupable par un tribunal étranger, dans les cinq ans précédant la demande, d'une infraction visée au paragraphe 6° qui, si elle avait été commise au Canada, aurait fait l'objet d'une poursuite criminelle;
+
+ 7° elle rencontre les autres qualités, remplit les autres conditions et fournit les renseignements déterminés par règlement de la Régie;
+
+ 8° elle a fourni, le cas échéant, la liste de ses prêteurs au terme d'un contrat de prêt d'argent, accompagnée d'une déclaration de chaque prêteur indiquant pour lui et, s'il s'agit d'une société ou d'une personne morale, ses dirigeants dont il précise les noms, s'ils ont été déclarés coupables, dans les cinq ans précédant la date du prêt, d'une infraction à une loi fiscale ou d'un acte criminel, à moins qu'ils aient obtenu la réhabilitation ou le pardon.
+
+Le paragraphe 1° du premier alinéa ne s'applique pas à une société ou personne morale qui satisfait à l'une des conditions prévues aux paragraphes 4°, 5°, 5.1° et 5.2° du même alinéa.
+
+Sont également visés par le paragraphe 8° du premier alinéa les prêteurs et dirigeants des prêteurs dont les prêts sont consentis personnellement à un dirigeant de la société ou de la personne morale pour les fins de cette dernière. Toutefois, en aucun cas ne sont visés les assureurs tels que définis par la Loi sur les assurances (chapitre A-32) et dûment autorisés à agir à ce titre, les coopératives de services financiers telles que définies par la Loi sur les coopératives de services financiers (chapitre C-67.3), les sociétés de fiducie et les sociétés d'épargne telles que définies par la Loi sur les sociétés de fiducie et les sociétés d'épargne (chapitre S-29.01) et dûment autorisées à agir à ce titre, ni les banques figurant aux annexes I et II de la Loi sur les banques (L.C. 1991, c. 46).
+
+1985, c. 34, a. 60; 1986, c. 95, a. 356; 1990, c. 4, a. 96; 1991, c. 74, a. 32, a. 169; 1992, c. 61, a. 78; 1993, c. 61, a. 67; 1996, c. 74, a. 3; 1998, c. 46, a. 21; 2009, c. 57, a. 2; 2011, c. 35, a. 3.
+
+61. La Régie peut refuser de délivrer une licence à une société ou personne morale lorsqu'un de ses dirigeants:
+
+ 1° a été dirigeant d'une société ou personne morale dans les 12 mois précédant la faillite de celle-ci survenue depuis moins de trois ans;
+
+ 2° a été dirigeant d'une société ou personne morale qui a été déclarée coupable, dans les cinq ans précédant la demande, d'une infraction à une loi fiscale ou d'un acte criminel et qui sont reliés aux activités que la personne entend exercer dans l'industrie de la construction ou d'un acte criminel prévu aux articles 467.11 à 467.13 du Code criminel (L.R.C. 1985, c. C-46), à moins qu'elle ait obtenu la réhabilitation ou le pardon;
+
+ 3° a été dirigeant d'une société ou personne morale, dont la licence a été, depuis moins de trois ans, annulée suivant l'article 70;
+
+ 4° est dirigeant d'une société ou personne morale dont la licence est suspendue;
+
+ 5° a été dirigeant d'une société ou personne morale dans les 12 mois précédant la cessation d'activités d'entrepreneur de cette société ou personne morale lorsqu'elle estime que cette cessation est due à des causes autres que le décès de l'un de ses dirigeants, l'accomplissement de son objet ou toute autre cause légitime.
+
+La Régie peut aussi refuser de délivrer une licence si la société ou personne morale qui la demande ou l'un de ses dirigeants est titulaire d'une licence suspendue ou a été titulaire d'une licence annulée suivant l'article 70, depuis moins de trois ans.
+
+1985, c. 34, a. 61; 1990, c. 4, a. 97; 1986, c. 95, a. 357; 1991, c. 74, a. 169; 1998, c. 46, a. 22; 2005, c. 22, a. 5; 2009, c. 57, a. 3; 2011, c. 35, a. 4.
+
+62. La Régie peut refuser de délivrer une licence si la personne qui la demande au nom d'une société ou personne morale a déjà demandé, pour une autre société ou personne morale, une licence qui a été annulée suivant l'article 70, depuis moins de trois ans.
+
+1985, c. 34, a. 62; 1991, c. 74, a. 169; 2005, c. 22, a. 6.
+
+62.0.1. La Régie peut refuser de délivrer une licence lorsque la délivrance est contraire à l'intérêt public, notamment parce que la personne ou, dans le cas d'une société ou d'une personne morale, elle-même ou l'un de ses dirigeants est incapable d'établir qu'il est de bonne moeurs et qu'il peut exercer avec compétence et probité ses activités d'entrepreneur compte tenu de comportements antérieurs.
+
+La Régie peut, à cet égard, effectuer ou faire effectuer toute vérification qu'elle estime nécessaire.
+
+2011, c. 35, a. 5.
+
+62.0.2. La Régie peut refuser de délivrer une licence à une personne physique, à une société ou à une personne morale qui est dans les faits, directement ou indirectement, sous la direction ou le contrôle d'une personne qui ne satisfait pas aux conditions prévues au paragraphe 8° du premier alinéa de l'article 58, au paragraphe 6° du premier alinéa de l'article 60 ou à l'article 62.0.1.
+
+2011, c. 35, a. 5.
+
+62.1. La Régie peut, exceptionnellement, délivrer une licence autorisant le titulaire à exécuter ou à faire exécuter des travaux de construction dont l'objet et l'étendue ne visent qu'une partie d'une sous-catégorie de licence établie par règlement de la Régie, si les conditions particulières de compétence déterminées par la Régie sont remplies, en plus des autres conditions prescrites par la présente loi et les règlements.
+
+1996, c. 74, a. 4.
+
+63. Sous réserve d'un règlement adopté par la Régie en vertu du paragraphe 15° de l'article 185, une société ou personne ne peut être titulaire de plus d'une licence.
+
+1985, c. 34, a. 63; 1991, c. 74, a. 169.
+
+64. (Abrogé).
+
+1985, c. 34, a. 64; 1991, c. 74, a. 33, a. 169; 1993, c. 61, a. 68; 1996, c. 74, a. 5.
+
+65. La Régie qui est saisie d'une demande de délivrance ou de modification d'une licence doit rendre une décision dans les 60 jours de la demande.
+
+1985, c. 34, a. 65; 1991, c. 74, a. 169; 2005, c. 22, a. 7; 2011, c. 35, a. 6.
+
+65.1. La Régie indique, sur la licence, si celle-ci comporte une restriction aux fins de l'obtention d'un contrat public, suivant les données pertinentes au titulaire de cette licence que lui transmet la Commission de la construction du Québec en vertu de l'article 123.4.4 de la Loi sur les relations du travail, la formation professionnelle et la gestion de la main d'oeuvre dans l'industrie de la construction (chapitre R-20).
+
+La Régie indique aussi sur la licence que celle-ci comporte une restriction aux fins de l'obtention d'un contrat public dans l'un ou l'autre des cas suivants:
+
+ 1° lorsque son titulaire ou, dans le cas d'une société ou d'une personne morale, une personne visée par le paragraphe 6° du premier alinéa de l'article 60 a été condamné, depuis moins de cinq ans, aux termes de l'article 45 de la Loi sur la concurrence (L.R.C. 1985, c. C-34), ou à une peine de cinq ans ou plus d'emprisonnement aux termes de l'article 462.31 du Code criminel (L.R.C. 1985, c. C-46) ou a été condamné, depuis moins de cinq ans, aux termes du sous-paragraphe a du paragraphe 1 de l'article 380 de ce code, du sous-paragraphe i du sous-paragraphe b du paragraphe 1 de cet article, de l'un ou l'autre des articles 467.11 à 467.13 de ce code ou de l'un ou l'autre des articles 5, 6 ou 7 de la Loi réglementant certaines drogues et autres substances (L.C. 1996, c. 19);
+
+ 2° (paragraphe abrogé);
+
+ 3° lorsque son titulaire ou, dans le cas d'une société ou d'une personne morale, une personne visée par le paragraphe 6° du premier alinéa de l'article 60 a été condamné, depuis moins de cinq ans, pour une infraction prévue à l'un ou l'autre des articles 62, 62.0.1 et 62.1 de la Loi sur l'administration fiscale (chapitre A-6.002), 68 et 68.0.1 de cette loi dans la mesure où ils sont liés à l'un ou l'autre de ces articles, 239 de la Loi de l'impôt sur le revenu (L.R.C. 1985, c. 1, (5e suppl.)) et 327 de la Loi sur la taxe d'accise (L.R.C. 1985, c. E-15);
+
+ 4° lorsqu'un dirigeant du titulaire est également dirigeant d'une société ou personne morale dont la licence est restreinte aux fins de l'obtention d'un contrat public et pour la même durée à moins que le titulaire ne démontre à la Régie que l'infraction qui a mené à la restriction n'a pas été commise dans l'exercice des fonctions de cette personne au sein de la société ou personne morale.
+
+1997, c. 85, a. 5; 2005, c. 22, a. 8; 2009, c. 57, a. 4; 2011, c. 18, a. 40; 2011, c. 35, a. 7.
+
+65.1.0.1. L'article 65.1 ne s'applique pas dans l'une ou l'autre des situations suivantes:
+
+ 1° l'infraction ou l'acte criminel à l'origine de la condamnation a déjà été considéré par l'Autorité des marchés financiers dans le cadre de l'application du chapitre V.2 de la Loi sur les contrats des organismes publics (chapitre C-65.1) et, à cette occasion, une autorisation a été délivrée au titulaire ou l'autorisation que celui-ci détenait n'a pas été révoquée ou a été renouvelée;
+
+ 2° l'infraction ou l'acte criminel à l'origine de la condamnation de même que cette condamnation n'ont pas encore été considérés par l'Autorité des marchés financiers dans le cadre d'une demande qui lui a été présentée en vertu du chapitre V.2 de la Loi sur les contrats des organismes publics et qui est actuellement à l'étude ou à la suite d'un avis donné en vertu de l'article 21.32 de cette loi.
+
+L'Autorité doit transmettre à la Régie les renseignements requis pour l'application du premier alinéa.
+
+2015, c. 6, a. 29.
+
+65.1.0.2. Le titulaire d'une licence restreinte peut présenter en tout temps à l'Autorité des marchés financiers une demande d'autorisation prévue au chapitre V.2 de la Loi sur les contrats des organismes publics (chapitre C-65.1).
+
+La délivrance par l'Autorité d'une telle autorisation entraîne, malgré toute disposition inconciliable, la levée de la restriction sur la licence.
+
+2015, c. 6, a. 29.
+
+65.1.1. Le titulaire qui voit sa licence restreinte doit, dans le délai fixé par la Régie, lui communiquer le nom de chaque cocontractant visé à l'article 65.4 avec lequel un contrat est en cours d'exécution, de même que le nom et, le cas échéant, le numéro d'entreprise du Québec de toute société ou personne morale pour laquelle il est un dirigeant.
+
+2011, c. 35, a. 8.
+
+65.2. Il est interdit au titulaire d'une licence restreinte aux fins de l'obtention d'un contrat public de présenter une soumission pour un contrat public lorsque ce contrat fait l'objet d'un appel d'offres ou de conclure un contrat public dans les autres cas.
+
+La soumission présentée par un entrepreneur dont la licence comporte une telle restriction ne peut être retenue.
+
+1997, c. 85, a. 5.
+
+65.2.1. Lorsque la licence d'un titulaire est restreinte, ce titulaire doit cesser l'exécution de tout contrat public si, dans les 20 jours suivant l'inscription de la restriction, le cocontractant visé à l'article 65.4 ne demande pas à la Régie d'en autoriser la poursuite ou si, après avoir demandé cette autorisation, la Régie ne l'accorde pas dans les 10 jours suivants.
+
+La Régie peut assortir de conditions son autorisation dont celle demandant que le titulaire soit soumis, à ses propres frais, à des mesures de surveillance et d'accompagnement établies par règlement de la Régie.
+
+Malgré le premier alinéa, l'autorisation de la Régie n'est pas requise lorsqu'il s'agit de se prévaloir d'une garantie découlant du contrat.
+
+2011, c. 35, a. 9; 2012, c. 21, a. 1.
+
+65.3. Il est interdit à tout entrepreneur de retenir, pour l'exécution de tout sous-contrat se rattachant directement ou indirectement à un contrat public, les services d'un entrepreneur titulaire d'une licence restreinte.
+
+1997, c. 85, a. 5.
+
+65.4. Pour l'application de la présente sous-section, un contrat public est un contrat de construction et tout sous-contrat de construction se rattachant directement ou indirectement à un tel contrat auquel est partie:
+
+ 1° un ministère du gouvernement;
+
+ 2° un organisme dont tout ou partie des dépenses sont prévues aux crédits qui apparaissent dans le budget de dépense déposé à l'Assemblée nationale sous un titre autre qu'un crédit de transfert;
+
+ 3° un organisme dont le gouvernement ou un ministre nomme la majorité des membres, dont la loi ordonne que le personnel soit nommé suivant la Loi sur la fonction publique (chapitre F-3.1.1) ou dont le fonds social fait partie du domaine de l'État;
+
+ 4° une commission scolaire, le Comité de gestion de la taxe scolaire de l'île de Montréal, un collège d'enseignement général et professionnel ou un établissement universitaire mentionné aux paragraphes 1° à 11° de l'article 1 de la Loi sur les établissements d'enseignement de niveau universitaire (chapitre E-14.1);
+
+ 5° une agence de la santé et des services sociaux ou un établissement public visé par la Loi sur les services de santé et les services sociaux (chapitre S-4.2), une personne morale ou un groupe d'approvisionnement en commun visé à l'article 383 de cette loi, le Conseil cri de la santé et des services sociaux de la Baie James institué en vertu de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5) ou un centre de communication santé visé par la Loi sur les services préhospitaliers d'urgence (chapitre S-6.2);
+
+ 6° une municipalité, une municipalité régionale de comté, une communauté métropolitaine, l'Administration régionale Kativik, une société d'économie mixte visée par la Loi sur les sociétés d'économie mixte dans le secteur municipal (chapitre S-25.01), une régie intermunicipale, une société de transport en commun, un conseil intermunicipal de transport ou tout autre organisme visé par l'article 307 de la Loi sur les élections et les référendums dans les municipalités (chapitre E-2.2).
+
+Est considérée comme un organisme une personne nommée ou désignée par le gouvernement ou un ministre, avec le personnel qu'elle dirige, dans le cadre des fonctions qui lui sont attribuées par la loi, le gouvernement ou un ministre.
+
+1997, c. 85, a. 5; 1999, c. 40, a. 37; 2000, c. 8, a. 104; 2000, c. 56, a. 218; 2002, c. 75, a. 33; 2005, c. 32, a. 308; 2006, c. 29, a. 31; 2009, c. 57, a. 5; 2011, c. 16, a. 177.
+
+66. La Régie doit tenir un registre public où sont inscrits les noms et adresses des titulaires de licences, ceux des personnes physiques visées à l'article 52, les numéros de licences, les catégories ou sous-catégories de ces licences ainsi que, le cas échéant, la restriction apposée en vertu de l'article 65.1.
+
+1985, c. 34, a. 66; 1991, c. 74, a. 34, a. 169; 1997, c. 85, a. 6; 1998, c. 46, a. 23.
+
+67. La fusion, la vente ou la cession d'une société ou personne morale, la modification de son nom, de son conseil d'administration ou de ses dirigeants doit être notifiée à la Régie dans les 30 jours.
+
+En outre, la personne visée à l'article 52 doit notifier sans délai à la Régie qu'elle cesse d'habiliter la société ou personne morale.
+
+1985, c. 34, a. 67; 1991, c. 74, a. 35, a. 169.
+
+68. Une licence doit indiquer les catégories et sous-catégories de travaux de construction que le titulaire est autorisé à exécuter ou à faire exécuter.
+
+1985, c. 34, a. 68.
+
+69. Le titulaire d'une licence qui cesse d'y avoir droit doit en aviser par écrit la Régie dans les 30 jours suivant la date où son droit a pris fin.  En outre, dans le cas d'une société ou personne morale, la personne visée à l'article 52 doit également en aviser par écrit la Régie.
+
+Le liquidateur de la succession, l'héritier ou le légataire particulier, le représentant légal du défunt ou le curateur, le tuteur ou le conseiller d'un majeur doit, en cas de décès ou d'incapacité du titulaire de la licence, de même aviser la Régie dans les 30 jours où ce titulaire cesse d'y avoir droit.
+
+1985, c. 34, a. 69; 1989, c. 54, a. 159; 1991, c. 74, a. 36, a. 169; 1999, c. 40, a. 37.
+
+SECTION III
+~~~~~~~~~~~
+
+**SUSPENSION ET ANNULATION D'UNE LICENCE**
+
+70. La Régie peut suspendre ou annuler une licence lorsque le titulaire:
+
+ 1° a été déclaré coupable d'une infraction à la présente loi, à la Loi sur la protection du consommateur (chapitre P-40.1), à la Loi sur les relations du travail, la formation professionnelle et la gestion de la main-d'oeuvre dans l'industrie de la construction (chapitre R-20) et à la Loi sur la santé et la sécurité du travail (chapitre S-2.1), si la gravité ou la fréquence des infractions justifie la suspension ou l'annulation;
+
+ 2° ne remplit plus l'une des conditions requises par la présente loi pour obtenir une licence;
+
+ 3° a faussement déclaré ou dénaturé des faits relatifs à la demande de la licence;
+
+ 3.1° n'a pas avisé la Régie conformément à l'article 67;
+
+ 3.2° conclut un contrat de prêt d'argent avec un prêteur alors qu'il a été avisé par la Régie que ce prêteur ou un dirigeant de ce prêteur a été déclaré coupable d'une infraction prévue au paragraphe 2° de l'article 194 ou qu'il a été déclaré coupable d'une infraction à une loi fiscale ou d'un acte criminel et qui sont reliés aux activités que le prêteur exerce, ou d'un acte criminel prévu aux articles 467.11 à 467.13 du Code criminel (L.R.C. 1985, c. C-46), à moins qu'il ait obtenu la réhabilitation ou le pardon;
+
+ 3.3° n'a pas produit toute déclaration ou information ou tout document exigé par la Régie quant aux infractions fiscales ou aux actes criminels dont lui-même ou une personne visée, selon le cas, au paragraphe 8.2° du premier alinéa de l'article 58 ou aux paragraphes 6° ou 8° du premier alinéa de l'article 60 a été déclaré coupable;
+
+ 4° n'a pas donné suite, à la satisfaction de la Régie, à une ordonnance délivrée en vertu de l'article 123 lui enjoignant de se conformer au Code de construction (chapitre B-1.1, r. 2);
+
+ 5° a abandonné ou a interrompu sans motif légitime des travaux de construction, causant ainsi un préjudice aux personnes intéressées;
+
+ 6° voit sa solvabilité compromise par la faillite de l'un de ses dirigeants;
+
+ 7° voit, le cas échéant, son adhésion à un plan de garantie visé à l'article 80 prendre fin;
+
+ 8° voit, le cas échéant, son adhésion au cautionnement visé à l'article 84 prendre fin;
+
+ 9° voit, le cas échéant, son adhésion au cautionnement visé à l'article 85 prendre fin;
+
+ 10° n'a pas versé, le cas échéant, sa cotisation au fonds d'indemnisation visé à l'article 86;
+
+ 11° a exécuté ou fait exécuter des travaux de construction pour lesquels une indemnisation a été accordée en vertu du fonds d'indemnisation visé à l'article 86 sans que ce titulaire n'ait remboursé la Régie;
+
+ 12° a agi de telle sorte qu'il ne se mérite plus la confiance du public selon la Régie.
+
+Elle peut également suspendre ou annuler une licence délivrée à une société ou personne morale dont un dirigeant a été dirigeant d'une société ou personne morale dans les 12 mois précédant la cessation d'activités d'entrepreneur de cette société ou personne morale lorsqu'elle estime que cette cessation est due à des causes autres que le décès de l'un de ses dirigeants, l'accomplissement de son objet ou toute autre cause légitime.
+
+1985, c. 34, a. 70; 1990, c. 4, a. 96; 1991, c. 74, a. 37, a. 169; 1998, c. 46, a. 24; 2005, c. 22, a. 10; 2009, c. 57, a. 6; 2011, c. 35, a. 10.
+
+70.1. (Abrogé).
+
+1991, c. 74, a. 38; 2005, c. 22, a. 11.
+
+70.2. La licence d'un entrepreneur est suspendue pour une période de 12 mois lorsque, dans les 2 ans d'une décision de suspension de travaux rendue contre son titulaire en vertu de l'article 7.4 de la Loi sur les relations du travail, la formation professionnelle et la gestion de la main-d'oeuvre dans l'industrie de la construction (chapitre R-20), son titulaire fait l'objet d'une autre décision de suspension de travaux.
+
+La suspension de la licence a effet à compter de l'expiration du délai de la demande de révision de la décision de suspension de travaux prévu à l'article 7.7 de cette loi ou de la décision finale de la Commission des relations du travail, s'il y a eu révision de cette décision de suspension de travaux.
+
+1995, c. 63, a. 2; 1998, c. 46, a. 25; 1997, c. 85, a. 7; 2006, c. 58, a. 82.
+
+71. La licence d'un entrepreneur ou d'un constructeur-propriétaire cesse d'avoir effet dès que son titulaire se trouve dans l'une des situations suivantes:
+
+ 1° il fait faillite;
+
+ 2° ses pouvoirs en tant que personne morale sont révoqués;
+
+ 3° il adopte une résolution décrétant sa propre mise en liquidation;
+
+ 4° une ordonnance de liquidation est rendue contre lui par tout tribunal compétent;
+
+ 5° (paragraphe abrogé);
+
+ 6° (paragraphe abrogé);
+
+ 7° il a été déclaré coupable d'avoir contrevenu au premier alinéa de l'article 65.2;
+
+ 8° il n'a pas payé à l'échéance les droits et les frais exigibles pour le maintien de la licence.
+
+1985, c. 34, a. 71; 1991, c. 74, a. 39, a. 169; 1997, c. 85, a. 8; 1999, c. 40, a. 37; 2005, c. 22, a. 12.
+
+72. En cas de décès du titulaire d'une licence, le liquidateur de la succession, l'héritier, le légataire particulier ou le représentant légal du défunt, peut continuer ses activités pour au plus 90 jours à compter de la date du décès.
+
+1985, c. 34, a. 72; 1999, c. 40, a. 37.
+
+73. La licence d'une société ou personne morale cesse d'avoir effet 60 jours après la date où la personne physique qui l'a demandée, pour le compte d'une société ou personne morale, cesse d'en être un dirigeant.  Dans le cas du décès de la personne physique, le délai est porté à 90 jours.
+
+1985, c. 34, a. 73; 1999, c. 40, a. 37.
+
+74. (Abrogé).
+
+1985, c. 34, a. 74; 1991, c. 74, a. 40.
+
+75. La Régie doit, avant de prononcer la suspension ou l'annulation de toute licence, notifier par écrit au titulaire le préavis prescrit par l'article 5 de la Loi sur la justice administrative (chapitre J-3) et lui accorder un délai d'au moins 10 jours pour présenter ses observations.
+
+Elle doit rendre par écrit une décision motivée.
+
+1985, c. 34, a. 75; 1991, c. 74, a. 169; 1997, c. 43, a. 87; 2005, c. 22, a. 13.
+
+76. La Régie peut délivrer au syndic de faillite ou au liquidateur une licence, pour au plus 30 jours, qui l'autorise à parachever les travaux visés par cette licence.
+
+1985, c. 34, a. 76; 1991, c. 74, a. 169.
+
+CHAPITRE V
+----------
+
+**GARANTIES FINANCIÈRES**
+
+SECTION I
+~~~~~~~~~
+
+**PLANS DE GARANTIES**
+
+77. La Régie peut, par règlement, obliger tout entrepreneur à adhérer à un plan qui garantit l'exécution de ses obligations légales et contractuelles, notamment celle de respecter le Code de construction (chapitre B-1.1, r. 2), résultant d'un contrat conclu avec une personne pour la vente ou la construction d'un bâtiment résidentiel neuf.
+
+Le règlement visé au premier alinéa détermine les cas, les conditions et les modalités de la garantie reliés à l'exécution des obligations légales et contractuelles de l'entrepreneur ainsi que la catégorie de bâtiment résidentiel neuf à laquelle il s'applique.
+
+1985, c. 34, a. 77; 1991, c. 74, a. 41; 1995, c. 58, a. 1.
+
+78. La Régie peut, par règlement, obliger tout entrepreneur à adhérer à un plan qui garantit l'exécution de ses obligations légales et contractuelles, notamment celle de respecter le Code de construction (chapitre B-1.1, r. 2), résultant d'un contrat conclu avec une personne pour l'exécution de travaux de rénovation, de réparation, d'entretien ou de modification d'un bâtiment, d'un équipement ou d'une installation visés aux paragraphes 2°, 3° ou 3.1° de l'article 2 ou d'un ouvrage de génie civil.
+
+Le règlement visé au premier alinéa détermine les cas, les conditions et les modalités de garantie reliés à l'exécution des obligations légales et contractuelles de l'entrepreneur.
+
+1985, c. 34, a. 78; 1991, c. 74, a. 42; 1995, c. 58, a. 2; 1998, c. 46, a. 26; 2005, c. 10, a. 45.
+
+79. L'entrepreneur obligé d'adhérer à un plan de garantie doit remettre à une personne le contrat par lequel le plan garantit les obligations prévues à l'article 77 ou 78.
+
+1985, c. 34, a. 79; 1995, c. 58, a. 3.
+
+79.1. L'entrepreneur obligé d'adhérer à un plan de garantie prévu à l'article 77 ou 78 est tenu de réparer tous les défauts de construction résultant de l'inexécution ou de l'exécution de travaux de construction couverts par ce plan.  Il doit aussi, le cas échéant, compléter l'exécution des travaux ou acquitter les indemnités prévus par règlement de la Régie.
+
+Faute par l'entrepreneur de réparer ces défauts et, le cas échéant, de compléter ces travaux ou d'acquitter ces indemnités, l'administrateur du plan procède aux réparations et, le cas échéant, complète les travaux ou verse les indemnités.
+
+1995, c. 58, a. 4.
+
+79.2. La subrogation s'opère au profit de l'administrateur d'un plan de garantie qui pourvoit au défaut de l'entrepreneur de remplir ses obligations résultant du plan.
+
+1995, c. 58, a. 4.
+
+80. Un plan de garantie et un contrat de garantie offert en vertu de ce plan doivent être conformes aux normes et critères établis par règlement de la Régie et être approuvés par celle-ci.
+
+1985, c. 34, a. 80; 1991, c. 74, a. 43.
+
+81. Un plan de garantie doit être administré par une personne morale sans but lucratif dont l'unique objet est d'administrer les garanties financières prévues au présent chapitre; cette personne doit être autorisée par la Régie conformément à un règlement de celle-ci et avoir un établissement au Québec.
+
+Le conseil d'administration de cette personne doit être composé selon les critères prévus au règlement.
+
+1985, c. 34, a. 81; 1991, c. 74, a. 43; 1995, c. 58, a. 5; 2011, c. 35, a. 11.
+
+81.0.1. Un fonds de garantie est constitué à titre de patrimoine fiduciaire d'utilité sociale pour intervenir dans le cas de sinistres majeurs qui sont exceptionnels ou imprévisibles ou dans le cas où l'administrateur d'un plan de garantie n'est plus en mesure, en raison de sa situation financière, d'assumer les obligations de ce plan.
+
+La Régie est fiduciaire du fonds de garantie. Elle agit dans le meilleur intérêt des buts poursuivis par le fonds.
+
+2011, c. 35, a. 12.
+
+81.1. L'administrateur d'un plan de garantie doit, selon les modalités prévues par règlement, verser dans un compte de réserves et dans le fonds de garantie les montants prescrits.
+
+Ces sommes sont incessibles et insaisissables.
+
+1995, c. 58, a. 5; 2011, c. 35, a. 13.
+
+81.2. Les renseignements suivants, obtenus de l'administrateur d'un plan de garantie, peuvent être diffusés par la Régie:
+
+ 1° les éléments suivants du bilan contenus dans les états financiers vérifiés:
+
+a)  le montant des réserves et le total de l'actif;
+
+b)  la réserve actuarielle et le total du passif;
+
+c)  l'excédent requis et le total des actifs nets;
+
+ 2° les éléments suivants de l'état des résultats contenus dans les états financiers vérifiés:
+
+a)  les primes souscrites, les ajustements aux primes, les frais d'adhésion, les revenus de placement et le total des produits;
+
+b)  le total des réclamations et des frais de sinistre, la variation de la réserve actuarielle et le total des charges;
+
+c)  l'excédent des produits sur les charges avant impôts;
+
+ 3° les données relatives aux activités de l'administrateur exigées par la Régie.
+
+Les données visées au paragraphe 3º du premier alinéa comprennent notamment la ventilation des certificats délivrés et le nombre d'entrepreneurs accrédités, de plaintes traitées, de dossiers soumis à l'arbitrage et d'inspections réalisées.
+
+2010, c. 28, a. 12.
+
+82. Nul ne peut offrir à une personne un contrat de garantie autres que ceux qui sont obligatoires en vertu de la présente section, dans le but de garantir l'exécution des obligations légales et contractuelles d'un entrepreneur, notamment celle de respecter le Code de construction (chapitre B-1.1, r. 2) pour un bâtiment visé à l'article 77 ou des travaux visés à l'article 78, si ce contrat n'est pas offert en vertu d'un plan de garantie administré par une personne autorisée par la Régie conformément à un règlement de celle-ci.
+
+1985, c. 34, a. 82; 1991, c. 74, a. 44; 1995, c. 58, a. 6.
+
+83. La Régie peut retirer son autorisation à l'administrateur visé à l'article 81 ou à l'article 82 si celui-ci:
+
+ 1° n'est plus en mesure, en raison de sa situation financière, d'assumer les obligations du plan de garantie;
+
+ 2° ne satisfait plus aux conditions prévues par règlement de la Régie.
+
+La Régie peut alors désigner un administrateur provisoire.
+
+1985, c. 34, a. 83; 1991, c. 74, a. 45; 2011, c. 35, a. 14.
+
+83.0.1. La Régie doit donner à l'administrateur l'occasion de présenter ses observations avant de retirer l'autorisation et de nommer un administrateur provisoire.
+
+Toutefois, lorsque l'urgence de la situation l'exige, la Régie peut d'abord nommer l'administrateur provisoire, à la condition de donner à l'administrateur l'occasion de présenter ses observations dans un délai d'au moins 10 jours.
+
+2011, c. 35, a. 15.
+
+83.0.2. La décision de nommer un administrateur provisoire doit être motivée et la Régie doit la notifier par écrit à l'administrateur.
+
+2011, c. 35, a. 15.
+
+83.0.3. L'administrateur provisoire possède les pouvoirs nécessaires à l'exécution du mandat que lui confie la Régie.
+
+Il peut notamment, d'office, sous réserve des restrictions contenues dans le mandat:
+
+ 1° prendre possession de tous les actifs et les fonds détenus dans un compte en fidéicommis ou autrement par l'administrateur ou pour lui;
+
+ 2° engager ces fonds pour la réalisation du mandat et conclure les contrats nécessaires à cette fin;
+
+ 3° déterminer le nombre et l'identité des bénéficiaires du plan de garantie;
+
+ 4° transporter ou céder les contrats de garantie ou en disposer autrement;
+
+ 5° transiger sur toute réclamation faite par un bénéficiaire en exécution d'un contrat de garantie;
+
+ 6° ester en justice pour les fins de l'exécution du mandat.
+
+L'administrateur provisoire ne peut être poursuivi en justice en raison d'actes accomplis de bonne foi dans l'exercice de ses fonctions.
+
+2011, c. 35, a. 15.
+
+83.0.4. Lorsqu'un administrateur provisoire est nommé, toute personne en possession de documents, dossiers, livres, données informatisées, programmes d'ordinateurs ou autres effets relatifs aux affaires de l'administrateur doit, sur demande, les remettre à l'administrateur provisoire et lui donner accès à tous lieux, appareils ou ordinateurs qu'il peut requérir.
+
+2011, c. 35, a. 15.
+
+83.0.5. Après avoir reçu un avis à cet effet de l'administrateur provisoire nommé pour un administrateur, aucun dépositaire de fonds pour cet administrateur ne peut effectuer de retrait ou de paiement sur ces fonds, sauf avec l'autorisation écrite de l'administrateur provisoire. Ces fonds doivent, sur demande, être mis en possession de l'administrateur provisoire suivant ses directives.
+
+2011, c. 35, a. 15.
+
+83.0.6. Les frais d'administration et les honoraires de l'administrateur provisoire sont prélevés sur les actifs de l'administrateur et deviennent payables dès leur approbation par la Régie. À défaut par l'administrateur d'en acquitter le compte dans les 30 jours de sa présentation, ils sont payables sur le cautionnement exigé de l'administrateur et, en cas d'absence ou d'insuffisance, ils sont payables sur le fonds de garantie.
+
+2011, c. 35, a. 15.
+
+83.1. Seul un organisme qui rencontre les critères suivants peut être autorisé par la Régie à administrer l'arbitrage de différends découlant des plans de garanties:
+
+ 1° il est voué à l'arbitrage de différends;
+
+ 2° il établit une liste d'arbitres dont la probité est éprouvée et qui satisfont aux conditions déterminées par règlement de la Régie;
+
+ 3° il applique une procédure d'arbitrage qui comporte, entre autres, les règles arbitrales édictées par règlement de la Régie;
+
+ 4° il prescrit une grille de tarification des coûts d'arbitrage approuvée par la Régie et portant sur les frais d'arbitrage, y compris les frais engagés par cet organisme et le coût de ses services, les honoraires des arbitres et les provisions pour frais;
+
+ 5° il rencontre toute autre condition fixée par règlement de la Régie.
+
+Cet organisme doit disposer d'un site Internet qui permet au public d'accéder au texte intégral des décisions rendues par ses arbitres dans un délai ne dépassant pas 30 jours.
+
+1995, c. 58, a. 7; 2011, c. 35, a. 16.
+
+SECTION II
+~~~~~~~~~~
+
+**CAUTIONNEMENT**
+
+84. La Régie peut exiger, par règlement, de tout entrepreneur un cautionnement dans le but d'indemniser ses clients qui ont subi un préjudice à la suite de l'inexécution ou de l'exécution de travaux de construction qui ne sont pas couverts par un plan de garantie visé à l'article 80.
+
+1985, c. 34, a. 84; 1991, c. 74, a. 46.
+
+SECTION III
+~~~~~~~~~~~
+
+**CAUTIONNEMENT ET FONDS D'INDEMNISATION**
+
+85. Lorsqu'aucun plan de garantie ou lorsque le contrat de garantie ne satisfait pas les normes et critères établis par règlement adopté en vertu du paragraphe 19.6° de l'article 185 dans un délai de 12 mois qui suit l'entrée en vigueur de ce règlement ou, lorsque dans le même délai, aucun administrateur n'a été autorisé conformément à l'article 81, la Régie peut exiger, par règlement, un cautionnement de tout entrepreneur dans le but d'indemniser ses clients qui ont subi un préjudice à la suite de l'inexécution ou de l'exécution de travaux de construction relatifs à un bâtiment, à un équipement ou à une installation visés aux paragraphes 2°, 3° ou 3.1° de l'article 2 ou à un ouvrage de génie civil, dans les cas et selon les limites déterminés par règlement.
+
+Il en est de même lorsqu'un plan de garantie ou un contrat de garantie approuvé ne satisfait plus les normes et critères établis par règlement adopté en vertu du paragraphe 19.6° de l'article 185.
+
+1985, c. 34, a. 85; 1991, c. 74, a. 46; 1998, c. 46, a. 27; 2005, c. 10, a. 46.
+
+86. La Régie peut également pour les mêmes fins organiser, par règlement, un fonds d'indemnisation qui a pour objet d'indemniser le client de façon supplétive au cautionnement et qu'au seul cas de son insuffisance.
+
+Le fonds est administré par la Régie.
+
+1985, c. 34, a. 86; 1991, c. 74, a. 46.
+
+86.1. La Régie indemnise à même le fonds, la personne qui en fait la demande et qui répond aux conditions prévues par règlement de la Régie.
+
+1991, c. 74, a. 46.
+
+86.2. La Régie peut, par règlement, prévoir les conditions, les modalités et les règles d'admissibilité des réclamations au cautionnement et au fonds notamment:
+
+ 1° les catégories de personnes qui peuvent bénéficier des droits conférés par la présente section;
+
+ 2° les catégories d'entrepreneurs qui doivent fournir un cautionnement et contribuer au fonds;
+
+ 3° les catégories de bâtiments, d'ouvrages de génie civil, d'équipements et d'installations visés;
+
+ 4° les catégories de travaux ou le montant des travaux pour chacune des catégories de personnes, de bâtiments, d'ouvrages de génie civil, d'équipements ou d'installations visés;
+
+ 5° la nature des créances, le montant de la franchise, les montants maximums pouvant être réclamés et les autres conditions ou modalités suivant lesquelles une indemnité peut être versée par le cautionnement et à même le fonds;
+
+ 6° le montant maximal du total des indemnités que peut verser le cautionnement et le fonds relativement à l'ensemble des réclamations présentées au cours d'un exercice financier à l'égard d'un même entrepreneur;
+
+ 7° le montant minimum de l'encaisse nécessaire pour défrayer les coûts du fonctionnement du fonds;
+
+ 8° un indicateur de l'importance des activités et de la performance de l'entrepreneur qui peut servir de base à l'établissement des cotisations, les cotisations et leurs modalités de paiement au fonds d'une personne qui demande une licence;
+
+ 9° les cotisations spéciales et leurs modalités de paiement au fonds lorsque le montant constituant le fonds est inférieur au montant minimum fixé.
+
+1991, c. 74, a. 46; 1998, c. 46, a. 28; 2005, c. 22, a. 14.
+
+86.3. Le fonds est constitué des cotisations versées par les entrepreneurs qui doivent y contribuer, des revenus qu'elles génèrent et des sommes récupérées d'un entrepreneur en vertu d'une subrogation.
+
+1991, c. 74, a. 46.
+
+86.4. La Régie tient à l'égard du fonds une comptabilité distincte et les coûts de son fonctionnement sont défrayés par le fonds, à même les montants dont il est constitué.
+
+L'actif du fonds ne fait pas partie des actifs de la Régie et ne peut servir à assumer l'exécution des obligations de la Régie.
+
+1991, c. 74, a. 46.
+
+86.5. L'exercice financier du fonds se termine le 31 mars.
+
+1991, c. 74, a. 46.
+
+86.6. Si la Régie prévoit ne pas avoir un besoin immédiat de l'encaisse du fonds pour le paiement d'indemnités, les sommes qui en font partie sont déposées auprès de la Caisse de dépôt et placement du Québec.
+
+1991, c. 74, a. 46.
+
+86.7. Lorsque la caution ou la Régie verse une indemnité en vertu de la présente section, elle est subrogée dans les droits du bénéficiaire jusqu'à concurrence des sommes versées.
+
+1991, c. 74, a. 46.
+
+CHAPITRE VI
+-----------
+
+**RÉGIE DU BÂTIMENT DU QUÉBEC**
+
+SECTION I
+~~~~~~~~~
+
+**CONSTITUTION ET ORGANISATION**
+
+87. Est instituée la «Régie du bâtiment du Québec».
+
+1985, c. 34, a. 87; 1991, c. 74, a. 47.
+
+88. La Régie est une personne morale, mandataire de l'État.
+
+Ses biens font partie du domaine de l'État mais l'exécution de ses obligations peut être poursuivie sur ces biens.
+
+La Régie n'engage qu'elle-même lorsqu'elle agit en son nom.
+
+1985, c. 34, a. 88; 1991, c. 74, a. 47; 1999, c. 40, a. 37; 2005, c. 22, a. 15.
+
+89. La Régie a son siège à l'endroit déterminé par le gouvernement; un avis de la situation ou de tout changement de la situation du siège est publié à la Gazette officielle du Québec.
+
+1985, c. 34, a. 89; 1991, c. 74, a. 47.
+
+90. La Régie est administrée par un conseil d'administration composé de 13 membres dont un président-directeur général.
+
+1985, c. 34, a. 90; 1991, c. 74, a. 47; 2005, c. 22, a. 16; 2011, c. 35, a. 17.
+
+91. Les membres du conseil sont nommés par le gouvernement pour un mandat d'au plus cinq ans.
+
+Les membres du conseil, autres que le président-directeur général, sont nommés de la façon suivante:
+
+ 1° deux membres sont choisis parmi des personnes identifiées aux associations d'entrepreneurs de construction;
+
+ 1.1° un membre est choisi parmi des personnes identifiées aux corporations constituées en vertu de la Loi sur les maîtres électriciens (chapitre M-3) ou de la Loi sur les maîtres mécaniciens en tuyauterie (chapitre M-4);
+
+ 2° un membre est choisi parmi des personnes identifiées au milieu financier;
+
+ 3° deux membres sont choisis parmi des personnes identifiées aux associations de consommateurs ou de personnes qui habitent ou fréquentent un bâtiment;
+
+ 4° deux membres sont choisis parmi des personnes identifiées aux associations de propriétaires de bâtiments;
+
+ 5° deux membres sont choisis parmi des personnes identifiées au milieu municipal;
+
+ 6° deux membres sont choisis parmi des personnes identifiées aux ordres professionnels reliés au domaine de la construction et du bâtiment.
+
+À l'expiration de leur mandat, ils demeurent en fonction jusqu'à ce qu'ils soient remplacés ou nommés de nouveau.
+
+1985, c. 34, a. 91; 1991, c. 74, a. 47; 2005, c. 22, a. 16; 2011, c. 35, a. 18.
+
+91.1. Le gouvernement désigne parmi les membres du conseil un président et un vice-président du conseil.
+
+2005, c. 22, a. 16.
+
+91.2. Les fonctions de président-directeur général et celles de président du conseil ne peuvent être cumulées.
+
+2005, c. 22, a. 16.
+
+91.3. Le président du conseil convoque les séances du conseil, les préside et voit au bon fonctionnement du conseil. Il exerce en outre les autres fonctions qui lui sont assignées par le conseil.
+
+Le président du conseil voit au bon fonctionnement des comités et peut participer à leurs réunions. Il évalue la performance des autres membres du conseil d'administration selon les critères établis par celui-ci.
+
+Le vice-président du conseil exerce les fonctions du président du conseil, en cas d'absence ou d'empêchement de celui-ci.
+
+2005, c. 22, a. 16; 2011, c. 35, a. 19.
+
+91.4. Le président-directeur général veille à l'exécution des décisions du conseil et est responsable de l'administration et de la direction de la Régie dans le cadre de ses règlements et de ses orientations.
+
+2005, c. 22, a. 16.
+
+91.5. Le gouvernement nomme également trois vice-présidents, dont un est responsable des enquêtes, pour une période d'au plus cinq ans. À l'expiration de leur mandat, ils demeurent en fonction jusqu'à ce qu'ils soient remplacés ou nommés de nouveau.
+
+Outre les attributions qui peuvent leur être dévolues par ailleurs ou déléguées, les vice-présidents assistent et conseillent le président-directeur général dans l'exercice de ses fonctions et exercent leurs fonctions administratives sous la responsabilité de ce dernier.
+
+2005, c. 22, a. 16; 2011, c. 35, a. 20.
+
+92. Une vacance à un poste de membre du conseil, autre que celui de président-directeur général, est comblée de la façon prévue pour la nomination de la personne à remplacer.
+
+Constitue une vacance l'absence à un nombre déterminé de réunions que fixe le règlement intérieur de la Régie, dans les cas et les circonstances qu'il indique.
+
+1985, c. 34, a. 92; 1991, c. 74, a. 47; 2005, c. 22, a. 16.
+
+93. En cas d'absence ou d'empêchement du président-directeur général, le ministre désigne le vice-président qui le remplace.
+
+En cas d'absence ou d'empêchement d'un vice-président, l'autre assume les responsabilités de ce dernier.
+
+En cas d'absence ou d'empêchement d'un membre du conseil autre que le président-directeur général, le gouvernement peut nommer une autre personne pour assurer l'intérim aux conditions qu'il détermine.
+
+1985, c. 34, a. 93; 1991, c. 74, a. 47; 1999, c. 40, a. 37; 2005, c. 22, a. 16.
+
+94. (Abrogé).
+
+1985, c. 34, a. 94; 1991, c. 74, a. 47; 2005, c. 22, a. 17.
+
+95. Le président-directeur général et les vice-présidents exercent leurs fonctions à plein temps.
+
+1985, c. 34, a. 95; 1991, c. 74, a. 47; 2005, c. 22, a. 18.
+
+96. Le gouvernement fixe la rémunération, les avantages sociaux et les autres conditions de travail du président-directeur général et des vice-présidents.
+
+Les autres membres du conseil ne sont pas rémunérés sauf dans les cas, aux conditions et dans la mesure que peut déterminer le gouvernement.  Ils ont cependant droit au remboursement des dépenses faites dans l'exercice de leurs fonctions, aux conditions et dans la mesure que détermine le gouvernement.
+
+Les sommes requises pour l'application du présent article sont à la charge de la Régie.
+
+1985, c. 34, a. 96; 1991, c. 74, a. 47; 2005, c. 22, a. 19.
+
+97. (Abrogé).
+
+1985, c. 34, a. 97; 1991, c. 74, a. 47; 2005, c. 22, a. 20.
+
+98. La Régie peut tenir ses séances à tout endroit au Québec.
+
+1985, c. 34, a. 98; 1991, c. 74, a. 47.
+
+99. Une décision du conseil, signée par tous les membres du conseil, a la même valeur que si elle avait été prise en séance ordinaire.
+
+1985, c. 34, a. 99; 1991, c. 74, a. 47.
+
+100. Le quorum aux séances du conseil est constitué de la majorité de ses membres, dont le président-directeur général ou le président du conseil.
+
+Les décisions du conseil sont prises à la majorité des voix exprimées par les membres présents. En cas de partage, la personne qui préside a voix prépondérante.
+
+1985, c. 34, a. 100; 1991, c. 74, a. 47; 2005, c. 22, a. 21.
+
+100.1. Les membres du conseil peuvent renoncer à l'avis de convocation à une réunion du conseil. Leur seule présence équivaut à une renonciation à l'avis de convocation, à moins qu'ils ne soient présents pour contester la régularité de la convocation.
+
+2005, c. 22, a. 21.
+
+100.2. Les membres du conseil peuvent, si tous sont d'accord, participer à une réunion du conseil à l'aide de moyens permettant à tous les participants de communiquer immédiatement entre eux.
+
+2005, c. 22, a. 21.
+
+100.3. Les résolutions écrites, signées par tous les membres habiles à voter, ont la même valeur que si elles avaient été adoptées lors d'une réunion du conseil.
+
+Un exemplaire de ces résolutions est conservé avec les procès-verbaux des délibérations ou ce qui en tient lieu.
+
+2005, c. 22, a. 21.
+
+101. La Régie adopte un règlement intérieur. Ce règlement doit pourvoir entre autres à la constitution des comités suivants:
+
+ 1° un comité de gouvernance et d'éthique;
+
+ 2° un comité de vérification dont l'un des membres doit être membre de l'ordre professionnel de comptables mentionné au Code des professions (chapitre C-26).
+
+Le règlement intérieur entre en vigueur à la date de son approbation par le gouvernement.
+
+1985, c. 34, a. 101; 1991, c. 74, a. 47; 2005, c. 22, a. 21; 2011, c. 35, a. 21; 2012, c. 11, a. 32.
+
+102. Le secrétaire et les membres du personnel de la Régie sont nommés conformément à la Loi sur la fonction publique (chapitre F-3.1.1).
+
+1985, c. 34, a. 102; 1991, c. 74, a. 47; 2000, c. 8, a. 242.
+
+SECTION I.1
+~~~~~~~~~~~
+
+103. (Abrogé).
+
+1985, c. 34, a. 103; 1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+104. (Abrogé).
+
+1985, c. 34, a. 104; 1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+105. (Abrogé).
+
+1985, c. 34, a. 105; 1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+106. (Abrogé).
+
+1985, c. 34, a. 106; 1991, c. 74, a. 47; 1999, c. 13, a. 1; 2005, c. 22, a. 22.
+
+107. (Abrogé).
+
+1985, c. 34, a. 107; 1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+108. (Abrogé).
+
+1985, c. 34, a. 108; 1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+109. (Abrogé).
+
+1985, c. 34, a. 109; 1991, c. 74, a. 47; 1999, c. 40, a. 37; 2005, c. 22, a. 22.
+
+109.1. (Abrogé).
+
+1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+109.2. (Abrogé).
+
+1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+109.3. (Abrogé).
+
+1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+109.4. (Abrogé).
+
+1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+109.5. (Abrogé).
+
+1991, c. 74, a. 47; 2005, c. 22, a. 22.
+
+SECTION I.2
+~~~~~~~~~~~
+
+**RÉGISSEURS**
+
+109.6. Le gouvernement nomme au plus cinq régisseurs qui exercent, sous l'autorité administrative du président-directeur général, les fonctions suivantes de façon exclusive:
+
+ 1° décider si une licence ou sa modification peut être refusée eu égard aux conditions prévues à l'un ou l'autre des paragraphes 4°, 8°, 8.2° et 8.3° du premier alinéa de l'article 58, des articles 59 et 59.1, des paragraphes 6°, 6.0.1°, 6.3° et 8° du premier alinéa de l'article 60, du troisième alinéa de l'article 60 et des articles 61 à 62.0.2;
+
+ 2° décider de la restriction d'une licence en application du paragraphe 4° du deuxième alinéa de l'article 65.1;
+
+ 3° autoriser un titulaire de licence restreinte à poursuivre un contrat en cours d'exécution conformément à l'article 65.2.1 et, le cas échéant, assortir cette autorisation de conditions;
+
+ 4° décider de l'annulation ou de la suspension d'une licence en application de l'un ou l'autre des paragraphes 1° à 6°, 11° et 12° du premier alinéa de l'article 70 ainsi que du deuxième alinéa de cet article;
+
+ 5° révoquer, limiter, suspendre, modifier ou refuser de renouveler un permis visé à l'article 35.2 ou à l'article 37, en application de l'article 128.3;
+
+ 6° révoquer la reconnaissance d'une personne ou d'un organisme visés aux articles 16, 35 ou 37.4, en application de l'article 128.4;
+
+ 7° décider, conformément aux articles 160 à 164, d'une demande de révision d'une décision de la Régie.
+
+2011, c. 35, a. 22.
+
+109.7. La durée du mandat d'un régisseur est d'au plus cinq ans. Ce mandat peut être renouvelé.
+
+Le président-directeur général peut permettre à un régisseur de continuer l'étude d'une demande dont il a été saisi et d'en décider malgré l'expiration de son mandat.
+
+2011, c. 35, a. 22.
+
+109.8. Le gouvernement détermine la rémunération, les avantages sociaux et les autres conditions de travail des régisseurs.
+
+2011, c. 35, a. 22.
+
+SECTION II
+~~~~~~~~~~
+
+**MISSION, FONCTIONS ET POUVOIRS**
+
+110. La Régie a pour mission de surveiller l'administration de la présente loi, notamment en vue d'assurer la protection du public.
+
+1985, c. 34, a. 110; 1991, c. 74, a. 169; 2005, c. 22, a. 24.
+
+111. Pour la réalisation de sa mission, la Régie exerce notamment les fonctions suivantes:
+
+ 1° vérifier et contrôler l'application de la présente loi et le respect des normes de construction et de sécurité;
+
+ 2° contrôler la qualification des entrepreneurs et des constructeurs-propriétaires de façon à s'assurer de leur probité, leur compétence et leur solvabilité;
+
+ 3° favoriser les ententes administratives avec d'autres organismes oeuvrant dans les domaines visés par la présente loi, de façon à en faciliter l'application;
+
+ 4° favoriser la délégation de ses fonctions aux municipalités locales;
+
+ 4.1° soutenir les municipalités locales, les municipalités régionales de comté et les régies intermunicipales dans l'application par celles-ci de toute norme identique à une norme contenue dans le Code de sécurité (chapitre B-1.1, r. 3);
+
+ 5° favoriser la formation de personnes oeuvrant dans le milieu de la construction et du bâtiment et l'information du public;
+
+ 5.1° subventionner des services ou des organismes destinés à protéger les bénéficiaires de plan de garantie;
+
+ 6° coopérer avec les ministères et tout autre organisme dans les domaines visés par la présente loi;
+
+ 7° participer, à la demande du ministre, à l'élaboration des règlements du gouvernement;
+
+ 8° diffuser des renseignements et des avis sur le contenu et l'application du Code de construction (chapitre B-1.1, r. 2) et du Code de sécurité;
+
+ 9° effectuer ou faire effectuer des études et des recherches dans les domaines visés par la présente loi;
+
+ 10° adopter des mesures en vue de responsabiliser davantage les personnes oeuvrant dans le milieu de la construction;
+
+ 11° régir des plans de garanties, exiger des cautionnements et, le cas échéant, organiser et administrer un fonds de garantie ou un fonds d'indemnisation.
+
+1985, c. 34, a. 111; 1991, c. 74, a. 48, a. 169; 2005, c. 22, a. 25; 2010, c. 28, a. 13; 2011, c. 35, a. 23.
+
+112. La Régie peut, dans l'exercice de ses pouvoirs de vérification et de contrôle:
+
+ 1° pénétrer, à toute heure convenable, dans un chantier de construction, un bâtiment, un établissement où un administrateur de plan de garantie exerce des activités ou avoir accès à un équipement destiné à l'usage du public, à une installation non rattachée à un bâtiment ou à une installation d'équipement pétrolier;
+
+ 2° examiner et prendre copie des livres, registres et dossiers d'un administrateur de plan de garantie, d'un entrepreneur, d'un constructeur-propriétaire, d'un propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier, d'un fabricant d'un appareil sous pression et d'une entreprise de distribution de gaz ou de produits pétroliers;
+
+ 3° exiger tout renseignement relatif à l'application de la présente loi, de même que la production de tout document s'y rapportant.
+
+1985, c. 34, a. 112; 1991, c. 74, a. 49, a. 169; 2005, c. 10, a. 47; 2011, c. 35, a. 24.
+
+113. La Régie peut prélever gratuitement, à des fins d'analyse, des échantillons; elle doit alors en informer la personne concernée et lui retourner, après analyse, les échantillons prélevés lorsque c'est possible de le faire.
+
+1985, c. 34, a. 113; 1991, c. 74, a. 168.
+
+114. La Régie peut exiger d'un administrateur de plan de garantie, d'un entrepreneur, d'un constructeur-propriétaire, d'un propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier, d'un fabricant d'un appareil sous pression, d'une entreprise de distribution de gaz ou de produits pétroliers, d'un architecte ou d'un ingénieur, qu'il effectue ou fasse effectuer un essai, une analyse ou une vérification d'un matériau, d'un équipement ou d'une installation afin de s'assurer de sa conformité à la présente loi.
+
+1985, c. 34, a. 114; 1991, c. 74, a. 168; 1991, c. 74, a. 50; 2005, c. 10, a. 48; 2011, c. 35, a. 25.
+
+115. La Régie peut faire des essais et prendre des photographies ou enregistrements dans un chantier de construction, un bâtiment, un établissement où un administrateur de plan de garantie exerce des activités, un équipement destiné à l'usage du public, une installation non rattachée à un bâtiment ou une installation d'équipement pétrolier.
+
+1985, c. 34, a. 115; 1991, c. 74, a. 169; 2005, c. 10, a. 49; 2011, c. 35, a. 26.
+
+116. La Régie peut installer un appareil de mesure ou ordonner à un entrepreneur, un constructeur-propriétaire, un propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier, un fabricant d'un appareil sous pression ou une entreprise de distribution de gaz ou de produits pétroliers d'en installer un et de lui transmettre les données recueillies.
+
+1985, c. 34, a. 116; 1991, c. 74, a. 168; 1991, c. 74, a. 51; 2005, c. 10, a. 50.
+
+117. La Régie peut exiger d'une personne qu'elle lui fournisse les moyens nécessaires pour faire une vérification.
+
+1985, c. 34, a. 117; 1991, c. 74, a. 169.
+
+118. Un membre de la Régie ou toute personne qu'elle désigne doit, sur demande, s'identifier et exhiber le certificat qui atteste sa qualité.
+
+1985, c. 34, a. 118; 1991, c. 74, a. 169.
+
+119. La Régie peut exiger d'une entreprise de distribution d'électricité ou de gaz par canalisation qu'elle obtienne son autorisation avant de raccorder à son réseau une installation électrique ou une installation destinée à utiliser du gaz.
+
+1985, c. 34, a. 119; 1991, c. 74, a. 168.
+
+120. La Régie peut exiger d'une entreprise de distribution d'électricité, de gaz ou de produits pétroliers qu'elle obtienne son autorisation avant d'alimenter une installation électrique, une installation destinée à utiliser du gaz ou une installation d'équipement pétrolier.
+
+1985, c. 34, a. 120; 1991, c. 74, a. 168; 1991, c. 74, a. 52; 2005, c. 10, a. 51.
+
+121. Les mandataires de l'entreprise de distribution d'électricité, de gaz ou de produits pétroliers qui vérifient des installations électriques, des installations utilisant du gaz, des installations d'équipement pétrolier ou des travaux de construction jouissent des pouvoirs et doivent se conformer aux obligations prévus au paragraphe 1° de l'article 112 et aux articles 113 à 118.
+
+1985, c. 34, a. 121; 1991, c. 74, a. 52; 2005, c. 10, a. 52.
+
+122. La Régie peut, si elle l'estime opportun, donner par écrit, un avis de correction indiquant à une personne les défectuosités qu'elle a constatées et fixer un délai pour permettre à cette personne de se conformer à la présente loi et ses règlements.
+
+La Régie peut, en outre, dans cet avis enjoindre cette personne de prendre pendant ce délai toute mesure supplétive qu'elle juge nécessaire en vue de rendre sécuritaire le bâtiment, l'équipement destiné à l'usage du public, l'installation non rattachée à un bâtiment ou l'installation d'équipement pétrolier pour les personnes qui y habitent, le fréquentent, l'utilisent ou, selon le cas, qui y ont accès.
+
+Cette personne doit y donner suite dans le délai imparti.
+
+1985, c. 34, a. 122; 1991, c. 74, a. 168; 1991, c. 74, a. 52; 2005, c. 10, a. 53.
+
+123. La Régie peut rendre une ordonnance enjoignant une personne de se conformer à la présente loi et fixer un délai pour y parvenir.
+
+Elle peut en outre enjoindre cette personne de prendre, pendant ce délai, toute mesure supplétive qu'elle juge nécessaire en vue de rendre sécuritaire le bâtiment, l'équipement destiné à l'usage du public, l'installation non rattachée à un bâtiment ou l'installation d'équipement pétrolier pour les personnes qui y habitent, le fréquentent, l'utilisent ou, selon le cas, qui y ont accès.
+
+Cette personne doit y donner suite dans le délai imparti.
+
+1985, c. 34, a. 123; 1991, c. 74, a. 168; 1991, c. 74, a. 53; 2005, c. 10, a. 54.
+
+124. La Régie peut ordonner la fermeture, l'évacuation ou la démolition, en tout ou en partie, d'un bâtiment ou d'un équipement destiné à l'usage du public, de même que l'arrêt de fonctionnement ou d'utilisation ou la démolition d'une installation non rattachée à un bâtiment, d'une installation d'équipement pétrolier ou d'une installation ou d'un équipement dans un bâtiment, lorsqu'elle estime qu'il y a un danger pour la sécurité et l'intégrité physique des personnes.
+
+Elle doit alors motiver sa décision par écrit dans les plus brefs délais.
+
+L'endroit ne peut être réouvert ou l'installation utilisée avant que la Régie ne l'ait autorisé.
+
+1985, c. 34, a. 124; 1991, c. 74, a. 168; 1991, c. 74, a. 54; 2005, c. 10, a. 55.
+
+125. Lorsqu'une personne visée par une ordonnance de la Régie refuse ou néglige d'y donner suite, la Régie ou toute personne intéressée peut présenter une requête à la Cour supérieure pour obtenir une injonction ordonnant à la personne de se conformer à l'ordonnance.
+
+Le tribunal peut ordonner, le cas échéant, que des travaux soient effectués aux frais de la personne qu'il indique ou autoriser la Régie à le faire aux frais de cette personne.
+
+1985, c. 34, a. 125; 1991, c. 74, a. 168.
+
+126. L'ordonnance délivrée à l'endroit du propriétaire d'un immeuble peut être inscrite au bureau de la publicité des droits.
+
+La Régie peut requérir l'inscription par la présentation d'une copie de l'ordonnance à l'officier de la publicité des droits. Les frais de l'inscription sont à la charge du propriétaire de l'immeuble.
+
+Elle est alors opposable à tout acquéreur dont le titre est inscrit subséquemment et celui-ci est tenu d'assumer les obligations imposées à l'ancien propriétaire aux termes de l'ordonnance.
+
+1985, c. 34, a. 126; 1991, c. 74, a. 168; 1999, c. 40, a. 37; 2000, c. 42, a. 101.
+
+127. La Régie approuve, aux conditions qu'elle détermine, une méthode de conception, un procédé de construction de même que l'utilisation d'un matériau ou d'un équipement différent de ce qui est prévu à un code ou à un règlement adopté en vertu de la présente loi lorsqu'elle estime que leur qualité est équivalente à celle recherchée par les normes prévues à ce code ou à ce règlement.
+
+Il en est de même lorsqu'elle estime que la sécurité du public est également assurée.
+
+1985, c. 34, a. 127; 1991, c. 74, a. 168.
+
+128. La Régie peut, aux conditions qu'elle détermine, autoriser dans le cas d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier, l'application de mesures différentes de celles qui sont prévues à un code ou à un règlement adopté en vertu de la présente loi, lorsqu'il lui est démontré que les dispositions de ce code ou de ce règlement ne peuvent raisonnablement être appliquées.
+
+1985, c. 34, a. 128; 1991, c. 74, a. 168; 2005, c. 10, a. 56.
+
+128.1. (Abrogé).
+
+1991, c. 74, a. 56; 1998, c. 46, a. 30.
+
+128.2. Les inspecteurs de la Commission de la construction du Québec doivent, lorsque leur champ de compétence est le même que celui de la présente loi, vérifier si les entrepreneurs et les constructeurs-propriétaires sont titulaires d'une licence.
+
+Dans l'exercice de cette fonction, ces inspecteurs bénéficient des mêmes pouvoirs et ont les mêmes devoirs en matière d'inspection que ceux de la Régie en vertu de la présente loi.
+
+1991, c. 74, a. 56; 1999, c. 40, a. 37.
+
+128.3. La Régie peut révoquer, limiter, suspendre, modifier ou refuser de renouveler un permis visé à l'article 35.2 ou 37.1 lorsque son titulaire ne remplit plus l'une des conditions requises par règlement de la Régie pour obtenir un permis.
+
+1991, c. 74, a. 56; 2010, c. 28, a. 14.
+
+128.4. La Régie peut révoquer la reconnaissance d'une personne ou d'un organisme visés à l'article 16, 35 ou 37.4 selon les motifs prévus par règlement de la Régie.
+
+1991, c. 74, a. 56; 1998, c. 46, a. 31; 2010, c. 28, a. 14.
+
+128.5. La Régie doit, avant de prononcer la révocation, la limitation, la suspension, la modification ou le refus de renouvellement d'un permis ou la révocation de la reconnaissance d'une personne ou d'un organisme, notifier par écrit au titulaire du permis, à cette personne ou à cet organisme le préavis prescrit par l'article 5 de la Loi sur la justice administrative (chapitre J-3) et lui accorder un délai d'au moins 10 jours pour présenter ses observations.
+
+Elle doit rendre par écrit une décision motivée.
+
+1991, c. 74, a. 56; 1997, c. 43, a. 88; 2010, c. 28, a. 14.
+
+128.6. (Abrogé).
+
+1991, c. 74, a. 56; 1998, c. 46, a. 32.
+
+129. La Régie peut enquêter sur toute question relative à la présente loi.
+
+Elle est investie, à cette fin, des pouvoirs et de l'immunité des commissaires nommés en vertu de la Loi sur les commissions d'enquête (chapitre C-37), sauf du pouvoir d'ordonner l'emprisonnement.
+
+1985, c. 34, a. 129; 1991, c. 74, a. 169.
+
+SECTION II.1
+~~~~~~~~~~~~
+
+**COMMUNICATION DE RENSEIGNEMENTS**
+
+129.1. La Régie peut, aux fins de l'application de la présente loi et de ses règlements, obtenir d'un organisme visé à la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1) qui doit lui fournir, conformément à cette loi, tout renseignement et document qu'il possède au sujet de l'exécution de travaux de construction et des personnes qui les exécutent ou les font exécuter.
+
+1991, c. 74, a. 57; 1992, c. 44, a. 81; 1993, c. 61, a. 69.
+
+129.1.1. La Régie peut, conformément à la loi, conclure une entente avec un gouvernement au Canada ou à l'étranger ou l'un de ses ministères ou organismes en vue de l'application de la présente loi et de ses règlements ou d'une loi dont l'application relève de ce gouvernement, ministère ou organisme.
+
+Une telle entente peut permettre l'échange de renseignements personnels pour prévenir, détecter ou réprimer toute infraction à l'une de ces lois.
+
+1993, c. 61, a. 69; 2006, c. 22, a. 177.
+
+129.1.2. La Régie peut également conclure une entente avec un ministère ou un organisme du gouvernement du Québec en vue de l'application de la présente loi ou d'une loi dont ce ministère ou cet organisme est chargé d'assurer l'application.
+
+2005, c. 22, a. 26.
+
+129.2. Nul ne peut être l'objet d'une poursuite fondée sur un renseignement ou un document qu'il a fourni de bonne foi à la Régie en vertu de la présente section.
+
+1991, c. 74, a. 57.
+
+SECTION III
+~~~~~~~~~~~
+
+**MANDAT ET DÉLÉGATION DE POUVOIRS**
+
+**ENTENTE**
+
+129.3. Malgré l'article 110, le gouvernement peut confier à la Corporation des maîtres électriciens du Québec et à la Corporation des maîtres mécaniciens en tuyauterie du Québec, dans la mesure qu'il indique, le mandat de surveiller l'administration de la présente loi ou de voir à son application relativement à la qualification professionnelle de leurs membres ainsi qu'aux garanties financières exigibles de ceux-ci.
+
+Une entente fixe les conditions et les modalités d'exercice du mandat de la Corporation, prévoit les pouvoirs et les fonctions qui lui sont confiés et précise les obligations de la Régie prévues aux articles 66, 75, 147 et 148 que la Corporation doit assumer.
+
+L'entente peut, en outre, prévoir les conditions et les modalités d'exercice, par les employés de la Corporation mandataire, des pouvoirs et fonctions confiés à celle-ci.
+
+1998, c. 46, a. 34; 1999, c. 13, a. 2; 1999, c. 40, a. 37.
+
+129.4. L'entente doit être publiée à la Gazette officielle du Québec.  Elle prend effet à la date de sa publication ou à toute date ultérieure qui est prévue dans l'entente.
+
+À compter de cette date, la Corporation mandataire exerce les pouvoirs et les fonctions ainsi confiés et doit assumer les obligations de la Régie prévues au mandat.
+
+À compter de cette même date et à ces fins, la Corporation mandataire est considérée comme un organisme public au sens de la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1) et est assujettie aux dispositions de cette loi.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+129.5. Seuls les dirigeants de la Corporation mandataire, membres de comités ou titulaires de fonctions, identifiés dans l'entente, peuvent avoir accès à des renseignements relatifs à la solvabilité d'un entrepreneur.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+129.6. La Corporation mandataire, ses administrateurs, les membres de ses comités et ses employés ne peuvent être poursuivis en justice en raison d'un acte officiel accompli de bonne foi dans l'exercice du mandat confié en vertu de l'article 129.3.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+129.7. Les dossiers et autres documents de la Régie deviennent, dans la mesure indiquée à l'entente, ceux de la Corporation mandataire.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+129.8. Une licence délivrée par la Régie demeure en vigueur jusqu'à la date de son expiration ou jusqu'à ce qu'elle soit modifiée, suspendue ou annulée par la Corporation mandataire.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+129.9. Les dispositions des règlements pris par la Régie qui concernent les matières qui font l'objet du mandat s'appliquent jusqu'à ce qu'elles soient modifiées ou remplacées par un règlement pris par la Corporation mandataire.
+
+Tout règlement pris par la Corporation est soumis à l'approbation du gouvernement qui peut l'approuver avec ou sans modification.
+
+À défaut par la Corporation d'adopter ou de modifier un règlement dans un délai que le gouvernement juge raisonnable, ce dernier peut édicter lui-même ce règlement.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37; 2005, c. 22, a. 27.
+
+129.10. Les revenus perçus en application des règlements ainsi que les dépenses effectuées aux fins de l'exercice du mandat doivent faire l'objet d'une comptabilité distincte.
+
+Ces revenus doivent être affectés exclusivement aux activités couvertes par le mandat.
+
+1998, c. 46, a. 34.
+
+129.11. Le ministre peut, en tout temps, aux conditions et pour le terme qu'il juge à propos, désigner une ou plusieurs personnes pour participer, sans y avoir droit de vote, aux réunions du conseil d'administration et, le cas échéant, du comité exécutif et de tout comité de la Corporation mandataire qui agit dans l'exercice du mandat confié à celle-ci en vertu de l'article 129.3.
+
+Le ministre peut choisir des personnes provenant notamment d'associations représentatives de consommateurs, de personnes qui habitent ou fréquentent les bâtiments ou de propriétaires de bâtiments.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+129.11.1. La Corporation mandataire contribue au fonds de la Commission des relations du travail, visé à l'article 137.62 du Code du travail (chapitre C-27), pour pourvoir aux dépenses engagées par cette commission relativement aux recours instruits devant elle au regard d'une décision rendue par la Corporation dans le cadre de son mandat.
+
+Le montant et les modalités de versement de la contribution de la Corporation sont déterminés par le gouvernement.
+
+2006, c. 58, a. 54.
+
+**VÉRIFICATION ET ENQUÊTE**
+
+129.12. Le ministre peut, généralement ou spécialement, désigner une personne pour vérifier les documents et les renseignements transmis par la Corporation mandataire conformément à l'entente.
+
+À cette fin, le vérificateur peut, à toute heure raisonnable, pénétrer dans tout lieu où il a raison de croire que des opérations ou des activités sont exercées par une Corporation mandataire ou pour son compte, exiger tout renseignement ou tout document, examiner ces documents et en tirer copie.
+
+La personne à qui la demande de renseignements ou de documents est adressée doit y répondre dans le délai indiqué.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+129.13. Le vérificateur ne peut être poursuivi en justice pour des actes accomplis de bonne foi dans l'exercice de ses fonctions.
+
+1998, c. 46, a. 34.
+
+129.14. Sur demande, le vérificateur s'identifie et exhibe le document signé par le ministre attestant sa qualité.
+
+1998, c. 46, a. 34.
+
+129.15. Il est interdit de faire obstacle au vérificateur agissant dans l'exercice de ses fonctions.
+
+1998, c. 46, a. 34.
+
+129.16. Le ministre peut charger une personne qu'il désigne d'enquêter sur toute matière se rapportant à l'administration ou au fonctionnement d'une Corporation mandataire ou sur la conduite de ses administrateurs, au regard du mandat confié à la Corporation en vertu de l'article 129.3.  L'enquêteur ainsi désigné est investi des pouvoirs et de l'immunité d'un commissaire nommé en vertu de la Loi sur les commissions d'enquête (chapitre C-37), sauf du pouvoir d'imposer l'emprisonnement.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+**MESURES CORRECTIVES**
+
+129.17. Le ministre peut, même si la vérification ou l'enquête visée aux articles 129.12 et 129.16 n'est pas terminée:
+
+ 1° ordonner à une Corporation mandataire d'apporter les correctifs nécessaires dans le délai qu'il fixe;
+
+ 2° accepter de cette Corporation un engagement volontaire d'apporter les correctifs appropriés.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+**RÉVOCATION DU MANDAT**
+
+129.18. Le gouvernement peut révoquer en tout temps un mandat confié en vertu de l'article 129.3.  La révocation prend effet à la date fixée par le gouvernement.
+
+La décision du gouvernement doit être communiquée sans délai à la Corporation concernée.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+129.19. À compter de la prise d'effet de la révocation, les dispositions suivantes s'appliquent:
+
+ 1° les affaires engagées devant la Corporation se rapportant au mandat confié en vertu de l'article 129.3 sont continuées et décidées par la Régie sans autre formalité;
+
+ 2° les procédures auxquelles est partie la Corporation et qui se rapportent au mandat ainsi confié sont continuées, sans reprise d'instance, par la Régie;
+
+ 3° une licence délivrée par la Corporation demeure en vigueur jusqu'à la date de son expiration ou jusqu'à ce qu'elle soit modifiée, suspendue ou annulée par la Régie;
+
+ 4° les règlements pris par la Corporation en application des pouvoirs réglementaires confiés en vertu de l'article 129.3 sont réputés être des règlements de la Régie;
+
+ 5° les règlements pris, le cas échéant, par la Corporation des maîtres électriciens du Québec et par la Corporation des maîtres mécaniciens en tuyauterie du Québec en application des pouvoirs respectivement prévus à l'article 12.0.2 de la Loi sur les maîtres électriciens (chapitre M-3) et à l'article 10.2 de la Loi sur les maîtres mécaniciens en tuyauterie (chapitre M-4) cessent d'avoir effet;
+
+ 6° les dossiers et autres documents de la Corporation se rapportant au mandat confié en vertu de l'article 129.3 deviennent, dans la mesure déterminée par le gouvernement, des dossiers et autres documents de la Régie.
+
+1998, c. 46, a. 34; 1999, c. 40, a. 37.
+
+130. La Régie peut, par écrit et dans la mesure qu'elle indique, déléguer au président-directeur général, à un autre membre du conseil d'administration ou à un vice-président l'exercice des fonctions qui lui sont attribuées par la présente loi, à l'exception de celles visées aux articles 109.6, 132, 173 à 179 et 185.
+
+La Régie peut, de la même façon, déléguer l'exercice des fonctions visées au premier alinéa à un comité composé du président-directeur général et d'un ou plusieurs membres du conseil d'administration.
+
+La Régie peut, en outre, déléguer par écrit et dans la mesure qu'elle indique:
+
+ 1° à un membre de son personnel l'exercice des fonctions qui lui sont attribuées par la présente loi, à l'exception de celles visées aux articles 109.6, 130.1, 132, 173 à 179 et 185;
+
+ 2° à toute personne qu'elle désigne l'exercice des pouvoirs prévus aux articles 112 à 117.
+
+1985, c. 34, a. 130; 1991, c. 74, a. 58; 1998, c. 46, a. 35; 2005, c. 22, a. 28; 2010, c. 28, a. 15; 2011, c. 35, a. 27.
+
+non en vigueur130.1. La Régie peut conclure une entente écrite avec une association ou un groupe d'associations d'entrepreneurs pour lui déléguer, dans la mesure qu'elle indique, l'exercice des fonctions qui découlent de l'application des articles 46, 47, 51, 53 à 55, 57 à 58, 60, 63, 64, 67, 69 et 72, en vue d'assurer la qualification des membres de cette association ou de l'une des associations de ce groupe. L'entente ne peut toutefois comporter la délégation de la fonction de décider de la délivrance ou de la modification d'une licence.
+Seuls les dirigeants de l'association ou du groupe d'associations ou titulaires de fonctions, identifiés dans l'entente, peuvent avoir accès à des renseignements relatifs à la solvabilité d'un entrepreneur.
+L'entente peut pourvoir au financement des dépenses que l'association ou le groupe d'associations débourse pour l'application de la présente loi et autoriser l'association ou le groupe d'associations à percevoir et à utiliser, pour ces fins, l'un ou l'autre des revenus visés à l'article 151.
+L'entente peut, en outre, prévoir, parmi les pouvoirs et les obligations visés aux articles 112 à 122, les pouvoirs qui peuvent être exercés par l'association ou le groupe d'associations et les obligations auxquelles cette association ou ce groupe d'associations est assujetti ainsi que les conditions de subdélégation de ces pouvoirs à ses employés et les autres modalités de leur exercice.
+1998, c. 46, a. 36; 2005, c. 22, a. 29; 2011, c. 35, a. 28.
+
+
+131. (Abrogé).
+
+1985, c. 34, a. 131; 1991, c. 74, a. 59.
+
+132. La Régie peut conclure une entente écrite avec une municipalité locale pour lui déléguer, sur son territoire et dans la mesure qu'elle indique, l'exercice des fonctions qui découlent des articles 14 à 19, 21, 22, 24 à 27, 32 à 37.2 et 37.4 à 39 en vue d'assurer la qualité des travaux de construction et la sécurité du public.
+
+L'entente peut pourvoir au financement des dépenses que la municipalité débourse pour l'application de la présente loi et autoriser la municipalité à percevoir et à utiliser, pour ces fins, l'un ou l'autre des revenus visés aux paragraphes 4°, 6° et 7° de l'article 151.
+
+L'entente peut, en outre, prévoir, parmi les pouvoirs et les obligations visées aux articles 112 à 118, 122 à 128, 129.1 et 129.2, les pouvoirs qui peuvent être exercés par la municipalité locale et les obligations auxquelles cette municipalité est assujettie ainsi que les conditions de subdélégation de ces pouvoirs aux employés de la municipalité et les autres modalités de leur exercice.
+
+1985, c. 34, a. 132; 1991, c. 74, a. 168; 1991, c. 74, a. 60; 1998, c. 46, a. 37.
+
+133. La municipalité délégataire peut, avec l'autorisation de la Régie, conclure une entente écrite avec une autre municipalité, une communauté métropolitaine ou une régie intermunicipale.
+
+Une municipalité régionale de comté, une communauté métropolitaine ou une régie intermunicipale qui conclut une entente conformément au présent article est réputée une municipalité locale pour les fins de l'application de la présente loi.
+
+1985, c. 34, a. 133; 1990, c. 85, a. 122; 1991, c. 74, a. 168; 1999, c. 40, a. 37; 2000, c. 56, a. 218.
+
+134. Une municipalité locale peut conclure avec la Régie une entente visée à la présente section.
+
+La municipalité qui a conclu une entente avec la Régie peut exiger, par règlement, des personnes qui désirent obtenir un permis ou certificat d'occupation d'immeuble, le paiement des frais qui découlent de l'application de la présente loi.
+
+Le gouvernement peut déterminer, par règlement, les frais maximums exigibles en vertu du deuxième alinéa.
+
+1985, c. 34, a. 134; 1991, c. 74, a. 168.
+
+135. L'entente fixe les conditions et les modalités de la délégation à la municipalité.
+
+1985, c. 34, a. 135; 1991, c. 74, a. 61.
+
+136. L'entente doit être approuvée par le ministre et a effet 10 jours après la date de la publication à la Gazette officielle du Québec d'un avis en ce sens ou à toute autre date ultérieure qui y est fixée.
+
+1985, c. 34, a. 136.
+
+137. La présente section n'affecte ni les pouvoirs conférés à une municipalité en vertu d'une autre loi à l'égard de bâtiments impropres à l'habitation ou à l'occupation, de même qu'à l'égard de bâtiments ou d'ouvrages qui présentent un danger pour la sécurité des personnes en raison d'un manque de solidité ni les priorités ou les hypothèques légales établies en faveur de la municipalité pour garantir le recouvrement du coût des travaux qu'elle exécute sur ces bâtiments ou ouvrages.
+
+1985, c. 34, a. 137; 1995, c. 33, a. 17.
+
+138. Une municipalité locale peut, dans la mesure où l'entente le détermine, codifier des mesures différentes de celles qui sont prévues à un code ou à un règlement adopté en vertu de la présente loi et susceptibles d'être autorisées par elle conformément à l'article 128.
+
+Le mandataire de la municipalité qui exerce le pouvoir prévu à l'article 128 doit transmettre au conseil de la municipalité un rapport annuel identifiant les bâtiments pour lesquels une autorisation a été accordée.
+
+1985, c. 34, a. 138.
+
+139. La Régie peut vérifier l'exercice de la délégation ou mandater une personne ou un organisme pour le faire.
+
+1985, c. 34, a. 139; 1991, c. 74, a. 168.
+
+SECTION IV
+~~~~~~~~~~
+
+**DOCUMENTS, COMPTES ET RAPPORTS**
+
+140. (Abrogé).
+
+1985, c. 34, a. 140; 1991, c. 74, a. 169; 1992, c. 57, a. 442.
+
+140.1. Les procès-verbaux des réunions du conseil, approuvés par celui-ci et certifiés par le président ou le vice-président du conseil, le président-directeur général, le secrétaire ou toute autre personne autorisée par la Régie, sont authentiques.
+
+2005, c. 22, a. 30.
+
+141. Aucun acte, document ou écrit n'engage la Régie ni ne peut lui être attribué s'il n'est signé par le président du conseil, par le président-directeur général, par un vice-président, par un régisseur, par le secrétaire ou par un membre de son personnel mais, dans ce dernier cas, uniquement dans la mesure déterminée par règlement de la Régie.
+
+Un membre du personnel d'un ministère ou d'un organisme est, dans la mesure où il est affecté à une activité administrative que la Régie a déléguée par entente à ce ministère ou cet organisme, assimilé à un membre du personnel de la Régie aux fins du premier alinéa.
+
+1985, c. 34, a. 141; 1991, c. 74, a. 62, a. 169; 2005, c. 22, a. 31; 2007, c. 3, a. 51; 2011, c. 35, a. 29.
+
+142. La Régie peut permettre, par règlement, dans les conditions et sur les documents qui y sont indiqués, qu'une signature soit apposée au moyen d'un appareil automatique, qu'elle soit électronique ou qu'un fac-similé d'une signature soit gravé, lithographié ou imprimé. Toutefois, le fac-similé n'a la même valeur que la signature elle-même que si le document est contresigné par une personne autorisée par le président-directeur général.
+
+1985, c. 34, a. 142; 1991, c. 74, a. 169; 2005, c. 22, a. 32.
+
+143. Un document ou une copie d'un document provenant de la Régie ou faisant partie de ses archives, signé ou certifiée conforme par une personne visée à l'article 141, est authentique.
+
+1985, c. 34, a. 143; 1991, c. 74, a. 169.
+
+143.1. La Régie peut autoriser une personne qui transmet à la Régie, à un administrateur visé à l'article 81 ou à une personne visée à l'article 135 un avis, un rapport, une déclaration, une estimation ou quelque autre document à le lui communiquer au moyen d'un support informatique ou par télécommunication, aux conditions qu'elle détermine par règlement selon les catégories de documents que ce règlement indique.
+
+1996, c. 74, a. 6.
+
+143.2. Une transcription écrite et intelligible des données que la Régie, l'administrateur visé à l'article 81 ou la personne visée à l'article 135 a emmagasinées par ordinateur sur support informatique fait partie de ses documents et fait preuve de son contenu lorsqu'elle a été certifiée conforme par une personne visée à l'article 141 ou une personne désignée par l'administrateur ou la personne, selon le cas.
+
+Lorsqu'il s'agit de données qui ont été communiquées à la Régie, à l'administrateur ou à la personne en vertu de l'article 143.1, cette transcription doit reproduire fidèlement ces données.
+
+1996, c. 74, a. 6.
+
+144. Aucun membre du conseil d'administration autre que le président-directeur général, ne peut avoir accès à des renseignements relatifs à la solvabilité d'un entrepreneur ou d'un constructeur-propriétaire.
+
+1985, c. 34, a. 144; 1991, c. 74, a. 63; 2005, c. 22, a. 33.
+
+145. La Régie, un membre du conseil d'administration, un vice-président, un régisseur, un membre de son personnel ainsi que les personnes exerçant un pouvoir délégué en vertu de l'article 132 ne peuvent être poursuivis en justice en raison d'un acte officiel accompli de bonne foi dans l'exercice de leurs fonctions.
+
+Il en est de même pour une municipalité locale, une municipalité régionale de comté, une régie intermunicipale ou un de leurs employés dans le cadre de l'application, à l'égard d'un bâtiment, d'une installation ou d'un équipement visé à l'article 2 et auquel s'applique la réglementation municipale, d'une norme identique à une norme contenue dans le Code de sécurité (chapitre B-1.1, r. 3).
+
+1985, c. 34, a. 145; 1991, c. 74, a. 64, a. 169; 2005, c. 22, a. 34; 2010, c. 28, a. 16; 2011, c. 35, a. 30.
+
+146. Sauf sur une question de compétence, une action en vertu de l'article 33 du Code de procédure civile (chapitre C-25) ou un recours extraordinaire au sens de ce code ne peut être exercé, ni aucune injonction accordée contre la Régie agissant en sa qualité officielle.
+
+Un juge de la Cour d'appel peut, sur requête, annuler sommairement tout bref délivré, toute ordonnance ou injonction prononcée à l'encontre du premier alinéa.
+
+1985, c. 34, a. 146; 1991, c. 74, a. 169.
+
+147. La Régie doit, au plus tard le 31 juillet de chaque année, remettre au ministre ses états financiers et ceux du fonds d'indemnisation ainsi qu'un rapport de ses activités pour l'exercice financier précédent.  Les états financiers et le rapport d'activités doivent contenir tous les renseignements exigés par le ministre.
+
+Le ministre dépose ce rapport et ces états financiers devant l'Assemblée nationale dans les 30 jours de leur réception si elle est en session ou, si elle ne siège pas, dans les 30 jours de l'ouverture de la session suivante ou de la reprise de ses travaux.
+
+1985, c. 34, a. 147; 1991, c. 74, a. 65, a. 169; 2005, c. 22, a. 35.
+
+148. La Régie doit en outre fournir au ministre tout renseignement qu'il exige sur ses activités.
+
+1985, c. 34, a. 148; 1991, c. 74, a. 169.
+
+149. Les livres et les comptes de la Régie sont, chaque année et chaque fois que le décrète le gouvernement, vérifiés par le vérificateur général; le gouvernement peut toutefois désigner un autre vérificateur.
+
+Le rapport du vérificateur général ou du vérificateur désigné par le gouvernement doit accompagner le rapport d'activité et les états financiers de la Régie et du fonds d'indemnisation de la Régie.
+
+1985, c. 34, a. 149; 1991, c. 74, a. 66, a. 169; 2005, c. 22, a. 36.
+
+149.1. La Régie soumet chaque année au ministre ses prévisions budgétaires pour l'exercice financier suivant, à l'époque, selon la forme et la teneur que détermine le ministre.
+
+Ces prévisions sont soumises à l'approbation du gouvernement.
+
+2005, c. 22, a. 37.
+
+SECTION V
+~~~~~~~~~
+
+**FINANCEMENT**
+
+150. La Régie finance ses activités à même les revenus qu'elle perçoit.
+
+1985, c. 34, a. 150; 1991, c. 74, a. 67; 2005, c. 22, a. 38.
+
+151. La Régie perçoit notamment les sommes suivantes:
+
+ 1° les droits de délivrance, de modification ou de maintien d'une licence;
+
+ 2° les frais d'inscription, les frais d'examen ou d'évaluation qui découlent de la délivrance ou de la modification d'une licence et les frais de maintien d'une licence;
+
+ 3° les sommes exigées de chaque entrepreneur ou personne titulaire d'un permis délivré en vertu de l'article 37.1 provenant du prélèvement basé sur une somme fixe déterminée par règlement de la Régie, sur une somme fixée par règlement de la Régie et fondée sur un indicateur de l'importance des activités ou de la performance de l'entrepreneur ou d'une personne titulaire d'un permis ou, sur les deux ou les trois à la fois;
+
+ 4° les sommes exigées de chaque propriétaire de bâtiment, d'équipement destiné à l'usage du public, d'installation non rattachée à un bâtiment ou d'installation d'équipement pétrolier provenant du prélèvement basé sur une somme fixe déterminée par règlement de la Régie, sur une somme fixée par règlement de la Régie et fondée sur l'aire, le volume, le nombre d'étages, la capacité ou l'utilisation du bâtiment, de l'équipement destiné à l'usage du public, de l'installation non rattachée à un bâtiment ou de l'installation d'équipement pétrolier ou, sur les deux à la fois;
+
+ 5° les sommes exigées de chaque propriétaire ou exploitant d'une entreprise de distribution de gaz ou de produits pétroliers provenant du prélèvement basé sur une somme fixe déterminée par règlement de la Régie, sur une somme fixée par règlement de la Régie et fondée sur le volume de gaz ou de produits pétroliers vendu ou, sur les deux à la fois;
+
+ 6° les frais qu'elle exige pour l'approbation, l'autorisation, la révision, l'inspection, la formation, la consultation, la délivrance d'attestation de conformité, l'accréditation des personnes qu'elle reconnaît et la vérification;
+
+ 7° les droits de délivrance, de modification ou de renouvellement d'un permis.
+
+1985, c. 34, a. 151; 1991, c. 74, a. 68, a. 169; 2005, c. 10, a. 57; 2005, c. 22, a. 39.
+
+152. Les sommes perçues et les montants recouvrés par la Régie, en application de la présente loi, font partie de son actif.
+
+1985, c. 34, a. 152; 1991, c. 74, a. 69; 2005, c. 22, a. 40.
+
+152.1. La Régie contribue au fonds de la Commission des relations du travail, visé à l'article 137.62 du Code du travail (chapitre C-27), pour pourvoir aux dépenses engagées par cette commission relativement aux recours instruits devant elle en vertu de la présente loi, à l'exception de ceux visés à l'article 129.11.1.
+
+Le montant et les modalités de versement de la contribution de la Régie sont déterminés par le gouvernement.
+
+2006, c. 58, a. 55.
+
+153. La Régie fixe annuellement, en fonction du mode de financement qu'elle a choisi, le taux de cotisation applicable aux entrepreneurs, aux propriétaires d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier, aux fabricants d'une installation sous pression et aux propriétaires et exploitants d'une entreprise de distribution de gaz ou de produits pétroliers.
+
+Ce taux de cotisation est indexé par la suite annuellement selon l'augmentation en pourcentage de la moyenne de l'indice des prix à la consommation au Canada, publié par Statistique Canada en vertu de la Loi sur la statistique (Lois révisées du Canada (1985), chapitre S-19), pour les 12 mois de l'année précédente par rapport aux 12 mois de l'année antérieure à cette dernière.
+
+Si une moyenne annuelle ou le pourcentage calculé en vertu du deuxième alinéa ou si le taux de cotisation ainsi indexé comporte plus de deux décimales, les deux premières seulement sont retenues et la deuxième est augmentée d'une unité si la troisième est égale ou supérieure à 5.
+
+Le premier alinéa ne s'applique pas si un taux de cotisation annuel est égal au taux de cotisation indexé en vertu du deuxième alinéa.
+
+Les deuxième et troisième alinéas s'appliquent à tous droits et frais exigibles en vertu de la présente loi.
+
+La Régie publie à la Gazette officielle du Québec le résultat de l'indexation faite en vertu du présent article.
+
+1985, c. 34, a. 153; 1991, c. 74, a. 70, a. 169; 1998, c. 46, a. 40; 2005, c. 10, a. 58.
+
+154. (Abrogé).
+
+1985, c. 34, a. 154; 1988, c. 64, a. 587; 1991, c. 74, a. 71.
+
+155. Pour les fins de la présente section, la Régie applique le taux d'intérêt fixé suivant l'article 28 de la Loi sur l'administration fiscale (chapitre A-6.002).
+
+Aux fins du calcul des intérêts, toute partie d'un mois est réputée un mois complet.
+
+Les intérêts ne sont pas capitalisés.
+
+1985, c. 34, a. 155; 1991, c. 74, a. 169; 1999, c. 40, a. 37; 2010, c. 31, a. 175.
+
+155.1. La Régie ne peut, sans l'autorisation du gouvernement:
+
+ 1° contracter un emprunt qui porte au-delà du montant déterminé par le gouvernement le total de ses emprunts en cours et non encore remboursés;
+
+ 2° s'engager financièrement au-delà des limites ou contrairement aux modalités déterminées par le gouvernement;
+
+ 3° acquérir ou céder des actifs au-delà des limites ou contrairement aux modalités déterminées par le gouvernement.
+
+2005, c. 22, a. 41.
+
+155.2. Le gouvernement peut, aux conditions et selon les modalités qu'il détermine:
+
+ 1° garantir le paiement en capital et intérêts de tout emprunt contracté par la Régie ainsi que de toute obligation de celle-ci;
+
+ 2° autoriser le ministre des Finances à avancer à la Régie tout montant jugé nécessaire pour qu'elle s'acquitte de ses obligations ou réalise sa mission.
+
+Les sommes requises pour l'application du présent article sont prises sur le fonds consolidé du revenu.
+
+2005, c. 22, a. 41.
+
+156. (Abrogé).
+
+1985, c. 34, a. 156; 1991, c. 74, a. 71.
+
+157. (Abrogé).
+
+1985, c. 34, a. 157; 1991, c. 74, a. 71.
+
+158. (Abrogé).
+
+1985, c. 34, a. 158; 1991, c. 74, a. 71.
+
+159. L'exercice financier de la Régie se termine le 31 mars de chaque année.
+
+1985, c. 34, a. 159; 1991, c. 74, a. 169.
+
+CHAPITRE VII
+------------
+
+**RÉVISION ET RECOURS**
+
+SECTION I
+~~~~~~~~~
+
+**RÉVISION**
+
+160. Une personne intéressée peut demander la révision d'une décision de la Régie, d'une corporation mandataire visée à l'article 129.3 ou d'une municipalité visée à l'article 132 lorsque cette décision, pour laquelle aucun recours n'a été formé devant la Commission des relations du travail:
+
+ 1° est rendue en vertu des articles 84, 123, 124, 127, 128, 128.3 ou 128.4;
+
+ 2° concerne la délivrance, la modification, la suspension ou l'annulation d'une licence.
+
+1985, c. 34, a. 160; 1991, c. 74, a. 72; 1996, c. 74, a. 7; 1997, c. 43, a. 90; 1998, c. 46, a. 42; 2001, c. 26, a. 75; 2006, c. 58, a. 82; 2005, c. 22, a. 42; 2011, c. 35, a. 31.
+
+161. La demande de révision d'une décision doit être présentée à la Régie, à la Corporation ou à la municipalité dans les 30 jours suivant la date de cette décision.
+
+1985, c. 34, a. 161; 1991, c. 74, a. 169; 1998, c. 46, a. 43; 1999, c. 40, a. 37.
+
+162. La Régie, la Corporation ou la municipalité doit, avant de décider de la révision, donner à la personne intéressée l'occasion de présenter ses observations.
+
+1985, c. 34, a. 162; 1991, c. 74, a. 169; 1997, c. 43, a. 91; 1998, c. 46, a. 44; 1999, c. 40, a. 37.
+
+163. La personne qui a rendu la décision faisant l'objet d'une révision ne peut réviser elle-même cette décision sauf s'il s'agit du conseil d'administration de la Régie, d'une Corporation ou du conseil d'une municipalité.
+
+1985, c. 34, a. 163; 1991, c. 74, a. 169; 1998, c. 46, a. 45; 1999, c. 40, a. 37.
+
+164. La Régie, la Corporation ou la municipalité, lors de la révision d'une décision, peut la maintenir, la renverser ou la modifier.
+
+1985, c. 34, a. 164; 1991, c. 74, a. 169; 1998, c. 46, a. 46; 1999, c. 40, a. 37.
+
+SECTION II
+~~~~~~~~~~
+
+**RECOURS**
+
+164.1. Une personne intéressée peut contester devant la Commission des relations du travail:
+
+ 1° une décision de la Régie ou d'une corporation mandataire visée à l'article 129.3 lorsque cette décision concerne la délivrance, la modification, la suspension ou l'annulation d'une licence;
+
+ 2° une décision de la Régie ou d'une municipalité visée à l'article 132 lorsque cette décision est rendue en vertu des articles 84, 123, 124, 127, 128, 128.3 ou 128.4.
+
+À l'occasion d'un tel recours, la Commission peut régler toute question relative à l'application de la présente loi.
+
+1998, c. 46, a. 48; 1999, c. 40, a. 37; 2001, c. 26, a. 77; 2006, c. 58, a. 56; 2005, c. 22, a. 43; 2011, c. 35, a. 32.
+
+164.2. Le recours est formé par requête signifiée à la Régie, à la Corporation ou à la municipalité.
+
+Cette requête doit être déposée à la Commission des relations du travail dans les 30 jours qui suivent la réception par le requérant de la décision initiale ou, selon le cas, de la décision en révision de la Régie, de la Corporation ou de la municipalité.
+
+1998, c. 46, a. 48; 1999, c. 40, a. 37; 2001, c. 26, a. 78; 2006, c. 58, a. 57.
+
+164.3. Dès la signification de cette requête, la Régie, la Corporation ou la municipalité transmet à la Commission des relations du travail le dossier relatif à la décision contestée.
+
+1998, c. 46, a. 48; 1999, c. 40, a. 37; 2001, c. 26, a. 79; 2006, c. 58, a. 57.
+
+164.4. La Commission des relations du travail rend sa décision sur le dossier qui lui est transmis par la Régie, la Corporation ou la municipalité, après avoir permis aux parties de se faire entendre.
+
+1998, c. 46, a. 48; 1999, c. 40, a. 37; 2001, c. 26, a. 80; 2006, c. 58, a. 58.
+
+164.5. Le recours ne suspend pas l'exécution de la décision de la Régie, de la Corporation ou de la municipalité.
+
+La Commission des relations du travail peut toutefois, sur requête, en décider autrement en raison de l'urgence ou du risque d'un préjudice sérieux et irréparable.
+
+1998, c. 46, a. 48; 1999, c. 40, a. 37; 2001, c. 26, a. 81; 2006, c. 58, a. 58.
+
+165. (Abrogé).
+
+1985, c. 34, a. 165; 1988, c. 21, a. 66; 1991, c. 74, a. 73, a. 169; 1996, c. 74, a. 8; 1997, c. 43, a. 93; 1998, c. 46, a. 49; 2001, c. 26, a. 82.
+
+166. (Abrogé).
+
+1985, c. 34, a. 166; 1988, c. 21, a. 66; 1991, c. 74, a. 74, a. 169; 1997, c. 43, a. 94; 2001, c. 26, a. 82.
+
+167. (Abrogé).
+
+1985, c. 34, a. 167; 1988, c. 21, a. 66; 1991, c. 74, a. 75, a. 169; 1997, c. 43, a. 95; 2001, c. 26, a. 82.
+
+168. (Abrogé).
+
+1985, c. 34, a. 168; 1991, c. 74, a. 76.
+
+169. (Abrogé).
+
+1985, c. 34, a. 169; 1991, c. 74, a. 77; 2001, c. 26, a. 82.
+
+170. (Abrogé).
+
+1985, c. 34, a. 170; 1991, c. 74, a. 169; 1997, c. 43, a. 96; 1998, c. 46, a. 50; 1991, c. 74, a. 78; 1998, c. 46, a. 125; 2001, c. 26, a. 82.
+
+171. (Abrogé).
+
+1985, c. 34, a. 171; 1988, c. 21, a. 66; 1991, c. 74, a. 79; 2001, c. 26, a. 82.
+
+172. (Abrogé).
+
+1985, c. 34, a. 172; 1988, c. 21, a. 66, a. 68; 1991, c. 74, a. 79; 1997, c. 43, a. 97; 2001, c. 26, a. 82.
+
+CHAPITRE VIII
+-------------
+
+**RÉGLEMENTATION**
+
+SECTION I
+~~~~~~~~~
+
+**CODES**
+
+173. La Régie adopte, par règlement, un code de construction.
+
+Ce code contient des normes de construction concernant un bâtiment, un équipement destiné à l'usage du public, une installation non rattachée à un bâtiment ou une installation d'équipement pétrolier ou leur voisinage.
+
+Ce code peut notamment contenir des normes de construction concernant les matières suivantes:
+
+ 1° la conception et le procédé de construction d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier;
+
+ 2° la prévention et la protection contre les incendies et les accidents;
+
+ 3° la sécurité et la solidité du bâtiment, de l'équipement destiné à l'usage du public, de l'installation non rattachée à un bâtiment ou de l'installation d'équipement pétrolier;
+
+ 4° la salubrité du bâtiment;
+
+ 5° l'accessibilité au bâtiment ou à un équipement destiné à l'usage du public;
+
+ 6° l'économie de l'énergie dans un bâtiment et le rendement énergétique du bâtiment;
+
+ 7° les matériaux, appareils ou équipements à utiliser ou à interdire dans un bâtiment, un équipement destiné à l'usage du public, une installation non rattachée à un bâtiment ou une installation d'équipement pétrolier;
+
+ 8° la qualité, le montage, l'érection, la vérification, la certification, l'approbation, la quantité, l'emplacement et les essais d'un matériau, d'un équipement, d'un appareil ou d'une installation;
+
+ 9° le transport, l'entreposage, la manutention et la distribution du gaz;
+
+ 10° l'entreposage, la manutention et la distribution d'un produit pétrolier.
+
+Ces normes peuvent intégrer des mesures préconisées par le gouvernement pour favoriser l'écoefficacité d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier.
+
+1985, c. 34, a. 173; 1991, c. 74, a. 80; 2005, c. 10, a. 59; 2010, c. 28, a. 17.
+
+174. Le Code de construction (chapitre B-1.1, r. 2) peut déterminer les cas où un entrepreneur, un architecte ou un ingénieur peut déroger aux normes relatives à l'économie de l'énergie dans un bâtiment lorsqu'une personne physique qui désire faire construire une maison unifamiliale exige par écrit des spécifications différentes.
+
+1985, c. 34, a. 174.
+
+175. La Régie adopte, par règlement, un code de sécurité.
+
+Ce code contient des normes de sécurité concernant un bâtiment, un équipement destiné à l'usage du public, une installation non rattachée à un bâtiment ou une installation d'équipement pétrolier et leur voisinage ainsi que des normes concernant leur entretien, leur utilisation, leur état, leur exploitation et leur salubrité.
+
+Ce code peut notamment contenir des normes concernant les matières suivantes:
+
+ 1° la prévention et la protection contre les incendies et les accidents;
+
+ 2° le nombre maximum de personnes qui peuvent être admises dans un bâtiment ou un équipement destiné à l'usage du public;
+
+ 3° les mesures de surveillance requises et la qualification des personnes qui doivent l'exercer;
+
+ 4° les matériaux, appareils ou équipements à utiliser ou à interdire dans un bâtiment, un équipement destiné à l'usage du public, une installation non rattachée à un bâtiment ou une installation d'équipement pétrolier;
+
+ 5° le montage, l'érection, la vérification, la certification, l'approbation, la quantité, l'emplacement et les essais d'un matériau, d'un équipement, d'un appareil ou d'une installation;
+
+ 6° l'utilisation, l'étalage et l'entreposage de matières présentant un risque pour la sécurité.
+
+1985, c. 34, a. 175; 1991, c. 74, a. 81; 2005, c. 10, a. 60.
+
+176. Les codes peuvent rendre obligatoires les instructions du fabricant relatives au montage, à l'érection, à l'entretien ou à la vérification d'un matériau, d'un équipement ou d'une installation.
+
+1985, c. 34, a. 176.
+
+176.1. Un code peut contenir, eu égard aux matières qu'il vise, des dispositions sur les objets énumérés à l'article 185.
+
+1998, c. 46, a. 51.
+
+177. (Abrogé).
+
+1985, c. 34, a. 177; 1991, c. 74, a. 82.
+
+178. Les codes peuvent rendre obligatoire une norme technique élaborée par un autre gouvernement ou par un organisme ayant pour mandat d'élaborer de telles normes.
+
+Ils peuvent également prévoir que les renvois qu'ils font à d'autres normes comprennent les modifications ultérieures qui y sont apportées.
+
+1985, c. 34, a. 178; 1991, c. 74, a. 83.
+
+179. La Régie peut déterminer, parmi les dispositions d'un code, celles dont la violation constitue une infraction au terme du paragraphe 7° de l'article 194.
+
+1985, c. 34, a. 179; 1991, c. 74, a. 84.
+
+180. (Abrogé).
+
+1985, c. 34, a. 180; 1991, c. 74, a. 85.
+
+181. (Abrogé).
+
+1985, c. 34, a. 181; 1991, c. 74, a. 85.
+
+SECTION II
+~~~~~~~~~~
+
+**RÈGLEMENTS**
+
+182. Le gouvernement peut, par règlement:
+
+ 1° (paragraphe abrogé);
+
+ 2° soustraire de l'application totale ou partielle de la présente loi la totalité ou une partie du territoire du Québec décrit aux conventions visées à l'article 4, à l'exception des territoires municipaux situés au sud du cinquantième parallèle;
+
+ 3° déterminer dans quelle mesure le gouvernement, ses ministères et les organismes mandataires de l'État sont liés par la présente loi;
+
+ 4° (paragraphe abrogé);
+
+ 5° (paragraphe abrogé);
+
+ 6° déterminer les frais maximums exigibles d'une personne qui désire obtenir un permis ou certificat d'occupation d'immeuble en vertu de l'article 134;
+
+ 6.1° déterminer un mode de répartition, entre la Régie et la Corporation mandataire visée à l'article 129.3, des droits et des frais exigibles d'un entrepreneur qui doit transmettre à la Corporation mandataire une demande pour la délivrance ou la modification d'une licence, pour un examen ou tout autre moyen d'évaluation ainsi que pour une demande de révision d'une décision concernant la délivrance, la modification, la suspension ou l'annulation d'une licence et des frais de maintien d'une licence;
+
+ 6.2° déterminer les modalités administratives et financières applicables à la  Régie et à la Corporation mandataire pour la gestion, l'administration, le transfert et la mise à jour des dossiers d'un entrepreneur titulaire de licences;
+
+ 7° généralement, adopter toute autre disposition connexe ou supplétive jugée nécessaire pour donner effet aux dispositions du présent article et à celles de la présente loi;
+
+ 8° prévoir, pour donner effet à une entente intergouvernementale en matière de mobilité ou de reconnaissance des qualifications, compétences ou expériences de travail des entrepreneurs de construction, à l'égard des catégories de personnes ou d'entrepreneurs qu'il vise, des adaptations aux dispositions de la présente loi et des règlements, y compris ceux adoptés par la Régie, ainsi que des règles particulières de gestion;
+
+ 9° prendre toute mesure nécessaire à l'application de la section I.1 du chapitre I, notamment prévoir les adaptations qu'il convient d'apporter aux dispositions d'une loi ou d'un texte d'application pour tenir compte de l'existence d'une entente.
+
+Un règlement pris en vertu du paragraphe 8º du premier alinéa n'est pas soumis à l'obligation de publication et au délai d'entrée en vigueur prévus aux articles 8 et 17 de la Loi sur les règlements (chapitre R-18.1).
+
+1985, c. 34, a. 182; 1991, c. 74, a. 86; 1996, c. 2, a. 86; 1996, c. 74, a. 9; 1998, c. 46, a. 52; 1999, c. 13, a. 3; 1999, c. 40, a. 37; 2005, c. 10, a. 61; 2005, c. 22, a. 44; 2010, c. 28, a. 18; 2014, c. 18, a. 3.
+
+183. (Remplacé).
+
+1985, c. 34, a. 183; 1991, c. 74, a. 86.
+
+184. (Remplacé).
+
+1985, c. 34, a. 184; 1991, c. 74, a. 86.
+
+185. La Régie peut, par règlement:
+
+ 0.1° soustraire de l'application de la présente loi ou de certaines de ses dispositions des catégories de personnes, d'entrepreneurs, de constructeurs-propriétaires, de fabricants d'installation sous pression, de propriétaires de bâtiment, d'équipement destiné à l'usage du public, d'installation non rattachée à un bâtiment ou d'installation d'équipement pétrolier de même que des catégories de bâtiments, d'installations sous pression, d'équipements, d'installations ou de travaux de construction;
+
+ 0.2° désigner, aux fins de l'article 10, tout équipement qui est un équipement destiné à l'usage du public et établir les critères permettant de déterminer si un équipement est destiné à l'usage du public;
+
+ 0.3° exclure de l'application du chapitre III une catégorie de bâtiment;
+
+ 1° déterminer les cas où, en raison de problèmes reliés à la performance dans l'exécution de travaux de construction, du caractère particulier, complexe ou exceptionnel des travaux de construction exécutés ou de leur impact sur la sécurité, l'entrepreneur ou le constructeur-propriétaire doit lui fournir une attestation de conformité au Code de construction (chapitre B-1.1, r. 2) ainsi que la forme et le contenu d'une telle attestation;
+
+ 2° (paragraphe remplacé);
+
+ 2.1° déterminer les critères lui permettant de reconnaître une personne pour les fins des articles 16, 35 et 37.4, les conditions et modalités que cette personne doit remplir ainsi que les motifs lui permettant de révoquer une telle reconnaissance;
+
+ 2.2° déterminer les cas où il est interdit de vendre, de louer, d'échanger ou d'acquérir un bâtiment usiné, ainsi que les personnes et les organismes habilités à approuver ou certifier un tel bâtiment;
+
+ 2.3° (paragraphe abrogé);
+
+ 3° déterminer les cas où les travaux de construction doivent lui être déclarés, l'époque, la forme et les modalités de transmission de la déclaration que les personnes visées aux articles 22 et 37.2 doivent transmettre ainsi que les conditions qu'elles doivent remplir;
+
+ 4° (paragraphe abrogé);
+
+ 5° déterminer les cas où le propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier doit fournir une attestation de conformité au Code de sécurité (chapitre B-1.1, r. 3) ainsi que la forme et le contenu d'une telle attestation;
+
+ 5.0.1° déterminer les cas où le propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier, qui a mis en oeuvre un programme de contrôle de la qualité, peut être exempté de fournir une attestation de conformité et déterminer, s'il y a lieu, les conditions d'approbation d'un tel programme par la Régie ou par une personne ou un organisme reconnus par la Régie;
+
+ 5.1° établir les conditions et modalités de délivrance, de modification, de renouvellement ou de suspension d'un permis visé aux articles 35.2 et 37.1, sa durée et, s'il y a lieu, les cas où l'obtention d'un tel permis est liée à la mise en oeuvre d'un programme de contrôle de la qualité et les conditions et modalités d'approbation d'un tel programme par la Régie ou par une personne ou un organisme reconnus par la Régie;
+
+ 5.2° fixer les droits exigibles pour la délivrance, la modification ou le renouvellement d'un permis à une personne visée aux articles 35.2 et 37.1;
+
+ 5.3° adopter des normes de conception, de fabrication, d'installation, de réparation, de modification et d'utilisation d'une installation sous pression;
+
+ 5.4° adopter des normes d'approbation, d'enregistrement et de qualification d'une méthode de soudage d'une installation sous pression y compris les qualifications requises d'une personne qui exécute des travaux de soudage sur une telle installation;
+
+ 5.5° déterminer les cas, modalités et conditions d'évaluation de la conformité d'une installation sous pression aux différentes étapes de sa conception, sa fabrication, son installation, sa réparation, sa modification, son exploitation ou son utilisation de même que lors de sa mise en marché et de sa mise en service, ainsi que les avis, renseignements ou documents à transmettre ou à colliger dans un registre, les inspections ou vérifications à effectuer, les autorisations à obtenir et les déclarations, approbations ou attestations de conformité requises et désigner des personnes ou des organismes reconnus pour procéder à cette évaluation de la conformité ou donner toute approbation ou attestation requise en vertu des articles 37 à 37.4;
+
+ 6° (paragraphe abrogé);
+
+ 6.1° adopter des normes relatives à une installation sur véhicule destinée à entreposer ou à distribuer du gaz;
+
+ 6.2° prohiber la vente, la location ou l'exposition de matériaux ou d'accessoires non certifiés ou approuvés pour des fins d'utilisation dans les travaux de construction d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier par une personne ou un organisme reconnus qu'elle désigne;
+
+ 6.3° prohiber la vente, la location ou l'exposition d'appareils destinés à être alimentés à partir d'une installation électrique ou à alimenter une telle installation, utilisés dans une installation de plomberie ou une installation d'équipement pétrolier ou destinés à utiliser du gaz, si cet appareil n'est pas certifié ou approuvé par une personne ou un organisme reconnus qu'elle désigne;
+
+ 6.4° déterminer les cas et l'endroit où un permis visé aux articles 35.2 et 37.1 doit être affiché;
+
+ 7° exiger, dans les cas et selon les modalités qu'elle détermine, la préparation de plans et devis et leur transmission à la Régie et déterminer de qui ces plans et devis sont exigibles;
+
+ 8° déterminer les renseignements que le titulaire d'une licence doit fournir pour permettre à la Régie de vérifier si ce titulaire remplit toujours les conditions requises par la présente loi pour obtenir une licence;
+
+ 9° déterminer les matières d'examen, notamment celles concernant les connaissances administratives et techniques ou relatives à la sécurité sur les chantiers de construction, déterminer les conditions d'admissibilité et d'exemption à un examen;
+
+ 9.1° déterminer les obligations de formation continue ou le cadre de ces obligations auxquelles les personnes physiques titulaires de licence et les personnes physiques visées à l'article 52 de la loi ou certaines d'entre elles doivent se conformer, selon les modalités fixées par une résolution de la Régie; ce règlement doit alors contenir les modes de contrôle, de supervision ou d'évaluation des obligations, les sanctions découlant du défaut de s'y conformer et, le cas échéant, les cas de dispense de s'y conformer;
+
+ 10° déterminer les conditions et critères de solvabilité et les autres qualités que doit rencontrer la personne physique qui demande une licence pour elle-même ou pour le compte d'une société ou personne morale, ainsi que les autres conditions qu'elle doit remplir et les renseignements qu'elle doit fournir;
+
+ 11° déterminer les conditions et critères de solvabilité et les autres qualités que doit rencontrer la société ou personne qui demande la délivrance d'une licence, ainsi que les autres conditions qu'elle doit remplir et les renseignements qu'elle doit fournir;
+
+ 12° déterminer les cas où une personne autre qu'un dirigeant peut demander une licence pour le compte d'une société ou personne morale;
+
+ 13° permettre à une personne physique de demander une licence pour le compte de plus d'une société ou personne morale;
+
+ 14° permettre à une personne physique d'être titulaire d'une licence tout en demandant une licence pour le compte d'une société ou personne morale;
+
+ 15° déterminer les cas où une société ou personne peut être titulaire de plus d'une licence;
+
+ 16° établir les conditions et modalités de délivrance, de modification ou de maintien d'une licence, établir les droits exigibles pour cette délivrance, cette modification ou ce maintien et déterminer dans quels cas et selon quelle fréquence elle perçoit ces droits;
+
+ 16.1° établir en application de l'article 65.2.1 des mesures de surveillance et d'accompagnement d'un titulaire de licence restreinte et déterminer dans quels cas, à quelles conditions, pour quelles périodes et suivant quelles modalités, y compris les sanctions en cas de non-respect, ces mesures s'appliquent à un tel titulaire qui devra, dans tous les cas, en assumer les frais;
+
+ 17° établir des catégories et des sous-catégories de licences et les droits exigibles pour chacune de ces catégories ou sous-catégories de licences et déterminer dans quels cas et selon quelle fréquence elle perçoit ces droits;
+
+ 17.1° déterminer les autres documents sur lesquels le numéro de licence d'un entrepreneur et la mention «titulaire d'une licence délivrée en vertu de la Loi sur le bâtiment du Québec» doivent être indiqués;
+
+ 18° établir dans quels cas elle perçoit des frais d'inscription, des frais d'examens ou d'évaluation pour la délivrance ou la modification d'une licence ou des frais de maintien d'une licence, et fixer ces frais;
+
+ 18.1° (paragraphe abrogé);
+
+ 19° limiter les catégories ou sous-catégories de travaux de construction qu'un constructeur-propriétaire peut exécuter ou faire exécuter sur une installation électrique, une installation destinée à utiliser du gaz, une installation d'équipement pétrolier ou une installation de plomberie;
+
+ 19.1° (paragraphe abrogé);
+
+ 19.2° (paragraphe abrogé);
+
+ 19.3° obliger tout entrepreneur à adhérer à un plan de garantie concernant un bâtiment résidentiel neuf d'une catégorie qu'elle détermine ou concernant des travaux de rénovation, de réparation, d'entretien ou de modification d'un bâtiment, d'un ouvrage de génie civil, d'un équipement ou d'une installation;
+
+ 19.4° déterminer les cas, les conditions et les modalités de la garantie offerte en vertu d'un plan, notamment:
+
+a)  les obligations légales et contractuelles de l'entrepreneur, y compris les dérogations au Code de construction qui peuvent faire l'objet d'une indemnisation;
+
+b)  le montant de la franchise pour chaque réclamation;
+
+c)  le montant minimal d'indemnisation selon la nature des travaux de construction;
+
+ 19.5° déterminer les qualités requises d'une personne visée à l'article 81 ou à l'article 82, ainsi que les conditions qu'elle doit remplir et les renseignements qu'elle doit fournir, notamment:
+
+0.a)  prescrire les règles de gouvernance d'une personne morale sans but lucratif désignée par la Régie pour agir à titre d'administrateur, notamment quant à la composition de son conseil d'administration et à l'élaboration de son règlement intérieur, lequel doit être approuvé par la Régie;
+
+a)  fixer des normes de solvabilité auxquelles cette personne doit satisfaire;
+
+b)  exiger un cautionnement de cette personne, en prescrire le montant et la forme ainsi que les modalités de perception, de versement et d'utilisation de ce cautionnement;
+
+c)  déterminer le montant des réserves que cette personne doit maintenir pour garantir les obligations qui découlent d'un plan de garantie;
+
+c.1)  déterminer le montant que doit verser cette personne dans le fonds de garantie;
+
+d)  déterminer les états financiers que cette personne doit fournir à la Régie ainsi que la forme et le contenu de ces états;
+
+e)  déterminer les placements que cette personne est autorisée à faire;
+
+f)  (sous-paragraphe abrogé);
+
+g)  déterminer les mesures que cette personne doit adopter pour assurer le caractère confidentiel des renseignements communiqués par un entrepreneur;
+
+h)  prescrire les renseignements que cette personne doit communiquer à la Régie;
+
+ 19.5.1° prévoir les modalités de gestion du fonds de garantie, notamment:
+
+a)  prescrire le montant et la forme des contributions requises et déterminer les cas, conditions ou modalités de perception, de versement, d'administration et d'utilisation du fonds;
+
+b)  déterminer le montant cible à accumuler dans ce fonds;
+
+ 19.5.2° prévoir des pénalités financières exigibles par la Régie en cas d'intervention nécessaire à la suite du non-respect par l'administrateur d'un plan de garantie de la loi, du règlement et des politiques d'encadrement mises en place par la Régie;
+
+ 19.6° établir les normes et critères d'un plan de garantie et d'un contrat de garantie, notamment:
+
+a)  les conditions et modalités d'adhésion d'un entrepreneur;
+
+b)  le coût exigible d'un entrepreneur pour qu'une personne bénéficie de la garantie offerte en vertu d'un plan;
+
+c)  les normes de diffusion des renseignements relatifs au plan de garantie;
+
+d)  la procédure d'arbitrage permettant à une personne de se pourvoir contre une décision de l'administrateur concernant une réclamation ou à l'entrepreneur de se pourvoir contre une décision de l'administrateur refusant ou annulant son adhésion au plan;
+
+e)  la forme, le contenu minimum et les modalités de remise d'un contrat de garantie;
+
+ 19.7° déterminer les cas où elle exige de l'entrepreneur un cautionnement aux fins de l'article 84, en déterminer les modalités, le montant, la forme et la façon d'en disposer;
+
+ 20° établir dans quels cas elle perçoit des frais d'approbation, d'autorisation, de révision, d'inspection, de formation, de consultation, de délivrance d'attestation de conformité, d'accréditation des personnes ou des organismes qu'elle reconnaît ou de vérification et fixer ces frais;
+
+ 21° déterminer un indicateur de l'importance des activités ou de la performance de l'entrepreneur ou de la personne titulaire d'un permis délivré en vertu de l'article 37.1 qui peut servir de base à un prélèvement, établir une somme fixe ou une somme en fonction de cet indicateur ou, les deux ou les trois à la fois, ainsi que déterminer le minimum et le maximum de cet indicateur afin qu'un entrepreneur ou une personne titulaire d'un permis soit assujetti au prélèvement;
+
+ 22° établir, pour la détermination du prélèvement exigible de chaque propriétaire ou exploitant d'une entreprise de distribution de gaz ou de produits pétroliers, une somme fixe ou une somme en fonction du volume de gaz ou de produits pétroliers vendu ou, les deux à la fois, ainsi que déterminer la période pour laquelle ce prélèvement est exigible de chaque propriétaire ou exploitant, définir ce qui constitue le volume de gaz ou de produits pétroliers vendu et en déterminer le maximum;
+
+ 23° établir, pour la détermination du prélèvement exigible de chaque propriétaire, une somme fixe ou une somme en fonction de l'aire, du volume, du nombre d'étages, de la capacité, de l'utilisation ou de l'évaluation foncière du bâtiment, de l'équipement destiné à l'usage du public, de l'installation non rattachée à un bâtiment ou de l'installation d'équipement pétrolier ou, les deux à la fois, ainsi que déterminer la période pour laquelle ce prélèvement est exigible de chaque propriétaire, définir ce qui constitue l'aire, le nombre d'étages, la capacité ou le volume d'un tel bâtiment, équipement ou installation, en déterminer le maximum et fixer cette somme en fonction de leur utilisation;
+
+ 24° prescrire, pour les fins des paragraphes 21° et 22°, la forme et la teneur de la déclaration qu'un entrepreneur, qu'une personne titulaire d'un permis délivré en vertu de l'article 37.1 ou qu'un propriétaire ou exploitant d'une entreprise de distribution de gaz ou de produits pétroliers doit lui transmettre ainsi que le délai dans lequel celle-ci doit être transmise;
+
+ 25° prescrire, pour les fins du paragraphe 23°, la forme et la teneur de la déclaration qu'un propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier lui transmet, ainsi que le délai dans lequel celle-ci doit être transmise;
+
+ 26° prévoir le délai dans lequel l'entrepreneur ou la personne titulaire d'un permis délivré en vertu de l'article 37.1 lui transmet une estimation de l'indicateur d'activités ou de performance servant de base à un prélèvement pour chaque période qu'elle détermine;
+
+ 27° prévoir le délai dans lequel le propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier lui transmet, pour chacun de ceux-ci une estimation de leur aire, de leur volume, de leur nombre d'étages, de leur capacité ou de leur utilisation, ainsi que le délai dans lequel celui-ci l'avise de chaque modification significative de l'immeuble, de l'équipement ou de l'installation;
+
+ 28° prévoir le délai dans lequel le propriétaire ou l'exploitant d'une entreprise de distribution de gaz ou de produits pétroliers lui transmet une estimation du volume de gaz ou de produits pétroliers vendu pour chaque période qu'elle détermine;
+
+ 29° prescrire la forme et la teneur de l'état annuel qu'un entrepreneur, qu'une personne titulaire d'un permis délivré en vertu de l'article 37.1 ou qu'un propriétaire ou exploitant d'une entreprise de distribution de gaz ou de produits pétroliers doit lui transmettre;
+
+ 30° prescrire la forme et la teneur de l'état annuel qu'un propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier doit lui transmettre;
+
+ 31° prescrire la forme, la teneur et les modalités de transmission du registre des activités servant de base à un prélèvement que chaque entrepreneur ou personne titulaire d'un permis délivré en vertu de l'article 37.1 doit mettre à sa disposition;
+
+ 32° prescrire la forme, la teneur et les modalités de transmission du registre des ventes de gaz ou de produits pétroliers que chaque propriétaire ou exploitant d'une entreprise de distribution de gaz ou de produits pétroliers doit mettre à sa disposition;
+
+ 33° prescrire la forme, la teneur et les modalités de transmission du registre des bâtiments, des équipements destinés à l'usage du public, des installations non rattachées à un bâtiment ou des installations d'équipement pétrolier que chaque propriétaire doit mettre à sa disposition;
+
+ 34° déterminer les cas où elle peut conclure une entente avec un entrepreneur, une personne titulaire d'un permis délivré en vertu de l'article 37.1 ou un propriétaire ou exploitant d'une entreprise de distribution de gaz ou de produits pétroliers pour le cotiser plus d'une fois par année et prévoir, à cette fin, les modalités d'application concernant la transmission des déclarations visées au paragraphe 24° et au paiement du prélèvement visé au paragraphe 3° ou 5° de l'article 151;
+
+ 35° déterminer les cas où elle peut conclure une entente avec un propriétaire pour le cotiser plus d'une fois par année et prévoir, à cette fin, les modalités d'application concernant la transmission des déclarations visées au paragraphe 25° et au paiement du prélèvement visé au paragraphe 4° de l'article 151;
+
+ 36° fixer le délai et les modalités de paiement du prélèvement exigible de chaque entrepreneur, de chaque personne titulaire d'un permis délivré en vertu de l'article 37.1, de chaque propriétaire d'un bâtiment, d'un équipement destiné à l'usage du public, d'une installation non rattachée à un bâtiment ou d'une installation d'équipement pétrolier et de chaque propriétaire ou exploitant d'une entreprise de distribution de gaz ou de produits pétroliers;
+
+ 36.1° déterminer les règles de conduite applicables aux entrepreneurs et aux constructeurs-propriétaires ainsi que les sanctions;
+
+ 37° déterminer, parmi les dispositions d'un règlement adopté en vertu du présent article, celles dont la violation constitue une infraction au terme du paragraphe 7° de l'article 194 à l'exception de celles adoptées en vertu des paragraphes 5.2°, 18°, 18.1°, 20° et 36.1° et des paragraphes 16° et 17° à l'égard des droits exigibles;
+
+ 38° généralement, adopter toute autre disposition connexe ou supplétive jugée nécessaire pour donner effet aux dispositions du présent article et à celles de la présente loi.
+
+1985, c. 34, a. 185; 1991, c. 74, a. 87, a. 169; 1995, c. 58, a. 8; 1996, c. 74, a. 10; 1997, c. 64, a. 15; 1997, c. 43, a. 875; 1998, c. 46, a. 53; 2005, c. 22, a. 45; 2005, c. 10, a. 62; 2005, c. 22, a. 45; 2010, c. 28, a. 19; 2011, c. 35, a. 33.
+
+186. (Abrogé).
+
+1985, c. 34, a. 186; 1991, c. 74, a. 88.
+
+187. (Abrogé).
+
+1985, c. 34, a. 187; 1991, c. 74, a. 88.
+
+188. (Abrogé).
+
+1985, c. 34, a. 188; 1991, c. 74, a. 88.
+
+189. Un code ou un règlement de la Régie est soumis à l'approbation du gouvernement qui peut l'approuver avec ou sans modification.
+
+1985, c. 34, a. 189; 1991, c. 74, a. 89.
+
+SECTION III
+~~~~~~~~~~~
+
+**DIVERS**
+
+190. (Abrogé).
+
+1985, c. 34, a. 190; 1991, c. 74, a. 90.
+
+191. Un code ou un règlement peut contenir des normes qui sont spécifiques aux territoires visés à l'article 4.
+
+1985, c. 34, a. 191.
+
+192. Le contenu des codes ou des règlements peut varier selon les catégories de personnes, d'entrepreneurs, de constructeurs-propriétaires, de fabricants d'installations sous pression, de propriétaires de bâtiments, d'équipements destinés à l'usage du public, d'installations non rattachées à un bâtiment ou d'installations d'équipement pétrolier, de propriétaires ou d'exploitants d'une entreprise de distribution de gaz ou de produits pétroliers de même que des catégories de bâtiments, d'installations sous pression, d'équipements ou d'installations auxquels les codes ou règlements s'appliquent.
+
+Ce contenu peut notamment varier pour faciliter la reconnaissance des qualifications, compétences ou expériences de travail d'entrepreneurs de construction visés dans une entente intergouvernementale en matière de mobilité ou de reconnaissance de telles qualifications, compétences ou expériences de travail.
+
+1985, c. 34, a. 192; 1991, c. 74, a. 91; 1996, c. 74, a. 11; 1998, c. 46, a. 54; 2005, c. 10, a. 63.
+
+193. Un règlement d'une municipalité locale ou d'une municipalité régionale de comté, qui porte sur une matière prévue au Code de construction (chapitre B-1.1, r. 2) ou à un règlement prévu par l'article 182 ou 185, ne peut avoir pour effet d'édicter une norme identique ou équivalente à celle contenue dans ce code ou ce règlement ni avoir pour effet de restreindre la portée ou l'application de ces normes.
+
+Une municipalité locale ou une municipalité régionale de comté peut cependant édicter une norme identique ou plus contraignante que celle contenue au Code de sécurité (chapitre B-1.1, r. 3).
+
+1985, c. 34, a. 193; 1990, c. 85, a. 122; 1991, c. 74, a. 92; 2000, c. 56, a. 218; 2010, c. 28, a. 20.
+
+CHAPITRE IX
+-----------
+
+**DISPOSITIONS PÉNALES**
+
+194. Commet une infraction quiconque:
+
+ 1° fait une fausse déclaration pour l'obtention d'une licence;
+
+ 2° fait une fausse déclaration dans un document prescrit par la présente loi ou fait usage d'un tel document alors qu'elle en connaît la fausseté;
+
+ 3° omet ou refuse de produire ou de signer une attestation de conformité, de solidité ou de sécurité ou produit ou signe une attestation qui est inexacte ou produit ou signe une attestation sachant qu'elle contenait des renseignements faux ou inexacts;
+
+ 4° entrave ou tente d'entraver l'action d'une personne agissant au nom de la Régie ou met obstacle à l'exercice de ses fonctions;
+
+ 5° utilise le nom d'une autre personne qui possède une licence ou utilise le numéro de licence de cette personne afin d'exécuter des travaux de construction;
+
+ 6° modifie un bâtiment, un équipement destiné à l'usage du public, une installation non rattachée à un bâtiment ou une installation d'équipement pétrolier, contrairement à une norme contenue dans le Code de sécurité (chapitre B-1.1, r. 3), de manière à augmenter un risque d'accident ou d'incendie ou à diminuer une mesure de sécurité prévue par ce code;
+
+ 6.1° raccorde ou alimente une installation électrique, une installation destinée à utiliser du gaz ou une installation d'équipement pétrolier sans avoir obtenu l'autorisation de la Régie conformément à l'article 119 ou 120;
+
+ 6.2° contrevient à une mesure supplétive exigée en vertu de l'article 122;
+
+ 7° contrevient à une des dispositions des articles 14, 15, 18, 19, 22, des premiers alinéas des articles 24 et 25, des articles 26, 27, 32 à 35, du troisième alinéa de l'article 35.2, des articles 36, 37, du premier alinéa de l'article 37.1, de l'article 37.2, du premier alinéa de l'article 38, des articles 38.1, 39, du deuxième alinéa du paragraphe 2° de l'article 49, de l'article 53, du deuxième alinéa de l'article 56, des articles 57.1, 67, 69, 79 ou 82, ou à une disposition réglementaire déterminée en vertu de l'article 179 ou du paragraphe 37° du premier alinéa de l'article 185.
+
+1985, c. 34, a. 194; 1991, c. 74, a. 93, a. 169; 1998, c. 46, a. 55; 1991, c. 74, a. 93; 2005, c. 10, a. 64; 2010, c. 28, a. 21.
+
+195. (Abrogé).
+
+1985, c. 34, a. 195; 1990, c. 4, a. 98; 1991, c. 74, a. 94.
+
+196. Sous réserve des articles 196.1 et 196.1.1, quiconque contrevient à l'article 194, est passible d'une amende de 1 076 $ à 5 378 $ dans le cas d'un individu et de 3 227 $ à 16 134 $ dans le cas d'une personne morale.
+
+En cas d'une première récidive, le contrevenant est passible d'une amende de 2 151 $ à 6 453 $ dans le cas d'un individu et de 6 453 $ à 32 267 $ dans le cas d'une personne morale.
+
+Pour toute récidive additionnelle, le contrevenant est passible d'une amende de 6 453 $ à 19 360 $ dans le cas d'un individu et de 19 360 $ à 96 801 $ dans le cas d'une personne morale.
+
+1985, c. 34, a. 196; 1990, c. 4, a. 99; 1991, c. 74, a. 95; 2009, c. 57, a. 7; 2011, c. 35, a. 34.
+
+Voir avis d'indexation; (2014) 146 G.O. 1, 1149.
+
+
+
+196.1. Quiconque contrevient au paragraphe 1° ou 2° de l'article 194 est passible d'une amende de 2 689 $ à 13 445 $ dans le cas d'un individu et de 8 066 $ à 40 334 $ dans le cas d'une personne morale.
+
+En cas d'une première récidive, les montants minimums et maximums de l'amende sont portés au double; pour toute récidive additionnelle, ils sont portés au triple.
+
+2009, c. 57, a. 8; 2011, c. 35, a. 35.
+
+Voir avis d'indexation; (2014) 146 G.O. 1, 1149.
+
+
+
+196.1.1. Quiconque contrevient au deuxième alinéa de l'article 56 ou au paragraphe 5° de l'article 194 est passible d'une amende de 10 756 $ à 80 668 $ dans le cas d'un individu et de 32 267 $ à 161 334 $ dans le cas d'une personne morale.
+
+2011, c. 35, a. 36.
+
+Voir avis d'indexation; (2014) 146 G.O. 1, 1149.
+
+
+
+196.2. Le constructeur-propriétaire ou l'entrepreneur qui est partie à un contrat de prêt d'argent alors que le prêteur refuse ou omet de fournir la déclaration prévue au paragraphe 8.2° du premier alinéa de l'article 58 ou au paragraphe 8° du premier alinéa de l'article 60 ou qu'il sait que ce prêteur ou l'un de ses dirigeants au sens de l'article 45 a été déclaré coupable, dans les cinq ans précédant le prêt, d'un acte criminel relié aux activités que le prêteur exerce ou d'un acte criminel prévu aux articles 467.11 à 467.13 du Code criminel (L.R.C. 1985, c. C-46), à moins qu'ils aient obtenu la réhabilitation ou le pardon, commet une infraction et est passible d'une amende de 5 378 $ à 26 889 $ dans le cas d'un individu et de 16 134 $ à 80 668 $ dans le cas d'une personne morale.
+
+2009, c. 57, a. 8; 2011, c. 35, a. 37.
+
+Voir avis d'indexation; (2014) 146 G.O. 1, 1149.
+
+
+
+196.3. Une amende visée par la présente loi est indexée annuellement selon l'augmentation en pourcentage de la moyenne de l'indice des prix à la consommation au Canada, publié par Statistique Canada en vertu de la Loi sur la statistique (L.R.C. 1985, c. S-19), pour les 12 mois de l'année précédente par rapport aux 12 mois de l'année antérieure à cette dernière.
+
+Si l'amende ainsi indexée comporte des décimales, celle-ci est augmentée au dollar le plus près si les décimales sont égales ou supérieures à 50; si elles sont inférieures à 50, elle est réduite au dollar le plus près.
+
+La Régie publie à la Gazette officielle du Québec le résultat des indexations faites en vertu du présent article.
+
+2009, c. 57, a. 8.
+
+197. Quiconque contrevient au premier alinéa de l'article 35.2, au premier alinéa de l'article 37.1, au premier alinéa de l'article 65.2 ou à l'article 65.3 est passible d'une amende de 5 378 $ à 26 889 $ dans le cas d'un individu et de 16 134 $ à 80 668 $ dans le cas d'une personne morale.
+
+1985, c. 34, a. 197; 1990, c. 4, a. 100; 1991, c. 74, a. 96; 1997, c. 85, a. 9; 2011, c. 35, a. 38.
+
+Voir avis d'indexation; (2014) 146 G.O. 1, 1149.
+
+
+
+197.1. Quiconque contrevient à l'un des articles 46 ou 48 est passible d'une amende de 5 378 $ à 26 889 $ dans le cas d'un individu et de 16 133 $ à 80 668 $ dans le cas d'une personne morale, s'il n'est pas titulaire d'une licence ayant la catégorie ou sous-catégorie appropriée, et d'une amende de 10 756 $ à 80 668 $ dans le cas d'un individu et de 32 267 $ à 161 334 $ dans le cas d'une personne morale, s'il n'est pas titulaire d'une licence.
+
+2011, c. 35, a. 39.
+
+Voir avis d'indexation; (2014) 146 G.O. 1, 1149.
+
+
+
+198. Quiconque fait défaut de se conformer à une ordonnance rendue en vertu des articles 123 ou 124 est passible d'une amende de 5 378 $ à 26 889 $ dans le cas d'un individu et de 16 133 $ à 80 668 $ dans le cas d'une personne morale.
+
+1985, c. 34, a. 198; 1990, c. 4, a. 100; 1991, c. 74, a. 97; 2011, c. 35, a. 40.
+
+Voir avis d'indexation; (2014) 146 G.O. 1, 1149.
+
+
+
+199. Quiconque, par action ou par omission, agit de manière à compromettre directement et sérieusement la sécurité du public est passible d'une amende de 5 378 $ à 26 889 $ dans le cas d'un individu et de 16 134 $ à 80 668 $ dans le cas d'une personne morale.
+
+En cas de récidive, le contrevenant est passible d'une amende de 10 756 $ à 80 667 $ dans le cas d'un individu et de 32 267 $ à 161 334 $ dans le cas d'une personne morale.
+
+1985, c. 34, a. 199; 1990, c. 4, a. 101; 1991, c. 74, a. 98; 2011, c. 35, a. 41.
+
+Voir avis d'indexation; (2014) 146 G.O. 1, 1149.
+
+
+
+200. Toute personne qui, par son acte ou son omission, en aide une autre à commettre une infraction est coupable de cette infraction comme si elle l'avait commise elle-même, si elle savait ou aurait dû savoir que son acte ou son omission aurait comme conséquence probable d'aider à la commission de l'infraction.
+
+1985, c. 34, a. 200; 1991, c. 74, a. 99.
+
+201. Toute personne qui, par des encouragements, des conseils ou des ordres, en amène une autre à commettre une infraction est coupable de cette infraction ainsi que de toute autre infraction que l'autre commet en conséquence des encouragements, des conseils ou des ordres, si elle savait ou aurait dû savoir que ceux-ci auraient comme conséquence probable la commission de l'infraction.
+
+1985, c. 34, a. 201.
+
+201.1. Lorsqu'une infraction visée aux articles 194, 197, 198 ou 199 a duré plus d'un jour, on compte autant d'infractions distinctes qu'il y a de jours qu'elle a duré.
+
+1991, c. 74, a. 100.
+
+202. (Abrogé).
+
+1985, c. 34, a. 202; 1990, c. 4, a. 102.
+
+203. Une poursuite intentée par une municipalité locale peut l'être devant toute cour municipale ayant compétence sur le territoire où l'infraction a été commise.
+
+Les frais relatifs à une poursuite intentée devant une cour municipale appartiennent à la municipalité dont dépend cette cour, sauf la partie des frais remis par le percepteur à un autre poursuivant en vertu de l'article 345.2 du Code de procédure pénale (chapitre C-25.1) et sauf les frais remis au défendeur ou imposés à cette municipalité en vertu de l'article 223 de ce code.
+
+1985, c. 34, a. 203; 1989, c. 52, a. 119; 1992, c. 61, a. 79; 2003, c. 5, a. 26.
+
+204. (Abrogé).
+
+1985, c. 34, a. 204; 1991, c. 74, a. 101; 1992, c. 61, a. 80.
+
+205. (Remplacé).
+
+1985, c. 34, a. 205; 1991, c. 74, a. 101.
+
+206. (Remplacé).
+
+1985, c. 34, a. 206; 1991, c. 74, a. 101.
+
+207. (Remplacé).
+
+1985, c. 34, a. 207; 1991, c. 74, a. 101.
+
+208. (Remplacé).
+
+1985, c. 34, a. 208; 1990, c. 4, a. 103; 1991, c. 74, a. 101.
+
+209. Les poursuites pénales pour la sanction d'une infraction à une disposition de la présente loi peuvent être intentées par une municipalité locale dans le cas où une entente a été conclue en vertu de l'article 132.
+
+1985, c. 34, a. 209; 1991, c. 74, a. 102, a. 169; 1992, c. 61, a. 81.
+
+210. Aux fins des articles 20 et 21 du Code de procédure pénale (chapitre C-25.1), un bâtiment ou un équipement destiné à l'usage du public constitue pour son propriétaire un établissement d'entreprise.
+
+1985, c. 34, a. 210; 1990, c. 4, a. 104; 1999, c. 40, a. 37.
+
+211. (Abrogé).
+
+1985, c. 34, a. 211; 1991, c. 74, a. 103; 1992, c. 61, a. 82.
+
+212. Une poursuite pénale doit être intentée dans un délai d'un an après que l'infraction est parvenue à la connaissance du poursuivant.  Toutefois, aucune poursuite ne peut être intentée s'il s'est écoulé plus de cinq ans depuis la date de la perpétration de l'infraction.
+
+1985, c. 34, a. 212; 1991, c. 74, a. 104; 1992, c. 61, a. 83.
+
+213. Aucune preuve n'est permise pour établir qu'une enquête ou une poursuite prévue par la présente loi a été intentée à la suite d'un renseignement obtenu d'une personne ou pour découvrir l'identité de cette dernière.
+
+1985, c. 34, a. 213.
+
+CHAPITRE X
+----------
+
+**DISPOSITIONS TRANSITOIRES ET FINALES**
+
+SECTION I
+~~~~~~~~~
+
+**DISPOSITIONS TRANSITOIRES**
+
+214. La présente loi remplace la Loi sur les appareils sous pression (chapitre A-20.01), la Loi sur la distribution du gaz (chapitre D-10), la Loi sur l'économie de l'énergie dans le bâtiment (chapitre E-1.1), la Loi sur les installations de tuyauterie (chapitre I-12.1), la Loi sur les installations électriques (chapitre I-13.01), la Loi sur les mécaniciens de machines fixes (chapitre M-6), la Loi sur la qualification professionnelle des entrepreneurs de construction (chapitre Q-1) et la Loi concernant la réglementation municipale des édifices publics (chapitre R-18).
+
+1985, c. 34, a. 214.
+
+Le présent article est en vigueur depuis le 1er février 1992 en ce qui concerne la Loi sur la qualification professionnelle des entrepreneurs de construction (chapitre Q-1). (1985, c. 34, a. 301; 1991, c. 74, a. 132).
+Le présent article est en vigueur depuis le 1er octobre 2002 en ce qui concerne la Loi sur les installations de tuyauterie (chapitre I-12.1) et la Loi sur les installations électriques (chapitre I-13.01). (Décret 960-2002 du 21 août 2002, (2002) 134 G.O. 2, 5949).
+Le présent article est en vigueur depuis le 2 décembre 2003 en ce qui concerne la Loi sur la distribution du gaz (chapitre D-10). (Décret 874-2003 du 20 août 2003, (2003) 135 G.O. 2, 3951).
+Le présent article est en vigueur depuis le 30 août 2012 en ce qui concerne la Loi sur l'économie de l'énergie dans le bâtiment (chapitre E-1.1) à l'égard des bâtiments et des équipements destinés à l'usage du public auxquels s'applique la partie 11 du code adopté par le chapitre I du Code de construction (chapitre B-1.1, r. 2). (Décret 857-2012 du 1er août 2012, (2012) 144 G.O. 2, 4179).
+
+
+
+215. Une disposition d'un règlement adopté en vertu des lois visées aux articles 214 et 282 demeure en vigueur dans la mesure où elle est compatible avec la présente loi.
+
+Le code de construction et le code de sécurité peuvent être adoptés par la Régie et entrer en vigueur par catégories de bâtiments, d'installations sous pression, d'équipements ou d'installations visés par chacune des lois mentionnées aux articles 214 et 282 ou visés par la présente loi.
+
+1985, c. 34, a. 215; 1998, c. 46, a. 56.
+
+216. Malgré l'article 215, les articles 43 à 55, 58 à 64, 78 et 86 du Règlement sur les appareils sous pression, édicté par le Décret 2519-82 du 3 novembre 1982 et ses modifications présentes et futures, en ce qui concerne la qualification personnelle de soudeur et la qualification d'inspecteurs, l'Ordonnance sur les certificats de compétence en matière de gaz (R.R.Q., 1981, chapitre D-10, r. 2), à l'exception de la catégorie 311 du titre «300—Distribution» de l'article 1, de l'annexe A et de la liste des catégories de l'annexe B, les articles 17 et 32 du Règlement sur le gaz et la sécurité publique (R.R.Q., 1981, chapitre D-10, r. 4) ainsi que les articles 28 à 39, 41 à 60 et l'annexe D du Règlement sur les mécaniciens de machines fixes (R.R.Q., 1981, chapitre M-6, r. 1) demeurent en vigueur dans la mesure où ils sont compatibles avec la Loi sur la formation et la qualification professionnelles de la main-d'oeuvre (chapitre F-5).
+
+Ces dispositions sont réputées avoir été adoptées en vertu de la Loi sur la formation et la qualification professionnelles de la main-d'oeuvre et un certificat de qualification ou de compétence délivré en vertu de ces dispositions est réputé un certificat de qualification rendu obligatoire conformément à cette loi.
+
+1985, c. 34, a. 216; 1991, c. 74, a. 105; 1999, c. 40, a. 37.
+
+217. (Omis).
+
+1985, c. 34, a. 217.
+
+218. (Inopérant, 1982, c. 42, a. 19; 1983, c. 26, a. 5; (1986) 118 G.O. 2, 1729).
+
+1985, c. 34, a. 218.
+
+219. (Inopérant, 1982, c. 42, a. 19; 1983, c. 26, a. 5; (1986) 118 G.O. 2, 1729).
+
+1985, c. 34, a. 219.
+
+LOI SUR LE COURTAGE IMMOBILIER
+------------------------------
+
+220. (Modification intégrée au c. C-73, a. 1).
+
+1985, c. 34, a. 220.
+
+221. (Modification intégrée au c. C-73, a. 6).
+
+1985, c. 34, a. 221.
+
+222. (Modification intégrée au c. C-73, aa. 7-7.2).
+
+1985, c. 34, a. 222.
+
+223. (Modification intégrée au c. C-73, aa. 8-8.1).
+
+1985, c. 34, a. 223.
+
+224. (Modification intégrée au c. C-73, Section III.1, aa. 9.1-9.13).
+
+1985, c. 34, a. 224.
+
+225. (Modification intégrée au c. C-73, Section III.2, aa. 9.14-9.35).
+
+1985, c. 34, a. 225.
+
+226. (Modification intégrée au c. C-73, a. 11.1).
+
+1985, c. 34, a. 226.
+
+227. (Modification intégrée au c. C-73, a. 12).
+
+1985, c. 34, a. 227.
+
+228. (Modification intégrée au c. C-73, a. 13).
+
+1985, c. 34, a. 228.
+
+229. (Modification intégrée au c. C-73, a. 20).
+
+1985, c. 34, a. 229.
+
+LOI SUR LES MAÎTRES ÉLECTRICIENS
+--------------------------------
+
+230. (Modification intégrée au c. M-3, a. 1).
+
+1985, c. 34, a. 230; 1991, c. 74, a. 106, a. 168; 1997, c. 83, a. 29.
+
+231. (Modification intégrée au c. M-3, a. 5).
+
+1985, c. 34, a. 231; 1991, c. 74, a. 107.
+
+232. (Abrogé).
+
+1985, c. 34, a. 232; 1991, c. 74, a. 108.
+
+233. (Modification intégrée au c. M-3, a. 11).
+
+1985, c. 34, a. 233.
+
+234. (Abrogé).
+
+1985, c. 34, a. 234; 1991, c. 74, a. 108.
+
+235. (Abrogé).
+
+1985, c. 34, a. 235; 1991, c. 74, a. 108.
+
+236. (Modification intégrée au c. M-3, a. 14).
+
+1985, c. 34, a. 236.
+
+237. (Modification intégrée au c. M-3, aa. 14.1-14.4).
+
+1985, c. 34, a. 237.
+
+238. (Modification intégrée au c. M-3, aa. 17.1-17.5).
+
+1985, c. 34, a. 238.
+
+239. (Modification intégrée au c. M-3 a. 20).
+
+1985, c. 34, a. 239; 1990, c. 4, a. 555.
+
+240. (Modification intégrée au c. M-3, intitulé après a. 20).
+
+1985, c. 34, a. 240.
+
+241. (Modification intégrée au c. M-3, aa. 20.1-23).
+
+1985, c. 34, a. 241.
+
+242. (Modification intégrée au c. M-3, a. 31).
+
+1985, c. 34, a. 242.
+
+243. (Modification intégrée au c. M-3, a. 31.1).
+
+1985, c. 34, a. 243.
+
+LOI SUR LES MAÎTRES MÉCANICIENS EN TUYAUTERIE
+---------------------------------------------
+
+244. (Modification intégrée au c. M-4, intitulé après le titre de la loi).
+
+1985, c. 34, a. 244.
+
+245. (Modification intégrée au c. M-4, a. 1).
+
+1985, c. 34, a. 245; 1991, c. 74, a. 168; 1997, c. 83, a. 30.
+
+246. (Modification intégrée au c. M-4, intitulé après a. 2).
+
+1985, c. 34, a. 246.
+
+247. (Modification intégrée au c. M-4, a. 5).
+
+1985, c. 34, a. 247; 1991, c. 74, a. 110.
+
+248. (Modification intégrée au c. M-4, intitulé après a. 7).
+
+1985, c. 34, a. 248.
+
+249. (Abrogé).
+
+1985, c. 34, a. 249; 1991, c. 74, a. 111.
+
+250. (Modification intégrée au c. M-4, intitulé après a. 8).
+
+1985, c. 34, a. 250.
+
+251. (Modification intégrée au c. M-4, a. 9.1).
+
+1985, c. 34, a. 251.
+
+252. (Modification intégrée au c. M-4, a. 10).
+
+1985, c. 34, a. 252; 1991, c. 74, a. 112.
+
+253. (Abrogé).
+
+1985, c. 34, a. 253; 1991, c. 74, a. 113.
+
+254. (Abrogé).
+
+1985, c. 34, a. 254; 1991, c. 74, a. 113.
+
+255. (Modification intégrée au c. M-4, a. 12).
+
+1985, c. 34, a. 255; 1991, c. 74, a. 113.
+
+256. (Modification intégrée au c. M-4, aa. 12.1-12.4).
+
+1985, c. 34, a. 256.
+
+257. (Modification intégrée au c. M-4, aa. 14.1-14.5).
+
+1985, c. 34, a. 257.
+
+258. (Modification intégrée au c. M-4, a. 15).
+
+1985, c. 34, a. 258.
+
+259. (Modification intégrée au c. M-4, a. 18).
+
+1985, c. 34, a. 259.
+
+260. (Modification intégrée au c. M-4, a. 19).
+
+1985, c. 34, a. 260; 1990, c. 4, a. 561.
+
+261. (Modification intégrée au c. M-4, aa. 19.1-21.2).
+
+1985, c. 34, a. 261.
+
+262. (Modification intégrée au c. M-4, a. 29.1).
+
+1985, c. 34, a. 262.
+
+LOI SUR LE MINISTÈRE DES RESSOURCES NATURELLES ET DE LA FAUNE
+-------------------------------------------------------------
+
+263. (Abrogé).
+
+1985, c. 34, a. 263; 1994, c. 13, a. 15; 2003, c. 8, a. 7; 2006, c. 3, a. 35; 2005, c. 10, a. 65.
+
+264. (Abrogé).
+
+1985, c. 34, a. 264; 1994, c. 12, a. 18.
+
+265. (Abrogé).
+
+1985, c. 34, a. 265; 1994, c. 12, a. 18.
+
+266. (Abrogé).
+
+1985, c. 34, a. 266; 1990, c. 4, a. 105.
+
+LOI SUR LA PRÉVENTION DES INCENDIES
+-----------------------------------
+
+267. (Abrogé).
+
+1985, c. 34, a. 267; 2000, c. 20, a. 167.
+
+268. (Abrogé).
+
+1985, c. 34, a. 268; 1991, c. 74, a. 113.
+
+LOI SUR LA PROTECTION DU CONSOMMATEUR
+-------------------------------------
+
+269. (Modification intégrée au c. P-40.1, a. 1).
+
+1985, c. 34, a. 269.
+
+270. (Modification intégrée au c. P-40.1, a. 6).
+
+1985, c. 34, a. 270.
+
+271. (Modification intégrée au c. P-40.1, a. 6.1).
+
+1985, c. 34, a. 271.
+
+272. (Modification intégrée au c. P-40.1, a. 215).
+
+1985, c. 34, a. 272.
+
+273. (Modification intégrée au c. P-40.1, a. 253).
+
+1985, c. 34, a. 273.
+
+LOI SUR LA RÉGIE DE L'ÉLECTRICITÉ ET DU GAZ
+-------------------------------------------
+
+274. (Abrogé).
+
+1985, c. 34, a. 274; 1988, c. 23, a. 81.
+
+275. (Abrogé).
+
+1985, c. 34, a. 275; 1988, c. 23, a. 81.
+
+276. (Abrogé).
+
+1985, c. 34, a. 276; 1988, c. 23, a. 81.
+
+277. (Abrogé).
+
+1985, c. 34, a. 277; 1988, c. 23, a. 81.
+
+278. (Abrogé).
+
+1985, c. 34, a. 278; 1988, c. 23, a. 81.
+
+non en vigueurLOI SUR LA RÉGIE DU LOGEMENT
+
+
+non en vigueurC. R-8.1, a. 78, mod.
+279. Le premier alinéa de l'article 78 de la Loi sur la Régie du logement (chapitre R-8.1) est remplacé par le suivant:
+Rapport tenant lieu d'un témoignage.
+«78. Un régisseur peut décider qu'un rapport d'inspection fait sous la signature d'un inspecteur de la régie, d'une personne désignée par la Régie du bâtiment du Québec pour enquêter en vertu de la Loi sur le bâtiment (chapitre B-1.1), d'un inspecteur municipal ou d'un inspecteur nommé en vertu de la Loi sur la santé et la sécurité du travail (chapitre S-2.1), de la Loi sur la qualité de l'environnement (chapitre Q-2) ou de la Loi sur la Société d'habitation du Québec (chapitre S-8) tient lieu du témoignage de cet inspecteur.
+».1985, c. 34, a. 279; 1991, c. 74, a. 168.
+
+
+LOI SUR LES RELATIONS DU TRAVAIL, LA FORMATION PROFESSIONNELLE ET LA GESTION DE LA MAIN-D'OEUVRE DANS L'INDUSTRIE DE LA CONSTRUCTION
+------------------------------------------------------------------------------------------------------------------------------------
+
+280. (Abrogé).
+
+1985, c. 34, a. 280; 1986, c. 89, a. 50; 1991, c. 74, a. 115.
+
+281. (Abrogé).
+
+1985, c. 34, a. 281; 1991, c. 74, a. 115.
+
+LOI SUR LA SÉCURITÉ DANS LES ÉDIFICES PUBLICS
+---------------------------------------------
+
+282. (Omis).
+
+1985, c. 34, a. 282; 1991, c. 74, a. 116.
+
+283. (Remplacé).
+
+1985, c. 34, a. 283; 1991, c. 74, a. 116.
+
+LOI SUR LA SÉCURITÉ DANS LES SPORTS
+-----------------------------------
+
+284. (Abrogé).
+
+1985, c. 34, a. 284; 1988, c. 26, a. 25.
+
+SECTION II
+~~~~~~~~~~
+
+**DISPOSITIONS FINALES**
+
+285. Le personnel du ministère du Travail affecté à l'application de la Loi sur les appareils sous pression (chapitre A-20.01) en ce qui concerne la qualification personnelle de soudeur et la qualification d'inspecteurs ainsi qu'à l'application de la Loi sur les mécaniciens de machines fixes (chapitre M-6) devient le personnel du ministère de la Main-d'oeuvre et de la Sécurité du revenu, selon que le détermine le gouvernement.
+
+1985, c. 34, a. 285; 1991, c. 74, a. 117.
+
+286. Le personnel du ministère du Travail occupant des fonctions dans les domaines dévolus à la Régie du bâtiment du Québec et en fonction le 1er février 1992 devient le personnel de la Régie du bâtiment du Québec selon que le détermine le gouvernement.
+
+1985, c. 34, a. 286; 1991, c. 74, a. 118.
+
+287. Le personnel de la Régie des entreprises de construction du Québec en fonction le 1er février 1992 devient le personnel de la Régie du bâtiment du Québec.
+
+1985, c. 34, a. 287; 1991, c. 74, a. 119.
+
+288. Les dossiers et autres documents du ministère du Travail qui se rapportent à l'application des lois visées aux articles 214 et 282, de la Régie du gaz naturel qui se rapportent à l'application des dispositions législatives visées à l'article 294 et de la Régie des entreprises de construction du Québec deviennent les dossiers et les documents de la Régie du bâtiment du Québec sauf dans le cas où le gouvernement en décide autrement.
+
+1985, c. 34, a. 288; 1988, c. 23, a. 82; 1991, c. 74, a. 120.
+
+289. Les affaires pendantes à la Régie des entreprises de construction du Québec sont continuées et décidées par la Régie du bâtiment du Québec sauf dans le cas où le gouvernement en décide autrement.
+
+Il en est de même des affaires pendantes à la Régie du gaz naturel.
+
+1985, c. 34, a. 289; 1991, c. 74, a. 121.
+
+290. Les affaires pendantes au Tribunal du travail en vertu de la Loi sur la qualification professionnelle des entrepreneurs de construction (chapitre Q-1) sont continuées et décidées par ce tribunal selon cette loi.
+
+1985, c. 34, a. 290.
+
+291. Une licence délivrée en vertu de la Loi sur la qualification professionnelle des entrepreneurs de construction (chapitre Q-1) ou du deuxième alinéa de l'article 20 de la Loi sur les installations électriques (chapitre I-13.01) demeure en vigueur jusqu'à la date à laquelle elle aurait expiré en vertu de cette loi et son titulaire peut, jusqu'à cette date, accomplir les opérations autorisées par cette licence sous réserve de la présente loi ou de ses règlements.
+
+Il en est de même pour une licence délivrée en vertu du troisième alinéa de l'article 20 de la Loi sur les installations électriques mais uniquement pour les travaux d'installations électriques exécutés à des installations électriques qui sont la propriété du fabricant de constructions préfabriquées fixes.
+
+1985, c. 34, a. 291.
+
+292. Une licence délivrée à une société ou personne morale en vertu de la Loi sur la qualification professionnelle des entrepreneurs de construction (chapitre Q-1) demeure en vigueur jusqu'à la date de son expiration même si la personne qui habilite la société ou personne morale n'est pas un dirigeant au sens de l'article 45. Il en est de même de toute licence délivrée ou renouvelée en vertu de la présente loi jusqu'à ce qu'un règlement adopté en vertu du paragraphe 12° de l'article 185 soit en vigueur.
+
+1985, c. 34, a. 292; 1991, c. 74, a. 122.
+
+293. La Régie du bâtiment du Québec est substituée au Bureau des examinateurs électriciens, au Bureau des examinateurs en tuyauterie, à la Commission du bâtiment du Québec et à la Régie des entreprises de construction du Québec; elle en acquiert les droits et en assume les obligations.
+
+Le ministre de la Main-d'oeuvre et de la Sécurité du revenu est substitué au Bureau des examinateurs institué en vertu de la Loi sur les mécaniciens de machines fixes (chapitre M-6); il en acquiert les droits et en assume les obligations.
+
+1985, c. 34, a. 293; 1991, c. 74, a. 123.
+
+294. La Commission du bâtiment du Québec acquiert les droits et assume aussi les obligations que la Régie du gaz naturel détenait en vertu de la Loi sur la distribution du gaz (chapitre D-10) et par le paragraphe c de l'article 19 et l'article 37 de la Loi sur la Régie de l'électricité et du gaz (chapitre R-6).
+
+1985, c. 34, a. 294; 1988, c. 23, a. 83.
+
+295. La Régie est autorisée à employer tout document ou moyen d'identification déjà préparé au nom de la Régie des entreprises de construction du Québec jusqu'à ce qu'elle soit en mesure de les remplacer par des documents ou moyens d'identification préparés au nom de la Régie du bâtiment du Québec.
+
+Il en va de même de tout document ou moyen d'identification du ministère du Travail qui se rapporte à l'application des lois visées aux articles 214 et 282.
+
+1985, c. 34, a. 295; 1991, c. 74, a. 125.
+
+296. Les crédits accordés au ministère du Travail pour les matières dévolues au ministre de la Main-d'oeuvre et de la Sécurité du revenu sont transférés au ministère de la Main-d'oeuvre et de la Sécurité du revenu, selon que le détermine le gouvernement.
+
+1985, c. 34, a. 296; 1991, c. 74, a. 126.
+
+297. Les crédits accordés au ministère du Travail pour les matières dévolues à la Régie du bâtiment du Québec sont transférés à la Régie du bâtiment du Québec, selon que le détermine le gouvernement.
+
+1985, c. 34, a. 297; 1991, c. 74, a. 127.
+
+297.1. Pour les fins de l'application du premier alinéa de l'article 57, la période pour laquelle une licence est délivrée est d'un an jusqu'à ce qu'un règlement soit adopté en vertu du paragraphe 16° de l'article 185.
+
+1991, c. 74, a. 128.
+
+297.2. Jusqu'à ce qu'un entrepreneur adhère à un plan de garantie visé à l'article 80 ou qu'un cautionnement lui soit devenu exigible en vertu de l'article 84 ou de l'article 85, le cautionnement exigible en vertu de l'article 34.1 de la Loi sur la qualification professionnelle des entrepreneurs de construction (chapitre Q-1) demeure en vigueur et constitue une condition requise pour l'obtention d'une licence en vertu de la présente loi.
+
+1991, c. 74, a. 128.
+
+297.3. (Abrogé).
+
+1991, c. 74, a. 128; 1997, c. 64, a. 17; 2005, c. 22, a. 46.
+
+297.4. Jusqu'à ce que la Loi sur les installations électriques (chapitre I-13.01) soit remplacée conformément à l'article 214, l'article 48 ne s'applique pas aux travaux d'installations électriques visés aux deuxième et troisième alinéas de l'article 20 de la Loi sur les installations électriques.
+
+1991, c. 74, a. 128.
+
+297.5. Jusqu'à ce qu'une entente soit conclue en vertu de l'article 132, l'article 193 ne s'applique pas à l'égard d'un règlement sur les installations de tuyauterie édicté par une municipalité locale exemptée de l'application d'un code de plomberie en vertu du paragraphe f de l'article 24 de la Loi sur les installations de tuyauterie (chapitre I-12.1) et les conditions d'exemption prévues dans un tel code continuent de s'appliquer à une telle municipalité.
+
+1998, c. 46, a. 57.
+
+298. Le ministre du Travail est responsable de l'application de la présente loi.
+
+1985, c. 34, a. 298; 1991, c. 74, a. 129; 1994, c. 12, a. 19; 1996, c. 29, a. 43.
+
+non en vigueurSystème de perception.
+299. La Régie du bâtiment du Québec doit étudier la possibilité d'implanter un système intégré de déclarations des travaux de construction et de perception de toute somme exigée en vertu d'une loi applicable au domaine de la construction.
+Rapport.
+La Régie fait rapport de ses constatations et recommandations au ministre au plus tard le (indiquer ici la date qui est postérieure de deux ans à l'entrée en vigueur du présent article).
+Prolongation du mandat.
+Toutefois, le mandat de la Régie peut être prolongé par le gouvernement qui peut le préciser et en fixer les modalités d'exécution.
+1985, c. 34, a. 299; 1991, c. 74, a. 168.
+
+
+299.1. La Régie du bâtiment du Québec est chargée de l'administration des lois visées à l'article 214 jusqu'à ce qu'elles aient été remplacées.
+
+Il en est de même de la Loi sur la sécurité dans les édifices publics (chapitre S-3) jusqu'à la date d'entrée en vigueur de l'article 282.
+
+1991, c. 74, a. 131.
+
+300. (Cet article a cessé d'avoir effet le 31 octobre 1990).
+
+1985, c. 34, a. 300; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+301. (Omis).
+
+1985, c. 34, a. 301; 1991, c. 74, a. 132.
+
+ANNEXES ABROGATIVES
+
+Conformément à l'article 17 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 34 des lois de 1985, tel qu'en vigueur le 1er mars 1986, à l'exception de l'article 301, est abrogé à compter de l'entrée en vigueur du chapitre B-1.1 des Lois refondues.
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), les articles 224, 226, 227 et les paragraphes 2° et 3° de l'article 228 du chapitre 34 des lois de 1985, tels qu'en vigueur le 1er mars 1987, sont abrogés à compter de l'entrée en vigueur de la mise à jour au 1er mars 1987 du chapitre B-1.1 des Lois refondues.
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), l'article 221, le paragraphe 1° de l'article 229 et les articles 269 à 273 du chapitre 34 des lois de 1985, tels qu'en vigueur le 1er mars 1989, sont abrogés à compter de l'entrée en vigueur de la mise à jour au 1er mars 1989 du chapitre B-1.1 des Lois refondues.
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), les articles 1, 2, 4, 7 à 9, 11, 41, 42, 44 à 73, 75 à 86, 112, 115, 117, 118, 129, 150 à 153, 155, le paragraphe 2° de l'article 160, les articles 161 à 164, le paragraphe 2° de l'article 165, les articles 166, 167, 169 à 176, 178, 179, 182, 185, 189, 191 à 193, les paragraphes 1°, 2°, 4°, 5° et 7° de l'article 194, les articles 196, 197, 200, 201, 203, 204, 209, 211 à 213, 215, 216, le paragraphe 4° de l'article 230, les articles 231, 238, 240 à 243, le paragraphe 4° de l'article 245, les articles 247, 252, le paragraphe 2° de l'article 255, les articles 257, 258, 261, 262, 285 à 290, le premier alinéa de l'article 291 et les articles 292 à 297 du chapitre 34 des lois de 1985, tels qu'en vigueur le 1er mars 1992, sont abrogés à compter de l'entrée en vigueur de la mise à jour au 1er mars 1992 du chapitre B-1.1 des Lois refondues.
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le paragraphe 1° de l'article 160 et le paragraphe 1° de l'article 165 du chapitre 34 des lois de 1985, tels qu'en vigueur le 1er mars 1997, sont abrogés à compter de l'entrée en vigueur de la mise à jour au 1er mars 1997 du chapitre B-1.1 des Lois refondues.
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le paragraphe 3° de l'article 230 et les paragraphes 1° et 3° de l'article 245 du chapitre 34 des lois de 1985, tels qu'en vigueur le 1er avril 1998, sont abrogés à compter de l'entrée en vigueur de la mise à jour au 1er avril 1998 du chapitre B-1.1 des Lois refondues.
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), les articles 3, 5, 10, 12 à 18, 20 à 23, 36, 113, 114, 116, 122 à 128, 132 à 139, les paragraphes 3° et 6° de l'article 194, les articles 198, 199 et 210 du chapitre 34 des lois de 1985, tels qu'en vigueur le 1er avril 2001, sont abrogés à compter de l'entrée en vigueur de la mise à jour au 1er avril 2001 du chapitre B-1.1 des Lois refondues.
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), les articles 6, 19, 24 à 27, 29 à 35, 37, 39, 119, les paragraphes 1° et 2° de l'article 230, l'article 239, le paragraphe 2° de l'article 245, les articles 259 et 260 ainsi que le second alinéa de l'article 291 du chapitre 34 des lois de 1985, tels qu'en vigueur le 1er avril 2003, sont abrogés à compter de l'entrée en vigueur de la mise à jour au 1er avril 2003 du chapitre B-1.1 des Lois refondues.
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), l'article 38 du chapitre 34 des lois de 1985, tel qu'en vigueur le 1er mars 2005, est abrogé à compter de l'entrée en vigueur de la mise à jour au 1er mars 2005 du chapitre B-1.1 des Lois refondues.

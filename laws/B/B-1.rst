@@ -1,0 +1,1316 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _B-1:
+
+======================
+B-1 Loi sur le Barreau
+======================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+SECTION I
+~~~~~~~~~
+
+**DISPOSITIONS DÉCLARATOIRES ET INTERPRÉTATIVES**
+
+1. Dans la présente loi et dans les règlements édictés sous son empire, à moins que le contexte n'impose un sens différent, les mots suivants désignent respectivement:
+
+ a) «Barreau»: l'Ordre professionnel des avocats du Québec constitué par l'article 3;
+
+ b) «Conseil des sections»: le Conseil des sections du Barreau constitué par l'article 26.1;
+
+ c) «Ordre des avocats»: le corps professionnel formé de l'ensemble des membres du Barreau;
+
+ d) «Tableau»: le Tableau de l'Ordre des avocats;
+
+ e) «avocat», «conseiller juridique», «membre du Barreau», «procureur»: quiconque est inscrit au Tableau;
+
+ f) «permis»: un permis délivré conformément à la présente loi et au Code des professions (chapitre C-26);
+
+ g) «conseiller en loi»: un avocat d'une autre province ou d'un territoire du Canada ou un professeur de droit inscrit au Tableau en vertu d'un permis restrictif; «avocat» inclut «conseiller en loi», sauf disposition contraire de la loi;
+
+ h) (paragraphe abrogé);
+
+ i) «section»: corporation locale du Barreau, formée des avocats qui y sont inscrits;
+
+ j) «conseil»: le conseil d'une section;
+
+ k) «personne»: une personne morale ou physique, ainsi qu'une association, une société ou une corporation;
+
+ l) «tribunal»: tout organisme qui siège au Québec et qui y exerce une fonction judiciaire ou quasi judiciaire;
+
+ m) «frais judiciaires» ou «dépens»: les frais prévus au tarif, taxables par l'officier compétent d'un tribunal;
+
+ n) «frais extrajudiciaires»: les honoraires ou frais qu'un avocat peut exiger pour des services professionnels ou en sus des frais judiciaires, et qui découlent de l'exercice de la profession d'avocat;
+
+ o) «sténographie»: sténographie ou enregistrement des dépositions, conformément à l'article 324 du Code de procédure civile (chapitre C-25);
+
+ p) «avocat à la retraite»: quiconque est inscrit au Tableau à titre d'avocat à la retraite ; « avocat » inclut « avocat à la retraite », sauf disposition contraire de la loi.
+
+1966-67, c. 77, a. 1; 1973, c. 44, a. 1; 1975, c. 81, a. 1; 1990, c. 54, a. 1; 1994, c. 40, a. 227; 1999, c. 40, a. 36; 2007, c. 35, a. 1; 2014, c. 13, a. 1.
+
+2. L'avocat exerce une fonction publique auprès du tribunal et collabore à l'administration de la justice.
+
+1966-67, c. 77, a. 2.
+
+SECTION II
+~~~~~~~~~~
+
+**CONSTITUTION DU BARREAU**
+
+3. L'Ordre des avocats constitue un ordre professionnel désigné sous le nom de «Barreau du Québec».
+
+1966-67, c. 77, a. 3; 1973, c. 44, a. 2; 1977, c. 5, a. 229; 1994, c. 40, a. 228.
+
+4. Le Barreau et ses membres sont régis par le Code des professions (chapitre C-26), sous réserve des dispositions contraires ou incompatibles de la présente loi.
+
+1973, c. 44, a. 3.
+
+5.  1. Le Barreau est divisé en sections.
+
+ 2. Chaque section est distincte, autonome et formée des avocats qui y sont inscrits.
+
+ 3. Les sections existantes, sont désignées respectivement sous les noms de: Barreau de Montréal, Barreau de Québec, Barreau de la Mauricie, Barreau de Saint-François, Barreau d'Arthabaska, Barreau de Bedford, Barreau de l'Outaouais, Barreau de Richelieu, Barreau du Bas-Saint-Laurent-Gaspésie-Îles-de-la-Madeleine, Barreau du Saguenay-Lac-Saint-Jean, Barreau des Laurentides-Lanaudière, Barreau d'Abitibi-Témiscamingue, Barreau de la Côte-Nord, Barreau de Longueuil, Barreau de Laval.
+
+ 4. Les limites territoriales des sections sont déterminées à l'annexe I.
+
+1966-67, c. 77, a. 4; 1975, c. 81, a. 2; 1985, c. 29, a. 2; 1987, c. 79, a. 1; 1990, c. 54, a. 2; 1999, c. 40, a. 36; 2001, c. 64, a. 1; 2009, c. 35, a. 32.
+
+6. Le Barreau et chacune des sections sont des personnes morales.
+
+Ils peuvent acquérir, posséder, administrer, vendre, louer, échanger ou céder des biens meubles et immeubles sis dans le Québec.
+
+Ils peuvent hypothéquer des biens meubles et immeubles pour assurer le paiement des obligations ou valeurs qu'ils émettent.
+
+Ils doivent disposer dans un délai raisonnable des immeubles qui pendant une période de sept années consécutives n'auront pas été utilisés pour la poursuite de leurs fins.
+
+1966-67, c. 77, a. 5; 1968, c. 69, a. 1; 1992, c. 57, a. 441; 1999, c. 40, a. 36.
+
+7.  1. Le Barreau a son siège à Montréal ou à tout autre endroit déterminé par règlement du Conseil d'administration pris en application du paragraphe f de l'article 93 du Code des professions (chapitre C-26).
+
+ 2. Chaque section a son siège à l'endroit qu'elle fixe par résolution.
+
+ 3. (Paragraphe abrogé).
+
+1966-67, c. 77, a. 6; 1968, c. 23, a. 8; 1990, c. 54, a. 3; 1994, c. 40, a. 229; 2014, c. 13, a. 17.
+
+8. Toute procédure dirigée contre le Barreau doit être signifiée à son siège.
+
+Celle dirigée contre une section doit l'être, soit à son siège, soit au bâtonnier ou au secrétaire de cette section, personnellement ou à leur étude.
+
+1966-67, c. 77, a. 7; 1990, c. 54, a. 4.
+
+9. Le Barreau et chaque section doivent avoir un sceau portant leur nom en bordure.
+
+1966-67, c. 77, a. 8.
+
+SECTION III
+~~~~~~~~~~~
+
+**CONSEIL D'ADMINISTRATION**
+
+10. Le Barreau est administré par un Conseil d'administration formé des administrateurs suivants:
+
+ a) le bâtonnier du Québec;
+
+ b) quatre administrateurs membres du Barreau de Montréal, élus par les membres de cette section;
+
+ c) trois administrateurs membres du Barreau de Québec, élus par les membres de cette section;
+
+ d) quatre administrateurs membres des autres sections du Barreau, répartis comme suit:
+
+1°  en alternance, un administrateur membre du Barreau de l'Outaouais, du Barreau de Laval ou du Barreau de Laurentides-Lanaudière, élu par les membres de ces sections;
+
+2°  en alternance, un administrateur membre du Barreau de Richelieu, du Barreau de Longueuil ou du Barreau d'Arthabaska, élu par les membres de ces sections;
+
+3°  en alternance, un administrateur membre du Barreau de Saint-François, du Barreau de la Mauricie ou du Barreau de Bedford, élu par les membres de ces sections;
+
+4°  en alternance, un administrateur membre du Barreau du Bas-Saint-Laurent–Gaspésie–Îles-de-la-Madeleine, du Barreau de l'Abitibi-Témiscamingue, du Barreau de la Côte-Nord ou du Barreau du Saguenay–Lac-Saint-Jean, élu par les membres de ces sections;
+
+ e) quatre administrateurs nommés par l'Office des professions du Québec.
+
+Lorsqu'aucun des administrateurs élus n'est un membre inscrit au Tableau depuis dix ans et moins, le Conseil d'administration nomme un administrateur additionnel parmi ces membres, à la suite d'un appel de candidatures dans les 30 jours suivant l'élection.
+
+1966-67, c. 77, a. 9; 1973, c. 44, a. 4; 1975, c. 81, a. 3; 1990, c. 54, a. 5; 1999, c. 40, a. 36; 2008, c. 11, a. 212; 2009, c. 35, a. 33; 2014, c. 13, a. 2.
+
+10.1. Tous les membres du Barreau, sauf les conseillers en loi et les avocats à la retraite, sont éligibles aux postes de bâtonnier du Québec et de vice-président du Barreau.
+
+Le candidat au poste de bâtonnier du Québec doit avoir été membre du Conseil d'administration du Barreau pendant au moins une année. De plus, il ne doit pas avoir eu de lien d'emploi avec le Barreau au cours des trois années précédant sa mise en candidature ni être le bâtonnier ou un administrateur du conseil de l'une des sections du Barreau.
+
+Le candidat à un poste d'administrateur ne peut être membre du conseil d'administration d'un regroupement d'avocats, d'une association professionnelle du domaine juridique ou d'un organisme affilié au Barreau.
+
+2014, c. 13, a. 2.
+
+10.2. Le bâtonnier du Québec est le président du Barreau. Il est élu au suffrage universel des membres du Barreau.
+
+Le Conseil d'administration élit deux vice-présidents du Barreau parmi les administrateurs élus. Les deux vice-présidents doivent provenir chacun d'une section différente de celle du bâtonnier, soit du Barreau de Montréal, du Barreau de Québec ou d'une des autres sections du Barreau. Il peut en outre désigner d'autres dirigeants dont il détermine les fonctions.
+
+Le mandat d'un vice-président est d'un an et ne peut être renouvelé que trois fois.
+
+2014, c. 13, a. 2.
+
+11.  1. Le bâtonnier du Québec exerce un droit de surveillance générale sur les affaires du Barreau et préside les séances du Conseil d'administration, les assemblées du Conseil des sections ainsi que les assemblées générales. Il fait partie, de droit, de tous les comités du Barreau, sauf des organismes de discipline, d'inspection professionnelle et du comité d'accès à la profession. Il prévient et concilie les différends d'ordre professionnel entre les membres du Barreau.
+
+ 2. Les avocats qui ont occupé la fonction de bâtonnier du Québec conservent ce titre et ont préséance selon leur ancienneté, tant qu'ils demeurent membres du Barreau.
+
+ 3. En cas d'absence ou d'empêchement du bâtonnier du Québec, le vice-président désigné à cet effet par le Conseil d'administration le remplace et en exerce les fonctions.
+
+ 4. (Paragraphe abrogé).
+
+ 5. (Paragraphe abrogé).
+
+1966-67, c. 77, a. 10; 1973, c. 44, a. 5; 1975, c. 81, a. 4; 1999, c. 40, a. 36; 2008, c. 11, a. 212; 2009, c. 35, a. 34; 2014, c. 13, a. 3.
+
+12. Le mandat d'un administrateur élu est de deux ans pour un nombre maximum de deux mandats au même titre. Malgré ce qui précède, l'administrateur élu, autre que le bâtonnier, qui a exercé deux mandats peut, deux ans après l'expiration de son second mandat, être à nouveau administrateur.
+
+Le mandat de l'administrateur nommé conformément au deuxième alinéa de l'article 10 est d'un an et ne peut être renouvelé à ce titre.
+
+1973, c. 44, a. 6; 1975, c. 81, a. 5; 1977, c. 66, a. 13; 1990, c. 54, a. 6; 1994, c. 40, a. 230; 2007, c. 35, a. 2; 2008, c. 11, a. 160; 2014, c. 13, a. 4.
+
+13. (Abrogé).
+
+1966-67, c. 77, a. 11; 1973, c. 44, a. 7; 1990, c. 54, a. 7; 2008, c. 11, a. 161, a. 212; 2014, c. 13, a. 5.
+
+14. (Abrogé).
+
+1966-67, c. 77, a. 12; 1990, c. 54, a. 8; 2014, c. 13, a. 5.
+
+15.  1. Le Conseil d'administration peut:
+
+a)  (sous-paragraphe abrogé);
+
+b)  publier des recueils officiels des décisions des tribunaux du Québec ou du Canada ou tout autre périodique d'intérêt professionnel;
+
+c)  déterminer les devoirs et les fonctions de ses dirigeants et employés, ainsi que ceux des dirigeants des sections à l'égard du Barreau et de ses dirigeants;
+
+d)  (sous-paragraphe abrogé);
+
+e)  exiger des sections un rapport financier annuel;
+
+f)  imposer aux sections une répartition établie sur la base jugée la plus équitable, au cas où les revenus ordinaires du Conseil d'administration ne suffiraient pas à défrayer ses dépenses;
+
+g)  (sous-paragraphe abrogé);
+
+h)  disposer des livres, des archives et des biens des sections abolies par le Conseil d'administration aux termes de la présente loi, le Barreau devant alors assumer leurs obligations;
+
+i)  (sous-paragraphe abrogé);
+
+j)  (sous-paragraphe abrogé);
+
+k)  prescrire les frais exigibles de toute personne qui présente une demande au Conseil d'administration ou au Comité des requêtes, pour la constitution d'un dossier;
+
+l)  permettre, aux conditions qu'il fixe, que la signature du bâtonnier ou du directeur général soit apposée au moyen d'un appareil automatique sur les documents qu'il détermine; il peut également permettre qu'un fac-similé de leur signature soit gravé, lithographié ou imprimé sur les documents qu'il détermine;
+
+m)  mettre sous tutelle une section qui n'a pas les fonds suffisants pour subsister ou qui ne fait pas un usage convenable et utile de ses fonds; exiger des dirigeants de cette section un rapport de l'emploi de ses fonds et, si nécessaire, ordonner une enquête;
+
+n)  prononcer à l'égard d'une section en défaut de payer la répartition imposée en vertu du sous-paragraphe f du présent paragraphe les sanctions suivantes: la privation du droit de représentation au Conseil des sections ou la mise en tutelle de la section;
+
+o)  (sous-paragraphe abrogé).
+
+ 1.1. Le Conseil d'administration ne peut autoriser la substitution d'un administrateur.
+
+ 1.2. Le Conseil d'administration prend en considération les recommandations du Conseil des sections. Il doit le consulter avant de prendre une décision sur les sujets suivants:
+
+a)  la planification stratégique;
+
+b)  la réglementation concernant la formation continue obligatoire, notamment quant aux activités de formation à caractère obligatoire;
+
+c)  l'assurance de la responsabilité professionnelle concernant la prime et la couverture d'assurance;
+
+d)  tout autre sujet qu'il a décidé de lui soumettre par vote des deux tiers de ses membres, à l'exception de la détermination des cotisations visées à l'article 85.1 du Code des professions (chapitre C-26).
+
+ 2. Le Conseil d'administration, par règlement, peut:
+
+a)  (sous-paragraphe abrogé);
+
+b)  assurer l'entraînement professionnel, en définir les modalités, dispenser l'enseignement approprié et, à ces fins, fonder et administrer une école de formation professionnelle;
+
+c)  abolir les sections qui n'ont pas les fonds suffisants pour subsister ou qui ne font pas un usage convenable et utile de leurs fonds; exiger des dirigeants de ces sections un rapport de l'emploi de leurs fonds et, si nécessaire, ordonner une enquête;
+
+d)  prononcer à l'égard d'une section en défaut de payer la répartition imposée en vertu du sous-paragraphe f du paragraphe 1 la sanction suivante: l'abolition de la section;
+
+e)  (sous-paragraphe abrogé);
+
+f)  (sous-paragraphe abrogé);
+
+g)  (sous-paragraphe abrogé);
+
+h)  établir et administrer un fonds d'études juridiques constitué des sommes votées par le Conseil d'administration, des donations et des legs faits à cette fin, des revenus des comptes généraux tenus en fidéicommis par les avocats dans l'exercice de leur profession et des revenus du fonds, afin de promouvoir la qualité des services professionnels, la réforme du droit, la formation professionnelle, la formation permanente, la recherche et l'information juridiques, ainsi que l'établissement et le maintien de bibliothèques de droit.
+
+ 3. Le Conseil d'administration, par règlement, doit:
+
+a)  (sous-paragraphe abrogé);
+
+b)  (sous-paragraphe abrogé);
+
+c)  (sous-paragraphe abrogé);
+
+d)  (sous-paragraphe abrogé);
+
+e)  établir un registre des testaments, codicilles et révocations de testaments déposés chez les avocats, en déterminer les formalités et les modalités ainsi que les honoraires exigibles pour inscriptions et recherches;
+
+f)  (sous-paragraphe abrogé);
+
+g)  établir un registre des mandats donnés en prévision de l'inaptitude du mandant en application de l'article 2166 du Code civil et déposés chez les avocats, en déterminer les formalités et les modalités ainsi que les honoraires exigibles pour inscriptions et recherches.
+
+1966-67, c. 77, a. 13; 1972, c. 14, a. 92; 1973, c. 44, a. 8; 1975, c. 81, a. 6; 1977, c. 66, a. 14; 1987, c. 54, a. 32; 1990, c. 52, a. 3; 1990, c. 54, a. 9; 1990, c. 76, a. 5; 1994, c. 40, a. 231; 1999, c. 40, a. 36; 2008, c. 11, a. 162, a. 212; 2009, c. 35, a. 35; 2014, c. 13, a. 6.
+
+16. L'article 95.2 du Code des professions (chapitre C-26) s'applique à tout règlement adopté par le Conseil d'administration en application des sous-paragraphes c, d et h du paragraphe 2 de l'article 15 et du paragraphe 3 de cet article.
+
+1966-67, c. 77, a. 14; 1973, c. 44, a. 9; 1994, c. 40, a. 232; 2008, c. 11, a. 163; 2014, c. 13, a. 17.
+
+17.  1. La communication d'un avis, d'une convocation ou d'un renseignement en vertu de la présente loi ou d'un règlement adopté conformément à celle-ci ou au Code des professions (chapitre C-26) se fait par la mise à la poste, à la dernière adresse connue au siège du Barreau, d'une lettre, d'une revue ou d'un journal publié par le Barreau et contenant cet avis, cette convocation ou ce renseignement, ou par voie électronique.
+
+ 2. La preuve d'une telle communication ou de la réception par le Barreau d'un document quelconque peut être faite devant un tribunal ou un organisme du Barreau au moyen de la production d'une attestation signée par la personne qui a donné la communication ou reçu le document.
+
+1973, c. 44, a. 10; 1994, c. 40, a. 233; 2014, c. 13, a. 7.
+
+18. Le fait par le Barreau de donner, à partir des registres établis en vertu des sous-paragraphes e et g du paragraphe 3 de l'article 15, des renseignements relatifs aux testaments, codicilles et révocations de testament déposés chez les avocats, ou aux mandats donnés en prévision de l'inaptitude du mandant et ainsi déposés, n'engage pas sa responsabilité au cas d'erreur ou d'omission.
+
+1975, c. 81, a. 7; 1994, c. 40, a. 234.
+
+19. (Abrogé).
+
+1966-67, c. 77, a. 15; 1973, c. 44, a. 12, a. 78; 1990, c. 54, a. 10; 2008, c. 11, a. 212; 2014, c. 13, a. 8.
+
+20. (Abrogé).
+
+1966-67, c. 77, a. 16; 1973, c. 44, a. 13, a. 78; 1990, c. 54, a. 11; 1994, c. 40, a. 235; 2008, c. 11, a. 212; 2014, c. 13, a. 8.
+
+21. (Abrogé).
+
+1966-67, c. 77, a. 17; 1973, c. 44, a. 14, a. 78; 2008, c. 11, a. 212; 2014, c. 13, a. 8.
+
+22. (Abrogé).
+
+1966-67, c. 77, a. 18; 1973, c. 44, a. 15, a. 78; 2008, c. 11, a. 212; 2014, c. 13, a. 8.
+
+22.1. Le Conseil d'administration peut déléguer à un Comité des requêtes l'exercice des pouvoirs qui lui sont conférés par les articles 48, 70, 71, 72 et 122 de la présente loi et de ceux qui lui sont conférés par les articles 55.1 à 55.3 et 161 du Code des professions (chapitre C-26).
+
+Le Comité des requêtes est formé d'au moins 25 membres nommés par le Conseil d'administration ainsi que des membres du Conseil d'administration et de ses membres sortants y ayant siégé au cours des deux dernières années. Les membres du Comité des requêtes ne peuvent être membres du Conseil de discipline.
+
+Le Comité des requêtes peut siéger en divisions de trois membres, dont un président. Le Conseil d'administration désigne le président de division parmi ses membres ou ses membres sortants y ayant siégé au cours des deux dernières années. Les deux autres membres sont désignés par le bâtonnier du Québec ou à défaut par le Conseil d'administration.
+
+Le Conseil d'administration détermine les règles de fonctionnement applicables à l'examen des demandes dont le Comité des requêtes peut être saisi.
+
+1984, c. 27, a. 47; 1990, c. 54, a. 12; 1994, c. 40, a. 236; 2008, c. 11, a. 164, a. 212; 2009, c. 35, a. 36; 2014, c. 13, a. 9.
+
+23.  1. Le Conseil d'administration nomme un directeur général et un secrétaire de l'Ordre.
+
+ 2. Le directeur général peut être assisté d'adjoints ou d'autres personnes à qui le Conseil d'administration confie une fonction particulière.
+
+ 3. Le secrétaire de l'Ordre ou la personne désignée par le Conseil d'administration agit comme secrétaire du Conseil d'administration.
+
+1966-67, c. 77, a. 19; 1973, c. 44, a. 17; 1990, c. 54, a. 13; 1994, c. 40, a. 237; 2008, c. 11, a. 165, a. 212; 2014, c. 13, a. 10.
+
+24.  1. Le directeur général accomplit les devoirs prévus par la présente loi et les règlements ainsi que ceux que lui imposent le Conseil d'administration. Il agit sous l'autorité de ce dernier et est responsable de l'administration et du fonctionnement du Barreau. Il doit notamment:
+
+a)  assurer la mise en application des résolutions du Conseil d'administration;
+
+b)  préparer et soumettre pour approbation au Conseil d'administration le plan d'organisation et des effectifs relevant du siège du Barreau;
+
+c)  préparer le budget annuel, le soumettre pour approbation au Conseil d'administration et en assurer la mise en application;
+
+d)  sélectionner et engager les effectifs qui relèvent du siège du Barreau;
+
+e)  formuler au Conseil d'administration des recommandations sur l'engagement et la nomination des cadres qui relèvent du siège du Barreau.
+
+ 2. Il peut recevoir toute déclaration sous serment et administrer les serments prescrits par la présente loi.
+
+ 3. Il expédie chaque année au secrétaire de chacune des sections un état des finances du Barreau arrêté au 31 mars.
+
+1966-67, c. 77, a. 20; 1973, c. 44, a. 78; 1990, c. 54, a. 14; 2008, c. 11, a. 212; 2014, c. 13, a. 11.
+
+25.  1. Le directeur général adjoint, sous la direction du directeur général, remplit les fonctions et devoirs de celui-ci et le remplace lorsqu'il est absent ou empêché d'agir.
+
+ 2. En cas d'empêchement ou d'absence du directeur général, tout acte requis de lui peut être valablement fait par le bâtonnier du Québec, le directeur général adjoint ou une autre personne désignée par le Conseil d'administration.
+
+1966-67, c. 77, a. 21; 1973, c. 44, a. 78; 1999, c. 40, a. 36; 2008, c. 11, a. 212; 2014, c. 13, a. 17.
+
+26. Le directeur général et son adjoint, le secrétaire de l'Ordre ainsi que le syndic et ses adjoints sont des membres à plein temps du secrétariat et chacun d'eux ne peut être démis de ses fonctions que par un vote des deux tiers des membres du Conseil d'administration.
+
+1966-67, c. 77, a. 27; 1973, c. 44, a. 78; 1990, c. 54, a. 15; 2014, c. 13, a. 12.
+
+SECTION III.1
+~~~~~~~~~~~~~
+
+**CONSEIL DES SECTIONS**
+
+26.1. Le Conseil des sections est composé des membres suivants:
+
+ a) le bâtonnier de chacune des sections du Barreau;
+
+ b) un représentant pour chacune des 15 sections du Barreau, désignés par chaque section;
+
+ c) le bâtonnier du Québec;
+
+ d) les deux vice-présidents du Barreau;
+
+ e) trois membres inscrits au Tableau depuis dix ans et moins, dont un membre du Barreau de Montréal, un membre du Barreau de Québec et un membre d'une des autres sections du Barreau, désignés par le regroupement des membres inscrits au Tableau depuis dix ans et moins de ces sections respectives;
+
+ f) deux administrateurs nommés par l'Office des professions du Québec parmi ceux qu'il nomme au Conseil d'administration du Barreau, désignés par ce dernier.
+
+Les bâtonniers et les trois membres inscrits au Tableau depuis dix ans et moins ont droit de vote. Les autres membres ont droit de parole, mais sans droit de vote.
+
+2014, c. 13, a. 13.
+
+26.2. Le Conseil des sections formule des recommandations au Conseil d'administration lorsqu'il est consulté sur les sujets mentionnés au paragraphe 1.2 de l'article 15.
+
+Il peut formuler des recommandations au Conseil d'administration sur tout autre sujet.
+
+Le Conseil des sections se réunit au moins deux fois par année.
+
+2014, c. 13, a. 13.
+
+SECTION IV
+~~~~~~~~~~
+
+**SECTIONS**
+
+27.  1. Chaque section doit tenir une assemblée générale annuelle entre le 20 avril et le 10 mai.
+
+ 2. Le conseil fixe la date et l'ordre du jour de cette assemblée.
+
+1966-67, c. 77, a. 29; 1977, c. 66, a. 15.
+
+28. Des assemblées extraordinaires de la section peuvent être tenues sur convocation par le secrétaire, à la demande du conseil, du bâtonnier ou du premier conseiller ou à la requête écrite de vingt membres dans la section de Montréal, de dix membres dans la section de Québec et de six membres dans les autres sections.
+
+1966-67, c. 77, a. 30.
+
+29. Cinquante membres forment le quorum des assemblées générales dans la section de Montréal, vingt membres dans la section de Québec et huit membres dans les autres sections.
+
+1966-67, c. 77, a. 31.
+
+30. La convocation des assemblées générales se fait de la manière et au lieu déterminés par les règlements de la section ou par le conseil.
+
+1966-67, c. 77, a. 32; 2008, c. 11, a. 165.
+
+31. Le conseil de chaque section comprend quatre dirigeants: le bâtonnier, le premier conseiller, le trésorier et le secrétaire, ainsi que des conseillers au nombre de neuf pour la section de Montréal, de huit pour la section de Québec et d'au moins trois mais d'au plus huit pour les autres sections.
+
+1966-67, c. 77, a. 33; 1990, c. 54, a. 16; 1999, c. 40, a. 36.
+
+32.  1. L'élection des dirigeants et conseillers se tient entre le 20 avril et le 10 mai.
+
+ 2. Le conseil fixe les modalités de l'élection et nomme comme président de l'élection un membre de la section.
+
+ 3. Les voix doivent être données au scrutin secret à un endroit désigné par le conseil.
+
+ 4. Au cas d'ajournement de l'assemblée annuelle pour fins de l'élection, le quorum, à la reprise de l'assemblée, se compose des membres présents.
+
+ 5. Seuls peuvent voter et sont éligibles les avocats en exercice qui ont versé leurs cotisations pour l'année courante conformément au paragraphe 2 de l'article 68.
+
+1966-67, c. 77, a. 34; 1973, c. 44, a. 20; 1975, c. 81, a. 8; 1977, c. 66, a. 16; 1999, c. 40, a. 36; 2008, c. 11, a. 166.
+
+33.  1. Les dirigeants et les conseillers sont élus pour un an mais ils sont rééligibles.  Les règlements de chaque section déterminent les conditions de leur éligibilité.
+
+ 2. Une section peut toutefois arrêter, par une résolution votée à l'assemblée générale annuelle ou à une assemblée extraordinaire, que les dirigeants et les conseillers, ou certains d'entre eux, sont élus pour deux ans.
+
+ 3. Les dirigeants et les conseillers entrent en fonctions dès leur élection et ils le demeurent jusqu'à leur décès, leur démission, leur radiation du Tableau ou leur remplacement, selon le cas.
+
+ 4. La nomination d'un dirigeant ou d'un conseiller à une fonction incompatible avec l'exercice de la profession équivaut à sa démission.
+
+ 5. Au cas de décès, de démission ou d'empêchement d'un de ses membres, le conseil élit un remplaçant parmi les membres de la section ou ordonne un scrutin.
+
+1966-67, c. 77, a. 35; 1999, c. 40, a. 36; 2014, c. 13, a. 14.
+
+34.  1. Le quorum du conseil est composé de la majorité de ses membres.
+
+ 2. Les décisions se prennent à la majorité des membres présents ou des membres qui s'expriment sur les décisions suivant un mode de communication et aux conditions prévus par règlement adopté en vertu du sous-paragraphe c du paragraphe 1 de l'article 38.
+
+ 3. Les membres sont tenus de voter ou de s'exprimer sur une décision conformément au règlement adopté en vertu du sous-paragraphe c du paragraphe 1 de l'article 38, sauf empêchement stipulé par ce règlement ou motif de récusation jugé suffisant par le président.
+
+1966-67, c. 77, a. 36; 1990, c. 54, a. 17.
+
+35.  1. Le bâtonnier préside les assemblées de la section et les séances du conseil.  Au cas d'égalité des voix, le bâtonnier, le premier conseiller ou le président temporaire choisi en leur absence, donne un vote prépondérant.
+
+ 2. Le bâtonnier fait partie de droit de tous les comités formés par le conseil.
+
+1966-67, c. 77, a. 37.
+
+36. Le premier conseiller remplace le bâtonnier absent ou empêché d'agir.
+
+1966-67, c. 77, a. 38; 1999, c. 40, a. 36.
+
+37.  1. Le trésorier et le secrétaire remplissent les fonctions ordinairement dévolues par l'usage à ces dirigeants et ils accomplissent les devoirs spéciaux que leur dictent la présente loi et les règlements du Barreau ou que leur impose le conseil.
+
+ 2. Le conseil peut décréter que la même personne cumule les fonctions de secrétaire et de trésorier; en ce cas, le nombre des conseillers à élire est augmenté d'une unité.
+
+1966-67, c. 77, a. 39; 1999, c. 40, a. 36.
+
+38.  1. Un conseil de section peut, par règlement:
+
+a)  (sous-paragraphe abrogé);
+
+b)  établir, dans les limites de la section, un fonds de bienfaisance ou une bibliothèque générale de droit;
+
+c)  déterminer les modes de communication permettant aux membres du conseil de section, lorsqu'ils ne sont pas présents ou n'assistent pas physiquement à l'endroit où se tient une séance du conseil de section, de s'exprimer en vue d'une prise de décision, les conditions suivant lesquelles ils peuvent s'en prévaloir et, pour l'application du paragraphe 3 de l'article 34, déterminer ce qui constitue un empêchement.
+
+ 2. Un conseil de section peut, par règlement ou résolution:
+
+a)  pourvoir à l'administration des organismes énumérés au sous-paragraphe b du paragraphe 1;
+
+b)  déterminer les fonctions des employés de la section et pourvoir à leur rémunération;
+
+c)  mettre à la retraite les employés de la section et leur payer une pension fixée par le conseil ou instituer en leur faveur un régime de retraite conformément à la Loi sur les régimes complémentaires de retraite (chapitre R-15.1);
+
+d)  former des comités, déterminer leurs pouvoirs et fixer la rémunération de leurs membres.
+
+ 3. Un conseil de section peut aussi, par règlement ou résolution, statuer sur sa régie interne et l'administration de ses biens ainsi que sur toute matière d'intérêt général.
+
+1966-67, c. 77, a. 40; 1972, c. 14, a. 92; 1977, c. 66, a. 17; 1989, c. 38, a. 319; 1990, c. 54, a. 18; 2001, c. 64, a. 2.
+
+39. À moins qu'il n'en soit autrement ordonné, les règlements des conseils de section entrent en vigueur le jour de leur adoption.
+
+1966-67, c. 77, a. 41.
+
+40. Un règlement d'un conseil de section peut être désavoué par le Conseil d'administration, dans les six mois de son adoption, s'il est incompatible avec un règlement ou une résolution du Conseil d'administration ou avec l'intérêt général du Barreau.
+
+1966-67, c. 77, a. 42; 1973, c. 44, a. 21; 2014, c. 13, a. 17.
+
+41.  1. Dans les 10 jours de l'adoption d'un règlement de section, le secrétaire de cette section en expédie une copie certifiée au directeur général.
+
+ 2. Le directeur général formule à l'intention du Conseil d'administration sa recommandation et en informe la section, avec avis que la recommandation sera soumise au Conseil d'administration à sa prochaine séance.
+
+ 3. Une décision du Conseil d'administration visant à désavouer un règlement de section doit être prise par au moins les deux tiers des membres.
+
+ 4. Le désaveu rétroagit à la date d'adoption du règlement et annule tout ce qui a pu être fait sous son empire, sans préjudice des droits acquis.
+
+1966-67, c. 77, a. 43; 1973, c. 44, a. 22; 1990, c. 54, a. 19; 2008, c. 11, a. 212; 2014, c. 13, a. 15.
+
+42. La mise en tutelle d'une section entraîne la suspension de tous ses pouvoirs qui passent au Conseil d'administration.
+
+1966-67, c. 77, a. 44; 2014, c. 13, a. 17.
+
+SECTION V
+~~~~~~~~~
+
+**ADMISSION AU BARREAU ET INSCRIPTION AU TABLEAU**
+
+43. (Abrogé).
+
+1966-67, c. 77, a. 45; 1973, c. 44, a. 23; 1990, c. 54, a. 21; 1994, c. 40, a. 238.
+
+44. Sous réserve de l'article 46, le Conseil d'administration peut, pour les fins d'application des règlements prévus au paragraphe c de l'article 93 et aux paragraphes h, i et o de l'article 94 du Code des professions (chapitre C-26), déléguer ses pouvoirs à des comités dont il détermine la composition et le fonctionnement.
+
+1966-67, c. 77, a. 46; 1973, c. 44, a. 23; 1988, c. 29, a. 67; 1990, c. 54, a. 22; 1994, c. 40, a. 239; 2008, c. 11, a. 167; 2009, c. 35, a. 37; 2014, c. 13, a. 17.
+
+45.  1. Le Conseil d'administration forme le comité d'accès à la profession et en nomme les membres, dont le président. Ce comité est composé d'au moins 10 membres. Le comité peut siéger en divisions de trois membres dont le président ou un membre désigné par lui pour agir à titre de président de division. Les deux autres membres sont désignés par le président du comité. Les membres du comité ne peuvent être membres du Conseil de discipline.
+
+ 2. Ce comité examine le dossier d'un candidat à la formation professionnelle, à l'évaluation et à l'inscription au Tableau; il doit s'enquérir si le candidat possède les moeurs, la conduite, la compétence, les connaissances et les qualités requises pour exercer la profession et se prononcer sur son admissibilité.
+
+ 3. À cette fin, il exerce tous les pouvoirs de la Cour supérieure pour contraindre, par voie d'assignation sous la signature de l'un de ses membres, le candidat, ses témoins ou toute autre personne à comparaître, à répondre sous serment et à produire tout document. Les dispositions du Code de procédure civile (chapitre C-25) s'appliquent, aux fins du présent paragraphe, compte tenu des adaptations nécessaires.
+
+1966-67, c. 77, a. 47; 1973, c. 44, a. 23; 1986, c. 95, a. 28; 1990, c. 54, a. 23; 1999, c. 40, a. 36; 2009, c. 35, a. 38; 2014, c. 13, a. 17.
+
+46. Sur rapport du comité d'accès à la profession qu'un candidat s'est conformé aux dispositions de la présente loi, du Code des professions (chapitre C-26) et des règlements du Barreau relatives à l'admission, le Barreau délivre un permis à ce candidat.
+
+1966-67, c. 77, a. 48; 1973, c. 44, a. 23; 1990, c. 54, a. 24; 1994, c. 40, a. 240; 2009, c. 35, a. 39.
+
+47. (Abrogé).
+
+1966-67, c. 77, a. 49; 1973, c. 44, a. 23; 1990, c. 54, a. 25; 1994, c. 40, a. 241.
+
+48. Le candidat qui se croit lésé par une décision d'un comité visé aux articles 44 ou 45 sauf en ce qui a trait au résultat de la formation professionnelle et aux décisions d'un comité visé à l'article 44 pour les fins d'application d'un règlement prévu au paragraphe o de l'article 94 du Code des professions (chapitre C-26), peut, dans les 15 jours de la décision, en appeler au Conseil d'administration, avec droit d'appel de la décision du Conseil au Tribunal des professions suivant les dispositions de la section VIII du chapitre IV du Code des professions.
+
+La décision du Conseil d'administration est signifiée au candidat conformément au Code de procédure civile (chapitre C-25).
+
+1966-67, c. 77, a. 50; 1973, c. 44, a. 23; 1975, c. 81, a. 9; 1990, c. 54, a. 26; 1994, c. 40, a. 242; 2008, c. 11, a. 212; 2009, c. 35, a. 40; 2014, c. 13, a. 16.
+
+49. Lorsque le Conseil d'administration est informé ou a raison de croire que le titulaire d'un permis ou d'un certificat de spécialiste s'est rendu coupable de fraude dans l'obtention de ce permis ou de ce certificat, il peut ordonner qu'une plainte soit portée devant un conseil de discipline.
+
+1966-67, c. 77, a. 51; 1973, c. 44, a. 23; 1994, c. 40, a. 243; 1997, c. 43, a. 875; 2008, c. 11, a. 212; 2014, c. 13, a. 17.
+
+50. (Abrogé).
+
+1966-67, c. 77, a. 52; 1973, c. 44, a. 23; 1977, c. 66, a. 18; 1990, c. 54, a. 27; 1994, c. 40, a. 244.
+
+51. (Abrogé).
+
+1966-67, c. 77, a. 53; 1973, c. 44, a. 23; 1975, c. 81, a. 10; 1990, c. 54, a. 28; 1994, c. 40, a. 244.
+
+52. (Abrogé).
+
+1966-67, c. 77, a. 54; 1973, c. 44, a. 23; 1990, c. 54, a. 29.
+
+53. (Abrogé).
+
+1966-67, c. 77, a. 55; 1973, c. 44, a. 23; 1975, c. 81, a. 11; 1990, c. 54, a. 30; 1994, c. 40, a. 244.
+
+54. (Abrogé).
+
+1966-67, c. 77, a. 56; 1973, c. 44, a. 23; 1990, c. 54, a. 30; 1994, c. 40, a. 244.
+
+54.1. Un avocat âgé de 55 ans ou plus qui n'exerce pas la profession peut être inscrit au Tableau à titre d'avocat à la retraite, sur demande adressée au directeur général.
+
+L'avocat à la retraite peut faire précéder son nom du préfixe « Me » ou « Mtre », s'il le fait suivre du titre « avocat à la retraite » ; il ne peut cependant prendre le titre d'avocat ou de procureur, verbalement ou autrement, ni exercer la profession d'avocat, notamment les actes prévus à l'article 128, y compris plaider ou agir devant un tribunal visé par les sous-paragraphes 1° à 7° du sous-paragraphe a du paragraphe 2 de cet article.
+
+2007, c. 35, a. 3.
+
+55.  1. Un membre du barreau d'une autre province ou d'un territoire du Canada peut aussi être admis au Barreau à titre de conseiller en loi, sur requête adressée au Conseil d'administration et accompagnée des documents suivants:
+
+a)  un certificat du dirigeant compétent attestant que le requérant est membre en règle du barreau d'une autre province ou d'un territoire du Canada;
+
+b)  une déclaration énonçant toutes les modalités des fonctions qu'il occupe ou entend occuper au sein d'un organisme ayant son siège, une succursale ou une filiale au Québec;
+
+c)  une déclaration par laquelle le requérant s'engage à agir, dans les limites des fonctions autorisées par l'article 128, pour le compte exclusif de son employeur ou des filiales de celui-ci.
+
+ 2. Le Conseil d'administration a discrétion pour disposer de la requête.
+
+1966-67, c. 77, a. 62; 1973, c. 44, a. 23; 1990, c. 54, a. 31; 1994, c. 40, a. 245; 1999, c. 40, a. 36; 2008, c. 11, a. 212; 2014, c. 13, a. 17.
+
+56.  1. Un professeur qui enseigne le droit à temps complet depuis au moins trois ans dans une faculté de droit ou dans un département de sciences juridiques décernant un diplôme reconnu par le gouvernement en vertu de l'article 184 du Code des professions (chapitre C-26), peut être admis au Barreau à titre de conseiller en loi, sur requête adressée au Conseil d'administration et accompagnée des documents suivants:
+
+a)  un certificat de la personne compétente attestant que le requérant est un professeur qui enseigne le droit à temps complet depuis au moins trois ans dans une faculté de droit ou dans un département de sciences juridiques décernant un diplôme reconnu en vertu de l'article 184 du Code des professions;
+
+b)  un certificat de la personne compétente attestant que le requérant est détenteur d'un diplôme universitaire en droit;
+
+c)  une déclaration par laquelle le requérant s'engage à agir dans les limites des fonctions autorisées par le sous-paragraphe a du paragraphe 1 de l'article 128.
+
+ 2. Le Conseil d'administration a discrétion pour disposer de la requête.
+
+ 3. Le professeur admis à titre de conseiller en loi en vertu du présent article peut faire précéder son nom du préfixe «Me» ou «Mtre», mais ne peut prendre, verbalement ou autrement, le titre d'avocat ou de procureur.
+
+1975, c. 81, a. 13; 1994, c. 40, a. 246; 2008, c. 11, a. 212; 2014, c. 13, a. 17.
+
+57. Si la requête est accueillie, le directeur général délivre au requérant un permis restrictif.
+
+1966-67, c. 77, a. 63; 1973, c. 44, a. 23; 1990, c. 54, a. 32; 1994, c. 40, a. 247.
+
+58. Le permis restrictif est annuel et doit être renouvelé le ou avant le premier jour du mois d'avril de chaque année sur requête adressée au Conseil d'administration. Il peut être révoqué par le Conseil d'administration si le conseiller en loi ne respecte pas les conditions prévues par la présente loi.
+
+1966-67, c. 77, a. 64; 1973, c. 44, a. 23; 1975, c. 81, a. 14; 2008, c. 11, a. 212; 2014, c. 13, a. 17.
+
+59. (Abrogé).
+
+1966-67, c. 77, a. 65; 1973, c. 44, a. 23; 1990, c. 54, a. 33; 1994, c. 40, a. 248.
+
+SECTION VI
+~~~~~~~~~~
+
+**TABLEAU DE L'ORDRE DES AVOCATS**
+
+60.  1. Le Tableau est la liste officielle des membres en règle du Barreau.
+
+ 2. Est membre en règle du Barreau celui qui a rempli les conditions d'admission prévues à la section V de la présente Loi et au Code des professions (chapitre C-26).
+
+ 3. Le Tableau comprend trois catégories : avocats en exercice, avocats à la retraite et conseillers en loi.
+
+1966-67, c. 77, a. 76; 1973, c. 44, a. 24; 1975, c. 81, a. 15; 1994, c. 40, a. 249; 2007, c. 35, a. 5.
+
+61. Le directeur général délivre à tout membre en règle du Barreau un certificat attestant que le membre est inscrit au Tableau et précisant la catégorie à laquelle il appartient.
+
+1966-67, c. 77, a. 77; 1973, c. 44, a. 25; 1990, c. 54, a. 34; 2007, c. 35, a. 6.
+
+62. Au cours du mois de mai de chaque année, le directeur général fait imprimer le Tableau.
+
+1966-67, c. 77, a. 78; 1973, c. 44, a. 78.
+
+63. Un avocat peut s'inscrire dans plus d'une section en payant la cotisation annuelle imposée à ses membres par chacune des sections dont il s'agit.
+
+1966-67, c. 77, a. 79.
+
+64.  1. Le directeur général expédie sans délai des exemplaires du Tableau, certifiés par lui, à tous les secrétaires de sections et au directeur des services judiciaires de chaque palais de justice, qui doivent les afficher dans un endroit apparent de leur bureau et au greffe des tribunaux.
+
+ 2. Il en expédie en outre un exemplaire à tous les juges en chef des tribunaux et aux secrétaires des régies et des commissions siégeant dans le Québec.
+
+1966-67, c. 77, a. 80; 1973, c. 44, a. 78; 1990, c. 54, a. 35.
+
+64.1.  1. Le directeur général expédie à tous les membres du Barreau ainsi qu'à toutes les personnes énumérées à l'article 64 un avis de la radiation ou de la révocation du permis d'un membre imposée par le conseil de discipline et devenue exécutoire, indiquant la nature de l'infraction qui fait l'objet de la décision.
+
+ 2. Le directeur des services judiciaires de chaque palais de justice doit afficher cet avis dans un endroit apparent de son bureau et au greffe des tribunaux.
+
+ 3. Les paragraphes 1 et 2 s'appliquent également dans le cas d'une radiation imposée par le Conseil d'administration en application de l'article 55.1 ou 55.2 du Code des professions (chapitre C-26).
+
+1994, c. 40, a. 250; 2008, c. 11, a. 168, a. 212.
+
+65.  1. La personne dont le nom n'est pas inscrit au Tableau pour le motif qu'elle n'a pas acquitté, pour l'année financière courante, ses cotisations ou la somme fixée aux fins du régime collectif ou du fonds d'assurance de la responsabilité professionnelle peut demander sa réinscription en payant ces cotisations ou cette somme en plus des frais déterminés par le Conseil d'administration.
+
+ 2. Sur paiement des cotisations ou de la somme et des frais, le directeur général délivre le certificat prévu à l'article 61; ce certificat tient lieu d'inscription au Tableau pour le reste de l'année courante.
+
+ 3. La personne dont le nom n'est pas inscrit au Tableau pour le motif qu'elle doit des cotisations ou une somme fixée aux fins du régime collectif ou du fonds d'assurance de la responsabilité professionnelle pour plus d'une année financière ou celle qui a fait cession de ses biens ou contre laquelle une ordonnance de séquestre a été prononcée en vertu de la Loi sur la faillite et l'insolvabilité (L.R.C. l985, c. B-3) après qu'elle ait cessé d'être inscrite au Tableau peut demander sa réinscription en suivant les dispositions de l'article 70.
+
+1966-67, c. 77, a. 82; 1973, c. 44, a. 27; 1990, c. 54, a. 36; 1994, c. 40, a. 251; 2008, c. 11, a. 169; 2014, c. 13, a. 17.
+
+66. Une personne peut, au terme de toute radiation de 3 mois ou moins, requérir le certificat prévu à l'article 61, sur paiement des frais déterminés par le Conseil d'administration et, le cas échéant, des cotisations exigibles pour l'année courante.
+
+1966-67, c. 77, a. 83; 1973, c. 44, a. 28; 1990, c. 54, a. 37; 1994, c. 40, a. 252; 2008, c. 11, a. 169; 2014, c. 13, a. 17.
+
+67. Une personne qui désire s'inscrire au Tableau plus d'un an après la date de la délivrance de son permis doit en faire la demande en suivant les dispositions de l'article 70.
+
+1966-67, c. 77, a. 84; 1973, c. 44, a. 29; 1990, c. 54, a. 37.
+
+SECTION VII
+~~~~~~~~~~~
+
+**COTISATIONS, RETRAIT D'INSCRIPTION ET RÉINSCRIPTION AU TABLEAU**
+
+68.  1. Le Conseil d'administration et les conseils de section fixent, suivant leur juridiction respective, les cotisations annuelles exigibles des membres appartenant à chacune des catégories de membres ou à certaines classes d'entre eux établies en fonction des activités professionnelles exercées, qu'ils peuvent déterminer.
+
+ 2. Ces cotisations doivent être versées au siège du Barreau au plus tard le premier jour juridique du mois d'avril ou à toutes autres dates fixées par le Conseil d'administration, à défaut de quoi le membre ne peut être inscrit au Tableau. Le Conseil d'administration peut déterminer les modalités de versements de ces cotisations ainsi que les frais d'administration y afférents, le cas échéant.
+
+ 3. De plus, le Conseil d'administration peut imposer une cotisation spéciale et fixer le délai dans lequel elle doit être versée; le défaut de paiement dans ce délai entraîne les mêmes sanctions que le non-paiement des cotisations annuelles.
+
+ 4. À l'expiration des 15 jours qui suivent la date à laquelle une cotisation est payable, le directeur général communique au secrétaire de chaque section la liste des membres inscrits dans cette section qui ont acquitté lesdites cotisations.
+
+ 5. De plus, il transmet au trésorier de chaque section la part afférente à cette section.
+
+ 6. Un membre peut s'inscrire dans plusieurs sections en payant la cotisation imposée par chacune d'elles.
+
+ 7. Les dispositions du Code des professions (chapitre C-26) concernant les cotisations s'appliquent, compte tenu des adaptations nécessaires, aux cotisations imposées en vertu du présent article.
+
+ 8. Tout paiement de cotisations accompagné des frais déterminés par le Conseil d'administration est réputé avoir été acquitté à la date prévue pour le versement, s'il a été effectué dans les 15 jours suivant cette date.
+
+1966-67, c. 77, a. 85; 1973, c. 44, a. 30; 1990, c. 54, a. 39; 1994, c. 40, a. 253; 1999, c. 40, a. 36; 2007, c. 35, a. 7; 2008, c. 11, a. 170; 2014, c. 13, a. 17.
+
+69. L'avocat qui a l'intention de ne plus être membre en règle du Barreau peut se libérer du paiement de ses cotisations, en avisant par écrit le directeur général et le secrétaire de la section à laquelle il appartient de son intention de ne plus être inscrit au Tableau et de la date où le retrait d'inscription prendra effet.
+
+1966-67, c. 77, a. 86; 1973, c. 44, a. 31, a. 78; 1990, c. 54, a. 40; 2007, c. 35, a. 8.
+
+69.1. L'ouverture par le tribunal d'un régime de tutelle ou de curatelle à un avocat entraîne sa radiation automatique du Tableau.
+
+Le greffier doit informer le directeur général du jugement dès qu'il est passé en force de chose jugée.
+
+Lorsque le régime de protection prend fin, la personne peut demander sa réinscription au Tableau, conformément à l'article 70.
+
+1994, c. 40, a. 254.
+
+70.  1. Celui qui a cessé d'être inscrit au Tableau peut requérir sa réinscription au moyen du formulaire fourni par le Barreau, adressé au directeur général 45 jours avant la date à laquelle il entend redevenir membre en règle du Barreau. Il doit de plus déposer au siège du Barreau, avec le formulaire, le montant des cotisations exigibles pour l'année courante et les frais déterminés par le Conseil d'administration.
+
+ 2. Le directeur général en avise immédiatement le syndic, le secrétaire du comité d'inspection professionnelle, le secrétaire de la dernière section à laquelle le requérant a appartenu ainsi que le secrétaire de la section dans laquelle il a l'intention de s'inscrire.
+
+ 3. Le directeur général saisit le Conseil d'administration de toute objection à cette demande, produite par écrit et qu'il reçoit avant l'expiration de ce délai de 45 jours.
+
+ 4. Le Conseil d'administration examine le dossier du requérant; il doit s'enquérir si celui-ci possède les moeurs, la conduite, la compétence, les connaissances et les qualités requises pour être membre en règle du Barreau et se prononcer sur son admissibilité. Il entend le requérant, ses témoins ou toute autre personne.
+
+À cette fin, il exerce tous les pouvoirs de la Cour supérieure pour contraindre, par voie d'assignation sous la signature de l'un de ses membres, le requérant, ses témoins ou toute autre personne à comparaître, à répondre sous serment et à produire tout document. Les dispositions du Code de procédure civile (chapitre C-25) s'appliquent, aux fins du présent paragraphe, compte tenu des adaptations nécessaires.
+
+Le Conseil d'administration peut, en rendant sa décision, imposer au requérant toute condition reliée à l'exercice de la profession qu'il juge raisonnable pour la protection du public.
+
+ 5. Il y a appel au Tribunal des professions de la décision du Conseil d'administration suivant les dispositions de la section VIII du chapitre IV du Code des professions (chapitre C-26). La décision du Conseil d'administration est signifiée au requérant conformément au Code de procédure civile.
+
+ 6. Si aucune objection n'est formulée durant le délai de 45 jours ou si l'objection est rejetée par une décision finale, le directeur général émet au requérant le certificat prévu à l'article 61 et en informe le secrétaire de la section à laquelle il désire appartenir. Le directeur général peut aussi émettre ce certificat avant l'expiration du délai de 45 jours, s'il reçoit des personnes avisées en vertu du paragraphe 2, un avis écrit attestant qu'aucune objection ne sera formulée.
+
+ 7. Le présent article s'applique, compte tenu des adaptations nécessaires, à l'avocat à la retraite qui demande à être inscrit au Tableau dans la catégorie des avocats en exercice.
+
+1966-67, c. 77, a. 87; 1973, c. 44, a. 32; 1975, c. 81, a. 16; 1984, c. 27, a. 48; 1986, c. 95, a. 29; 1990, c. 54, a. 40; 1994, c. 40, a. 255; 1999, c. 40, a. 36; 2007, c. 35, a. 9; 2008, c. 11, a. 171, a. 212; 2014, c. 13, a. 17.
+
+71.  1. Une personne qui, sans avoir donné l'avis requis par l'article 69, n'est plus inscrite au Tableau en application de l'article 65 peut demander sa réinscription en suivant les dispositions de l'article 70 et en payant ses arriérés de cotisations.
+
+ 2. Toutefois, sur requête reçue sous serment et pour des motifs jugés suffisants, le Conseil d'administration peut relever cette personne du paiement de tous arriérés ou d'une partie de ceux-ci.
+
+ 3. Cette personne demeure tenue au paiement des frais déterminés par le Conseil d'administration.
+
+1966-67, c. 77, a. 88; 1973, c. 44, a. 33; 1990, c. 54, a. 41; 1994, c. 40, a. 256; 2007, c. 35, a. 10; 2008, c. 11, a. 172, a. 212; 2014, c. 13, a. 17.
+
+72. Une personne peut, au terme de toute radiation de plus de 3 mois, demander sa réinscription en suivant les dispositions de l'article 70. Elle peut adresser au directeur général la demande visée au paragraphe 1 de cet article 45 jours avant le terme de la radiation.
+
+Lorsque cette personne a été radiée par le conseil de discipline ou le Tribunal des professions, elle doit fournir au Conseil d'administration la preuve qu'elle a réparé ou n'a rien négligé pour réparer le préjudice qu'elle a causé, le cas échéant, et qui découle de l'infraction pour laquelle cette radiation a été imposée. La décision du Conseil d'administration à cet égard ne peut être portée en appel.
+
+Elle doit, en outre, avoir acquitté les déboursés auxquels elle a été condamnée, les frais déterminés par le Conseil d'administration et, le cas échéant, l'amende adjugée contre elle par le conseil de discipline ou le Tribunal des professions.
+
+1966-67, c. 77, a. 89; 1990, c. 54, a. 42; 1994, c. 40, a. 257; 2008, c. 11, a. 173, a. 212; 2014, c. 13, a. 17.
+
+73. (Remplacé).
+
+1966-67, c. 77, a. 90; 1973, c. 44, a. 34, a. 78; 1975, c. 81, a. 17; 1990, c. 54, a. 42.
+
+74. La personne qui a cessé d'occuper la fonction de juge peut demander sa réinscription en suivant les dispositions de l'article 70.
+
+1973, c. 44, a. 35; 1990, c. 54, a. 43.
+
+SECTION VIII
+~~~~~~~~~~~~
+
+**SYNDIC**
+
+75.  1. (Paragraphe abrogé).
+
+ 2. Le syndic fait enquête sur toute personne qui demande son admission ou sa réadmission au Barreau ou son inscription, sa réinscription ou un changement de catégorie au Tableau.
+
+ 3. (Paragraphe abrogé).
+
+ 4. (Paragraphe abrogé).
+
+1973, c. 44, a. 36; 1975, c. 81, a. 19; 1990, c. 54, a. 44; 1994, c. 40, a. 258; 2007, c. 35, a. 11; 2009, c. 35, a. 41.
+
+76.  1. Dans l'exécution de ses fonctions, le syndic a accès aux archives du Barreau et des sections de même qu'à tous les documents produits aux greffes des tribunaux ou aux bureaux des organismes publics ou faisant partie de tout dossier d'un avocat; il peut obtenir copie de tout document qu'il juge nécessaire.
+
+ 2. Il a aussi le droit de prendre possession et de disposer de tout dossier, document ou bien confié à un avocat devenu inhabile, incapable d'exercer ou dans l'impossibilité d'agir, ou détenu par les représentants légaux d'un avocat décédé, nonobstant tous honoraires et déboursés dus à l'avocat.
+
+ 3. Dans les cas prévus au paragraphe 2, il doit rédiger un procès-verbal, en laisser copie à une personne raisonnable en charge des lieux et rendre compte à l'avocat ou à ses représentants.
+
+1973, c. 44, a. 36; 1975, c. 81, a. 20.
+
+77. Les syndics adjoints assistent le syndic dans l'exécution de ses fonctions et chacun d'eux peut exercer, sous sa direction, les pouvoirs décrits aux articles 75 et 76.
+
+1973, c. 44, a. 36; 1975, c. 81, a. 21.
+
+78.  1. Le Conseil d'administration peut, s'il le juge utile, nommer des personnes pour assister le syndic dans l'exercice de ses fonctions.
+
+ 2. Dans les limites du mandat qui leur est confié, ces personnes possèdent les pouvoirs du syndic.
+
+1973, c. 44, a. 36; 1975, c. 81, a. 22; 2008, c. 11, a. 212; 2014, c. 13, a. 17.
+
+79.  1. Le Conseil d'administration peut, de plus, former un comité spécial d'enquête relativement à la conduite de tout membre du Barreau.
+
+ 2. Les articles 135, 143, 144, 146 et 149 du Code des professions (chapitre C-26) s'appliquent à ce comité.
+
+ 3. Ce comité fait, sur demande, un rapport écrit de ses activités au Conseil d'administration.
+
+1973, c. 44, a. 36; 1975, c. 81, a. 23; 1994, c. 40, a. 259; 2008, c. 11, a. 212; 2014, c. 13, a. 17.
+
+80. (Abrogé).
+
+1973, c. 44, a. 36; 1975, c. 81, a. 24; 1994, c. 40, a. 260.
+
+SECTION IX
+~~~~~~~~~~
+
+81. (Abrogé).
+
+1973, c. 44, a. 36; 1990, c. 54, a. 45; 1994, c. 40, a. 261.
+
+82. (Abrogé).
+
+1973, c. 44, a. 36; 1994, c. 40, a. 261.
+
+83. (Abrogé).
+
+1973, c. 44, a. 36; 1988, c. 21, a. 66; 1994, c. 40, a. 261.
+
+84. (Abrogé).
+
+1973, c. 44, a. 36; 1975, c. 81, a. 28; 1977, c. 66, a. 19; 1986, c. 95, a. 30; 1990, c. 54, a. 46; 1994, c. 40, a. 261.
+
+85. (Abrogé).
+
+1973, c. 44, a. 36; 1975, c. 81, a. 30; 1977, c. 66, a. 20; 1990, c. 54, a. 47; 1994, c. 40, a. 261.
+
+86. (Abrogé).
+
+1973, c. 44, a. 36; 1975, c. 81, a. 31; 1990, c. 54, a. 48.
+
+87. (Abrogé).
+
+1973, c. 44, a. 36; 1989, c. 54, a. 157; 1994, c. 40, a. 261.
+
+88. (Abrogé).
+
+1973, c. 44, a. 36; 1975, c. 81, a. 32; 1990, c. 54, a. 49; 1994, c. 40, a. 261.
+
+89. (Abrogé).
+
+1975, c. 81, a. 33; 1990, c. 54, a. 49; 1994, c. 40, a. 261.
+
+90. (Abrogé).
+
+1975, c. 81, a. 33; 1994, c. 40, a. 261.
+
+SECTION X
+~~~~~~~~~
+
+91. (Abrogé).
+
+1966-67, c. 77, a. 91; 1973, c. 44, a. 37; 1975, c. 81, a. 34; 1982, c. 32, a. 74; 1990, c. 54, a. 50; 1994, c. 40, a. 261.
+
+92. (Abrogé).
+
+1966-67, c. 77, a. 92; 1973, c. 44, a. 38; 1975, c. 81, a. 35; 1990, c. 54, a. 51; 1994, c. 40, a. 261.
+
+93. (Abrogé).
+
+1973, c. 44, a. 40; 1974, c. 65, a. 55; 1975, c. 81, a. 37; 1990, c. 54, a. 52; 1994, c. 40, a. 261.
+
+94. (Abrogé).
+
+1966-67, c. 77, a. 94; 1973, c. 44, a. 41; 1975, c. 81, a. 38; 1994, c. 40, a. 261.
+
+95. (Abrogé).
+
+1966-67, c. 77, a. 95; 1973, c. 44, a. 42; 1975, c. 81, a. 39; 1990, c. 54, a. 53; 1994, c. 40, a. 261.
+
+96. (Abrogé).
+
+1966-67, c. 77, a. 96; 1973, c. 44, a. 43, a. 78; 1979, c. 37, a. 43; 1990, c. 54, a. 54; 1994, c. 40, a. 261.
+
+97. (Abrogé).
+
+1966-67, c. 77, a. 97; 1973, c. 44, a. 44; 1990, c. 54, a. 55; 1994, c. 40, a. 261.
+
+98. (Abrogé).
+
+1973, c. 44, a. 45, a. 78; 1975, c. 81, a. 40; 1990, c. 54, a. 56; 1994, c. 40, a. 261.
+
+99. (Abrogé).
+
+1966-67, c. 77, a. 98; 1973, c. 44, a. 46; 1988, c. 21, a. 66; 1994, c. 40, a. 261.
+
+100. (Abrogé).
+
+1966-67, c. 77, a. 99;  1973, c. 44, a. 47; 1975, c. 81, a. 41; 1994, c. 40, a. 261.
+
+101. (Abrogé).
+
+1966-67, c. 77, a. 100; 1973, c. 44, a. 48; 1990, c. 54, a. 57; 1994, c. 40, a. 261.
+
+102. (Abrogé).
+
+1966-67, c. 77, a. 101; 1973, c. 44, a. 49; 1994, c. 40, a. 261.
+
+103. (Abrogé).
+
+1973, c. 44, a. 50; 1986, c. 95, a. 31; 1994, c. 40, a. 261.
+
+104. (Abrogé).
+
+1966-67, c. 77, a. 102; 1973, c. 44, a. 51; 1986, c. 95, a. 32; 1994, c. 40, a. 261.
+
+105. (Abrogé).
+
+1966-67, c. 77, a. 103; 1973, c. 44, a. 52; 1975, c. 81, a. 42; 1986, c. 95, a. 33; 1990, c. 54, a. 58; 1994, c. 40, a. 261.
+
+106. (Abrogé).
+
+1966-67, c. 77, a. 104; 1973, c. 44, a. 53, a. 78; 1990, c. 54, a. 59; 1994, c. 40, a. 261.
+
+107. (Abrogé).
+
+1966-67, c. 77, a. 105; 1973, c. 44, a. 54, a. 78; 1994, c. 40, a. 261.
+
+108. (Abrogé).
+
+1966-67, c. 77, a. 106; 1973, c. 44, a. 55; 1975, c. 81, a. 43; 1990, c. 54, a. 60; 1994, c. 40, a. 261.
+
+109. (Abrogé).
+
+1966-67, c. 77, a. 107; 1973, c. 44, a. 56; 1975, c. 83, a. 84; 1990, c. 54, a. 61; 1994, c. 40, a. 261.
+
+110. (Abrogé).
+
+1966-67, c. 77, a. 108; 1973, c. 44, a. 57, a. 78; 1990, c. 54, a. 62; 1994, c. 40, a. 261.
+
+111. (Abrogé).
+
+1966-67, c. 77, a. 109; 1973, c. 44, a. 78; 1990, c. 54, a. 63; 1994, c. 40, a. 261.
+
+112. (Abrogé).
+
+1966-67, c. 77, a. 110; 1990, c. 54, a. 64; 1994, c. 40, a. 261.
+
+113. (Abrogé).
+
+1966-67, c. 77, a. 111; 1973, c. 44, a. 58; 1977, c. 66, a. 21; 1988, c. 21, a. 66; 1990, c. 4, a. 93; 1990, c. 54, a. 65; 1994, c. 40, a. 261.
+
+114. (Abrogé).
+
+1966-67, c. 77, a. 112; 1973, c. 44, a. 78; 1990, c. 4, a. 94; 1990, c. 54, a. 66; 1994, c. 40, a. 261.
+
+115. (Abrogé).
+
+1966-67, c. 77, a. 113; 1973, c. 44, a. 59; 1975, c. 81, a. 44; 1990, c. 54, a. 67; 1994, c. 40, a. 261.
+
+116. (Abrogé).
+
+1966-67, c. 77, a. 114; 1973, c. 44, a. 60, a. 78; 1990, c. 54, a. 68; 1994, c. 40, a. 261.
+
+117. (Abrogé).
+
+1973, c. 44, a. 61; 1975, c. 81, a. 45; 1994, c. 40, a. 261.
+
+118. (Abrogé).
+
+1973, c. 44, a. 61, a. 78; 1975, c. 81, a. 46; 1988, c. 21, a. 66; 1990, c. 54, a. 69; 1994, c. 40, a. 261.
+
+119. (Abrogé).
+
+1973, c. 44, a. 61; 1990, c. 54, a. 70; 1994, c. 40, a. 261.
+
+120. (Abrogé).
+
+1973, c. 44, a. 66; 1975, c. 81, a. 52; 1990, c. 54, a. 71; 1994, c. 40, a. 261.
+
+121. (Abrogé).
+
+1966-67, c. 77, a. 121; 1973, c. 44, a. 67; 1975, c. 81, a. 53; 1986, c. 95, a. 34; 1990, c. 54, a. 72; 1994, c. 40, a. 261.
+
+SECTION XI
+~~~~~~~~~~
+
+**INHABILITÉ À EXERCER LA PROFESSION D'AVOCAT**
+
+122.  1. Toute personne devient inhabile à exercer la profession d'avocat et perd son statut de membre du Barreau dans le cas où:
+
+a)  (sous-paragraphe abrogé);
+
+b)  elle occupe une charge ou une fonction incompatible avec l'exercice ou la dignité de la profession d'avocat;
+
+c)  elle est pourvue d'un tuteur, d'un curateur ou d'un conseiller;
+
+d)  elle fait cession de ses biens ou une ordonnance de séquestre est prononcée contre elle en vertu de la Loi sur la faillite et l'insolvabilité (Lois révisées du Canada (1985), chapitre B-3).
+
+ 2. Dans un cas visé au sous-paragraphe d du paragraphe 1 et sur requête adressée au directeur général, le Conseil d'administration peut, après s'être assuré que la protection du public ne sera pas mise en danger, déclarer le requérant habile à exercer et lui imposer toutes conditions reliées à l'exercice de la profession qu'il juge raisonnables pour assurer cette protection du public.
+
+Une personne déclarée habile à exercer par le Conseil d'administration en vertu du premier alinéa, reprend son plein droit d'exercice à compter de sa libération en vertu de la Loi sur la faillite et l'insolvabilité, à moins que le Conseil d'administration n'ait prescrit en vertu de cet alinéa des conditions, auquel cas elle doit s'y conformer.
+
+Une personne devenue inhabile à exercer en vertu du sous-paragraphe d du paragraphe 1 et à laquelle ne s'appliquent pas les premier et deuxième alinéas peut, après l'obtention de sa libération en vertu de la Loi sur la faillite et l'insolvabilité, demander sa réinscription au Tableau en suivant les dispositions de l'article 70.
+
+Les dispositions de la section VII du chapitre IV du Code des professions (chapitre C-26), sauf celles de l'article 156, s'appliquent.
+
+1966-67, c. 77, a. 122; 1973, c. 44, a. 69; 1975, c. 81, a. 54; 1989, c. 54, a. 158; 1990, c. 54, a. 73; 1994, c. 40, a. 262; 2008, c. 11, a. 212; 2014, c. 13, a. 17.
+
+123.  1. Toute personne devenue inhabile à exercer la profession d'avocat qui, directement ou indirectement, exerce seul ou avec un avocat, ou qui se représente ou s'affiche comme avocat, est passible des peines prévues à l'article 132 en plus des sanctions prévues à l'article 156 du Code des professions (chapitre C-26).
+
+ 2. Une procédure judiciaire faite par une personne devenue inhabile à exercer comme avocat ne peut être invalidée par le seul fait de cette inhabilité que si le client pour qui elle a été faite le demande ou si on établit qu'il connaissait cette inhabilité.
+
+1966-67, c. 77, a. 123; 1973, c. 44, a. 70; 1994, c. 40, a. 263.
+
+123.1. Les articles 122 et 123 s'appliquent à l'avocat à la retraite, compte tenu des adaptations nécessaires.
+
+2007, c. 35, a. 12.
+
+124. Un avocat qui prête son nom à une personne devenue inhabile à exercer la profession ou à toute autre personne qui n'est pas avocat, ou qui lui permet d'employer son nom pour exécuter un acte réservé à un avocat, ou qui emploie ou garde à son emploi une personne radiée du Tableau ou destituée comme notaire ou qui tolère, sans raison valable, sa présence dans son étude, commet un acte dérogatoire et est passible des sanctions prévues à l'article 156 du Code des professions (chapitre C-26).
+
+1966-67, c. 77, a. 124; 1973, c. 44, a. 71; 1994, c. 40, a. 264.
+
+SECTION XII
+~~~~~~~~~~~
+
+**FRAIS JUDICIAIRES ET EXTRAJUDICIAIRES**
+
+125.  1. Seuls les avocats ont droit à des frais judiciaires et extrajudiciaires. Toutefois, lorsqu'un avocat exerce ses activités professionnelles au sein d'une société par actions conformément au règlement du Conseil d'administration pris en application du paragraphe p de l'article 94 du Code des professions (chapitre C-26), la société a droit à ces frais, y compris, sauf convention contraire, à la distraction de plein droit en faveur du procureur dans le cas de condamnation aux dépens.
+
+ 2. Par règlement, le Conseil d'administration peut arrêter, modifier et remplacer des tarifs d'honoraires judiciaires pour les avocats exerçant devant les tribunaux.
+
+ 3. Le coût fixé par le tarif, de la lettre d'avocat ou de la mise en demeure, qu'il y ait poursuite ou non, est exigible du débiteur, qu'il s'agisse d'une demande de paiement en argent ou d'une mise en demeure d'exécuter ou de ne pas exécuter une prestation, de faire ou de ne pas faire un acte.
+
+1966-67, c. 77, a. 125; 1994, c. 40, a. 265; 2001, c. 34, a. 17; 2006, c. 9, a. 1; 2014, c. 13, a. 17.
+
+126.  1. Les services justifiant des honoraires extrajudiciaires comprennent, entre autres, les vacations, les voyages, les avis, les consultations écrites et verbales, l'examen, la préparation, la rédaction, l'envoi, la remise de tout document, procédure ou dossier et généralement tous autres services requis d'un avocat.
+
+ 2. (Paragraphe abrogé).
+
+ 3. En l'absence de convention expresse entre l'avocat et son client, l'avocat a droit à ses frais extrajudiciaires sur la base de la valeur des services rendus. 
+
+1966-67, c. 77, a. 126; 1994, c. 40, a. 266.
+
+127. L'avocat est cru à son serment quant à la réquisition, à la nature, à la durée et à la valeur de ses services, mais ce serment peut être contredit comme tout autre témoignage.
+
+1966-67, c. 77, a. 127.
+
+127.1. L'avocat peut partager ses frais judiciaires et extrajudiciaires avec un membre d'un barreau constitué hors du Québec.
+
+1990, c. 54, a. 74.
+
+SECTION XIII
+~~~~~~~~~~~~
+
+**EXERCICE DE LA PROFESSION D'AVOCAT**
+
+128.  1. Sont du ressort exclusif de l'avocat en exercice ou du conseiller en loi les actes suivants exécutés pour le compte d'autrui:
+
+a)  donner des consultations et avis d'ordre juridique;
+
+b)  préparer et rédiger un avis, une requête, une procédure et tout autre document de même nature destiné à servir dans une affaire devant les tribunaux;
+
+c)  préparer et rédiger une convention, une requête, un règlement, une résolution et tout autre document de même nature se rapportant à la constitution, l'organisation, la réorganisation ou la liquidation d'une personne morale régie par les lois fédérales ou provinciales concernant les personnes morales, ou à l'amalgamation de plusieurs personnes morales ou à l'abandon d'une charte.
+
+ 2. Sont du ressort exclusif de l'avocat en exercice et non du conseiller en loi les actes suivants exécutés pour le compte d'autrui:
+
+a)  plaider ou agir devant tout tribunal, sauf devant:
+
+1°  un conciliateur ou un arbitre de différend ou de grief, au sens du Code du travail (chapitre C-27);
+
+2°  la Commission des relations du travail instituée par le Code du travail;
+
+3°  la Commission de la santé et de la sécurité du travail instituée par la Loi sur la santé et la sécurité du travail (chapitre S-2.1), un bureau de révision constitué en vertu de cette loi ou de la Loi sur les accidents du travail (chapitre A-3), la section des affaires sociales du Tribunal administratif du Québec, institué en vertu de la Loi sur la justice administrative (chapitre J-3), s'il s'agit d'un recours portant sur l'indemnisation des sauveteurs et des victimes d'actes criminels, d'un recours formé en vertu de l'article 65 de la Loi sur les accidents du travail (chapitre A-3) ou d'un recours formé en vertu de l'article 12 de la Loi sur l'indemnisation des victimes d'amiantose ou de silicose dans les mines et les carrières (chapitre I-7), la Commission d'appel en matière de lésions professionnelles instituée par la Loi sur les accidents du travail et les maladies professionnelles (chapitre A-3.001) ou la Commission des lésions professionnelles instituée en vertu de cette loi;
+
+4°  la Régie du logement instituée en vertu de la Loi sur la Régie du logement (chapitre R-8.1);
+
+5°  la section des affaires sociales du Tribunal administratif du Québec, dans la mesure où il s'agit pour le ministre de l'Emploi et de la Solidarité sociale, ou pour un organisme qui est son délégataire dans l'application de la Loi sur l'aide aux personnes et aux familles (chapitre A-13.1.1), de se faire représenter pour plaider ou agir en son nom;
+
+6°  un arbitre, un conciliateur, un conseil d'arbitrage ou un enquêteur, au sens de la Loi sur les relations du travail, la formation professionnelle et la gestion de la main-d'oeuvre dans l'industrie de la construction (chapitre R-20);
+
+7°  en matière d'immigration, la section des affaires sociales du Tribunal administratif du Québec, dans le cas et aux conditions prévus au troisième alinéa de l'article 102 de la Loi sur la justice administrative;
+
+b)  préparer et rédiger un testament, un codicille ou une quittance et tout contrat ou document, sauf les baux, affectant des immeubles et requérant l'inscription ou la radiation d'une inscription au Québec;
+
+c)  préparer, rédiger et produire la déclaration de la valeur d'une succession, requise par les lois fiscales; le présent sous-paragraphe c ne s'applique pas aux personnes morales autorisées par la loi à remplir les fonctions de liquidateur de succession ou de fiduciaire;
+
+d)  préparer et rédiger un document ou une procédure pour l'enregistrement prescrit par la loi, d'une personne ou d'une société exploitant un commerce ou exerçant une industrie;
+
+e)  faire de la perception ou réclamer avec frais ou suggérer que des procédures judiciaires seront intentées.
+
+1966-67, c. 77, a. 128; 1969, c. 48, a. 45; 1973, c. 44, a. 72; 1975, c. 81, a. 55; 1977, c. 41, a. 1; 1978, c. 57, a. 74, a. 92; 1979, c. 63, a. 274; 1979, c. 48, a. 127; 1983, c. 22, a. 100; 1984, c. 27, a. 49; 1985, c. 6, a. 490; 1986, c. 89, a. 50; 1988, c. 51, a. 107; 1992, c. 44, a. 81; 1994, c. 12, a. 67; 1994, c. 40, a. 267; 1997, c. 63, a. 128; 1997, c. 27, a. 32; 1997, c. 43, a. 86; 1998, c. 15, a. 15; 1998, c. 46, a. 1; 1998, c. 36, a. 175; 1999, c. 40, a. 36; 2001, c. 44, a. 30; 2001, c. 26, a. 72; 2005, c. 15, a. 151; 2007, c. 35, a. 13; 2006, c. 58, a. 52; 2009, c. 52, a. 525.
+
+129. Aucune des dispositions de l'article 128 ne limite ou restreint:
+
+ a) le droit de l'avocat d'accomplir tout autre acte non expressément interdit par la présente loi et les règlements du Barreau;
+
+ b) les droits spécifiquement définis et donnés à toute personne par toute loi d'ordre public ou privé;
+
+ c) le droit des organismes publics ou privés de se faire représenter par leurs dirigeants, sauf aux fins de plaidoirie, devant tout organisme exerçant une fonction quasi judiciaire;
+
+ d) le droit des secrétaires ou secrétaires adjoints des personnes morales de droit public ou de droit privé de rédiger les procès-verbaux des assemblées d'administrateurs ou d'actionnaires et tous autres documents qu'ils sont autorisés à rédiger par les lois fédérales ou provinciales;
+
+ e) le droit du notaire en exercice de poser les actes qui y sont énumérés à l'exception de ceux qui sont prévus au sous-paragraphe b du paragraphe 1 lorsqu'il ne s'agit pas de matières non contentieuses, et aux sous-paragraphes a et e du paragraphe 2; toutefois le notaire en exercice peut suggérer que des procédures judiciaires seront intentées.
+
+1966-67, c. 77, a. 129; 1999, c. 40, a. 36.
+
+130. Outre les exemptions décrétées par le Code de procédure civile (chapitre C-25), les dossiers de l'avocat, ses livres de comptabilité, classeurs, livres de droit et autres documents d'ordre professionnel sont insaisissables.
+
+1966-67, c. 77, a. 130; 1973, c. 44, a. 73; 1994, c. 40, a. 268.
+
+131.  1. L'avocat doit conserver le secret absolu des confidences qu'il reçoit en raison de sa profession.
+
+ 2. Cette obligation cède toutefois dans le cas où l'avocat en est relevé expressément ou implicitement par la personne qui lui a fait ces confidences ou lorsque la loi l'ordonne ou l'autorise par une disposition expresse.
+
+ 2.1. L'avocat donne communication d'un testament ou d'un codicille au testateur ou à une personne autorisée par lui. Sur preuve du décès du testateur, il en donne communication, en tout ou en partie selon le cas, à une personne justifiant de son identité à titre de représentant, d'héritier ou de successible du testateur, à titre de liquidateur de la succession, à titre de bénéficiaire d'assurance-vie ou d'indemnité de décès ou à titre de titulaire de l'autorité parentale, même si l'enfant mineur est décédé.
+
+ 3. L'avocat peut en outre communiquer un renseignement protégé par le secret professionnel, en vue de prévenir un acte de violence, dont un suicide, lorsqu'il a un motif raisonnable de croire qu'un danger imminent de mort ou de blessures graves menace une personne ou un groupe de personnes identifiable. Toutefois, l'avocat ne peut alors communiquer ce renseignement qu'à la ou aux personnes exposées à ce danger, à leur représentant ou aux personnes susceptibles de leur porter secours. L'avocat ne peut communiquer que les renseignements nécessaires aux fins poursuivies par la communication.
+
+1966-67, c. 77, a. 131; 2001, c. 78, a. 4; 2008, c. 11, a. 174; 2009, c. 35, a. 42.
+
+SECTION XIV
+~~~~~~~~~~~
+
+**EXERCICE ILLÉGAL DE LA PROFESSION D'AVOCAT**
+
+132. Nonobstant toute loi contraire et sans restreindre la portée de la présente loi, quiconque exerce la profession d'avocat sans être inscrit au Tableau commet une infraction et est passible des peines prévues à l'article 188 du Code des professions (chapitre C-26).
+
+1966-67, c. 77, a. 132; 1973, c. 44, a. 74.
+
+133. Exerce illégalement la profession d'avocat au sens de l'article 132 et dans chacun des cas suivants, toute personne autre qu'un membre du Barreau qui:
+
+ a) usurpe les fonctions d'avocat;
+
+ b) en fait ou prétend en faire les actes;
+
+ c) agit de manière à donner lieu de croire qu'elle est autorisée à remplir les fonctions d'avocat ou à en faire les actes.
+
+1966-67, c. 77, a. 133.
+
+134. Est présumé exercer illégalement la profession d'avocat au sens de l'article 133 un avocat devenu inhabile ou toute personne autre qu'un membre du Barreau qui:
+
+ a) s'associe pour l'exercice de la profession à un avocat ou partage avec ce dernier, de quelque manière ou par quelque moyen que ce soit, le bénéfice d'honoraires ou gains professionnels, ou
+
+ b) se fait céder ou fait céder à une autre personne, en tout ou en partie, les honoraires ou les gains professionnels d'un avocat, en considération du fait que cette autre personne
+
+1°  donne ou promet à cet avocat des causes ou des affaires, ou
+
+2°  lui paie ou promet un salaire ou toute autre rémunération.
+
+Toutefois, ne constitue pas un exercice illégal de la profession d'avocat au sens de l'article 133, le fait pour un membre d'un barreau constitué hors du Québec de s'associer pour l'exercice de la profession à un avocat ou de partager avec ce dernier, de quelque manière ou par quelque moyen que ce soit, le bénéfice d'honoraires ou de gains professionnels.
+
+De plus, ne constitue pas un exercice illégal de la profession d'avocat au sens de l'article 133 le fait pour une personne autre qu'un membre du Barreau de s'associer pour l'exercice de la profession à un avocat ou de partager avec ce dernier le bénéfice d'honoraires ou de gains professionnels auxquels cet avocat ou la société au sein de laquelle il exerce sa profession a droit, pourvu que cette association ou ce partage soit conforme aux conditions, restrictions et modalités suivant lesquelles l'avocat est autorisé par règlement du Conseil d'administration à s'associer pour l'exercice de la profession ou à partager ses honoraires avec une telle personne.
+
+1966-67, c. 77, a. 134; 1990, c. 54, a. 75; 1999, c. 40, a. 36; 2006, c. 9, a. 2; 2014, c. 13, a. 17.
+
+135. Est présumée usurper les fonctions d'avocat au sens de l'article 133 une personne autre qu'un membre du Barreau, agissant comme intermédiaire entre une tierce personne et un avocat, qui:
+
+ a) fait ou promet, ou fait faire ou promettre à une tierce personne une réduction des frais de cet avocat, ou
+
+ b) obtient d'un avocat qu'il abandonne une partie de ses frais, ou
+
+ c) procure, promet ou convient de procurer à cette tierce personne des services professionnels, sans aucune responsabilité de sa part envers l'avocat pour ses frais, ou
+
+ d) convient ou entreprend de percevoir des réclamations ou des créances, d'intenter ou de faire intenter des poursuites judiciaires à ses seuls frais et risques.  Dans ce dernier cas le tribunal, d'office, peut rejeter l'action.
+
+1966-67, c. 77, a. 135; 1999, c. 40, a. 36.
+
+136. Est présumée agir de manière à donner lieu de croire qu'elle est autorisée à remplir les fonctions d'avocat et à agir en cette qualité, au sens de l'article 133, une personne autre qu'un membre du Barreau qui:
+
+ a) prend verbalement ou autrement le titre d'avocat, de conseiller en loi, de conseiller juridique, de membre du Barreau, de procureur ou tout autre titre analogue ou de quelque manière ou par quelque moyen s'annonce comme tel; ou
+
+ b) fait précéder son nom du préfixe «Me» ou «Mtre», sauf si elle est membre de l'Ordre des notaires du Québec; ou
+
+ c) sauf un créancier s'adressant à son débiteur, écrit ou envoie une carte, lettre ou circulaire
+
+1°  imputant une responsabilité extracontractuelle, ou
+
+2°  requérant l'exécution ou la non-exécution d'un acte ou d'une prestation quelconque ou demandant au débiteur le paiement d'une somme d'argent, soit avec frais, soit en suggérant que des procédures judiciaires seront intentées. Cette disposition ne s'applique pas au notaire, pourvu que la demande ou la mise en demeure résulte d'un acte authentique et soit sans frais contre le débiteur; ou
+
+ d) en son nom ou celui d'un avocat, avec ou sans l'assentiment de ce dernier, fait écrire ou envoyer par une autre personne une carte, lettre ou circulaire de même nature et pour les mêmes fins que celles mentionnées au paragraphe c; ou
+
+ e) publie, annonce ou fait savoir, au moyen de brochures, livrets ou circulaires, ou par les journaux ou autres publications, ou par les déclarations verbales de solliciteurs ou par tous autres moyens,
+
+1°  qu'elle se charge d'intenter ou de faire intenter des procédures judiciaires contre les débiteurs, ou
+
+2°  qu'elle obtient ou fait obtenir des jugements contre les débiteurs, ou
+
+3°  qu'elle exécute ou fait exécuter des jugements contre les débiteurs, ou
+
+4°  qu'elle accomplit ou fait accomplir toute autre affaire légale; ou
+
+ f) convient avec toute autre personne de mettre son avocat à la disposition de cette dernière, en considération d'un paiement ou d'une souscription périodique en argent; ou
+
+ g) sollicite ou obtient, directement ou indirectement, de la victime d'une faute ou de ses représentants l'autorisation de recouvrer ou de régler pour leur compte toute réclamation résultant de cette faute ou, de fait, agit à titre d'intermédiaire pour la négociation, le règlement ou le recouvrement de telle réclamation, le tout sous réserve des dispositions de la Loi sur la distribution de produits et services financiers (chapitre D-9.2) applicables aux représentants en assurance  ou aux experts en sinistre; ou
+
+ h) agissant en qualité de fonctionnaire des gouvernements fédéral ou provincial ou de municipalités ou de commissions scolaires, exerce les fonctions d'avocat devant tout tribunal; ou
+
+ i) offre par voie d'annonces, d'imprimés, de circulaires ou par tout autre mode de publicité de régler les difficultés financières d'un débiteur avec ses créanciers, avec ou sans rémunération, ou s'interpose comme intermédiaire entre un débiteur et ses créanciers pour ce faire; ou
+
+ j) moyennant une commission ou rémunération quelconque, se charge de la perception des comptes ou du recouvrement des créances en assumant la responsabilité totale ou partielle des frais judiciaires; ou
+
+ k) vend, distribue ou emploie, fait vendre, distribuer ou employer des livrets de lettres imprimées pour être adressées par un créancier à ses débiteurs, au nom et sous la signature d'une tierce personne, et comportant une mise en demeure de paiement ou toute autre intimation; ou
+
+ l) vend, distribue ou emploie, fait vendre, distribuer ou employer des formules imprimées à l'avance, pour être utilisées par les créanciers et portant l'attestation d'un commissaire à l'assermentation ou étant de nature à créer de toute autre manière l'impression qu'elles sont des documents judiciaires.  Le commissaire à l'assermentation qui permet que son nom, sa signature ou son sceau officiel soient apposés à tel document est passible des peines prévues à l'article 132.  La condamnation d'un commissaire à l'assermentation à l'une desdites peines entraîne automatiquement la révocation de sa commission.
+
+1966-67, c. 77, a. 136; 1973, c. 45, a. 21; 1974, c. 70, a. 473; 1988, c. 84, a. 701; 1989, c. 48, a. 249; 1996, c. 2, a. 84; 1998, c. 37, a. 516; 1999, c. 40, a. 36.
+
+137. Les articles 134, 135 et 136 ne doivent pas être interprétés comme restreignant la portée de l'article 133.
+
+1966-67, c. 77, a. 137.
+
+138. Toute personne qui se prétend cessionnaire d'une créance et en réclame paiement en son nom avec suggestion de procédures judiciaires est présumée réclamer pour autrui au sens de l'article 136, si elle n'a pas fait accompagner ou précéder sa réclamation de l'accomplissement des formalités prescrites aux articles 1641 et 1642 du Code civil.
+
+1966-67, c. 77, a. 138; 1999, c. 40, a. 36.
+
+138.1. Exerce illégalement la profession d'avocat quiconque, sans être inscrit au Tableau, prend verbalement ou autrement le titre d'avocat à la retraite ou tout autre titre analogue ou de quelque manière ou par quelque moyen s'annonce comme tel.
+
+2007, c. 35, a. 15.
+
+139. Exerce illégalement la profession d'avocat, le conseiller en loi qui excède les restrictions de son permis ou l'avocat à la retraite qui exerce la profession d'avocat, notamment en posant l'un des gestes visés aux articles 133 à 136.
+
+1966-67, c. 77, a. 139; 1990, c. 54, a. 76; 2007, c. 35, a. 16.
+
+139.1. Rien dans la présente loi ne doit empêcher une personne de poser des actes réservés aux membres de l'Ordre, pourvu qu'elle les pose en conformité avec les dispositions d'un règlement pris en application du paragraphe h de l'article 94 du Code des professions (chapitre C-26).
+
+1994, c. 40, a. 269.
+
+140. Une poursuite pénale pour une infraction à une disposition de la présente loi peut être intentée, conformément à l'article 10 du Code de procédure pénale (chapitre C-25.1), par le Barreau ou par la section sur le territoire de laquelle l'infraction a été commise, sur résolution du conseil de cette section.
+
+1966-67, c. 77, a. 143; 1973, c. 44, a. 76; 1977, c. 66, a. 22; 1992, c. 61, a. 77; 2008, c. 11, a. 175.
+
+SECTION XIV.1
+~~~~~~~~~~~~~
+
+**FORMATION, CONTRÔLE DE LA COMPÉTENCE ET DISCIPLINE DES STÉNOGRAPHES**
+
+140.1. Est constitué, au Barreau, un Comité sur la sténographie ayant pour mission d'assurer la formation des sténographes qui oeuvrent dans le cadre de l'administration de la justice, d'établir leur compétence et, à cette fin, de leur délivrer une attestation. Il a également pour mission de régir leur discipline.
+
+2001, c. 64, a. 3.
+
+140.2. Le comité est composé de sept membres, soit:
+
+ 1° trois avocats désignés par le Conseil d'administration;
+
+ 2° trois sténographes désignés par une association que le ministre de la Justice considère la plus représentative des sténographes oeuvrant dans le cadre de l'administration de la justice ou, à défaut d'une telle association, désignés par le ministre de la Justice;
+
+ 3° une personne désignée par le ministre de la Justice.
+
+Le président du comité est désigné par le comité parmi ses membres. Le président demeure en fonction jusqu'à l'expiration de son mandat comme membre du comité.
+
+La durée du mandat des membres est d'au plus trois ans. À l'expiration de son mandat, un membre demeure en fonction jusqu'à ce qu'il soit remplacé ou nommé de nouveau.
+
+2001, c. 64, a. 3; 2008, c. 11, a. 212; 2014, c. 13, a. 17.
+
+140.3. Les membres du comité ne sont pas rémunérés, sauf dans les cas, aux conditions et dans la mesure que peut déterminer le Conseil d'administration. Ils ont cependant droit au remboursement des dépenses faites dans l'exercice de leurs fonctions, aux conditions et dans la mesure que détermine le Conseil d'administration.
+
+2001, c. 64, a. 3; 2008, c. 11, a. 176; 2014, c. 13, a. 17.
+
+140.4. Le comité doit par règlement:
+
+ 1° déterminer les règles, conditions et modalités relatives à la formation, au contrôle de la compétence, à la délivrance d'une attestation et à la discipline des sténographes;
+
+ 2° fixer le montant des frais exigibles pour les examens auxquels les candidats doivent se soumettre ainsi que le montant de la cotisation annuelle que les sténographes admis à exercer doivent verser au Barreau, déterminer la portion de cette cotisation qui doit être affectée à la formation, fixer les modalités du versement de ces frais et cotisations, le délai dans lequel ils doivent être versés et les conséquences du défaut de les verser;
+
+ 3° déterminer son fonctionnement.
+
+Pour prendre un règlement, le quorum du comité est d'au moins trois membres. Un règlement doit être pris à la majorité des membres présents. Toutefois, cette majorité doit comporter le vote d'au moins un des avocats désignés conformément au paragraphe 1° du premier alinéa de l'article 140.2 et le vote d'au moins un des sténographes désignés conformément au paragraphe 2° du même alinéa.
+
+Ces règlements sont transmis par le comité à l'Office des professions pour avis au ministre de la Justice; ils sont soumis au gouvernement qui, sur la recommandation du ministre, peut les approuver avec ou sans modification.
+
+À défaut par le comité de prendre les règlements visés au premier alinéa dans le délai que fixe le ministre de la Justice, le gouvernement les prend en son lieu et place.
+
+2001, c. 64, a. 3.
+
+SECTION XV
+~~~~~~~~~~
+
+**DISPOSITIONS FINALES**
+
+141. Rien dans la présente loi n'interdit aux membres de l'Ordre des comptables professionnels agréés du Québec, dans les limites prévues par la Loi sur les comptables professionnels agréés (chapitre C-48.1), de donner des avis et des consultations sur toute question d'ordre financier, administratif ou fiscal, de préparer et de soumettre, à qui de droit, des projets d'administration, d'organisation et de réorganisation financières ou fiscales, de préparer et de soumettre des études, états, rapports ou déclarations de même nature, y compris les rapports d'impôt de tous genres, de discuter avec toutes personnes ayant autorité en la matière de toutes cotisations en matière d'impôt de nature quelconque, de même que de préparer et donner avis d'appel au ministre du Revenu du Québec et au ministre du Revenu national du Canada et de discuter avec eux et leurs représentants du bien-fondé des cotisations imposées à leurs clients en matière d'impôt.
+
+1966-67, c. 77, a. 145; 1973, c. 64, a. 53; 1999, c. 40, a. 36; 2012, c. 11, a. 16.
+
+142. Les dispositions du chapitre VIII du Code des professions (chapitre C-26) s'appliquent au Comité des requêtes, à un comité visé à l'article 44, au comité d'accès à la profession ainsi qu'à leurs membres.
+
+1973, c. 44, a. 77; 1975, c. 81, a. 56; 1990, c. 54, a. 77; 2009, c. 35, a. 43.
+
+143. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXE  I
+~~~~~~~~~
+
+(Article 5)
+
+LIMITES TERRITORIALES DES SECTIONS
+
+
+::
+
+  Sections                               Districts judiciaires
+  
+  Abitibi-Témiscamingue                  Abitibi
+                                         Rouyn-Noranda
+                                         Témiscamingue
+  
+  Arthabaska                             Arthabaska
+                                         Drummond
+                                         Frontenac
+  
+  Bas-Saint-Laurent — Gaspésie           Bonaventure
+  — Îles-de-la-Madeleine                 Gaspé
+                                         Kamouraska
+                                         Rimouski
+  
+  Bedford                                Bedford
+  
+  Côte-Nord                              Baie-Comeau
+                                         Mingan
+  
+  Laurentides — Lanaudière               Joliette
+                                         Labelle
+                                         Terrebonne
+  
+  Laval                                  Laval
+  
+  Longueuil                              Longueuil
+  
+  Mauricie                               Saint-Maurice
+                                         Trois-Rivières
+  
+  Montréal                               Montréal
+  
+  Outaouais                              Gatineau
+                                         Pontiac
+  
+  Québec                                 Beauce
+                                         Montmagny
+                                         Québec        
+  
+  Richelieu                              Beauharnois
+                                         Iberville
+                                         Richelieu
+                                         Saint-Hyacinthe
+  
+  Saguenay — Lac-St-Jean                 Alma
+                                         Charlevoix
+                                         Chicoutimi
+                                         Roberval
+  
+  Saint-François                         Mégantic
+                                         Saint-François                    
+
+1975, c. 81, a. 57; 1975, c. 80, a. 40; 1985, c. 29, a. 3; 1987, c. 79, a. 2; 1990, c. 54, a. 78; 2001, c. 64, a. 4; 2009, c. 35, a. 44; 2013, c. 29, a. 6.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 77 des lois de 1966/1967, tel qu'en vigueur au 31 décembre 1977, à l'exception des articles 144 et 147, est abrogé à compter de l'entrée en vigueur du chapitre B-1 des Lois refondues.

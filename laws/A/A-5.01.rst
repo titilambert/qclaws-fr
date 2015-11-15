@@ -1,0 +1,441 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-5.01:
+
+=========================================================================================
+A-5.01 Loi sur les activités cliniques et de recherche en matière de procréation assistée
+=========================================================================================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+CHAPITRE I
+----------
+
+**OBJET, DÉFINITIONS ET AUTRES DISPOSITIONS INTRODUCTIVES**
+
+1. La présente loi, tout en reconnaissant la nécessité de prévenir l'infertilité et de promouvoir la santé reproductive, vise à protéger la santé des personnes et plus particulièrement celle des femmes ayant recours à des activités de procréation assistée qui peuvent être médicalement requises et celle des enfants qui en sont issus, dont la filiation est alors établie en vertu des dispositions du Code civil.
+
+À cette fin, elle a pour objet l'encadrement des activités cliniques et de recherche en matière de procréation assistée de manière à assurer une pratique de qualité, sécuritaire et conforme à l'éthique. Elle vise aussi à favoriser l'amélioration continue des services en cette matière.
+
+2009, c. 30, a. 1.
+
+2. Pour l'application de la présente loi, on entend par:
+
+ 1° «activités de procréation assistée»: tout soutien apporté à la reproduction humaine par des techniques médicales ou pharmaceutiques ou par des manipulations de laboratoire, que ce soit dans le domaine clinique en visant la création d'un embryon humain ou dans le domaine de la recherche en permettant d'améliorer les procédés cliniques ou d'acquérir de nouvelles connaissances.
+
+Sont notamment visées les activités suivantes: l'utilisation de procédés pharmaceutiques pour la stimulation ovarienne; le prélèvement, le traitement, la manipulation in vitro et la conservation des gamètes humains; l'insémination artificielle avec le sperme du conjoint ou le sperme d'un donneur; le diagnostic génétique préimplantatoire; la conservation d'embryons; le transfert d'embryons chez une femme.
+
+Toutefois, les procédés chirurgicaux qui visent à rétablir les fonctions reproductrices normales d'une femme ou d'un homme ne sont pas visés;
+
+ 2° «centre de procréation assistée»: tout lieu aménagé pour exercer des activités de procréation assistée, à l'exception des activités déterminées par règlement et aux conditions qui y sont prévues. Un tel lieu peut notamment être aménagé dans une installation maintenue par un établissement et dans un cabinet privé de professionnel au sens de la Loi sur les services de santé et les services sociaux (chapitre S-4.2), dans un établissement et dans un cabinet privé de professionnel au sens de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5) et dans un laboratoire au sens de la Loi sur les laboratoires médicaux, la conservation des organes et des tissus et la disposition des cadavres (chapitre L-0.2).
+
+2009, c. 30, a. 2.
+
+3. Seule une personne ou une société peut exploiter un centre de procréation assistée. Cependant, lorsqu'un centre est aménagé dans une installation maintenue par un établissement au sens de la Loi sur les services de santé et les services sociaux (chapitre S-4.2), ce centre ne peut être exploité que par cet établissement conformément aux dispositions prévues à cette loi dans la mesure où elles ne sont pas incompatibles avec la présente loi.
+
+Il en va de même à l'égard d'un centre aménagé dans un établissement au sens de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5).
+
+2009, c. 30, a. 3.
+
+4. Seul un médecin membre du Collège des médecins du Québec peut, comme personne physique, exploiter un centre de procréation assistée. Lorsque l'exploitant du centre est une personne morale ou une société, plus de 50% des droits de vote rattachés aux actions ou aux parts de cette personne morale ou de cette société doivent être détenus:
+
+ 1° soit par des médecins membres de cet ordre professionnel;
+
+ 2° soit par une personne morale ou société dont les droits de vote rattachés aux actions ou aux parts sont détenus en totalité:
+
+a)  par des médecins visés au paragraphe 1°; ou
+
+b)  par une autre personne morale ou société dont les droits de vote rattachés aux actions ou aux parts sont détenus en totalité par de tels médecins;
+
+ 3° soit à la fois par des médecins visés au paragraphe 1° et une personne morale ou société visée au paragraphe 2°.
+
+Les affaires d'une personne morale ou d'une société qui exploite un centre de procréation assistée doivent être administrées par un conseil d'administration ou un conseil de gestion interne, selon le cas, formé en majorité de médecins qui exercent leur profession dans le centre; ces médecins doivent en tout temps constituer la majorité du quorum d'un tel conseil.
+
+Les actionnaires d'une personne morale ou les associés d'une société qui exploite un centre de procréation assistée ne peuvent, par convention, restreindre le pouvoir des administrateurs de cette personne morale ou de cette société.
+
+Le présent article ne s'applique pas à un centre de procréation assistée exploité par un établissement au sens de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) ou de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5).
+
+2009, c. 30, a. 4.
+
+5. L'expression «centre de procréation assistée» est utilisée pour l'application de la présente loi, selon le contexte, soit pour désigner le lieu visé à l'article 2, soit, lorsque cette expression est utilisée comme sujet de droits ou d'obligations, pour désigner la personne ou la société qui exploite le centre.
+
+2009, c. 30, a. 5.
+
+CHAPITRE II
+-----------
+
+**EXERCICE DES ACTIVITÉS DE PROCRÉATION ASSISTÉE**
+
+6. Aucune activité de procréation assistée, à l'exception de celles déterminées par règlement et aux conditions qui y sont prévues, ne peut être exercée ailleurs que dans un centre de procréation assistée pour lequel un permis est délivré par le ministre en vertu de la présente loi.
+
+2009, c. 30, a. 6.
+
+7. Toute personne qui exerce une activité de procréation assistée doit respecter les conditions et normes déterminées par règlement pour l'exercice de ces activités.
+
+2009, c. 30, a. 7.
+
+non en vigueur8. Tout projet de recherche portant sur des activités de procréation assistée doit être approuvé et suivi par un comité d'éthique de la recherche reconnu ou institué par le ministre. Le ministre en définit la composition et les conditions de fonctionnement, qui sont publiées à la Gazette officielle du Québec.
+Il en va de même à l'égard d'un projet de recherche impliquant des embryons qui sont issus des activités de procréation assistée et qui ne sont pas utilisés à ces fins. Un tel projet de recherche doit en outre respecter les conditions déterminées par règlement.
+2009, c. 30, a. 8.
+
+
+9. Lorsqu'une activité de procréation assistée soulève des questions éthiques et sociales sur des enjeux fondamentaux qui concernent la société québécoise, le ministre peut saisir un organisme compétent, notamment le Commissaire à la santé et au bien-être, afin d'obtenir un avis.
+
+2009, c. 30, a. 9.
+
+10. Afin de se conformer aux normes médicalement reconnues, lesquelles visent notamment à assurer la santé de la femme et de l'enfant, aucun embryon ne peut être transféré chez une femme qui n'est plus en âge de procréer.
+
+2009, c. 30, a. 10.
+
+CHAPITRE III
+------------
+
+**CENTRE DE PROCRÉATION ASSISTÉE**
+
+SECTION I
+~~~~~~~~~
+
+**DISPOSITIONS GÉNÉRALES**
+
+11. Le centre de procréation assistée doit nommer, en qualité de directeur du centre, un membre de l'Ordre professionnel des médecins du Québec. Ce médecin doit être titulaire d'un certificat de spécialiste en obstétrique-gynécologie ou posséder une autre formation jugée équivalente par le centre et être choisi parmi les médecins qui y exercent leur profession.
+
+Sous l'autorité de l'exploitant, le directeur doit s'assurer que les activités de procréation assistée qui sont exercées dans le centre respectent une pratique de qualité, sécuritaire et conforme à l'éthique et que le centre et les personnes qui y exercent ces activités respectent la présente loi et toute autre loi ou norme applicable dans ce domaine. Le directeur doit, en outre, se conformer aux obligations prévues par règlement.
+
+Le centre doit aviser par écrit le ministre du nom du directeur et, sans retard, de tout changement de directeur.
+
+2009, c. 30, a. 11.
+
+12. Le centre doit respecter les normes d'équipement, de fonctionnement et de disposition du matériel biologique ainsi que toute autre norme relative aux activités de procréation assistée prévues par règlement.
+
+2009, c. 30, a. 12.
+
+13. Le centre doit se doter de procédures opératoires normalisées dans les cas prévus par règlement et en transmettre une copie au ministre dans les meilleurs délais. Il en est de même de toute modification à ces procédures.
+
+2009, c. 30, a. 13.
+
+14. Le centre doit transmettre au ministre, au plus tard le 31 mars de chaque année, un rapport annuel de ses activités pour l'année civile qui précède. Ce rapport doit être produit suivant la forme déterminée par le ministre et contenir tout renseignement et être accompagné de tout document requis par règlement.
+
+2009, c. 30, a. 14.
+
+SECTION II
+~~~~~~~~~~
+
+**PERMIS ET AGRÉMENT**
+
+15. Nul ne peut exploiter un centre de procréation assistée s'il n'est titulaire d'un permis délivré par le ministre à cette fin.
+
+2009, c. 30, a. 15.
+
+16. Le centre doit également, dans un délai de trois ans à compter de la délivrance du permis, obtenir un agrément de ses activités de procréation assistée auprès d'un organisme d'agrément reconnu par le ministre et le conserver en tout temps par la suite.
+
+2009, c. 30, a. 16.
+
+17. Le ministre délivre au centre un permis pour une des catégories d'activités suivantes:
+
+ 1° domaine clinique;
+
+non en vigueur 2° domaine de recherche;
+ 3° domaine clinique et de recherche.
+
+
+Le permis peut être délivré pour une sous-catégorie d'activités prévue par règlement.
+
+2009, c. 30, a. 17.
+
+18. Le centre qui sollicite un permis, une modification à celui-ci ou son renouvellement doit en faire la demande au ministre au moyen du formulaire prescrit par ce dernier, respecter les conditions prévues par règlement et accompagner sa demande des renseignements, documents ou rapports déterminés par ce règlement.
+
+2009, c. 30, a. 18.
+
+19. Le ministre peut délivrer, modifier ou renouveler un permis à un centre qui remplit les conditions prévues à la présente loi. Toutefois, il peut refuser de délivrer un tel permis s'il estime que l'intérêt public le justifie.
+
+De plus, le ministre peut assujettir la délivrance, la modification ou le renouvellement d'un permis à toute condition, restriction ou interdiction qu'il détermine.
+
+2009, c. 30, a. 19.
+
+20. Le permis est délivré pour une période de trois ans et peut être renouvelé pour la même période.
+
+Le permis indique la catégorie et, le cas échéant, la sous-catégorie d'activités pour lesquelles il est délivré, le lieu, la période de validité ainsi que les conditions, restrictions ou interdictions qui s'y rattachent, le cas échéant.
+
+Le ministre rend publiques les informations prévues au présent article.
+
+2009, c. 30, a. 20.
+
+21. Le centre doit exercer ses activités conformément à ce qui est indiqué à son permis.
+
+Le centre doit informer sans retard le ministre par écrit de tout changement dans ses activités.
+
+2009, c. 30, a. 21.
+
+22. Le titulaire d'un permis doit respecter les conditions prévues par règlement, fournir les renseignements et produire les documents et rapports prescrits à ce règlement dans le délai qui y est indiqué.
+
+2009, c. 30, a. 22.
+
+23. Le centre ne peut céder son permis sans l'autorisation écrite du ministre.
+
+2009, c. 30, a. 23.
+
+24. Le centre qui désire cesser ses activités doit, au préalable, en aviser le ministre par écrit et se conformer aux conditions qu'il détermine, le cas échéant.
+
+2009, c. 30, a. 24.
+
+CHAPITRE IV
+-----------
+
+**INSPECTION ET SURVEILLANCE**
+
+25. Une personne autorisée par écrit par le ministre à faire une inspection peut, à tout moment raisonnable, pénétrer dans tout centre de procréation assistée de même que dans tout lieu où elle a des raisons de croire que des activités de procréation assistée sont exercées, afin de constater si la présente loi et les règlements sont respectés.
+
+Cette personne peut, lors d'une inspection:
+
+ 1° examiner et tirer copie de tout document relatif aux activités de procréation assistée exercées dans ce lieu;
+
+ 2° exiger tout renseignement relatif à l'application de la présente loi ainsi que la production de tout document s'y rapportant.
+
+Toute personne qui a la garde, la possession ou le contrôle de tels documents doit, sur demande, en donner communication à la personne qui procède à l'inspection.
+
+La personne qui procède à l'inspection doit, sur demande, présenter un certificat signé par le ministre attestant sa qualité.
+
+2009, c. 30, a. 25.
+
+26. Il est interdit d'entraver de quelque façon que ce soit l'exercice des fonctions d'un inspecteur, de le tromper par des réticences ou de fausses déclarations ou de refuser de lui fournir un document ou un renseignement qu'il peut exiger en vertu de la présente loi ou d'un règlement pris pour son application.
+
+2009, c. 30, a. 26.
+
+27. Un inspecteur ne peut être poursuivi en justice en raison d'actes accomplis de bonne foi dans l'exercice de ses fonctions.
+
+2009, c. 30, a. 27.
+
+28. Lorsque, à la suite d'une inspection, le ministre est informé qu'un centre est exploité sans permis, il doit, aux fins de l'application de l'interdiction de rémunération prévue au deuxième alinéa de l'article 22.0.0.0.1 de la Loi sur l'assurance maladie (chapitre A-29), en aviser aussitôt par écrit la Régie de l'assurance maladie du Québec. Sur réception de l'avis, celle-ci informe les médecins qui exercent leur profession dans le centre concerné de l'application de cette interdiction de rémunération.
+
+2009, c. 30, a. 28.
+
+29. Le ministre peut demander au Conseil d'administration de l'Ordre professionnel des médecins du Québec un avis sur la qualité, la sécurité et l'éthique des activités de procréation assistée exercées dans un centre et sur la compétence professionnelle des médecins qui y exercent ces activités.
+
+Le ministre peut également requérir un avis sur les normes à suivre pour relever le niveau de la qualité, de la sécurité et de l'éthique des activités de procréation assistée.
+
+2009, c. 30, a. 29.
+
+CHAPITRE V
+----------
+
+**RÉGLEMENTATION**
+
+30. Le gouvernement peut, par règlement:
+
+ 1° déterminer les activités de procréation assistée qui peuvent être exercées ailleurs que dans un centre de procréation assistée et à quelles conditions;
+
+ 2° déterminer les conditions que doit respecter une personne qui exerce des activités de procréation assistée, ainsi que les normes relatives à ces activités, lesquelles peuvent varier notamment en fonction de l'âge de la personne qui recourt à ces activités;
+
+non en vigueur 3° déterminer les conditions qu'un projet de recherche visé au deuxième alinéa de l'article 8 doit respecter;
+
+
+ 4° déterminer les obligations auxquelles le directeur d'un centre doit se conformer;
+
+ 5° prévoir les normes d'équipement, de fonctionnement et de disposition du matériel biologique ainsi que toute autre norme relative aux activités de procréation assistée qu'un centre doit respecter;
+
+ 6° prévoir les renseignements que doit contenir le rapport annuel d'un centre et les documents qui doivent l'accompagner;
+
+ 7° prévoir les sous-catégories de permis et, relativement à chacune des catégories ou sous-catégories de permis, les conditions de délivrance, de maintien ou de renouvellement ainsi que les renseignements qui doivent être fournis et les documents et rapports qui doivent être produits dans le délai qui y est indiqué;
+
+ 8° déterminer les activités de procréation assistée pour lesquelles les renseignements ne sont pas tenus d'être conservés en permanence;
+
+ 9° déterminer, parmi les dispositions d'un règlement qu'il prend en application de la présente loi, celles dont la violation constitue une infraction;
+
+ 10° prescrire toute mesure utile à la mise en application de la présente loi.
+
+2009, c. 30, a. 30.
+
+31. Le ministre peut, par règlement:
+
+ 1° prévoir les cas dans lesquels un centre doit se doter de procédures opératoires normalisées;
+
+ 2° déterminer, parmi les dispositions d'un règlement qu'il prend en application de la présente loi, celles dont la violation constitue une infraction.
+
+2009, c. 30, a. 31.
+
+CHAPITRE VI
+-----------
+
+**SANCTIONS ADMINISTRATIVES**
+
+32. Le ministre peut suspendre, révoquer ou refuser de modifier ou de renouveler le permis d'un centre de procréation assistée:
+
+ 1° si le centre ne remplit plus les conditions requises pour sa délivrance ou ne se conforme pas à une condition, restriction ou interdiction qui y est mentionnée;
+
+ 2° si le centre n'obtient pas l'agrément de ses activités dans un délai de trois ans à compter de la délivrance du permis ou s'il ne le maintient pas par la suite;
+
+ 3° si le centre a fait une fausse déclaration ou a dénaturé un fait important lors de la demande de délivrance, de modification ou de renouvellement d'un permis ou dans un rapport, un document ou un renseignement que le ministre requiert en vertu de la présente loi ou d'un règlement pris pour son application;
+
+ 4° si le centre ne se conforme pas à toute autre disposition de la présente loi ou à un règlement pris pour son application;
+
+ 5° si le directeur ne respecte pas les obligations qui lui sont imposées par la présente loi ou par un règlement pris pour son application;
+
+ 6° si l'intérêt public le justifie;
+
+ 7° si les activités de procréation assistée qui sont exercées dans le centre ne respectent pas une pratique de qualité, sécuritaire et conforme à l'éthique, selon un avis du Conseil d'administration de l'Ordre professionnel des médecins du Québec;
+
+ 8° si l'exploitant ne maintient pas son contrôle sur l'exploitation du centre de procréation assistée notamment lorsque le ministre constate qu'il n'est pas le propriétaire ou le locataire des installations du centre, n'est pas l'employeur du personnel requis pour son exploitation ou ne dispose pas de l'autorité nécessaire pour permettre aux médecins qui en font la demande d'y exercer leur profession;
+
+ 9° si le centre ou l'un des médecins qui exerce sa profession dans le centre a été déclaré coupable d'une infraction au quatrième ou au neuvième alinéa de l'article 22 ou à l'article 22.0.0.1 de la Loi sur l'assurance maladie (chapitre A-29), selon le cas, pour un acte ou une omission qui concerne ce centre.
+
+2009, c. 30, a. 32.
+
+33. Le ministre peut, avant de suspendre, révoquer ou refuser de modifier ou de renouveler le permis d'un centre, lui ordonner d'apporter les correctifs nécessaires dans le délai qu'il fixe.
+
+Si le centre ne respecte pas, dans le délai fixé, l'ordre du ministre, celui-ci peut alors suspendre, révoquer ou refuser de modifier ou de renouveler le permis.
+
+Le ministre rend publique sa décision de suspendre, de révoquer ou de refuser de renouveler le permis d'un centre.
+
+2009, c. 30, a. 33.
+
+34. Sauf en cas d'urgence, le ministre doit, avant de refuser de délivrer, de modifier ou de renouveler un permis ou de le suspendre ou le révoquer, notifier par écrit au centre le préavis prescrit par l'article 5 de la Loi sur la justice administrative (chapitre J-3) et lui accorder un délai d'au moins 10 jours pour présenter ses observations.
+
+Le ministre doit notifier par écrit sa décision, en la motivant, au centre dont il suspend, révoque ou refuse de renouveler le permis.
+
+Le préavis du ministre doit en outre faire mention de l'application de l'interdiction de rémunération prévue au deuxième alinéa de l'article 22.0.0.0.1 de la Loi sur l'assurance maladie (chapitre A-29) en cas de suspension, de révocation ou de non-renouvellement du permis. Ce préavis peut être transmis aux médecins qui exercent leur profession dans le centre concerné. De même, la décision du ministre de suspendre, de révoquer ou de refuser de renouveler le permis doit faire mention de l'application de cette interdiction de rémunération. Le ministre transmet sans délai une copie de cette décision à la Régie de l'assurance maladie du Québec qui, sur réception, informe les médecins qui exercent leur profession dans le centre concerné de l'application de cette interdiction de rémunération.
+
+L'exploitant dont le permis est suspendu, révoqué ou non renouvelé doit en informer aussitôt la clientèle du centre concerné.
+
+2009, c. 30, a. 34.
+
+35. Le centre dont la demande de permis, de modification ou de renouvellement de permis est refusée ou dont le permis est suspendu ou révoqué peut contester la décision du ministre devant le Tribunal administratif du Québec, dans les 60 jours qui suivent la date à laquelle elle lui a été notifiée.
+
+Le tribunal ne peut, lorsqu'il apprécie les faits ou le droit, substituer son appréciation de l'intérêt public à celle que le ministre en a faite pour prendre sa décision.
+
+2009, c. 30, a. 35.
+
+CHAPITRE VII
+------------
+
+**DISPOSITIONS PÉNALES**
+
+36. Quiconque contrevient aux articles 6 ou 15 commet une infraction et est passible d'une amende de 2 000 $ à 30 000 $ s'il s'agit d'une personne physique ou d'une amende de 6 000 $ à 90 000 $ s'il s'agit d'une personne morale.
+
+2009, c. 30, a. 36.
+
+37. Quiconque contrevient à une disposition d'un règlement dont la violation constitue une infraction en vertu du paragraphe 9° de l'article 30 ou du paragraphe 2° de l'article 31 est passible d'une amende de 1 000 $ à 10 000 $.
+
+2009, c. 30, a. 37.
+
+38. Quiconque omet ou refuse de fournir les renseignements, rapports ou autres documents dont la communication est exigée en application de la présente loi commet une infraction et est passible d'une amende de 1 000 $ à 10 000 $.
+
+2009, c. 30, a. 38.
+
+39. Quiconque contrevient à l'article 26 commet une infraction et est passible d'une amende de 1 000 $ à 10 000 $.
+
+2009, c. 30, a. 39.
+
+40. Commet une infraction quiconque aide ou, par un encouragement, un conseil, un consentement, une autorisation ou un ordre, amène une autre personne à commettre une infraction visée à la présente loi ou à un de ses règlements.
+
+Une personne déclarée coupable en vertu du présent article est passible de la même peine que celle prévue pour l'infraction qu'elle a aidé ou amené à commettre.
+
+2009, c. 30, a. 40.
+
+41. En cas de récidive, les minima et maxima des amendes prévues par la présente loi sont portés au double.
+
+2009, c. 30, a. 41.
+
+CHAPITRE VIII
+-------------
+
+**RENSEIGNEMENTS RELATIFS AUX ACTIVITÉS DE PROCRÉATION ASSISTÉE**
+
+42. Sous réserve du chapitre IV, les renseignements contenus dans les formulaires, documents, rapports ou avis fournis au ministre en vertu de la présente loi ne doivent pas permettre d'identifier une personne ayant eu recours à des activités de procréation assistée ou un enfant qui en est issu.
+
+Le ministre peut transmettre ces renseignements à toute personne ou à tout organisme à des fins d'étude, de recherche ou de statistiques dans la mesure où ces renseignements ne permettent pas d'identifier un centre de procréation assistée.
+
+2009, c. 30, a. 42.
+
+43. Tous les renseignements relatifs aux activités de procréation assistée, à l'exception de celles prévues par règlement, concernant une personne qui a eu recours à de telles activités ou un enfant qui en est issu doivent être conservés en permanence par la personne qui a exercé ces activités.
+
+2009, c. 30, a. 43.
+
+44. À des fins de surveillance continue de l'état de santé des personnes ayant eu recours à des activités de procréation assistée ainsi que des enfants qui en sont issus, le ministre recueille des renseignements, personnels ou non, conformément à la Loi sur la santé publique (chapitre S-2.2).
+
+Parmi les renseignements recueillis, ceux qui permettent d'identifier une personne ayant eu recours à des activités de procréation assistée ou un enfant qui en est issu sont confidentiels et ne peuvent être communiqués, même avec le consentement de la personne concernée, qu'aux fins de la Loi sur la santé publique.
+
+2009, c. 30, a. 44.
+
+45. Les données statistiques sur les activités de procréation assistée compilées à partir des rapports annuels d'activités des centres de procréation assistée doivent apparaître dans un chapitre particulier du rapport annuel du ministère.
+
+2009, c. 30, a. 45.
+
+CHAPITRE IX
+-----------
+
+**DISPOSITIONS MODIFICATIVES, TRANSITOIRES ET FINALES**
+
+46. (Modification intégrée au c. A-29, a. 3).
+
+2009, c. 30, a. 46.
+
+47. (Modification intégrée au c. A-29, a. 22.0.0.0.1).
+
+2009, c. 30, a. 47.
+
+48. (Modification intégrée au c. A-29, a. 69).
+
+2009, c. 30, a. 48.
+
+49. (Modification intégrée au c. J-3, a. 25).
+
+2009, c. 30, a. 49.
+
+50. (Modification intégrée au c. J-3, annexe I).
+
+2009, c. 30, a. 50.
+
+51. (Modification intégrée au c. L-0.2, titre de la loi).
+
+2009, c. 30, a. 51.
+
+52. (Modification intégrée au c. L-0.2, a. 1).
+
+2009, c. 30, a. 52.
+
+53. (Modification intégrée au c. M-9, a. 1).
+
+2009, c. 30, a. 53.
+
+54. (Modification intégrée au c. M-9, a. 15).
+
+2009, c. 30, a. 54.
+
+55. (Modification intégrée au c. M-9, a. 16).
+
+2009, c. 30, a. 55.
+
+56. (Omis).
+
+2009, c. 30, a. 56.
+
+57. Toute personne ou société qui exploite un centre de procréation assistée le 5 août 2010 peut continuer cette exploitation pourvu qu'elle obtienne, conformément à la présente loi, un permis de centre de procréation assistée dans un délai de six mois de cette date.
+
+Toute personne qui exerce des activités de procréation assistée dans un tel centre peut continuer de les exercer jusqu'à ce que le centre ait obtenu son permis conformément au premier alinéa.
+
+2009, c. 30, a. 57.
+
+58. Dans les lois ainsi que dans leur texte d'application, le titre de la Loi sur les laboratoires médicaux, la conservation des organes, des tissus, des gamètes et des embryons et la disposition des cadavres doit se lire: «Loi sur les laboratoires médicaux, la conservation des organes et des tissus et la disposition des cadavres».
+
+2009, c. 30, a. 58.
+
+59. Le ministre de la Santé et des Services sociaux est chargé de l'application de la présente loi.
+
+2009, c. 30, a. 59.
+
+60. Le ministre doit, au plus tard le 5 août 2013, faire au gouvernement un rapport sur la mise en oeuvre de la présente loi et sur l'opportunité de la maintenir en vigueur ou de la modifier.
+
+Ce rapport est déposé par le ministre dans les 30 jours suivants à l'Assemblée nationale ou, si elle ne siège pas, dans les 30 jours de la reprise de ses travaux.
+
+Ce rapport est transmis, pour étude, à la commission parlementaire compétente dans les 15 jours suivant son dépôt à l'Assemblée nationale.
+
+2009, c. 30, a. 60.
+
+61. (Omis).
+
+2009, c. 30, a. 61.

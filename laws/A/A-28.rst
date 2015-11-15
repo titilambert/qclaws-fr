@@ -1,0 +1,148 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-28:
+
+========================================
+A-28 Loi sur l'assurance-hospitalisation
+========================================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+1. Dans la présente loi:
+
+ a) «ministre» désigne le ministre de la Santé et des Services sociaux;
+
+ b) «règlement» signifie un règlement fait en vertu de la présente loi;
+
+ c) «services assurés» signifie des services hospitaliers définis comme tels par règlement;
+
+ d) «centre hospitalier» signifie un centre hospitalier au sens de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) ou au sens de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5);
+
+ e) «centre d'hébergement et de soins de longue durée» signifie un centre d'hébergement et de soins de longue durée au sens de la Loi sur les services de santé et les services sociaux;
+
+ f) «établissement» signifie un établissement public ou privé conventionné et qui est visé par la Loi sur les services de santé et les services sociaux ou par la Loi sur les services de santé et les services sociaux pour les autochtones cris;
+
+ g) «Régie» signifie la Régie de l'assurance maladie du Québec, instituée par la Loi sur la Régie de l'assurance maladie du Québec (chapitre R-5);
+
+ h) «agence» signifie une agence de la santé et des services sociaux visée par la Loi sur les services de santé et les services sociaux.
+
+S. R. 1964, c. 163, a. 1; 1970, c. 42, a. 17; 1979, c. 1, a. 54; 1985, c. 23, a. 24; 1992, c. 21, a. 91; 1994, c. 23, a. 23; 1999, c. 89, a. 53; 2005, c. 32, a. 308.
+
+2. Afin que les résidents du Québec et les autres personnes déterminées par règlement reçoivent gratuitement des services assurés selon des modalités uniformes, le ministre attribue aux établissements visés par la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5) et qui exploitent un centre hospitalier et à l'établissement visé à la partie IV.2 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) les sommes nécessaires au financement du coût des services assurés qu'ils dispensent et il s'assure que chaque agence en fasse autant à l'égard des établissements de sa région qui exploitent un centre hospitalier et à l'égard de ceux qui exploitent un centre d'hébergement et de soins de longue durée et que le ministre détermine.
+
+Le financement des services assurés dispensés par les établissements visés au premier alinéa est fait conformément aux dispositions de la Loi sur les services de santé et les services sociaux pour les autochtones cris ou de la Loi sur les services de santé et les services sociaux, selon le cas.
+
+S. R. 1964, c. 163, a. 2; 1971, c. 48, a. 161; 1992, c. 21, a. 92; 1994, c. 23, a. 23; 1998, c. 39, a. 176; 2005, c. 32, a. 308.
+
+2.1. Un établissement visé dans l'article 2 peut demander qu'une personne lui présente, comme preuve d'admissibilité de cette personne à recevoir gratuitement des services assurés en vertu de la présente loi, la carte d'assurance maladie ou la carte d'admissibilité que la Régie lui a délivrée conformément à l'article 9 ou 9.0.1 de la Loi sur l'assurance maladie (chapitre A-29).
+
+1992, c. 21, a. 93; 1999, c. 89, a. 53.
+
+3. Le ministre peut, avec l'approbation du Conseil du trésor, conclure avec tout organisme représentatif d'une catégorie de professionnels de la santé au sens de la Loi sur l'assurance maladie (chapitre A-29), toute entente aux fins de l'application de la présente loi.  Pareille entente peut être conclue avec tout organisme représentatif des biochimistes cliniques ou des physiciens médicaux.
+
+Une entente oblige tous les pharmaciens, biochimistes cliniques ou physiciens médicaux exerçant dans un centre hospitalier exploité par un établissement visé par la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5) et qui sont membres de l'organisme qui l'a conclue ainsi que tous ceux dont le champ d'activités professionnelles est le même que celui de ces membres et qui sont visés par l'entente.
+
+Toute entente ou partie d'entente peut, s'il y est pourvu expressément, lier tout établissement. Toutefois, le ministre doit consulter les établissements ou groupes d'établissements susceptibles d'être liés par une entente ou partie d'entente et ceux-ci peuvent transmettre au ministre des recommandations quant aux modalités de leur participation à la conclusion de cette entente ou partie d'entente.
+
+1974, c. 40, a. 25; 1984, c. 27, a. 40; 1992, c. 21, a. 94; 1994, c. 23, a. 23; 1999, c. 89, a. 53; 2000, c. 8, a. 241; 2003, c. 25, a. 52.
+
+4. (Abrogé).
+
+S. R. 1964, c. 163, a. 3; 1971, c. 48, a. 160, a. 161; 1992, c. 21, a. 95.
+
+5. (Abrogé).
+
+S. R. 1964, c. 163, a. 4; 1971, c. 48, a. 161; 1979, c. 1, a. 55.
+
+6. Le ministre est autorisé, avec l'approbation du gouvernement, à conclure avec le ministre de la Santé du Canada, une entente prévoyant le paiement, par le Canada au Québec, de contributions au coût de services assurés fournis aux frais du Québec suivant la présente loi.
+
+Cette entente devra prévoir le paiement par le Québec des services assurés fournis à ses résidents par des hôpitaux du gouvernement du Canada ou d'autres provinces dans les cas où ils y auront droit.
+
+S. R. 1964, c. 163, a. 5; L.C. 1996, c. 8, a. 32.
+
+7. Les sommes dues aux termes des ententes prévues par la présente loi sont payables sur les deniers votés à cette fin par le Parlement.
+
+S. R. 1964, c. 163, a. 6; 1992, c. 21, a. 96.
+
+8. Le gouvernement peut par règlement conforme aux dispositions ci-dessus:
+
+ a) établir le plan d'exécution de la présente loi;
+
+ b) déterminer quels sont les résidents du Québec, les services assurés à leur être fournis et les autres personnes assurées;
+
+ c) (paragraphe abrogé);
+
+ d) statuer sur toute autre matière requise pour la mise à exécution de la présente loi ou d'une entente.
+
+S. R. 1964, c. 163, a. 7; 1971, c. 48, a. 161; 1992, c. 21, a. 97.
+
+9. Tout règlement entre en vigueur à compter de sa publication à la Gazette officielle du Québec ou de la date non antérieure à cette publication qui y est fixée.
+
+S. R. 1964, c. 163, a. 8; 1968, c. 23, a. 8.
+
+10.  1. L'État est subrogé au recours de toute personne assurée contre un tiers jusqu'à concurrence du coût de tous services assurés fournis ou qui seront fournis à la suite d'un préjudice causé par la faute de ce tiers.
+
+ 2. La faute commune entraîne la réduction du montant de cette subrogation dans la même proportion que le recours de la personne assurée.
+
+ 3. Le ministre a le pouvoir de transiger sur toute réclamation de l'État découlant du présent article et il peut déléguer pouvoir.
+
+ 3.1. L'assureur de la responsabilité d'un tiers doit aviser la Régie par écrit dès qu'il entame des négociations en vue du règlement d'une réclamation en dommages-intérêts susceptible d'entraîner le paiement de services assurés.
+
+ 4. L'assureur de la responsabilité d'un tiers ne peut se libérer de son obligation de l'indemniser de sa responsabilité envers l'État découlant du présent article autrement que par paiement à l'État.
+
+ 5. Un engagement par une personne assurée de libérer un tiers ou son assureur de leur responsabilité envers l'État découlant du présent article ou de les en indemniser est invalide et est réputé non écrit dans toute convention, transaction ou quittance.
+
+ 6. Les droits acquis par l'effet de la subrogation prévue au présent article font partie du domaine de l'État à compter de leur naissance et sont soumis aux règles applicables aux droits qui en font partie; toutefois, le droit d'action qui en résulte se prescrit par trois ans à compter de la date à laquelle l'État a eu connaissance du fait qui y donne naissance.
+
+S. R. 1964, c. 163, a. 9; 1989, c. 50, a. 42; 1999, c. 40, a. 28; 2006, c. 43, a. 40.
+
+11. Un assureur ne peut conclure ni maintenir un contrat d'assurance comportant une garantie de paiement à l'égard du coût d'un service assuré fourni à un résident.
+
+Nul ne peut par ailleurs établir ou maintenir un régime d'avantages sociaux comportant une garantie de paiement à l'égard du coût d'un service assuré fourni à un résident.
+
+Un contrat d'assurance ou un régime d'avantages sociaux qui va à l'encontre du premier ou du deuxième alinéa, selon le cas, mais qui a également pour objet d'autres services et biens demeure valide quant à ces autres services et biens et la considération prévue à l'égard de ce contrat ou de ce régime doit être ajustée en conséquence, à moins que le bénéficiaire de ces services et de ces biens n'accepte de recevoir en échange des avantages équivalents.
+
+Rien dans le présent article n'empêche la conclusion d'un contrat d'assurance ou l'établissement d'un régime d'avantages sociaux qui a pour objet l'excédent du coût des services assurés rendus hors du Québec.
+
+On entend par «assureur», une personne morale titulaire d'un permis délivré par l'Autorité des marchés financiers qui l'autorise à pratiquer l'assurance de personnes au Québec.
+
+On entend par «régime d'avantages sociaux», un régime d'avantages sociaux non assurés, doté ou non d'un fonds, et qui accorde à l'égard d'un risque une protection qui pourrait être autrement obtenue en souscrivant une assurance de personnes.
+
+En cas de contravention au premier ou au deuxième alinéa, l'assureur ou la personne qui administre un régime d'avantages sociaux, selon le cas, commet une infraction et est passible d'une amende de 50 000 $ à 100 000 $ et, en cas de récidive, d'une amende de 100 000 $ à 200 000 $.
+
+S. R. 1964, c. 163, a. 10; 1971, c. 48, a. 161; 1992, c. 21, a. 98; 2006, c. 43, a. 41.
+
+12. Le ministre et les fonctionnaires et employés préposés à la mise à l'exécution de la présente loi ne doivent pas révéler autrement que dans la mesure prescrite par une entente conclue en vertu de l'article 6 un renseignement obtenu dans l'exécution de la présente loi et ils ne pourront être contraints de le faire devant aucun tribunal de juridiction civile.
+
+Ils ne seront personnellement responsables d'aucun acte accompli de bonne foi dans l'exécution de leurs fonctions.
+
+S. R. 1964, c. 163, a. 11; 1992, c. 21, a. 99.
+
+13. Personne ne doit sciemment obtenir ou recevoir le bénéfice de services assurés qu'il n'a pas droit d'obtenir ou de recevoir en vertu de la présente loi et des règlements.
+
+Personne ne doit sciemment aider ou encourager une autre personne à obtenir ou recevoir des services assurés que cette autre personne n'a pas le droit d'obtenir ou de recevoir en vertu de la présente loi et des règlements.
+
+Quiconque contrevient à une disposition du présent article commet une infraction et est passible d'une amende maximale de 500 $.
+
+S. R. 1964, c. 163, a. 12; 1990, c. 4, a. 73.
+
+14. Quiconque entrave un inspecteur ou un médecin dans l'exercice de ses fonctions en vertu de la présente loi ou des règlements, commet une infraction et est passible d'une amende de 50 $ à 500 $.
+
+S. R. 1964, c. 163, a. 13; 1990, c. 4, a. 74.
+
+15. Quiconque enfreint une disposition de la présente loi ou des règlements pour la violation de laquelle aucune peine n'est spécialement prévue, est coupable d'une infraction et passible d'une amende ne dépassant pas 100 $.
+
+S. R. 1964, c. 163, a. 14; 1990, c. 4, a. 75.
+
+16. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 163 des Statuts refondus, 1964, tel qu'en vigueur au 31 décembre 1977, est abrogé à compter de l'entrée en vigueur du chapitre A-28 des Lois refondues.

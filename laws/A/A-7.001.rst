@@ -1,0 +1,491 @@
+.. warning:: Abrogée le 1er juillet 2011
+
+.. _A-7.001:
+
+====================================================
+A-7.001 Loi sur l'Agence de l'efficacité énergétique
+====================================================
+
+.. sidebar:: État courant
+
+    :Statut: Abrogée
+    :Date: 01 jui 2011
+
+Abrogée, 2011, c. 16, ann. II, a. 41.
+
+SECTION 0.1
+~~~~~~~~~~~
+
+**DÉFINITIONS ET APPLICATION**
+
+0.1. Pour l'application de la présente loi, on entend par:
+
+«carburants et combustibles», l'essence, le diesel, le mazout ou le propane, à l'exception des carburants utilisés en aviation ou servant à l'alimentation des moteurs de navire, des hydrocarbures utilisés comme matière première par les industries qui transforment les molécules d'hydrocarbures par des procédés chimiques et pétrochimiques et de la partie renouvelable des carburants et combustibles;
+
+«diesel», un mélange liquide d'hydrocarbures provenant du raffinage du pétrole destiné à alimenter les moteurs diesel;
+
+«distributeur de carburants et de combustibles»:
+
+ 1° toute personne qui, au Québec, raffine, fabrique, mélange, prépare ou distille des carburants et des combustibles;
+
+ 2° toute personne qui apporte ou fait apporter au Québec des carburants et des combustibles contenus dans un ou plusieurs réceptacles totalisant plus de 200 litres, autres que ceux contenus dans le réservoir de carburant installé comme équipement normal d'alimentation du moteur d'un véhicule;
+
+ 3° toute personne qui, au Québec, échange des carburants et combustibles avec une personne décrite au paragraphe 1°;
+
+«distributeur de gaz naturel», un distributeur de gaz naturel visé à l'article 2 de la Loi sur la Régie de l'énergie (chapitre R-6.01);
+
+«distributeur d'électricité», Hydro-Québec dans ses activités de distribution d'électricité;
+
+«distributeur d'énergie», un distributeur d'électricité, un distributeur de gaz naturel et un distributeur de carburants et de combustibles;
+
+«essence», un mélange liquide d'hydrocarbures provenant du raffinage du pétrole employé principalement comme carburant dans les moteurs à allumage commandé;
+
+«mazout», un mélange liquide d'hydrocarbures provenant du raffinage du pétrole et utilisé pour le chauffage domestique, commercial, institutionnel et industriel;
+
+«propane», un mélange liquide d'hydrocarbures provenant du raffinage du pétrole ou du traitement du gaz naturel et utilisé, soit comme carburant dans les moteurs à allumage commandé, soit notamment pour la cuisson ou le chauffage domestique, commercial, institutionnel et industriel.
+
+Pour l'application des articles 24.2 et 24.3 ainsi que de la section IV.1, une personne morale ou société qui apporte au Québec des carburants et combustibles à des fins autres que la revente, un réseau municipal régi par la Loi sur les systèmes municipaux et les systèmes privés d'électricité (chapitre S-41) et la Coopérative régionale d'électricité de Saint-Jean-Baptiste de Rouville régie par la Loi sur la Coopérative régionale d'électricité de Saint-Jean-Baptiste de Rouville (1986, chapitre 21) sont réputés être un distributeur d'énergie.
+
+2006, c. 46, a. 1; 2007, c. 19, a. 1.
+
+SECTION I
+~~~~~~~~~
+
+**INSTITUTION ET ORGANISATION**
+
+1. Est instituée l'«Agence de l'efficacité énergétique».
+
+L'Agence est une personne morale.
+
+1997, c. 55, a. 1.
+
+2. L'Agence est mandataire de l'État.  Ses biens font partie du domaine de l'État mais l'exécution de ses obligations peut être poursuivie sur ces biens.
+
+Elle n'engage qu'elle-même lorsqu'elle agit en son nom.
+
+1997, c. 55, a. 2; 1999, c. 40, a. 341.
+
+3. L'Agence a son siège sur le territoire de la Ville de Québec.
+
+Un avis de la situation ou du déplacement du siège est publié à la Gazette officielle du Québec.
+
+1997, c. 55, a. 3; 2000, c. 56, a. 220.
+
+4. Les affaires de l'Agence sont administrées par un conseil d'administration composé:
+
+ 1° d'au moins sept membres et d'au plus 10 membres nommés par le gouvernement pour une période d'au plus quatre ans, provenant des milieux concernés;
+
+ 2° du président-directeur général de l'Agence nommé par le gouvernement pour une période d'au plus cinq ans qui en est membre d'office.
+
+À l'expiration de leur mandat, les membres du conseil d'administration demeurent en fonction jusqu'à ce qu'ils soient remplacés ou nommés de nouveau.
+
+Le mandat des membres du conseil d'administration peut être renouvelé deux fois à ce seul titre, consécutivement ou non.
+
+1997, c. 55, a. 4; 2006, c. 46, a. 2.
+
+5. Le gouvernement nomme parmi les membres du conseil d'administration un président.
+
+Les membres du conseil d'administration désignent parmi eux un vice-président.  Il exerce les fonctions du président lorsque ce dernier est absent ou est empêché d'agir.
+
+1997, c. 55, a. 5.
+
+6. Le président-directeur général est responsable de l'administration et de la direction de l'Agence dans le cadre de ses règlements. Il exerce ses fonctions à plein temps.
+
+Le gouvernement fixe la rémunération, les avantages sociaux et les autres conditions de travail du président-directeur général.
+
+Les autres membres du conseil ne sont pas rémunérés, sauf dans les cas, aux conditions et dans la mesure que peut déterminer le gouvernement. Ils ont cependant droit au remboursement des dépenses faites dans l'exercice de leurs fonctions, aux conditions et dans la mesure que détermine le gouvernement.
+
+1997, c. 55, a. 6; 2000, c. 8, a. 242; 2006, c. 46, a. 3.
+
+6.1. Les fonctions de président du conseil et celles de président-directeur général ne peuvent être cumulées.
+
+2006, c. 46, a. 4.
+
+7. Le quorum aux séances du conseil est de la majorité de ses membres, dont le président ou le vice-président.
+
+Les décisions du conseil sont prises à la majorité des membres présents.  En cas de partage, le président a voix prépondérante.
+
+1997, c. 55, a. 7.
+
+8. Le président convoque les séances du conseil, les préside et voit à leur bon déroulement.  Il exerce en outre les autres fonctions qui lui sont assignées par l'Agence.
+
+1997, c. 55, a. 8.
+
+9. Les membres du conseil peuvent, si tous y consentent, participer à une séance à l'aide de moyens leur permettant de communiquer oralement entre eux, notamment par le téléphone.  Les participants sont alors réputés avoir assisté à la séance.
+
+1997, c. 55, a. 9.
+
+10. Un membre du conseil qui a un intérêt direct ou indirect dans une entreprise qui met en conflit son intérêt personnel et celui de l'Agence doit, sous peine de déchéance de sa charge, le dénoncer par écrit au conseil et se retirer de la réunion pour la durée des délibérations et pour la prise de décision portant sur toute question relative à l'entreprise dans laquelle il a un tel intérêt.
+
+Le président-directeur général ne peut, sous peine de déchéance de sa charge, avoir un intérêt direct ou indirect dans une entreprise mettant en conflit son intérêt personnel et celui de l'Agence. Toutefois, cette déchéance n'a pas lieu si un tel intérêt lui échoit par succession ou par donation pourvu qu'il y renonce ou en dispose avec diligence.
+
+1997, c. 55, a. 10; 2006, c. 46, a. 5.
+
+11. L'Agence peut édicter des règles de régie interne pour la conduite de ses affaires.
+
+1997, c. 55, a. 11.
+
+12. L'Agence désigne un secrétaire parmi les membres de son personnel.
+
+1997, c. 55, a. 12.
+
+13. Les membres du personnel de l'Agence sont nommés selon le plan d'effectifs établi par règlement de l'Agence.
+
+Sous réserve des dispositions d'une convention collective, l'Agence détermine, par règlement, les normes et barèmes de rémunération, les avantages sociaux et les autres conditions de travail des membres de son personnel conformément aux conditions définies par le gouvernement.
+
+1997, c. 55, a. 13; 2000, c. 8, a. 242; 2006, c. 46, a. 6.
+
+14. Aucun acte, document ou écrit n'engage l'Agence s'il n'est signé par le président, le président-directeur général ou un membre du personnel mais, dans le cas de ce dernier, uniquement dans la mesure déterminée par l'Agence.
+
+L'Agence peut permettre, aux conditions et sur les documents qu'elle détermine, qu'une signature soit apposée au moyen d'un appareil automatique ou qu'un fac-similé d'une signature soit gravé, lithographié ou imprimé. Toutefois, le fac-similé n'a la même valeur que la signature elle-même que si le document est contresigné par une personne autorisée par le président-directeur général.
+
+1997, c. 55, a. 14; 2006, c. 46, a. 7.
+
+15. Les procès-verbaux des séances du conseil approuvés par celui-ci et certifiés conformes par le président, par le secrétaire ou par un autre membre du personnel autorisé à le faire par le conseil, sont authentiques.  Il en est de même des documents et copies émanant de l'Agence ou faisant partie de ses archives lorsqu'ils sont signés ou certifiés conformes par l'une de ces personnes.
+
+1997, c. 55, a. 15.
+
+SECTION II
+~~~~~~~~~~
+
+**MISSION ET POUVOIRS**
+
+16. L'Agence a pour mission, dans une perspective de développement durable, de promouvoir l'efficacité énergétique et le développement de nouvelles technologies énergétiques pour toutes les formes d'énergie, dans tous les secteurs d'activités, au bénéfice de l'ensemble des régions du Québec.
+
+L'Agence a également pour fonctions d'élaborer le plan d'ensemble en efficacité énergétique et nouvelles technologies ainsi que d'en assurer la mise en oeuvre et le suivi.
+
+1997, c. 55, a. 16; 2006, c. 46, a. 8.
+
+17. Dans la poursuite de sa mission, l'Agence peut notamment:
+
+ 1° colliger de l'information et des renseignements en matière d'efficacité énergétique et de nouvelles technologies énergétiques;
+
+ 2° informer et sensibiliser les consommateurs d'énergie aux avantages de l'efficacité énergétique et des nouvelles technologies énergétiques par tous les moyens appropriés;
+
+ 3° donner son avis au gouvernement sur toute question en matière d'efficacité énergétique et de nouvelles technologies énergétiques et sur les mesures législatives ou réglementaires en ces matières;
+
+ 4° donner son avis à la Régie de l'énergie sur toute question en matière d'efficacité énergétique et de nouvelles technologies énergétiques;
+
+ 5° assurer le suivi des engagements du gouvernement en matière d'efficacité énergétique et de nouvelles technologies énergétiques;
+
+ 6° concevoir et mettre en oeuvre des programmes, des interventions en matière d'efficacité énergétique ou de nouvelles technologies énergétiques;
+
+ 7° fournir un soutien technique à la recherche et au développement dans le domaine de l'efficacité énergétique et des nouvelles technologies énergétiques;
+
+ 8° assurer la mise en oeuvre de mesures d'efficacité énergétique et de nouvelles technologies visant la réduction des émissions de gaz à effet de serre.
+
+L'Agence peut déléguer la mise en oeuvre de programmes ou d'interventions en matière d'efficacité énergétique ou de nouvelles technologies énergétiques ou de mesures visant la réduction des émissions de gaz à effet de serre dans ces domaines.
+
+Aux fins du présent article, l'Agence peut s'associer à un partenaire qui oeuvre dans le domaine de l'efficacité énergétique ou des nouvelles technologies énergétiques.
+
+1997, c. 55, a. 17; 2006, c. 46, a. 9.
+
+18. L'Agence peut en outre:
+
+ 1° participer financièrement, en consentant un prêt ou en donnant une subvention dans le cadre d'un programme d'efficacité énergétique ou d'un programme concernant les nouvelles technologies énergétiques ou la réduction des émissions de gaz à effet de serre, ou en fournissant un soutien financier à la recherche et au développement dans ces domaines;
+
+ 2° recevoir des dons, legs, subventions ou autres contributions pourvu que les conditions qui peuvent y être rattachées soient compatibles avec la réalisation de sa mission;
+
+ 3° assurer le suivi et la vérification des travaux réalisés dans le cadre d'un programme d'efficacité énergétique ou d'un programme concernant les nouvelles technologies énergétiques ou la réduction des émissions de gaz à effet de serre prévoyant sa participation financière.
+
+1997, c. 55, a. 18; 2006, c. 46, a. 10.
+
+19. Un programme d'efficacité énergétique ou un programme concernant les nouvelles technologies énergétiques ou la réduction des émissions de gaz à effet de serre prévoyant une participation financière de l'Agence doit prévoir les critères d'admissibilité, la nature de la participation ainsi que les barèmes, limites et modalités d'attribution.
+
+1997, c. 55, a. 19; 2006, c. 46, a. 11.
+
+20. L'Agence ne peut, sans l'autorisation du gouvernement:
+
+ 1° prendre un engagement financier au-delà des limites et des modalités déterminées par le gouvernement;
+
+ 2° contracter un emprunt qui porte la totalité des sommes empruntées par elle et non encore remboursées au-delà d'un montant déterminé par le gouvernement.
+
+Le gouvernement peut subordonner son autorisation aux conditions qu'il détermine.
+
+1997, c. 55, a. 20.
+
+21. (Abrogé).
+
+1997, c. 55, a. 21; 2006, c. 46, a. 12.
+
+21.1. Un distributeur d'énergie doit transmettre à l'Agence, dans le délai qu'elle indique, tout renseignement ou tout document qu'elle estime nécessaire à l'application de la présente loi.
+
+2006, c. 46, a. 13.
+
+22. L'Agence peut, conformément à la loi, conclure une entente avec un autre gouvernement ou l'un de ses ministères, une organisation internationale ou un organisme de ce gouvernement ou de cette organisation.
+
+L'Agence peut aussi conclure des ententes ou participer à des projets communs avec toute autre personne ou organisme.
+
+1997, c. 55, a. 22.
+
+SECTION II.1
+~~~~~~~~~~~~
+
+**PLAN D'ENSEMBLE EN EFFICACITÉ ÉNERGÉTIQUE ET NOUVELLES TECHNOLOGIES**
+
+22.1. Tout distributeur d'électricité ou de gaz naturel doit établir et transmettre à l'Agence, dans le délai qu'elle fixe:
+
+ 1° ses cibles triennales d'efficacité énergétique en fonction des divers secteurs d'activités;
+
+ 2° un échéancier prévisionnel triennal pour l'atteinte de ces cibles;
+
+ 3° ses priorités d'action triennales en matière d'efficacité énergétique pour atteindre les cibles.
+
+L'Agence établit, dans le même délai, les cibles triennales d'efficacité énergétique, l'échéancier prévisionnel triennal et les priorités d'action triennales mentionnés au premier alinéa qui concernent les carburants et les combustibles, les nouvelles technologies énergétiques ou qui se rapportent à plus d'une forme d'énergie.
+
+Les priorités d'action doivent porter sur les approches à privilégier afin de se conformer aux orientations gouvernementales en matière d'efficacité énergétique.
+
+2006, c. 46, a. 14.
+
+22.2. L'Agence soumet au gouvernement pour approbation les cibles triennales d'efficacité énergétique, l'échéancier prévisionnel triennal et les priorités d'action triennales établis conformément à l'article 22.1.
+
+2006, c. 46, a. 14.
+
+22.3. À défaut par un distributeur d'électricité ou de gaz naturel de se conformer à l'article 22.1, l'Agence établit, aux frais du distributeur, ses cibles triennales d'efficacité énergétique, l'échéancier prévisionnel triennal et ses priorités d'action triennales.
+
+L'Agence doit cependant lui donner un préavis écrit de 10 jours à cet effet.
+
+2006, c. 46, a. 14.
+
+22.4. À la suite de l'approbation du gouvernement, l'Agence élabore un plan d'ensemble triennal qui fait état de l'ensemble des interventions proposées pour favoriser une meilleure utilisation de l'énergie et le développement de nouvelles technologies énergétiques. Le plan porte sur tous les usages de l'énergie et toutes les formes d'énergie et couvre un horizon de 10 ans.
+
+2006, c. 46, a. 14.
+
+22.5. Le plan d'ensemble doit notamment comprendre:
+
+ 1° les orientations générales et les priorités d'action du gouvernement en matière d'énergie;
+
+ 2° les cibles triennales d'efficacité énergétique, les échéanciers prévisionnels triennaux et les priorités d'action triennales approuvés par le gouvernement;
+
+ 3° le rapport des consultations;
+
+ 4° la description des propositions en matière réglementaire ou autre concernant l'efficacité énergétique et les nouvelles technologies énergétiques;
+
+ 5° la description des programmes et des interventions en matière d'efficacité énergétique présentés selon les échéances, les formes d'énergie et les secteurs d'activités;
+
+ 6° la description des programmes de soutien à l'innovation technologique;
+
+ 7° la description des interventions visant à informer, sensibiliser, former ou éduquer en matière d'efficacité énergétique et de nouvelles technologies énergétiques;
+
+ 8° l'information relative aux économies qu'il est possible de réaliser par la mise en oeuvre des programmes et interventions que le plan contient;
+
+ 9° pour l'Agence ainsi que pour chaque distributeur d'énergie, le montant annuel que l'on prévoit allouer aux programmes et aux interventions en matière d'efficacité énergétique et de nouvelles technologies énergétiques;
+
+ 10° l'évaluation des coûts afférents à la réalisation des éléments du plan.
+
+2006, c. 46, a. 14.
+
+22.6. Pour l'élaboration du plan d'ensemble, l'Agence consulte les distributeurs d'énergie, les représentants du secteur des carburants et des combustibles, les représentants des utilisateurs d'énergie dans les secteurs résidentiels, commerciaux, institutionnels, industriels et du transport ainsi que les différents groupes intéressés par la promotion de l'efficacité énergétique et des nouvelles technologies énergétiques.
+
+2006, c. 46, a. 14.
+
+22.7. Tout distributeur d'électricité ou de gaz naturel doit transmettre à l'Agence, dans le délai qu'elle fixe, ses programmes et ses interventions préparés conformément aux cibles triennales d'efficacité énergétique, aux échéanciers prévisionnels triennaux et aux priorités d'action triennales approuvés par le gouvernement.
+
+Le distributeur d'électricité doit, en outre, transmettre à l'Agence la liste des projets d'efficacité énergétique qu'il a retenus, au cours d'une année, dans le cadre d'une procédure d'appel d'offres visée à l'article 74.1 de la Loi sur la Régie de l'énergie (chapitre R-6.01). Cette liste est intégrée au plan d'ensemble.
+
+2006, c. 46, a. 14.
+
+22.8. À défaut par un distributeur d'électricité ou de gaz naturel de se conformer à l'article 22.7, l'Agence établit, aux frais du distributeur, le contenu de ses programmes et de ses interventions.
+
+L'Agence doit cependant lui donner un préavis écrit de 10 jours à cet effet.
+
+2006, c. 46, a. 14.
+
+22.9. L'Agence est responsable d'établir le contenu des programmes et des interventions en matière d'efficacité énergétique visant les carburants et les combustibles et ceux qui concernent plus d'une forme d'énergie, ainsi que le contenu des programmes et des interventions concernant les nouvelles technologies énergétiques en tenant compte des avis et commentaires recueillis lors de ses consultations.
+
+2006, c. 46, a. 14.
+
+22.10. Un programme ou une intervention comporte entre autres une description des mesures à réaliser, le coût de celles-ci ainsi qu'un calendrier de leur réalisation. Le programme ou l'intervention indique en outre qui de l'Agence ou du distributeur d'énergie est responsable de la réalisation des mesures.
+
+2006, c. 46, a. 14.
+
+22.11. À la date fixée par le ministre, l'Agence soumet le plan d'ensemble à la Régie afin qu'elle approuve les éléments du plan mentionnés aux paragraphes 5° à 10° de l'article 22.5.
+
+2006, c. 46, a. 14.
+
+22.12. Les éléments du plan d'ensemble mentionnés aux paragraphes 5° à 10° de l'article 22.5 peuvent être modifiés par l'Agence ou par un distributeur d'électricité ou de gaz naturel, avec l'autorisation de la Régie aux conditions qu'elle peut déterminer.
+
+2006, c. 46, a. 14.
+
+22.13. L'Agence doit, dans les mêmes conditions que celles applicables à l'élaboration du plan initial, élaborer un nouveau plan d'ensemble au moins une fois à tous les trois ans.
+
+Entre ces périodes, l'Agence procède annuellement à la révision du plan d'ensemble afin que ce dernier reflète les modifications qu'amène la révision annuelle des programmes et des interventions qu'il contient et celles découlant des décisions que rend la Régie en matière d'efficacité énergétique.
+
+L'Agence transmet à la Régie le plan d'ensemble révisé dans les 30 jours de la date de sa révision.
+
+2006, c. 46, a. 14.
+
+22.14. À la suite de l'approbation de la Régie en vertu de l'article 22.11, le plan d'ensemble est accessible au public.
+
+2006, c. 46, a. 14.
+
+22.15. Un distributeur d'énergie doit réaliser les programmes et les interventions dont il a la responsabilité en vertu du plan d'ensemble.
+
+Un distributeur d'énergie qui ne peut réaliser un programme ou une intervention dans le délai et de la manière prévus au plan d'ensemble ou qui constate qu'un programme ou une intervention n'atteint pas ses objectifs, doit en aviser l'Agence.
+
+L'Agence peut, aux frais du distributeur, effectuer les programmes et les interventions qu'il est en défaut de réaliser, après lui avoir donné un avis écrit de 10 jours à cet effet.
+
+2006, c. 46, a. 14.
+
+22.16. Dans le but d'assurer un suivi des programmes et des interventions qui doivent être réalisés par un distributeur d'énergie, l'Agence peut exiger du distributeur qu'il présente un état de situation sur les actions menées dans le cadre du plan d'ensemble, de même que sur les résultats obtenus.
+
+2006, c. 46, a. 14.
+
+SECTION III
+~~~~~~~~~~~
+
+**DISPOSITIONS FINANCIÈRES**
+
+23. Le gouvernement peut, aux conditions et selon les modalités qu'il détermine:
+
+ 1° garantir le paiement en capital et intérêts de tout emprunt contracté par l'Agence ainsi que l'exécution de ses autres obligations;
+
+ 2° autoriser le ministre des Finances à avancer à l'Agence tout montant jugé nécessaire à la poursuite de sa mission.
+
+Les sommes requises pour l'application du présent article sont prélevées sur le fonds consolidé du revenu.
+
+1997, c. 55, a. 23.
+
+24. L'Agence soumet au gouvernement chaque année, pour approbation, ses prévisions budgétaires pour l'exercice financier suivant et ses règles budgétaires, à l'époque et selon la forme et la teneur que le gouvernement détermine.
+
+1997, c. 55, a. 24; 2006, c. 46, a. 16.
+
+24.1. L'Agence peut déterminer un tarif de frais pour des services qu'elle offre dans le cadre d'un programme ou d'une intervention concernant l'efficacité énergétique, la réduction des émissions de gaz à effet de serre ou les nouvelles technologies énergétiques.
+
+2006, c. 46, a. 17.
+
+24.2. Tout distributeur d'énergie doit payer à l'Agence sa quote-part annuelle déterminée par la Régie conformément au paragraphe 3° de l'article 85.25 de la Loi sur la Régie de l'énergie (chapitre R-6.01).
+
+Le premier alinéa s'applique à Hydro-Québec malgré l'article 16 de la Loi sur Hydro-Québec (chapitre H-5).
+
+2006, c. 46, a. 17.
+
+24.3. L'Agence tient des comptes distincts pour chaque distributeur d'énergie.
+
+2006, c. 46, a. 17.
+
+24.4. L'Agence finance ses activités avec les sommes provenant des quotes-parts prévues à l'article 24.2, des frais qu'elle perçoit ainsi que des autres sommes qu'elle reçoit.
+
+2006, c. 46, a. 17.
+
+24.5. Les sommes reçues par l'Agence, en vertu de l'article 24.4, doivent servir exclusivement à l'application de la présente loi et au paiement des obligations de l'Agence.
+
+L'excédent des revenus sur les dépenses, pour un exercice financier, est reporté sur le budget annuel subséquent de l'Agence.
+
+2006, c. 46, a. 17.
+
+SECTION III.1
+~~~~~~~~~~~~~
+
+**GESTION ET REDDITION DE COMPTES**
+
+24.6. L'Agence soumet annuellement à la Régie, à une date établie par celle-ci, un rapport sur l'état d'avancement du plan d'ensemble et l'utilisation des sommes reçues en vertu de l'article 24.2.
+
+2006, c. 46, a. 17.
+
+24.7. L'Agence conclut avec le ministre une convention de performance concernant la mise en oeuvre du plan d'ensemble.
+
+Cette convention doit notamment contenir les éléments suivants:
+
+ 1° la description du rôle de l'Agence dans la mise en oeuvre du plan d'ensemble;
+
+ 2° la section du plan d'ensemble décrivant les objectifs pour chacune des années de la convention, les moyens pris pour les atteindre ainsi que les ressources humaines, financières et matérielles disponibles;
+
+ 3° les principaux indicateurs qui permettront de rendre compte des résultats atteints.
+
+2006, c. 46, a. 17.
+
+25. L'Agence transmet au ministre, au plus tard le 30 juin de chaque année, ses états financiers ainsi qu'un rapport de ses activités pour l'exercice financier précédent. Ces documents doivent contenir tous les renseignements exigés par le ministre.
+
+Le rapport d'activités doit notamment comprendre:
+
+ 1° une présentation des résultats obtenus par rapport aux objectifs prévus par la convention de performance;
+
+ 2° un suivi du plan d'ensemble;
+
+ 3° le rapport de vérification de la Régie concernant l'état d'avancement du plan d'ensemble;
+
+ 4° une déclaration du président-directeur général de l'Agence attestant la fiabilité des données contenues au rapport et des contrôles afférents.
+
+1997, c. 55, a. 25; 2006, c. 46, a. 18.
+
+26. Le ministre dépose les états financiers et le rapport d'activités devant l'Assemblée nationale dans les 30 jours qui suivent leur réception ou, si elle ne siège pas, dans les 30 jours qui suivent la reprise de ses travaux.
+
+1997, c. 55, a. 26; 2006, c. 46, a. 19.
+
+27. L'Agence doit, en outre, fournir au ministre tout renseignement qu'il requiert sur ses activités.
+
+1997, c. 55, a. 27.
+
+28. Les livres et comptes de l'Agence sont vérifiés chaque année par le vérificateur général et, en outre, chaque fois que le décrète le gouvernement.
+
+Le vérificateur général peut procéder à la vérification de l'optimisation des ressources de l'Agence sans qu'intervienne l'entente prévue au deuxième alinéa de l'article 28 de la Loi sur le vérificateur général (chapitre V-5.01).
+
+1997, c. 55, a. 28; 2006, c. 46, a. 20.
+
+29. (Abrogé).
+
+1997, c. 55, a. 29; 2006, c. 46, a. 21.
+
+SECTION IV
+~~~~~~~~~~
+
+**DIRECTIVES ET RÈGLEMENTS**
+
+30. Le ministre peut donner des directives sur l'orientation et les objectifs généraux que l'Agence doit poursuivre.
+
+Ces directives doivent être approuvées par le gouvernement et entrent en vigueur le jour de leur approbation.  Une fois approuvées, elles lient l'Agence qui est tenue de s'y conformer.
+
+Toute directive doit être déposée devant l'Assemblée nationale dans les 15 jours de son approbation par le gouvernement ou, si elle n'est pas en session, dans les 15 jours de la reprise des travaux.
+
+1997, c. 55, a. 30.
+
+31. (Abrogé).
+
+1997, c. 55, a. 31; 2006, c. 46, a. 22.
+
+SECTION IV.1
+~~~~~~~~~~~~
+
+**DISPOSITIONS PÉNALES**
+
+31.1. Un distributeur d'énergie qui contrevient aux dispositions de l'un des articles 22.1, 22.7, 22.15, 22.16 ou de l'article 24.2 commet une infraction et est passible d'une amende de 2 000 $ à 20 000 $ pour la première infraction et de 5 000 $ à 50 000 $ pour toute récidive.
+
+2006, c. 46, a. 23.
+
+31.2. Un distributeur d'énergie qui fait défaut de fournir un renseignement ou un document visé à l'article 21.1 ou qui produit de faux renseignements, commet une infraction et est passible d'une amende de 1 000 $ à 2 000 $ pour la première infraction et de 2 000 $ à 5 000 $ pour toute récidive.
+
+2006, c. 46, a. 23.
+
+SECTION V
+~~~~~~~~~
+
+**DISPOSITIONS MODIFICATIVES ET FINALES**
+
+32. (Modification intégrée au c. R-6.01, a.105.1).
+
+1997, c. 55, a. 32.
+
+33. (Modification intégrée au c. R-6.01, a. 159).
+
+1997, c. 55, a. 33.
+
+34. Les crédits accordés au ministère des Ressources naturelles, pour le financement de la Direction de l'efficacité énergétique pour l'exercice financier 1997-1998 sont, dans la mesure et selon les modalités que détermine le gouvernement, transférés à l'Agence.
+
+1997, c. 55, a. 34.
+
+35. Le ministre des Ressources naturelles et de la Faune est responsable de l'application de la présente loi.
+
+1997, c. 55, a. 35; 2003, c. 8, a. 6; 2006, c. 3, a. 35.
+
+36. L'article 33 a effet à compter du 2 juin 1997.
+
+1997, c. 55, a. 36.
+
+37. (Omis).
+
+1997, c. 55, a. 37.
+
+ANNEXE ABROGATIVE
+
+Conformément à l’article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 55 des lois de 1997, tel qu’en vigueur le 1er avril 1998, à l’exception de l’article 37, est abrogé à compter de l’entrée en vigueur du chapitre A-7.001 des Lois refondues.

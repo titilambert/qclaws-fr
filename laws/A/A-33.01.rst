@@ -1,0 +1,260 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-33.01:
+
+====================================================================================
+A-33.01 Loi favorisant l'augmentation du capital des petites et moyennes entreprises
+====================================================================================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+SECTION I
+~~~~~~~~~
+
+**PLACEMENT ADMISSIBLE**
+
+1. Un investisseur admissible doit effectuer un placement admissible prévu à l'article 2 à l'égard duquel l'organisme désigné par le gouvernement accorde un visa pour que la personne morale admissible ayant fait l'objet d'un tel placement puisse se prévaloir des avantages prévus à cet égard par la Loi sur les impôts (chapitre I-3).
+
+1992, c. 46, a. 1; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 88.
+
+2. Constitue un placement admissible un placement effectué par un investisseur admissible dans une personne morale admissible et qui est constitué à la date du placement:
+
+ 1° pour au moins 30% du montant total du placement admissible, d'actions ordinaires à plein droit de vote du capital-actions de cette personne morale, qui ont été payées en espèces et émises en faveur d'un investisseur admissible à titre de premier preneur;
+
+ 2° pour le solde du montant du placement admissible, s'il en est, d'une obligation ou autre titre d'emprunt convertible admissible ou d'une action privilégiée convertible admissible qui a été payée en espèces et émise à titre de premier preneur en faveur du même investisseur admissible visé au paragraphe 1° du présent alinéa.
+
+1992, c. 46, a. 2; 1993, c. 8, a. 1; 1999, c. 40, a. 34.
+
+3. Pour être admissible, la personne morale doit, à la date du placement, satisfaire aux conditions suivantes:
+
+ 1° elle est constituée en personne morale;
+
+ 2° elle a un actif inférieur à 25 000 000 $ ou un avoir net des actionnaires d'au plus 10 000 000 $, en tenant compte à cette fin de l'actif et de l'avoir net de toute personne morale associée à la personne morale admissible à un moment quelconque au cours de la période de 12 mois qui précède le placement;
+
+ 3° sa direction générale s'exerce au Québec;
+
+ 4° au cours des 12 derniers mois précédant la date de l'acquisition ou des mois précédant cette date s'il s'agit d'une personne morale ayant débuté ses opérations depuis moins de 12 mois, plus de 75% des salaires versés à ses employés, au sens donné à cette expression par la Loi sur les impôts (chapitre I-3), l'ont été à des employés d'un établissement situé au Québec; à cette fin, seuls les salaires versés par la personne morale admissible elle-même doivent être considérés;
+
+ 5° elle oeuvre principalement dans l'un des secteurs d'activité déterminés par règlement;
+
+ 6° elle n'a pas de lien de dépendance, au sens des règlements, avec l'investisseur admissible à cette date.
+
+Les conditions prévues aux paragraphes 4° et 5° du premier alinéa doivent être satisfaites par une personne morale admissible pendant les 24 mois suivant l'acquisition d'un placement admissible.
+
+À moins d'une autorisation de l'organisme désigné en vertu de l'article 1, la personne morale doit satisfaire à la condition prévue au paragraphe 6° du premier alinéa pendant toute la durée du placement admissible, telle que définie par règlement.
+
+1992, c. 46, a. 3; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 89.
+
+4. Pour l'application de l'article 3, lorsqu'il s'agit, de l'avis de l'organisme désigné en vertu de l'article 1, d'un placement effectué dans une personne morale en démarrage, telle que définie par règlement, la condition prévue au paragraphe 4° de l'article 3 doit être satisfaite par cette personne morale uniquement pendant les 24 mois suivant l'acquisition d'un placement admissible et la condition prévue au paragraphe 5° de l'article 3 doit être satisfaite au plus tard au cours des quatre mois suivant la date du placement admissible.
+
+1992, c. 46, a. 4; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 90.
+
+5. S'il juge qu'un placement atteint les objectifs de la présente loi, l'organisme désigné en vertu de l'article 1 peut:
+
+ 1° proroger, dans le cas d'une personne morale en démarrage, pour la période qu'il juge nécessaire selon les circonstances, le délai de 4 mois prévu à l'article 4 pour satisfaire à la condition prévue au paragraphe 5° du premier alinéa de l'article 3;
+
+ 2° si demande lui en est faite avant la date du placement, accepter un pourcentage inférieur concernant la condition prévue au paragraphe 4° du premier alinéa de l'article 3, pour la période des 12 derniers mois précédant la date d'acquisition d'un placement ou pour la période précédant cette date s'il s'agit d'une personne morale ayant débuté ses opérations depuis moins de 12 mois;
+
+ 3° autoriser qu'un lien de dépendance soit créé entre un investisseur admissible et une personne morale admissible dans la mesure où une transaction intervient afin de permettre d'éviter la faillite de la personne morale admissible ou pour des raisons d'affaires, notamment en cas de difficultés financières, de réorganisation ou de besoins financiers relatifs à des événements majeurs.
+
+1992, c. 46, a. 5; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 91.
+
+6. Une personne morale admissible ne peut être bénéficiaire d'un ou de plusieurs placements admissibles, ayant fait l'objet d'un visa de l'organisme désigné en vertu de l'article 1 et totalisant plus de 5 000 000 $, au cours d'une même période de 24 mois, en tenant compte à cette fin des placements admissibles effectués dans une personne morale associée à la personne morale admissible. Toutefois, aux fins du calcul de ce montant, tout excédent est réputé ne pas être un placement admissible et il ne doit pas être tenu compte des placements admissibles effectués depuis plus de 24 mois dans la personne morale admissible et dans les personnes morales avec lesquelles elle est associée.
+
+1992, c. 46, a. 6; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 92.
+
+7. L'organisme désigné en vertu de l'article 1 peut refuser d'accorder un visa à l'égard d'un placement qui, bien que conforme à la lettre de la présente loi et de ses règlements, n'atteint pas, de l'avis de celui-ci, les objectifs poursuivis par la présente loi et ses règlements.
+
+L'organisme désigné en vertu de l'article 1 peut refuser d'accorder un visa à l'égard d'un placement notamment lorsque celui-ci est effectué par un investisseur admissible et qu'un ou plusieurs actionnaires de la personne morale admissible détiennent une participation financière importante, telle que définie par règlement, dans l'investisseur admissible.
+
+1992, c. 46, a. 7; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 93.
+
+8. Dans tous les cas où l'autorisation préalable de l'organisme désigné en vertu de l'article 1 est requise par la présente loi ou ses règlements, celui-ci peut autoriser cette transaction, cette opération ou cet événement s'il lui est démontré que, malgré l'absence d'autorisation préalable de sa part, les objectifs poursuivis par la présente loi et ses règlements sont atteints.
+
+1992, c. 46, a. 8; 1998, c. 17, a. 64; 2001, c. 69, a. 12; 2010, c. 37, a. 94.
+
+9. Une action ordinaire à plein droit de vote est une action ordinaire au sens de la Loi sur les impôts (chapitre I-3), comportant un nombre de droits de vote dans la personne morale émettrice, en toute circonstance et indépendamment du nombre d'actions possédées, qui n'est pas inférieur à celui de toute autre action du capital-actions de cette personne morale.
+
+1992, c. 46, a. 9; 1999, c. 40, a. 34.
+
+10. Est un titre d'emprunt convertible admissible, une obligation ou autre titre d'emprunt qui satisfait aux conditions suivantes:
+
+ 1° il a été payé et émis après le 19 juin 1991, à l'égard d'une dette d'une personne morale, lequel a été acquis par un investisseur admissible moyennant une contrepartie en espèces;
+
+ 2° il n'est pas garanti, directement ou indirectement, par la personne morale admissible ou par toute autre personne;
+
+ 3° il a une échéance minimale de 60 mois et une échéance maximale de 84 mois à compter de la date du placement admissible;
+
+ 4° en vertu des conditions relatives à son émission, il est convertible en tout temps pendant la durée du placement admissible en actions ordinaires à plein droit de vote du capital-actions de la personne morale admissible;
+
+ 5° il est converti en actions ordinaires à plein droit de vote du capital-actions de la personne morale admissible au plus tard à la date d'échéance dudit titre d'emprunt convertible.
+
+1992, c. 46, a. 10; 1993, c. 8, a. 2; 1999, c. 40, a. 34.
+
+10.1. Est une action privilégiée convertible admissible, une action privilégiée qui satisfait aux conditions suivantes:
+
+ 1° elle a été payée et émise après le 14 mai 1992 et acquise par un investisseur admissible moyennant une contrepartie en espèces;
+
+ 2° elle est émise pour une période minimale de 60 mois;
+
+ 3° en vertu des conditions relatives à son émission, elle est convertible en tout temps pendant la durée du placement admissible en actions ordinaires à plein droit de vote du capital-actions de la personne morale admissible;
+
+ 4° elle est convertie en actions ordinaires à plein droit de vote du capital-actions de la personne morale admissible au plus tard à la fin du quatre-vingt-quatrième mois suivant la date du placement admissible.
+
+1993, c. 8, a. 3; 1999, c. 40, a. 34.
+
+SECTION II
+~~~~~~~~~~
+
+**INVESTISSEUR ADMISSIBLE**
+
+11. Est un investisseur admissible:
+
+ 1° tout organisme, institution, société ou personne morale qui est une société à capital de risque désignée, reconnue comme telle par règlement;
+
+ 2° toute société privée à capital de risque à caractère public qui remplit les conditions prévues par règlement;
+
+ 3° tout autre investisseur qui est une société à capital de risque autorisée, suivant les critères établis par règlement et reconnue comme telle par l'organisme désigné en vertu de l'article 1.
+
+1992, c. 46, a. 11; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 95.
+
+SECTION III
+~~~~~~~~~~~
+
+**VISA**
+
+12. L'organisme désigné en vertu de l'article 1 accorde un visa à l'égard d'un placement admissible lorsque le placement satisfait aux conditions prévues par la présente loi et ses règlements.
+
+Aucun visa ne peut être accordé en application du premier alinéa après le 9 mai 1995.  Toutefois, l'organisme désigné en vertu de l'article 1 peut accorder un visa dans les cas suivants:
+
+ 1° à l'égard d'un placement admissible effectué au plus tard le 9 mai 1995, lorsque le placement satisfait aux conditions prévues par la présente loi et ses règlements et qu'à la fois:
+
+a)  la demande de visa à l'égard du placement admissible respecte toutes les exigences de la loi et ses règlements et elle est présentée à cet organisme au plus tard le 30 septembre 1995;
+
+b)  le montant du placement admissible attesté par le visa n'excède pas le montant prévu à cet égard dans la demande visée au sous-paragraphe a;
+
+ 2° à l'égard d'un placement admissible effectué au plus tard le 31 décembre 1995, lorsque la demande de visa a été faite au plus tard le 9 mai 1995.
+
+1992, c. 46, a. 12; 1995, c. 63, a. 1; 1996, c. 39, a. 1; 1998, c. 17, a. 64; 2001, c. 69, a. 12; 2010, c. 37, a. 96.
+
+13. L'organisme désigné en vertu de l'article 1 délivre un visa à la personne morale admissible ainsi qu'une confirmation de l'octroi du visa à l'investisseur admissible, attestant notamment du montant du placement admissible ayant fait l'objet d'un visa en application de la présente loi et de ses règlements.
+
+1992, c. 46, a. 13; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 97.
+
+14. L'organisme désigné en vertu de l'article 1 peut révoquer le visa accordé à l'égard d'un placement admissible si l'investisseur admissible ou la personne morale admissible:
+
+ 1° contrevient aux dispositions de la présente loi ou de ses règlements;
+
+ 2° a fourni de faux renseignements ou documents;
+
+ 3° a produit une demande afin que son visa soit révoqué.
+
+L'avis de révocation de visa indique la date de la révocation et les raisons qui la justifient et est transmis au siège de la personne morale admissible par courrier recommandé ou certifié.
+
+1992, c. 46, a. 14; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 98.
+
+15. Un visa est révoqué de plein droit dès que la personne morale admissible se trouve dans l'une des situations suivantes au cours de la durée du placement admissible:
+
+ 1° la personne morale admissible est dissoute;
+
+ 2° une résolution décrétant la liquidation de la personne morale admissible a été adoptée ou approuvée par ses actionnaires, sauf avec l'autorisation préalable de l'organisme désigné en vertu de l'article 1;
+
+ 3° la personne morale admissible est sous le coup d'une ordonnance de liquidation pour une raison autre que la faillite ou l'insolvabilité;
+
+ 4° la personne morale admissible est sous le coup d'une ordonnance de séquestre en vertu de la Loi sur la faillite et l'insolvabilité (L.R.C. 1985, c. B-3) ou a fait, au sens de cette loi, cession de ses biens.
+
+1992, c. 46, a. 15; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 99.
+
+16. Le ministre a le pouvoir d'annuler la révocation d'un visa, s'il estime, compte tenu des circonstances, que la révocation entraînerait des conséquences excessives.
+
+1992, c. 46, a. 16.
+
+SECTION IV
+~~~~~~~~~~
+
+**RENSEIGNEMENTS ET RAPPORTS**
+
+17. L'organisme désigné en vertu de l'article 1 peut, en outre des renseignements, documents et rapports prévus par règlement, exiger de la personne morale admissible et de l'investisseur admissible tout renseignement et tout document qu'il juge de nature à l'éclairer sur l'opportunité d'accorder un visa à l'égard d'un placement effectué auprès d'une personne morale.
+
+Une personne morale admissible et un investisseur admissible doivent fournir à l'organisme désigné en vertu de l'article 1, sur demande écrite de ce dernier et dans le délai prévu dans cette demande, tout renseignement et tout document requis par celui-ci.
+
+1992, c. 46, a. 17; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 100.
+
+18. L'organisme désigné en vertu de l'article 1 ou, le cas échéant, le ministre transmet au ministre du Revenu les renseignements que ce dernier juge nécessaires lorsque cet organisme accorde un visa, le révoque ou que le ministre en annule la révocation.
+
+1992, c. 46, a. 18; 1998, c. 17, a. 64; 2001, c. 69, a. 12; 2010, c. 37, a. 101.
+
+19. L'organisme désigné en vertu de l'article 1 tient un registre où doivent être inscrits les renseignements suivants:
+
+ 1° le nom des personnes morales admissibles à l'égard desquelles un placement a fait l'objet d'un visa;
+
+ 2° la date à laquelle prend effet le visa qu'il accorde;
+
+ 3° l'endroit où est situé leur siège;
+
+ 4° le montant du placement admissible;
+
+ 5° le nom de l'investisseur admissible et l'endroit où est situé son siège.
+
+1992, c. 46, a. 19; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 102.
+
+SECTION V
+~~~~~~~~~
+
+**RÉGLEMENTATION**
+
+20. Le gouvernement peut prendre des règlements pour:
+
+ 1° déterminer les renseignements, autorisations, attestations, rapports ou documents qu'une personne morale ou un investisseur doit fournir à l'organisme désigné en vertu de l'article 1 et l'époque à laquelle ils doivent être produits et déterminer la forme de tels rapports, autorisations et attestations et les renseignements qu'ils doivent contenir;
+
+ 2° déterminer ce qui constitue l'actif d'une personne morale et l'avoir net de ses actionnaires, y compris ceux d'une personne morale associée à cette personne morale ainsi que les modalités de calcul de ceux-ci;
+
+ 3° déterminer les secteurs d'activité dans lesquels doit oeuvrer une personne morale visée à l'article 3, à l'exception des activités qu'il détermine;
+
+ 4° définir les expressions «personnes morales associées», «personne morale en démarrage», «participation financière importante», «employé», «lien de dépendance», «personnes morales liées», «personnes liées», «à caractère public» et «durée d'un placement admissible»;
+
+ 5° déterminer pour l'application de la présente loi ce qu'est une «société à capital de risque désignée» et établir des critères suivant lesquels l'organisme désigné en vertu de l'article 1 peut reconnaître une «société à capital de risque à caractère public» de même qu'une «société à capital de risque autorisée»;
+
+ 6° déterminer les conditions que doit remplir une personne morale admissible et un investisseur admissible pendant toute la durée d'un placement admissible;
+
+ 7° assujettir à l'autorisation préalable de l'organisme désigné en vertu de l'article 1 certaines transactions, tout en assurant et maintenant le respect des objectifs d'augmentation du capital visés par la présente loi, concernant:
+
+a)  le secteur d'activité dans lequel doit oeuvrer une personne morale admissible pendant la durée d'un placement admissible;
+
+b)  l'utilisation des fonds provenant d'un placement admissible par une personne morale admissible;
+
+c)  les sorties de fonds importantes pouvant être effectuées par une personne morale admissible;
+
+ 8° déterminer des tarifs de droits et honoraires payables à l'organisme désigné en vertu de l'article 1 à l'occasion de tout acte qu'il pose en vertu de la présente loi.
+
+1992, c. 46, a. 20; 1994, c. 3, a. 1; 1998, c. 17, a. 64; 1999, c. 40, a. 34; 2001, c. 69, a. 12; 2010, c. 37, a. 103.
+
+SECTION VI
+~~~~~~~~~~
+
+**DISPOSITIONS FINALES**
+
+21. Le ministre du Développement économique, de l'Innovation et de l'Exportation est chargé de l'application de la présente loi.
+
+1992, c. 46, a. 21; 1994, c. 16, a. 51; 1999, c. 8, a. 20; 2003, c. 29, a. 135; 2006, c. 8, a. 31.
+
+22. Les règlements pris en application de l'article 20 de la présente loi entre le 23 juin 1992 et le 30 septembre 1992, pourront prévoir qu'ils s'appliquent à compter de toute date non antérieure au 20 juin 1991.
+
+1992, c. 46, a. 22.
+
+23. La présente loi a effet à l'égard de tout placement admissible effectué après le 19 juin 1991.
+
+1992, c. 46, a. 23.
+
+24. (Omis).
+
+1992, c. 46, a. 24.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 46 des lois de 1992, tel qu'en vigueur le 1er mars 1993, à l'exception de l'article 24, est abrogé à compter de l'entrée en vigueur du chapitre A-33.01 des Lois refondues.

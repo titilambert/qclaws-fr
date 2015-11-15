@@ -1,0 +1,1244 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-14:
+
+=========================================================================================
+A-14 Loi sur l'aide juridique et sur la prestation de certains autres services juridiques
+=========================================================================================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+CHAPITRE I
+----------
+
+**CHAMP D’APPLICATION ET DÉFINITIONS**
+
+0.1. La présente loi institue au chapitre II un régime d’aide juridique et prévoit au chapitre III des dispositions relatives à la prestation de certains autres services juridiques.
+
+À cette fin, elle prévoit en outre, au chapitre II, la constitution et le fonctionnement des organismes appelés à rendre des services juridiques en vertu de la présente loi et, au chapitre IV, des dispositions communes à la mise en oeuvre des chapitres II et III.
+
+2010, c. 12, a. 2.
+
+1. Dans la présente loi et les règlements, à moins que le contexte n'indique un sens différent, les expressions et mots suivants signifient:
+
+ a) (paragraphe abrogé);
+
+ b) (paragraphe abrogé);
+
+ c) (paragraphe abrogé);
+
+ d) «Commission»: la Commission des services juridiques constituée par l'article 11;
+
+ e) «centre régional d'aide juridique» ou «centre régional»: un centre régional institué en vertu de la présente loi et habilité par la Commission à fournir l'aide juridique;
+
+ f) «centre d'aide juridique» ou «centre»: un centre régional d'aide juridique ou un centre local visé au paragraphe c de l'article 32;
+
+ g) «bureau d'aide juridique» ou «bureau»: un bureau d'aide juridique formé par un centre régional d'aide juridique en vertu du paragraphe a de l'article 32;
+
+ h) «directeur général»: le directeur général d'un centre régional d'aide juridique;
+
+ i) (paragraphe abrogé).
+
+1972, c. 14, a. 1; 1996, c. 23, a. 2; 2010, c. 12, a. 4.
+
+CHAPITRE II
+-----------
+
+**RÉGIME D’AIDE JURIDIQUE**
+
+SECTION I
+~~~~~~~~~
+
+**DÉFINITIONS**
+
+1.0.1. Aux fins du présent chapitre, à moins que le contexte n’indique un sens différent, les mots suivants signifient:
+
+ 1° «bénéficiaire»: une personne qui reçoit l’aide juridique;
+
+ 2° «personne»: une personne physique ainsi qu’un groupe de personnes ou une personne morale sans but lucratif dont les membres sont des personnes physiques financièrement admissibles à l’aide juridique.
+
+2010, c. 12, a. 5.
+
+1.1. Sont des conjoints:
+
+ 1° les personnes liées par un mariage ou une union civile qui cohabitent;
+
+ 2° les personnes, de sexe différent ou de même sexe, vivant maritalement qui sont les père et mère d'un même enfant;
+
+ 3° les personnes majeures, de sexe différent ou de même sexe, qui vivent maritalement et qui, à un moment donné, ont cohabité pendant une période d'au moins un an.
+
+1996, c. 23, a. 3; 1999, c. 14, a. 5; 2002, c. 6, a. 80.
+
+1.2. Une famille est formée:
+
+ 1° du père ou de la mère ou, dans les cas prévus par règlement, d'une autre personne qui y est désignée, ainsi que des enfants mineurs avec qui ils cohabitent et qui ne sont ni mariés ni père ou mère d'un enfant et des enfants majeurs qui fréquentent, au sens du règlement, un établissement d'enseignement et qui ne sont ni le conjoint d'une personne, ni père ou mère d'un enfant;
+
+ 2° des conjoints avec tout enfant visé au paragraphe 1°;
+
+ 3° des conjoints sans enfant.
+
+Toutefois, une personne continue de faire partie d'une famille, en devient membre ou cesse d'en faire partie dans les circonstances prévues par règlement.
+
+1996, c. 23, a. 3.
+
+2. (Abrogé).
+
+1972, c. 14, a. 2; 1982, c. 36, a. 1; 1988, c. 51, a. 96; 1996, c. 23, a. 4.
+
+3. Aux fins du présent chapitre, le mot «tribunal» comprend tout organisme qui exerce une compétence judiciaire ou quasi judiciaire.
+
+1972, c. 14, a. 3; 2010, c. 12, a. 6.
+
+SECTION I.1
+~~~~~~~~~~~
+
+**OBJET ET PRINCIPES**
+
+3.1. Le régime d'aide juridique institué par le présent chapitre a pour objet de permettre aux personnes admissibles de bénéficier, dans la mesure prévue par la présente loi et les règlements, de services juridiques.
+
+1996, c. 23, a. 5; 2010, c. 12, a. 7; 2012, c. 20, a. 29.
+
+3.2. Les principes suivants guident la gestion et la prestation des services d'aide juridique:
+
+ 1° l'importance qu'il y a d'assurer aux personnes admissibles les services juridiques dont elles ont besoin;
+
+ 2° la nécessité d'assurer une gestion efficace de ces services et des ressources qui y sont affectées;
+
+ 3° l'importance, aux fins définies au paragraphe 2°, d'assurer la coordination des activités de la Commission et des centres d'aide juridique en favorisant, entre eux et parmi les personnes qui y oeuvrent, la concertation et la collaboration en vue d'assurer une utilisation rationnelle des ressources;
+
+ 4° l'importance de favoriser, par la concertation, une application cohérente de la loi et des règlements entre les régions.
+
+1996, c. 23, a. 5; 2010, c. 12, a. 8; 2012, c. 20, a. 30.
+
+SECTION II
+~~~~~~~~~~
+
+**ATTRIBUTION ET EFFET DE L'AIDE JURIDIQUE**
+
+4. L'aide juridique est accordée à une personne financièrement admissible suivant les dispositions de la sous-section 1 de la présente section pour les services juridiques prévus à la sous-section 2 de la présente section, au deuxième alinéa de l'article 32.1 ainsi qu'aux règlements.
+
+Elle est également accordée à une personne non financièrement admissible pour les services juridiques prévus au paragraphe 1.1° de l'article 4.7.
+
+1972, c. 14, a. 4; 1982, c. 36, a. 2; 1996, c. 23, a. 6; 2012, c. 20, a. 31.
+
+4.1. Est financièrement admissible à l'aide juridique gratuite toute personne qui démontre que ses revenus, ses liquidités et ses autres actifs, tels que déterminés par les règlements et, selon ce que prévoient les règlements, ceux de sa famille n'excèdent pas les niveau et valeur d'admissibilité financière gratuite déterminés par règlement.
+
+Est réputée financièrement admissible à l'aide juridique gratuite toute personne qui reçoit une prestation, autre qu'une prestation spéciale, en vertu d'un programme d'aide financière de dernier recours prévu à la Loi sur l'aide aux personnes et aux familles (chapitre A-13.1.1) ou qui est membre d'une famille qui reçoit une telle prestation.
+
+1996, c. 23, a. 6; 1998, c. 36, a. 164; 2005, c. 15, a. 139.
+
+4.2. Est financièrement admissible à l'aide juridique, moyennant le versement par le bénéficiaire d'une contribution, toute personne qui, suivant l'article 4.1, n'est pas financièrement admissible à l'aide juridique gratuite mais dont les revenus, tels que déterminés par les règlements et, selon ce que prévoient les règlements, ceux de sa famille n'excèdent pas le niveau d'admissibilité financière déterminé par règlement.
+
+1996, c. 23, a. 6.
+
+4.3. Le comité administratif de la Commission peut, sur recommandation du directeur général du centre régional, déclarer financièrement admissible à l'aide juridique, moyennant le versement par le bénéficiaire d'une contribution, une personne qui, suivant les articles 4.1 et 4.2, n'est financièrement admissible à aucune aide juridique, s'il considère que des circonstances exceptionnelles le justifient et que le fait de ne pas la déclarer financièrement admissible entraînerait pour cette personne un tort irréparable.
+
+La décision du comité administratif de la Commission ne peut faire l'objet d'aucune révision par le comité formé en vertu du paragraphe k de l'article 22.
+
+1996, c. 23, a. 6.
+
+4.4. L'aide juridique est accordée, dans la mesure déterminée par les dispositions de la présente sous-section et des règlements, pour les affaires dont un tribunal est ou sera saisi; elle peut être accordée en tout état de cause, en première instance ou en appel; elle s'étend, dans la même mesure, aux actes d'exécution.
+
+Elle est également accordée pour les services juridiques prévus à l'article 4.10 ainsi qu'au deuxième alinéa de l'article 32.1 et, exceptionnellement, pour ceux prévus à l'article 4.13.
+
+1996, c. 23, a. 6.
+
+En matière criminelle ou pénale
+-------------------------------
+
+4.5. En matière criminelle ou pénale, l'aide juridique est accordée, en première instance, dans l'un ou l'autre des cas suivants:
+
+ 1° pour assurer la défense d'une personne qui fait face, devant un tribunal, à une poursuite pour un acte criminel prévu dans une loi du Parlement du Canada;
+
+ 2° pour assurer la défense d'un adolescent qui fait face, devant un tribunal, à une poursuite à laquelle s'applique la Loi sur le système de justice pénale pour adolescents (L.C. 2002, c. 1);
+
+ 3° pour assurer soit la défense d'une personne, autre qu'un adolescent, qui fait face, devant un tribunal, à une poursuite pour une infraction à une loi du Parlement du Canada punissable sur déclaration de culpabilité par procédure sommaire, soit la défense d'une personne, qu'il s'agisse d'un adulte ou d'une personne âgée de moins de 18 ans, qui fait face, devant un tribunal, à une poursuite intentée en vertu du Code de procédure pénale (chapitre C-25.1) lorsque dans l'un ou l'autre cas, il est probable, si l'accusé était reconnu coupable, qu'il en résulterait pour ce dernier soit une peine d'emprisonnement ou de mise sous garde, soit la perte de ses moyens de subsistance ou encore lorsqu'il est dans l'intérêt de la justice que l'aide juridique soit accordée à cet accusé, compte tenu des circonstances exceptionnelles de l'affaire, notamment sa gravité ou sa complexité;
+
+ 4° pour assurer la défense d'une personne qui fait face, devant un tribunal, à une demande d'emprisonnement en vertu de l'article 346 du Code de procédure pénale ou à une demande d'incarcération en vertu de l'article 734.7 du Code criminel (Lois révisées du Canada (1985), chapitre C-46);
+
+ 5° pour assurer la défense d'une personne qui fait face, devant un tribunal, à une procédure intentée en vertu de la Loi sur l’extradition (L.C. 1999, c. 18).
+
+1996, c. 23, a. 6; 2010, c. 12, a. 9.
+
+4.6. En matière criminelle ou pénale, l'aide juridique est accordée en appel ou pour l'exercice d'un recours extraordinaire:
+
+ 1° s'il s'agit d'un appel logé ou d'un recours extraordinaire exercé par le poursuivant dans une affaire visée à l'article 4.5;
+
+ 2° s'il s'agit d'un appel logé ou d'un recours extraordinaire exercé par l'accusé dans une affaire visée à l'article 4.5 lorsque l'appel ou le recours extraordinaire est raisonnablement fondé.
+
+1996, c. 23, a. 6.
+
+En matière autre que criminelle ou pénale
+-----------------------------------------
+
+4.7. En matière autre que criminelle ou pénale, l'aide juridique est accordée pour toute affaire dont un tribunal est ou sera saisi, dans l'un ou l'autre des cas suivants:
+
+ 1° lorsqu'il s'agit d'une affaire en matière familiale à laquelle s'applique le titre IV du livre V du Code de procédure civile (chapitre C-25), sous réserve du paragraphe 1.1°;
+
+ 1.1° lorsqu'il s'agit de fournir à des parties les services professionnels d'un avocat pour l'obtention d'un jugement relatif à une entente présentée dans une demande conjointe en révision de jugement et portant règlement complet en matière de garde d'enfants ou encore en matière de pensions alimentaires pour enfants seulement ou de pensions alimentaires pour enfants et pour conjoint ou ex-conjoint;
+
+ 2° lorsqu'il s'agit d'une affaire relative à la survie de l'obligation alimentaire, fondée sur le Chapitre cinquième du Titre troisième du Livre troisième du Code civil;
+
+ 3° lorsqu'il s'agit d'une affaire relative à une tutelle au mineur, à un régime de protection du majeur ou à un mandat donné par une personne en prévision de son inaptitude ou encore d'une affaire fondée sur l'article 865.2 du Code de procédure civile;
+
+ 4° lorsqu'il s'agit d'une instance qui vise à obtenir, par voie judiciaire, le changement de nom d'une personne mineure ou la révision par le tribunal de la décision du directeur de l'état civil relative à l'attribution ou au changement de nom d'une personne mineure si la demande au tribunal assurerait la sécurité physique ou psychologique de cette personne;
+
+ 5° lorsqu'il s'agit d'une affaire à laquelle s'applique la Loi sur les aspects civils de l'enlèvement international et interprovincial d'enfants (chapitre A-23.01);
+
+ 6° lorsqu'il s'agit d'une affaire pour laquelle le tribunal exerce ses attributions en vertu de la Loi sur la protection de la jeunesse (chapitre P-34.1);
+
+ 7° lorsqu'il s'agit d'un recours formé devant un tribunal contre une décision administrative d'un ministère ou d'un organisme gouvernemental prise dans le cadre d'un programme de prestations ou d'indemnités désigné par règlement;
+
+ 8° lorsqu'il s'agit de toute autre affaire, si la personne à qui l'aide juridique serait accordée subit ou subira vraisemblablement une atteinte grave à sa liberté, notamment une mesure de garde ou de détention;
+
+ 9° lorsqu'il s'agit de toute autre affaire, si cette affaire met en cause ou mettra vraisemblablement en cause soit la sécurité physique ou psychologique d'une personne, soit ses moyens de subsistance, soit ses besoins essentiels et ceux de sa famille.
+
+1996, c. 23, a. 6; 2012, c. 20, a. 32.
+
+4.8. Aucune aide juridique n'est accordée:
+
+ 1° pour toute affaire en matière de diffamation ou de libelle, en demande seulement;
+
+ 2° pour toute affaire relative à une élection, à une consultation populaire ou à un référendum;
+
+ 3° pour une requête fondée sur le chapitre II du titre VI du livre V du Code de procédure civile (chapitre C-25);
+
+ 4° pour une action en dommages pour rupture injustifiée de promesse de mariage ou d'union civile, en demande seulement;
+
+ 5° pour une action en dommages pour aliénation d'affection, en demande seulement.
+
+1996, c. 23, a. 6; 2002, c. 6, a. 81.
+
+Autres dispositions
+-------------------
+
+4.9. L'aide juridique est accordée pour assurer la défense d'une personne qui fait face, devant un tribunal, à une accusation d'outrage au tribunal lorsqu'il est probable, si cette personne était condamnée pour cet outrage, qu'il en résulterait pour elle soit une peine d'emprisonnement ou de mise sous garde, soit la perte de ses moyens de subsistance ou lorsqu'il est dans l'intérêt de la justice que l'aide juridique soit accordée à cette personne, compte tenu des circonstances exceptionnelles de l'affaire, notamment sa gravité ou sa complexité.
+
+1996, c. 23, a. 6.
+
+4.10. Malgré les dispositions de la présente sous-section, l'aide juridique est accordée:
+
+ 1° lorsqu'il est nécessaire qu'un avocat assiste:
+
+a)  une personne mineure aux fins d'une entente portant sur l'application de mesures volontaires en vertu de la Loi sur la protection de la jeunesse (chapitre P-34.1);
+
+b)  un adolescent dans le cadre d'un programme de mesures de rechange ou de l'examen d'une décision en vertu de la Loi sur le système de justice pénale pour adolescents (L.C. 2002, c. 1);
+
+ 2° à une personne en vue de lui permettre d'être assistée devant une autorité qui, exerçant une fonction administrative dans le cadre d'un programme de prestations ou d'indemnités désigné par règlement et administré par un ministère ou un organisme gouvernemental, est chargée, au sein de ce ministère ou de cet organisme, d'effectuer, par voie hiérarchique, la révision d'une décision administrative concernant cette personne;
+
+ 3° à une personne pour la rédaction d'un document relevant normalement des fonctions d'un notaire ou d'un avocat si ce service s'avère nécessaire, compte tenu de la difficulté qu'éprouve cette personne à préserver ou faire valoir ses droits et des conséquences néfastes qui, en l'absence de ce service, en résulteraient pour son bien-être physique ou psychologique ou celui de sa famille.
+
+1996, c. 23, a. 6; 2010, c. 12, a. 10.
+
+4.11. En toute matière autre que criminelle ou pénale, l'aide juridique peut être refusée ou retirée, selon le cas, en tout état de cause, lorsque, en considérant l'ensemble des circonstances et en envisageant la question du point de vue du rapport habituel entre un avocat et son client, l'affaire ou le recours n'apparaît pas fondé, compte tenu notamment de l'un ou l'autre des facteurs suivants:
+
+ 1° la personne qui demande l'aide ne peut établir la vraisemblance d'un droit;
+
+ 2° cette affaire ou ce recours a manifestement très peu de chance de succès;
+
+ 3° les coûts que cette affaire ou ce recours entraînerait seraient déraisonnables par rapport aux gains ou aux pertes qui pourraient en résulter pour le requérant ou, selon le cas, le bénéficiaire, à moins qu'il ne mette en cause soit ses moyens de subsistance, soit ses besoins essentiels et ceux de sa famille;
+
+ 4° le jugement ou la décision ne serait probablement pas susceptible d'exécution;
+
+ 5° la personne qui demande l'aide ou qui en bénéficie refuse, sans motif valable, une proposition raisonnable de règlement de l'affaire.
+
+L'aide juridique est également refusée ou retirée lorsque les services pour lesquels cette aide est demandée peuvent être obtenus autrement, notamment par l'intermédiaire d'un autre service gouvernemental ou d'un organisme ou encore au moyen d'un contrat d'assurance ou par l'entremise d'un syndicat ou d'une association dont le requérant ou, selon le cas, le bénéficiaire est membre, à moins qu'il ne s'agisse d'une association à but non lucratif dont l'objectif est d'assurer la promotion et la défense des droits sociaux.
+
+1996, c. 23, a. 6.
+
+4.11.1. L'aide juridique accordée pour les services juridiques prévus au paragraphe 1.1° de l'article 4.7 peut être retirée lorsqu'il est constaté par l'avocat qu'il n'est plus possible pour les parties de s'entendre.
+
+Le cas échéant, l'avocat qui n'est pas à l'emploi d'un centre ou de la commission a droit au paiement des honoraires établis par application de l'article 83.21 et les parties ont droit au remboursement du montant déterminé par règlement lorsque le retrait leur est notifié.
+
+2012, c. 20, a. 33.
+
+4.12. Aucune aide juridique n'est accordée pour toute défense relative à une infraction aux lois et aux règlements concernant le stationnement.
+
+1996, c. 23, a. 6.
+
+4.13. Le comité administratif de la Commission peut, sur recommandation du directeur général du centre régional, accorder l'aide juridique à une personne qui ne peut, suivant les autres dispositions de la présente sous-section et des règlements, bénéficier de cette aide, s'il considère que des circonstances exceptionnelles le justifient et que le fait de lui refuser cette aide entraînerait pour cette personne un tort irréparable.  Toutefois, le comité administratif de la Commission ne peut accorder l'aide juridique aux termes du présent article à l'égard des services pour lesquels aucune aide juridique ne peut être accordée suivant les articles 4.8 ou 4.12 ou suivant les règlements.
+
+Les dispositions du premier alinéa peuvent notamment s'appliquer, aux conditions qui y sont fixées, en vue de permettre à celui qui demande l'aide juridique d'établir ses droits dans le cadre d'une procédure menant à une décision administrative.
+
+La décision du comité administratif de la Commission ne peut faire l'objet d'une révision par le comité formé en vertu du paragraphe k de l'article 22.
+
+1996, c. 23, a. 6.
+
+5. Sous réserve de la contribution qu'elle peut être appelée à verser conformément aux règlements, la personne admissible suivant le premier alinéa de l'article 4 à qui l'aide juridique est accordée est dispensée du paiement:
+
+ a) des honoraires judiciaires et extrajudiciaires d'un avocat et des honoraires d'un notaire, ainsi que de leurs déboursés, pour des services professionnels rendus au bénéficiaire en vertu de la présente loi par l'avocat ou le notaire qui lui est assigné;
+
+ b) nonobstant toute loi à ce contraire, des déboursés de cour, y compris ceux exigibles par le gouvernement du Québec, et de tous droits qu'un officier de la publicité des droits perçoit;
+
+ c) des honoraires et déboursés de tout huissier ou de tout sténographe qui exerce ses fonctions pour le compte de ce bénéficiaire; et
+
+ d) des honoraires et des frais des experts qui, avec l'autorisation préalable du directeur général, agissent pour le bénéficiaire.
+
+Toutefois, dans les cas prévus par les règlements, les coûts de l'aide juridique obtenue sont recouvrés conformément aux dispositions de la section VI.1.
+
+1972, c. 14, a. 5; 1982, c. 36, a. 3; 1991, c. 20, a. 1; 1996, c. 23, a. 8; 2010, c. 12, a. 11; 2012, c. 20, a. 34.
+
+5.1. La personne admissible suivant le deuxième alinéa de l'article 4 à qui l'aide juridique est accordée n'est tenue au paiement que des honoraires d'un avocat pour les services juridiques prévus au paragraphe 1.1° de l'article 4.7 et des frais judiciaires exigibles en vertu du tarif applicable en matière civile, et ce, uniquement dans la proportion et selon les modalités prévues par règlement.
+
+Les honoraires visés au premier alinéa sont ceux établis par application de l'article 83.21.
+
+2012, c. 20, a. 35.
+
+6. Sous réserve des règlements, les honoraires et les déboursés d’un avocat ou d’un notaire qui n’est pas à l’emploi d’un centre ou de la Commission et dont l’un ou l’autre a retenu les services pour le compte d’un bénéficiaire ainsi que les honoraires et les déboursés d’un sténographe ou d’un huissier qui exerce ses fonctions pour le compte d’un bénéficiaire sont payés par le centre ou la Commission qui accorde l’aide juridique à ce bénéficiaire, conformément aux tarifs établis par les règlements.
+
+1972, c. 14, a. 6; 1996, c. 23, a. 9; 2010, c. 12, a. 12.
+
+7. (Abrogé).
+
+1972, c. 14, a. 7; 1996, c. 23, a. 10.
+
+8. Le bénéficiaire qui succombe n'est pas exempt de la condamnation aux dépens en faveur de la partie adverse ni de leur paiement.
+
+En cas de condamnation aux dépens prononcés contre l'adversaire d'un bénéficiaire, qui n'est pas lui-même un bénéficiaire, les dépens sont taxés comme s'il n'y avait pas eu aide juridique.
+
+1972, c. 14, a. 8.
+
+9. Les frais taxés à l'occasion de jugements interlocutoires rendus dans une cause où l'une des parties bénéficie de l'aide juridique ne sont exigibles qu'en même temps que ceux adjugés par le jugement final.
+
+1972, c. 14, a. 9.
+
+10. (Abrogé).
+
+1972, c. 14, a. 10; 1996, c. 23, a. 11.
+
+SECTION III
+~~~~~~~~~~~
+
+**COMMISSION DES SERVICES JURIDIQUES**
+
+11. Un organisme est constitué sous le nom de «Commission des services juridiques».
+
+1972, c. 14, a. 11; 1977, c. 5, a. 14.
+
+12. La Commission se compose de 12 membres choisis parmi les groupes de personnes qui, en raison de leurs activités, sont susceptibles de contribuer d'une façon particulière à l'étude et à la solution des problèmes juridiques des milieux défavorisés et qui sont nommés par le gouvernement après consultation de ces groupes.  Le gouvernement nomme, parmi ces membres, un président et un vice-président.
+
+La Commission comprend également le sous-ministre de la Justice ou son délégué et le sous-ministre de l'Emploi et de la Solidarité sociale ou son délégué qui sont membres de la Commission à titre consultatif et n'ont pas droit de vote.
+
+1972, c. 14, a. 12; 1972, c. 15, a. 1; 1982, c. 53, a. 20; 1992, c. 44, a. 81; 1994, c. 12, a. 67; 1997, c. 63, a. 128; 2001, c. 44, a. 30.
+
+13. Le président, qui doit être un avocat ou un juge, et le vice-président, qui doit être un avocat, sont nommés pour une période qui ne peut excéder dix ans et qui, une fois déterminée, ne peut être réduite.
+
+Les autres membres de la Commission autres que ceux visés au dernier alinéa de l'article 12, sont nommés pour trois ans.  Trois des premiers membres nommés par le gouvernement sont nommés pour un an, trois pour deux ans et les deux autres pour trois ans.
+
+Un membre qui fait défaut d'assister à quatre séances consécutives et qui ne donne pas au président de la Commission des motifs valables de son absence, cesse d'être membre.
+
+1972, c. 14, a. 13; 1972, c. 15, a. 2.
+
+14. Chacun des membres de la Commission, y compris le président et le vice-président, demeure en fonction après l'expiration de son mandat jusqu'à ce qu'il ait été remplacé ou nommé de nouveau.
+
+1972, c. 14, a. 14.
+
+15. Toute vacance survenant au cours de la durée du mandat d'un membre de la Commission autre que le président et le vice-président est comblée pour la durée non écoulée du mandat de ce membre.
+
+1972, c. 14, a. 15.
+
+16. Le gouvernement fixe les indemnités et les allocations de présence auxquelles les membres de la Commission ont droit ainsi que le traitement du président et du vice-président. Ce traitement, une fois fixé, ne peut être réduit.
+
+1972, c. 14, a. 16.
+
+17. Le président et le vice-président doivent exercer leurs fonctions pour la Commission, à temps plein.
+
+1972, c. 14, a. 17.
+
+18. Le président est responsable de l'administration et de la direction de la Commission.
+
+Au cas d'absence ou d'empêchement du président, il est remplacé par le vice-président.
+
+1972, c. 14, a. 18; 1996, c. 23, a. 12.
+
+19. La Commission est une personne morale.
+
+1972, c. 14, a. 19; 1996, c. 23, a. 13.
+
+20. Le quorum de la Commission est fixé à sept membres, dont le président ou le vice-président.
+
+1972, c. 14, a. 20.
+
+21. La Commission a son siège à l'endroit déterminé par le gouvernement; elle peut toutefois le transporter sur le territoire d'une autre municipalité avec l'approbation du gouvernement; un tel changement entre en vigueur sur publication d'un avis à cet effet à la Gazette officielle du Québec.
+
+La Commission peut tenir ses séances à tout endroit du Québec.
+
+1972, c. 14, a. 21; 1996, c. 2, a. 26; 1996, c. 23, a. 14.
+
+SECTION IV
+~~~~~~~~~~
+
+**FONCTIONS ET DEVOIRS DE LA COMMISSION**
+
+22. La Commission doit:
+
+ a) veiller à ce que l'aide juridique soit fournie, dans la mesure établie par le présent chapitre et les règlements, aux personnes admissibles;
+
+ b) former et développer des centres régionaux d'aide juridique et les habiliter à fournir l'aide juridique;
+
+ c) veiller au financement des centres régionaux d'aide juridique et des centres locaux d'aide juridique qu'elle habilite à fournir l'aide juridique en vertu du paragraphe c de l'article 32;
+
+ d) veiller à ce que les activités des centres d'aide juridique soient conformes à la présente loi et aux règlements;
+
+ d.1) favoriser, par la concertation, une application cohérente du présent chapitre et des règlements par les centres d'aide juridique;
+
+ e) faire enquête sur l'administration financière de tout centre d'aide juridique qui présente une situation financière déficitaire ou dont l'administration ou les services sont déficients ou qui semble poursuivre des activités qui ne sont pas conformes à la présente loi ou aux règlements;
+
+ f) promouvoir le développement de programmes d'information destinés à renseigner les personnes admissibles sur leurs droits et leurs obligations;
+
+ f.1) s'assurer qu'un service de consultation téléphonique soit disponible à tout moment en matière criminelle ou pénale pour toute personne, qu'elle soit ou non financièrement admissible à l'aide juridique, afin de lui permettre d'avoir recours, à titre gratuit, à l'assistance d'un avocat au moment de son arrestation ou de sa détention;
+
+ g) favoriser la poursuite d'études et d'enquêtes et l'établissement de statistiques de manière à planifier l'évolution du système d'aide juridique;
+
+ h) collaborer avec les établissements universitaires et les facultés de droit, le Barreau du Québec et la Chambre des notaires du Québec, en vue du développement de programmes de recherches et d'assistance technique relatifs à l'aide juridique et en vue de l'établissement de centres d'aide juridique au Québec;
+
+ i) sous réserve des pouvoirs des ordres professionnels à cet égard, prendre les mesures nécessaires afin d'assurer l'intégrité des relations entre les avocats ou les notaires à l'emploi des centres et leurs clients et collaborer à cette fin avec le Barreau du Québec ou, selon le cas, avec la Chambre des notaires;
+
+ j) dispenser des services juridiques à la place d'un centre d'aide juridique qui a cessé de remplir ses fonctions ou qui n'est plus habilité à les exercer;
+
+ k) former un comité chargé d'effectuer les révisions prévues aux articles 74 et 75;
+
+ l) établir et maintenir ou aider à l'établissement ou au maintien d'une caisse de retraite ou d'un régime de rente de retraite en faveur de ses employés et de ceux des centres ou de leurs parents et personnes à charge et effectuer à leur acquit ou, s'il y a lieu, faire effectuer à leur acquit par les centres, le paiement de primes, le tout sous réserve des dispositions de la Loi sur les régimes complémentaires de retraite (chapitre R-15.1);
+
+ m) (paragraphe abrogé);
+
+ n) établir un comité administratif formé d'au moins trois membres, dont le président de la Commission, qui le préside, le vice-président et tout autre membre de la Commission nommé annuellement par les membres de la Commission réunis en assemblée générale qui en déterminent les fonctions, pouvoirs et devoirs.
+
+1972, c. 14, a. 22; 1989, c. 38, a. 319; 1994, c. 40, a. 457; 1996, c. 23, a. 15, a. 52, a. 53, a. 54; 2010, c. 12, a. 13; 2012, c. 20, a. 36.
+
+22.1. La Commission publie périodiquement, notamment en vue de favoriser l’application cohérente du présent chapitre et des règlements, un bulletin contenant des informations générales ou particulières relativement à l’application de ce chapitre et de ces règlements. Ce bulletin peut également comporter un recueil des décisions prises dans le cadre du présent chapitre.
+
+La Commission diffuse ce bulletin parmi ses membres, les membres des conseils d'administration des centres d'aide juridique ainsi que parmi ses employés et ceux des centres.  Elle en assure également l'accès dans la mesure qu'elle détermine.
+
+1996, c. 23, a. 16; 2010, c. 12, a. 14.
+
+23. La Commission nomme et rémunère, conformément aux normes et barèmes établis par règlement, les employés nécessaires à l'exercice de ses fonctions.
+
+1972, c. 14, a. 23.
+
+23.1. L’article 24 de la Loi sur la fonction publique (chapitre F-3.1.1) s’applique, compte tenu des adaptations nécessaires, à l’égard d’un avocat ou d’un notaire employé à temps plein par la Commission.
+
+2010, c. 12, a. 15.
+
+23.2. Nul acte, document ou écrit n’engage la Commission, ni ne peut lui être attribué s’il n’est signé par le président, le secrétaire ou par un employé de la Commission mais seulement dans la mesure déterminée par règlement du conseil d’administration.
+
+Toutefois, la signature d’un avocat ou d’un notaire à l’emploi de la Commission engage celle-ci dans tous les cas où il s’agit de l’exercice de ses fonctions de professionnel pour un bénéficiaire.
+
+2010, c. 12, a. 15.
+
+24. La Commission peut assumer provisoirement les fonctions d'un centre d'aide juridique:
+
+ a) si, après enquête, la Commission constate que ce centre présente une situation financière déficitaire, notamment en ayant encouru des dépenses qui n'étaient pas prévues à son budget ou qui ont été occasionnées par les activités qui n'étaient pas prévues par la présente loi, un règlement ou toute convention intervenue avec la Commission;
+
+ a.1) si, après enquête, la Commission constate qu'un centre a pris au cours d'un exercice financier des engagements supérieurs au montant autorisé par la Commission pour cet exercice financier;
+
+ b) si un centre a manqué gravement aux obligations qui lui sont imposées par la présente loi, par tout règlement ou par une convention intervenue avec la Commission, notamment en refusant ou négligeant de fournir l'aide juridique qu'il était habilité à fournir et en mesure de fournir ou en poursuivant d'autres activités que celles visées par la présente loi;
+
+ c) s'il y a eu malversation, abus de confiance ou autre inconduite d'un ou de plusieurs membres du conseil d'administration.
+
+1972, c. 14, a. 24; 1996, c. 23, a. 17, a. 54.
+
+25. La Commission assume l'administration provisoire d'un centre à compter de la date où elle donne un avis à cet effet à ce centre.
+
+Aussitôt que possible après qu'elle a assumé l'administration provisoire, mais au plus 30 jours après la réception de l'avis visé au premier alinéa, la Commission doit donner au centre l'occasion de faire valoir son point de vue.
+
+1972, c. 14, a. 25; 1996, c. 23, a. 54.
+
+26. La Commission assume l'administration provisoire d'un centre tant que le centre n'a pas remédié à toute situation prévue à l'article 24 ou jusqu'à ce que le centre ait accepté de mettre en oeuvre les mesures établies par la Commission pour corriger une telle situation dans le délai que la Commission prescrit.
+
+1972, c. 14, a. 26; 1996, c. 23, a. 54.
+
+27. Lorsque la Commission assume l'administration provisoire d'un centre, les pouvoirs du conseil d'administration de ce centre sont suspendus et la Commission exerce par l'intermédiaire d'un administrateur qu'elle nomme, les pouvoirs de ce conseil d'administration ainsi que tous ceux du centre.
+
+1972, c. 14, a. 27; 1996, c. 23, a. 54.
+
+28. La Commission peut charger une personne qu'elle désigne, de faire enquête sur quelque matière se rapportant à l'administration ou au fonctionnement d'un centre.
+
+La personne ainsi désignée est investie, pour les fins de l'enquête, des pouvoirs et immunités d'un commissaire nommé en vertu de la Loi sur les commissions d'enquête (chapitre C-37), sauf du pouvoir d'imposer une peine d'emprisonnement.
+
+1972, c. 14, a. 28; 1992, c. 61, a. 45; 1996, c. 23, a. 54.
+
+SECTION V
+~~~~~~~~~
+
+**CENTRES D'AIDE JURIDIQUE**
+
+29. Les services d'aide juridique sont fournis dans le territoire du Québec par l'intermédiaire de centres régionaux d'aide juridique que la Commission institue pour chacune des régions qu'elle détermine en tenant compte des divisions administratives et des districts judiciaires existants.
+
+1972, c. 14, a. 29; 1996, c. 23, a. 52.
+
+30. Le nom de tout centre régional doit comprendre l'expression «centre communautaire juridique» et indiquer la région pour laquelle ce centre est institué.
+
+1972, c. 14, a. 30; 1996, c. 23, a. 52.
+
+31. Tout centre régional est une personne morale et il peut, dans le cadre du mandat qui lui est donné par la Commission et des normes établies par les règlements, exercer tous les pouvoirs d'une telle personne morale en outre des pouvoirs spéciaux que lui confère la présente loi.
+
+1972, c. 14, a. 31; 1996, c. 23, a. 18.
+
+32. Un centre régional a pour fonction principale de fournir l'aide juridique de la manière prévue par le présent chapitre et, à cette fin, dans le cadre des règlements et de toute entente conclue avec la Commission:
+
+ a) d'établir, dans les limites de ses ressources, des bureaux d'aide juridique dans la région qu'il dessert, suivant les besoins de la population;
+
+ b) d'engager les avocats et les notaires à temps plein et les autres employés nécessaires ainsi que de retenir les services d'étudiants en droit;
+
+ c) de recommander à la Commission l'accréditation de centres locaux d'aide juridique pour fournir l'aide juridique dans le territoire ou pour les fins que la Commission détermine, lorsqu'il apparaît que cette solution est de nature à satisfaire les besoins de la population et qu'un centre local est en mesure de rendre des services juridiques valables;
+
+ d) de susciter l'institution d'un comité consultatif d'un maximum de 12 membres, ou de reconnaître un tel comité, pour représenter les personnes financièrement admissibles à l'aide juridique auprès d'un bureau ou d'un centre local d'aide juridique afin de faire des représentations relatives à l'application du présent chapitre, donner son avis au directeur du bureau ou du centre local sur les besoins des personnes financièrement admissibles à l'aide juridique et, lorsque nécessaire, faire des recommandations audit centre régional.
+
+1972, c. 14, a. 32; 1996, c. 23, a. 19, a. 52, a. 53; 2010, c. 12, a. 16.
+
+32.1. Il entre dans les fonctions de tout centre d'aide juridique de développer et d'appliquer, en collaboration avec la Commission, des programmes d'information destinés à renseigner les personnes admissibles à l'aide juridique sur leurs droits et leurs obligations.
+
+Des consultations d'ordre juridique peuvent être dispensées, dans les matières autres que celles visées au paragraphe f.1 de l'article 22, aux personnes financièrement admissibles à l'aide juridique qui en font la demande.
+
+1996, c. 23, a. 20; 2012, c. 20, a. 37.
+
+32.2. (Abrogé).
+
+1996, c. 23, a. 20; 2010, c. 12, a. 17.
+
+33. Lorsque la Commission accrédite un centre local d'aide juridique, le centre régional qui a compétence dans la région voit à ce que les activités d'un tel centre local s'intègrent dans l'ensemble des services juridiques offerts dans la région et veille à ce qu'il se conforme à la présente loi et aux règlements.
+
+1972, c. 14, a. 33; 1996, c. 23, a. 52, a. 53.
+
+34. Un centre d'aide juridique ne peut se livrer à une activité partisane en faveur d'un candidat ou d'un parti politique.
+
+1972, c. 14, a. 34; 1996, c. 23, a. 54.
+
+35. Les pouvoirs d'un centre régional sont exercés par un conseil d'administration formé de 12 membres nommés pour trois ans par la Commission. De plus, le directeur général y siège dès sa nomination avec voix consultative seulement.
+
+Au moins un tiers des membres du conseil d'administration doivent être choisis parmi les membres du Barreau du Québec ou de la Chambre des notaires du Québec ou parmi les professeurs de droit des établissements universitaires et au moins un autre tiers des membres doivent être choisis parmi les personnes qui résident dans la région que dessert le centre régional.
+
+Quatre des premiers membres sont nommés pour un an, quatre pour deux ans, et quatre pour trois ans.
+
+1972, c. 14, a. 35; 1996, c. 23, a. 52.
+
+36. Les membres du conseil d'administration d'un centre régional ne reçoivent aucun traitement à ce titre; ils peuvent être indemnisés, conformément aux règlements, de ce qu'il leur en coûte pour assister aux assemblées.
+
+1972, c. 14, a. 36; 1996, c. 23, a. 52.
+
+37. Les membres du conseil d'administration d'un centre régional restent en fonction, nonobstant l'expiration de leur mandat, jusqu'à ce qu'ils soient nommés de nouveau ou remplacés.
+
+1972, c. 14, a. 37; 1996, c. 23, a. 52.
+
+38. Toute vacance parmi les membres du conseil d'administration d'un centre régional est comblée pour la durée non écoulée du mandat de ce membre.
+
+1972, c. 14, a. 38; 1996, c. 23, a. 52.
+
+39. Les membres du conseil d'administration d'un centre régional réunis en assemblée générale élisent, parmi eux, chaque année, le président et le vice-président du centre régional.
+
+Au cas d'égalité des voix à une assemblée des membres du conseil d'administration, le président a un vote prépondérant.
+
+1972, c. 14, a. 39; 1996, c. 23, a. 52.
+
+40. Le conseil d'administration de tout centre régional doit, par règlement, établir un comité administratif et déterminer les fonctions, pouvoirs et devoirs de ce comité.
+
+Le comité administratif est formé du président du conseil d'administration, qui le préside, du directeur général et de trois membres du conseil d'administration nommés annuellement par les membres de ce conseil réunis en assemblée générale.
+
+1972, c. 14, a. 40; 1996, c. 23, a. 52.
+
+41. Les membres du comité administratif peuvent recevoir une allocation de présence déterminée par les règlements.
+
+1972, c. 14, a. 41.
+
+42. Les membres du comité administratif demeurent en fonction, nonobstant l'expiration de leur mandat, jusqu'à ce qu'ils soient nommés de nouveau ou remplacés, pourvu que, sauf dans le cas du directeur général, ils demeurent membres du conseil d'administration.
+
+1972, c. 14, a. 42.
+
+43. Toute vacance parmi les membres du comité administratif est comblée en suivant le mode de nomination prescrit pour la nomination du membre à remplacer, mais seulement pour la durée non écoulée du mandat de ce dernier.
+
+1972, c. 14, a. 43.
+
+44. Le directeur général, le secrétaire ainsi que les autres employés d'un centre régional sont nommés par le conseil d'administration; toutefois, la nomination du directeur général doit être ratifiée par la Commission.  Les avocats et les notaires dont le centre régional veut retenir les services à temps plein sont nommés par le conseil d'administration sur recommandation du directeur général; les employés visés au présent article sont rémunérés suivant les normes et barèmes établis à cette fin par les règlements.
+
+1972, c. 14, a. 44; 1996, c. 23, a. 52.
+
+45. L'article 24 de la Loi sur la fonction publique (chapitre F-3.1.1) s'applique, compte tenu des adaptations nécessaires, à l'égard d'un avocat ou d'un notaire employé à plein temps par un centre d'aide juridique.
+
+1972, c. 14, a. 45; 1979, c. 56, a. 310; 1983, c. 55, a. 161; 1996, c. 23, a. 21, a. 54.
+
+46. Le directeur général, qui doit être un avocat, doit exercer ses fonctions pour le centre régional à temps plein.
+
+1972, c. 14, a. 46; 1996, c. 23, a. 52.
+
+47. Le directeur général, en plus des fonctions qui lui sont spécialement attribuées par la présente loi, a la direction générale des affaires du centre régional et la direction et la surveillance du personnel; il administre l'octroi de l'aide juridique et assure la mise à exécution des résolutions du conseil d'administration et du comité administratif.
+
+1972, c. 14, a. 47; 1996, c. 23, a. 52.
+
+48. Les procès-verbaux des séances approuvés par un centre régional sont authentiques; il en est de même des copies ou extraits certifiés par le président ou le secrétaire.
+
+1972, c. 14, a. 48; 1996, c. 23, a. 52.
+
+49. Nul acte, document ou écrit n'engage un centre régional, ni ne peut lui être attribué s'il n'est signé par le président, le directeur général, le secrétaire ou par un employé du centre mais uniquement, dans le cas de ce dernier, dans la mesure déterminée par règlement du conseil d'administration.
+
+Toutefois, la signature d'un avocat ou d'un notaire à l'emploi du centre régional engage ce centre régional dans tous les cas où il s'agit de l'exercice de ses fonctions de professionnel pour un bénéficiaire.
+
+1972, c. 14, a. 49; 1996, c. 23, a. 52, a. 54.
+
+SECTION V.1
+~~~~~~~~~~~
+
+**SERVICES PROFESSIONNELS**
+
+50. Dans le cadre des règlements adoptés en vertu du présent chapitre et des règlements du centre régional, le directeur général délivre, au nom de ce centre, les attestations d'admissibilité à l'aide juridique.
+
+Le conseil d'administration peut toutefois, dans la limite qu'il indique par résolution, déléguer ce pouvoir au directeur d'un bureau d'aide juridique ou, à défaut, à un membre du personnel du centre que la résolution désigne ainsi qu'au directeur d'un centre local d'aide juridique, qui doivent être des avocats.  Dans ce cas, les dispositions de la présente section et des sections VI à VI.2 relatives au directeur général s'appliquent, compte tenu des adaptations nécessaires, aux personnes à qui ce pouvoir a été délégué.
+
+1972, c. 14, a. 50; 1996, c. 23, a. 22, a. 52, a. 54; 2010, c. 12, a. 19.
+
+51. Le directeur général doit fournir à un bénéficiaire les services professionnels d'un avocat ou d'un notaire à l'emploi du centre régional.
+
+1972, c. 14, a. 51; 1996, c. 23, a. 52.
+
+52. Le directeur général doit confier un mandat à un avocat ou notaire qui n'est pas à l'emploi du centre, lorsqu'un bénéficiaire fait le choix particulier de cet avocat ou de ce notaire et que celui-ci accepte de fournir ses services professionnels au bénéficiaire conformément aux règlements.  Dans un tel cas, cet avocat ou ce notaire doit remplir personnellement ce mandat dans ses aspects essentiels.
+
+1972, c. 14, a. 52; 1996, c. 23, a. 23, a. 54.
+
+52.1. Malgré les dispositions des articles 51 et 52, le gouvernement peut, par règlement, prévoir les services juridiques qui, compte tenu des impératifs d'une bonne administration des fonds publics d'aide juridique, sont dispensés, selon ce qu'indique le règlement, de façon permanente ou temporaire, exclusivement soit par des avocats ou des notaires à l'emploi d'un centre d'aide juridique, soit par des avocats ou des notaires qui ne sont pas à l'emploi d'un tel centre.
+
+Tout règlement d'exclusivité peut également porter sur des secteurs d'activités dans lesquels les services juridiques sont dispensés.
+
+Le règlement d'exclusivité indique les services juridiques ou les secteurs d'activités qui en font l'objet.  Il peut prévoir que son application est restreinte au territoire qu'il désigne.  S'il pourvoit à l'exclusivité temporaire, ce règlement fixe la période pendant laquelle il s'applique.
+
+Un règlement d'exclusivité n'a pas pour effet d'écarter l'application des articles 53 à 55.
+
+1996, c. 23, a. 24.
+
+53. Dans le cas où un centre régional n'a pas le personnel suffisant pour fournir à un bénéficiaire l'aide juridique par l'intermédiaire d'un avocat ou d'un notaire à son emploi à temps plein, le directeur général peut confier un mandat à un autre avocat ou notaire.
+
+1972, c. 14, a. 53; 1996, c. 23, a. 52.
+
+54. Dans le cas où la nature de la question, du litige, de la cause ou de la poursuite nécessite une compétence particulière que le centre n'est pas en mesure d'assumer par l'entremise d'un avocat à son emploi, le directeur général assigne au bénéficiaire un autre avocat.
+
+1972, c. 14, a. 54; 1996, c. 23, a. 54.
+
+55. Dans le cas où une personne qui demande l'aide juridique est partie à un litige ou à une cause impliquant, en défense ou en demande, un bénéficiaire pour lequel un avocat permanent du centre agit comme procureur, le directeur général réfère la personne à un autre centre ou confie un mandat à un avocat qui n'est pas à l'emploi d'un centre, selon la méthode qui s'avère la plus pratique.
+
+1972, c. 14, a. 55; 1996, c. 23, a. 54.
+
+56. Le directeur général doit dresser une liste des avocats et des notaires qui ne sont pas à l'emploi du centre et qui acceptent que leurs services professionnels soient retenus pour des bénéficiaires.
+
+1972, c. 14, a. 56; 1996, c. 23, a. 54.
+
+57. Sous réserve de l'article 52, le directeur général doit répartir équitablement entre chacun des avocats ou, selon le cas, des notaires visés à l'article 56, les mandats qui leur sont confiés, en tenant compte de la nature des questions ou litiges et du nombre de mandats confiés à chacun d'eux.
+
+1972, c. 14, a. 57.
+
+58. Dans le cas où le directeur général fournit à un bénéficiaire les services professionnels d'un avocat ou d'un notaire qui n'est pas à l'emploi du centre régional, il fixe alors, dans le cadre des règlements, les conditions du mandat qu'il accorde à cet avocat ou ce notaire.
+
+1972, c. 14, a. 58; 1996, c. 23, a. 52.
+
+59. Un avocat employé à temps plein par un centre ou par la Commission doit se consacrer exclusivement à l’exercice de ses fonctions pour ce centre ou, le cas échéant, pour la Commission, sauf dans des cas exceptionnels avec l’approbation du centre ou, le cas échéant, de la Commission et conformément aux règlements.
+
+1972, c. 14, a. 59; 1996, c. 23, a. 54; 2010, c. 12, a. 20.
+
+60. Un avocat ou un notaire qui n'est pas à l'emploi d'un centre d'aide ou de la Commission et qui rend des services juridiques à un bénéficiaire dans le cadre de la présente loi ne peut, à l'égard de ces services, recevoir que les honoraires et déboursés prévus par la présente loi et les règlements.
+
+Quiconque a versé une somme d'argent ou procuré quelque autre avantage non prévu par la présente loi a droit de les recouvrer.
+
+1972, c. 14, a. 60; 1982, c. 36, a. 4; 1996, c. 23, a. 25; 2010, c. 12, a. 21.
+
+61. Nonobstant toute loi ou tout règlement à ce contraire, un avocat ou un notaire à l'emploi d'un centre ou de la Commission doit remettre au centre ou, le cas échéant, à la Commission les montants des honoraires et des déboursés qu'il perçoit par suite d'un jugement ou d'une transaction.
+
+De plus, sous réserve de son traitement et des autres bénéfices que lui accorde, en vertu de la présente loi, le centre ou la Commission qui l'emploie, il est interdit à un tel avocat ou notaire d'accepter, pour exécuter ses fonctions, une somme d'argent ou un bénéfice quelconque.
+
+1972, c. 14, a. 61; 1996, c. 23, a. 26, a. 54; 2010, c. 12, a. 22.
+
+61.1. Dans le cas d’une cause pénale ou criminelle, longue et complexe notamment en raison de la durée prévue du procès, du nombre d’accusés, du nombre et de la nature des accusations, de la nature de la preuve, de la durée prévue pour l’audition des requêtes préliminaires annoncées ou anticipées, ainsi qu’il est mentionné dans le procès verbal de la conférence préparatoire ou indiqué au dossier du tribunal, ou encore en raison de la durée de l’enquête qui a conduit au dépôt des accusations, seule la Commission décide si le bénéficiaire peut recevoir les services professionnels d’un avocat conformément aux articles 83.3 à 83.7 et 83.9 à 83.12 et quelle est, le cas échéant, la tarification applicable aux honoraires accordés à l’avocat.
+
+Les dispositions des articles 56 et 57 ne s’appliquent pas dans le cadre du présent article.
+
+2010, c. 12, a. 23.
+
+SECTION VI
+~~~~~~~~~~
+
+**DEMANDES D'AIDE JURIDIQUE**
+
+62. Une personne doit, pour que l'aide juridique lui soit accordée, en faire la demande.
+
+Chacune des parties à une entente doit, pour que l'aide juridique soit accordée pour les services juridiques prévus au paragraphe 1.1° de l'article 4.7, en faire la demande.
+
+La demande doit être présentée en la manière établie par règlement.
+
+La personne financièrement admissible à l'aide juridique moyennant le versement d'une contribution est tenue d'acquitter, pour l'étude de sa demande, les frais au montant fixé par règlement, à moins que l'aide juridique ne lui soit accordée pour les services juridiques prévus au paragraphe 1.1° de l'article 4.7.
+
+1972, c. 14, a. 62; 1982, c. 36, a. 5; 1988, c. 51, a. 97; 1996, c. 23, a. 27; 1998, c. 36, a. 165; 2005, c. 15, a. 140; 2012, c. 20, a. 38.
+
+63. Sous réserve des dispositions des articles 4.3 et 4.13 et du deuxième alinéa de l'article 50, seul le directeur général a compétence pour décider de l'attribution de l'aide juridique.
+
+Dans le cas où le requérant est une personne qui exerce ou entend exercer le recours collectif, le directeur général délivre une attestation d'admissibilité à cette personne si elle-même et une partie importante des membres du groupe qu'elle représente ou entend représenter sont admissibles à recevoir l'aide juridique.
+
+1972, c. 14, a. 63; 1978, c. 8, a. 52; 1982, c. 36, a. 6; 1996, c. 23, a. 28.
+
+64. Le requérant doit, conformément aux règlements, exposer sa situation financière et, selon le cas, celle de sa famille, à moins qu'il soit admissible suivant le deuxième alinéa de l'article 4 et qu'il déclare, de la manière prévue par règlement, ne pas être financièrement admissible.
+
+Le requérant doit également établir les faits sur lesquels se fonde sa demande conformément aux règlements.
+
+Il doit fournir ou veiller à ce que soient fournis tous les renseignements et documents déterminés par règlement et qui sont nécessaires à l'établissement et à la vérification de son admissibilité à l'aide juridique et à l'établissement, s'il en est, de la contribution exigible.
+
+Le directeur général ou un membre de son personnel qu'il désigne à cette fin peut, dans le cadre d'une vérification, exiger de toute personne tout renseignement ou document relatif à l'admissibilité financière à l'aide juridique d'un requérant, examiner ces documents et en tirer copie. Toute personne à qui une telle demande est faite est tenue de s'y conformer.
+
+1972, c. 14, a. 64; 1996, c. 23, a. 29; 2012, c. 20, a. 39.
+
+65. Le directeur général à qui une demande est faite doit, dans le plus bref délai possible, procéder à l'étude de cas du requérant, afin de statuer sur son admissibilité à l'aide juridique.
+
+1972, c. 14, a. 65.
+
+66. Le directeur général délivre une attestation d'admissibilité à chaque personne à laquelle l'aide juridique est accordée.
+
+Toutefois, il délivre une seule attestation pour les parties à une entente auxquelles l'aide juridique est accordée pour les services juridiques prévus au paragraphe 1.1° de l'article 4.7.
+
+La forme et le contenu de l'attestation sont déterminés par règlement.
+
+L'attestation doit être remise par le bénéficiaire, sans délai, à son avocat ou à son notaire, qui la dépose au dossier de la cour ou, selon le cas, au bureau de la publicité des droits.
+
+L'attestation n'est valide que pour la période, le litige, la poursuite ou le service juridique que le directeur général détermine.
+
+Chaque recours devant une instance, y compris en appel, doit faire l'objet d'une nouvelle demande d'aide juridique.
+
+Lorsqu'un bénéficiaire a été déclaré financièrement admissible moyennant le versement d'une contribution, la délivrance ultérieure, dans la même affaire, d'une ou plusieurs attestations d'admissibilité à ce même bénéficiaire n'entraîne pas pour ce bénéficiaire l'obligation de verser de nouveau une contribution.
+
+1972, c. 14, a. 66; 1996, c. 23, a. 30; 2012, c. 20, a. 40.
+
+67. En cas d'urgence, le directeur général peut, avant l'étude approfondie du dossier d'un requérant, délivrer une attestation conditionnelle d'admissibilité pour la prestation des actes conservatoires nécessaires à la préservation des droits du requérant, notamment pour la comparution dans une poursuite criminelle ou pénale.  Le directeur général peut délivrer par la suite, si le requérant est admissible, une attestation définitive avec effet rétroactif.
+
+Lorsque le directeur général ne délivre pas au requérant une attestation définitive avec effet rétroactif:
+
+ 1° l'avocat ou le notaire du requérant doit, s'il n'est pas à l'emploi du centre d'aide ou de la Commission, recouvrer du requérant ses honoraires et déboursés afférents aux actes conservatoires accomplis;
+
+ 2° le requérant est tenu, lorsque les actes conservatoires ont été accomplis par un avocat ou un notaire à l'emploi du centre d'aide ou de la Commission, de rembourser, conformément aux dispositions de la section VI.1, les coûts de l'aide juridique obtenue.
+
+1972, c. 14, a. 67; 1996, c. 23, a. 31; 2010, c. 12, a. 24.
+
+68. Un requérant ou bénéficiaire de l'aide juridique doit, sans délai, aviser le centre auquel il a fait une demande ou qui lui a émis une attestation, de tout changement dans sa situation ou dans celle de sa famille qui affecte son admissibilité à l'aide juridique.
+
+1972, c. 14, a. 68; 1996, c. 23, a. 32, a. 54.
+
+69. Le directeur général doit refuser l'émission d'une attestation d'admissibilité à une personne autrement admissible dans le cas où, à cause du fondement de son droit et du montant en litige, un avocat qui n'est pas à l'emploi d'un centre accepte d'agir comme procureur et de faire, conformément au paragraphe 3 de l'article 126 de la Loi sur le Barreau (chapitre B-1), une entente expresse relative aux honoraires extrajudiciaires.
+
+Toutefois, si ce requérant ne parvient pas à percevoir un montant équivalant à celui qui aurait été versé à son avocat si le requérant avait bénéficié de l'aide juridique, et si le directeur général estime que les circonstances l'indiquent, l'aide juridique peut lui être accordée, déduction faite du montant perçu, le cas échéant, avec effet rétroactif à compter de la date de la demande refusée en vertu du premier alinéa.
+
+Lorsque l'aide est ainsi accordée parce que le jugement ne peut être exécuté, le centre est subrogé dans les droits du requérant contre la partie adverse pour le montant de l'aide accordée.  La créance du centre est acquittée de préférence à celle du requérant.
+
+1972, c. 14, a. 69; 1982, c. 36, a. 7; 1996, c. 23, a. 33, a. 54.
+
+70. L'aide juridique peut être refusée ou retirée, selon le cas, à toute personne qui, sans raison suffisante:
+
+ a) refuse ou néglige de fournir les renseignements ou documents requis pour l'étude de sa demande;
+
+ a.1) fournit volontairement un renseignement que le directeur général a des motifs raisonnables de croire faux ou inexact;
+
+ b) néglige de se conformer à l'article 68;
+
+ c) refuse ou néglige d'exercer les droits et recours judiciaires qui lui appartiennent;
+
+ d) refuse ou néglige d'accorder à l'avocat ou au notaire qui lui rend des services professionnels, la collaboration normale et habituelle entre un avocat ou un notaire et son client.
+
+L'aide juridique peut également être refusée ou retirée lorsque le requérant, le bénéficiaire ou un autre membre de la famille a disposé d'un bien ou de liquidités sans juste considération de manière à rendre le requérant ou le bénéficiaire financièrement admissible à l'aide juridique ou à éluder le versement d'une contribution.
+
+L'aide juridique peut en outre être suspendue ou retirée lorsque le bénéficiaire fait défaut de verser, en tout ou en partie, la contribution exigible, s'il en est.
+
+Le retrait ou la suspension de l'aide peut intervenir en tout état de cause. Sous réserve des règlements, le centre verse à l'avocat ou au notaire qui n'est pas à l'emploi du centre les honoraires et déboursés auxquels il a droit pour les services qu'il a rendus avant que le retrait ou la suspension ne lui soit notifié.
+
+1972, c. 14, a. 70; 1996, c. 23, a. 34.
+
+71. Lorsque le bénéficiaire cesse d'être financièrement admissible, l'aide juridique peut être maintenue pour les services faisant l'objet de l'attestation qui lui avait été délivrée.
+
+1972, c. 14, a. 71; 1996, c. 23, a. 35.
+
+72. (Abrogé).
+
+1972, c. 14, a. 72; 1982, c. 36, a. 8; 1996, c. 23, a. 36.
+
+73. Le directeur général doit aviser par écrit le requérant du refus, de la suspension ou du retrait de l'aide juridique.  Cet avis doit contenir les motifs de la décision et le directeur général doit en transmettre, le cas échéant, une copie à l'avocat ou au notaire responsable du dossier qui doit en informer le greffier du tribunal ou l'officier de la publicité des droits.  La décision du directeur général comporte, lorsqu'il s'agit d'un refus ou d'un retrait de l'aide juridique, la mention du droit du requérant ou, selon le cas, du bénéficiaire d'en demander la révision et du délai dans lequel cette demande doit être présentée.
+
+1972, c. 14, a. 73; 1996, c. 23, a. 37.
+
+SECTION VI.1
+~~~~~~~~~~~~
+
+**RECOUVREMENT DES COÛTS DE L'AIDE JURIDIQUE**
+
+73.1. Une personne doit, dans les cas prévus par les règlements et dans la mesure qui y est établie, rembourser au centre d'aide juridique, sur demande, les coûts de l'aide juridique obtenue.
+
+1996, c. 23, a. 38.
+
+73.2. Le recouvrement des coûts de l'aide juridique se prescrit par trois ans à compter du moment où, suivant les règlements, leur remboursement devient exigible.  S'il y a eu mauvaise foi, il se prescrit par trois ans à compter de la date à laquelle le directeur général a eu connaissance du fait que ces coûts sont recouvrables, mais au plus tard 10 ans après la date à laquelle le remboursement aurait été autrement exigible.
+
+1996, c. 23, a. 38.
+
+73.3. Le directeur général met en demeure le débiteur par un avis qui énonce le montant et les motifs d'exigibilité de la dette et le droit du débiteur de demander une révision de cette décision.
+
+Cette mise en demeure interrompt la prescription.
+
+1996, c. 23, a. 38.
+
+73.4. Le débiteur doit rembourser la dette dans le délai prévu par règlement, à moins que le directeur général n'accepte que tout ou partie de la dette soit remboursée en plusieurs versements.
+
+La dette devient exigible en totalité lorsque le débiteur fait défaut de se conformer à une entente prise avec le directeur général.
+
+1996, c. 23, a. 38.
+
+73.5. Lorsque le débiteur fait défaut de rembourser tout ou partie de la dette, le directeur général ou un membre de son personnel qu'il désigne à cette fin peut, à l'expiration du délai pour demander une révision ou, s'il y a révision, à compter de la date de la décision du comité de révision confirmant en tout ou en partie la décision du directeur général, délivrer un certificat attestant le montant et l'exigibilité de la dette.  Ce certificat fait preuve, en l'absence de toute preuve contraire, de l'exigibilité de la dette et du montant dû.
+
+1996, c. 23, a. 38.
+
+73.6. Le débiteur est tenu au paiement d'intérêts, dans les cas et suivant les modalités déterminés par règlement, au taux qui y est fixé.
+
+1996, c. 23, a. 38.
+
+SECTION VI.2
+~~~~~~~~~~~~
+
+**RÉVISION**
+
+74. Une personne à qui l'aide juridique est refusée ou retirée ou de qui le remboursement des coûts de l'aide juridique est exigé ou qui conteste le montant de la contribution exigible peut, dans les 30 jours de la décision du directeur général, faire une demande de révision au comité formé en vertu du paragraphe k de l'article 22.  La demande est décidée par trois membres dont au moins un est avocat.  Cette demande délie l'avocat de la personne qui demande la révision et le directeur général de leur secret professionnel à l'égard du comité chargé d'effectuer la révision et de son délégué.
+
+Lorsque la décision concerne le refus ou le retrait de l'aide juridique, le directeur général doit, en cas d'urgence, délivrer une attestation conditionnelle d'admissibilité pour la prestation des actes conservatoires nécessaires à la préservation des droits de la personne qui demande la révision.  Lorsqu'une telle attestation est délivrée, la révision doit être effectuée en priorité.
+
+Lorsque le comité chargé d'effectuer la révision décide que la personne qui a demandé la révision n'est pas admissible à l'aide juridique:
+
+ 1° l'avocat ou le notaire de la personne qui a demandé la révision doit, s'il n'est pas à l'emploi du centre d'aide ou de la Commission, recouvrer de cette personne ses honoraires et déboursés afférents aux actes conservatoires accomplis;
+
+ 2° la personne qui a demandé la révision est tenue, lorsque les actes conservatoires ont été accomplis par un avocat ou un notaire à l'emploi du centre d'aide ou de la Commission, de rembourser, conformément aux dispositions de la section VI.1, les coûts de l'aide juridique obtenue.
+
+1972, c. 14, a. 74; 1996, c. 23, a. 39; 2010, c. 12, a. 25.
+
+75. Toute partie intéressée dans un litige ou une cause peut contester l'admissibilité financière d'une personne à l'aide juridique en faisant une demande à cette fin au directeur général; la décision du directeur général peut faire l'objet, dans les 15 jours de la date à laquelle elle a été rendue, d'une demande de révision auprès du comité de révision.
+
+1972, c. 14, a. 75; 1996, c. 23, a. 40; 1997, c. 43, a. 25.
+
+76. Sous réserve de l'article 75, la demande écrite de révision ou en contestation doit contenir un exposé sommaire des motifs invoqués et être adressée par courrier recommandé ou certifié au président de la Commission.
+
+Le cas échéant, une copie de la demande doit être transmise à l'avocat ou au notaire qui a été chargé de rendre les services professionnels au bénéficiaire.
+
+1972, c. 14, a. 76; 1975, c. 83, a. 84.
+
+77. Le comité de révision doit, avant de prendre sa décision, donner au requérant ou au bénéficiaire, ainsi que, le cas échéant, à la personne qui conteste l'admissibilité financière à l'aide juridique, l'occasion de présenter ses observations.
+
+1972, c. 14, a. 77; 1996, c. 23, a. 41; 1997, c. 43, a. 26.
+
+78. Le comité de révision avise sans délai les personnes visées et le centre de sa décision et des raisons qui la motivent.
+
+1972, c. 14, a. 78; 1996, c. 23, a. 54; 1997, c. 43, a. 27.
+
+79. La décision visée à l'article 78 est finale et n'est pas sujette à appel.
+
+1972, c. 14, a. 79.
+
+SECTION VII
+~~~~~~~~~~~
+
+**RÈGLEMENTS**
+
+80. Peuvent être adoptés des règlements pour les fins du présent chapitre, à moins que le contexte n’indique un sens différent, notamment pour:
+
+ a) déterminer, aux fins de l'admissibilité financière, dans quel cas une personne, autre que le père ou la mère, forme, avec les enfants, une famille et désigner cette personne, prévoir dans quels cas ou quelles circonstances et, le cas échéant, à quelles conditions une personne continue de faire partie d'une famille, en devient membre ou cesse d'en faire partie et définir, pour l'application de l'article 1.2, ce que constitue la fréquentation d'un établissement d'enseignement;
+
+ a.1) déterminer la période pour laquelle les revenus, les liquidités et les autres actifs sont considérés aux fins de l'admissibilité financière à l'aide juridique et prévoir les conditions dans lesquelles a lieu cette détermination;
+
+ a.2) déterminer, aux fins de l'admissibilité financière à l'aide juridique, dans quels cas et, s'il y a lieu, à quelles conditions et dans quelle mesure:
+
+1°  sont considérés les revenus, les liquidités et les autres actifs du requérant et de sa famille;
+
+2°  sont considérés les revenus, les liquidités et les autres actifs du requérant et de son conjoint;
+
+3°  sont considérés les revenus, les liquidités et les autres actifs du requérant, de son conjoint et d'un enfant;
+
+4°  ne sont considérés que les revenus, les liquidités et les autres actifs d'un enfant mineur;
+
+5°  ne sont pas considérés les revenus, les liquidités et les autres actifs du conjoint du requérant;
+
+ a.3) déterminer ce qui constitue les revenus, les liquidités et les autres actifs aux fins de l'admissibilité financière à l'aide juridique et, à cette fin, déterminer les revenus, les liquidités et les autres actifs qui doivent être considérés ou exclus, indiquer les montants qui peuvent être déduits des revenus, prévoir les méthodes de calcul pour établir les revenus ou la valeur des biens et déterminer ce que comprennent les liquidités;
+
+ a.4) fixer le niveau maximal des revenus ainsi que la valeur maximale des liquidités et des autres actifs en deçà desquels une personne est financièrement admissible à l'aide juridique gratuite en vertu de l'article 4.1;
+
+ a.5) fixer le niveau maximal des revenus en deçà duquel une personne est financièrement admissible à l'aide juridique moyennant le versement d'une contribution en vertu de l'article 4.2 et, à cette fin, prévoir dans quelle mesure les liquidités sont réputées constituer des revenus et dans quelle mesure et suivant quelle proportion, exprimée en pourcentage, la valeur des actifs autres que les liquidités est réputée constituer des revenus, déterminer la contribution exigible et fixer le montant maximal que cette contribution peut atteindre;
+
+ a.6) déterminer la contribution exigible d'une personne déclarée financièrement admissible à l'aide juridique en vertu de l'article 4.3 et fixer le montant maximal que cette contribution peut atteindre;
+
+ a.7) déterminer, aux fins de la contribution prévue au paragraphe a.5 ou a.6, ce que comprennent les coûts de l'aide juridique, fixer à quel moment le versement de la contribution est exigible du bénéficiaire et déterminer les normes qui régissent le versement de la contribution et, à cette fin, prévoir les délais et les modalités du versement, établir dans quels cas le bénéficiaire est tenu au paiement d'intérêts et en fixer le taux;
+
+ a.8) adapter, pour les personnes qui résident dans une région éloignée, les règles d'admissibilité financière à l'aide juridique gratuite ou moyennant le versement d'une contribution et, à cette fin, fixer la période minimale de résidence dans cette région et déterminer ce qu'est une région éloignée;
+
+ a.9) déterminer ce que comprennent les coûts de l'aide juridique pour les services prévus au paragraphe 1.1° de l'article 4.7, fixer à quel moment le paiement de ces coûts est exigible d'une personne admissible à l'aide juridique suivant le deuxième alinéa de l'article 4 à qui l'aide juridique est accordée, établir dans quels cas cette personne est tenue au paiement d'intérêts et en fixer le taux et déterminer toutes autres modalités relatives au paiement de ces coûts;
+
+ b) déterminer les programmes de prestations ou d'indemnités dans le cadre desquels l'aide juridique est accordée, dans la mesure prévue au paragraphe 7° de l'article 4.7 et au paragraphe 2° de l'article 4.10 ou désigner les dispositions législatives établissant ces programmes;
+
+ b.1) déterminer, outre ceux qui sont déjà accordés en vertu du présent chapitre, les services juridiques pour lesquels l'aide juridique est accordée et prévoir, s'il y a lieu, à quelles conditions cette aide est accordée et déterminer, outre ceux pour lesquels aucune aide n'est accordée, les services juridiques qui ne peuvent faire l'objet de l'aide juridique et prévoir, s'il y a lieu, dans quels cas et à quelles conditions ces services ne peuvent faire l'objet de cette aide;
+
+ b.2) définir les termes et expressions utilisés dans la présente loi ou en préciser la portée;
+
+ c) fixer les conditions que doit remplir un centre d'aide juridique et les renseignements qu'il doit fournir pour être habilité par la Commission aux fins de la présente loi;
+
+ d) déterminer les conditions de toute entente entre la Commission et les centres d'aide juridique aux fins de la présente loi;
+
+ e) déterminer la forme et le contenu de toute attestation d'admissibilité délivrée en vertu du présent chapitre;
+
+ f) déterminer, après consultation du Barreau du Québec ou, selon le cas, de la Chambre des notaires du Québec, les services juridiques, autres que ceux qui sont du ressort exclusif de l'avocat ou du notaire, qu'un stagiaire ou un étudiant en droit à l'emploi d'un centre d'aide juridique est autorisé à rendre ainsi que les secteurs d'activités dans lesquels ces services juridiques peuvent ainsi être rendus et les conditions suivant lesquelles ces services sont rendus;
+
+ g) pour l’application de la présente loi, déterminer les livres, comptes et statistiques qu'un centre d'aide juridique doit tenir ainsi que la nature et la forme des rapports qu'il doit fournir, la nature des renseignements qu'ils doivent contenir et l'époque à laquelle ils doivent être produits;
+
+ h) déterminer la forme et le contenu d'une demande d'aide juridique ainsi que d'une déclaration faite en vertu du premier alinéa de l'article 64 de même que la teneur des engagements que le requérant doit prendre;
+
+ h.1) déterminer les documents et les renseignements que doit fournir une personne qui demande l'aide juridique et désigner les catégories de personnes qui sont dispensées de l'obligation de fournir certains documents ou certains renseignements;
+
+ h.2) définir ce qu'est un requérant à l'aide juridique et désigner les personnes ou les organismes qui ne peuvent présenter une demande d'aide juridique au nom d'autrui;
+
+ h.3) déterminer les documents et les renseignements relatifs à une demande d'aide juridique qui peuvent faire l'objet d'une vérification, auprès de qui cette vérification peut être effectuée et prévoir les autorisations qui peuvent être exigées à cet égard;
+
+ i) pour l’application de la présente loi, établir les normes et critères suivant lesquels sont établies les indemnités payables aux membres du conseil d'administration d'un centre régional et les allocations de présence payables aux membres du comité administratif;
+
+ j) pour l’application de la présente loi, fixer la date de la fin de son exercice financier et de celui des centres d'aide juridique ainsi que la date du dépôt de leurs prévisions budgétaires;
+
+ k) pour l’application de la présente loi, édicter des règles nécessaires à sa régie interne et à la conduite de ses affaires, notamment en ce qui concerne le fonctionnement du comité chargé d'effectuer les révisions prévues à la section VI.2;
+
+ l) prendre, s'il y a lieu, les dispositions nécessaires à l'application des dispositions d'une entente prévue à l'article 94, notamment en vue de prévoir l'attribution de l'aide juridique selon ce qui est prévu à l'entente;
+
+ m) pour l’application de la présente loi, déterminer les normes et critères relatifs au contrôle que doit exercer un centre régional sur les dépenses d'un centre local d'aide juridique;
+
+ n) déterminer l'endroit où une personne qui désire obtenir l'aide juridique doit adresser sa demande et établir des règles à cet égard;
+
+ o) (paragraphe abrogé);
+
+ p) déterminer les cas où, malgré les dispositions du présent chapitre, les honoraires et les déboursés des avocats et des notaires qui ne sont pas à l’emploi d’un centre ou de la Commission et dont les services sont retenus pour le compte d’un bénéficiaire, sont payés par le centre ou par la Commission;
+
+ q) déterminer, pour l'application du deuxième alinéa de l'article 63, les critères et les normes selon lesquels le directeur général établit qu'une partie importante d'un groupe est admissible à l'aide juridique;
+
+ r) fixer le montant des frais qu'un centre local ou qu'un bureau doit exiger conformément à l'article 62, établir, quant à ces frais, des modalités de paiement et déterminer dans quels cas ils pourront être remboursés;
+
+ s) prévoir, aux fins du recouvrement des coûts de l'aide juridique, dans quels cas et dans quelle mesure une personne est tenue de rembourser ces coûts, déterminer ce que comprennent ces coûts, fixer la manière selon laquelle le montant exigible est établi, déterminer tout ou partie des sommes que le débiteur n'est pas tenu de rembourser et les cas dans lesquels le recouvrement n'a pas lieu, fixer à quel moment le remboursement des coûts est exigible, prévoir le délai et les modalités de ce remboursement et déterminer dans quels cas le débiteur est tenu au paiement d'intérêts et en fixer le taux;
+
+ s.1) déterminer le montant et les modalités du remboursement auquel les parties ont droit dans le cas d'un retrait de l'aide juridique en application de l'article 4.11.1;
+
+ t) pourvoir à l'exclusivité de services prévue à l'article 52.1;
+
+ u) déterminer les modalités et la forme de la reddition de comptes qu’un avocat ou un notaire doit, en vertu de la présente loi, accomplir auprès de la Commission à propos des honoraires et des déboursés relatifs aux services juridiques qu’il a rendus, les délais dans lesquels cette reddition de comptes doit être accomplie et les cas d’exception pour lesquels une telle reddition de comptes n’est pas requise;
+
+ v) déterminer les règles applicables au paiement des honoraires et déboursés par la Commission, incluant la date à compter de laquelle court la prescription d’une créance relative à un relevé d’honoraires et de déboursés payable par un centre ou par la Commission en vertu de la présente loi.
+
+Les dispositions des règlements pris en vertu des paragraphes a à a.8 du premier alinéa peuvent varier selon qu'il s'agit d'une personne seule ou d'une famille, selon la composition de la famille, selon la situation du requérant ou d'un membre de sa famille, ou selon le nombre d'enfants ou selon qu'il s'agit d'une personne physique, d'un groupe de personnes ou d'une personne morale ou, dans le cas du paragraphe a.2, selon le service juridique dispensé ou, dans le cas du paragraphe a.4, selon le type d'actifs ou selon que le requérant ou son conjoint est propriétaire ou non de la résidence ou, dans le cas du paragraphe h.1, selon que le requérant est une personne physique, un groupe de personnes ou une personne morale.  La méthode de calcul pour établir les revenus ou la valeur des biens visés au paragraphe a.3 du premier alinéa peut varier selon les types de revenus et les actifs considérés.  Les dispositions du règlement prises en vertu du paragraphe a.5 ou a.6 du premier alinéa et relatives à l'établissement de la contribution peuvent prévoir que cette dernière peut varier selon qu'il s'agit d'une personne seule ou d'une famille et selon le niveau de revenus du bénéficiaire ou selon qu'il s'agit d'une personne physique, d'un groupe de personnes ou d'une personne morale.  Les normes relatives au versement par le bénéficiaire de la contribution prévue au paragraphe a.7 peuvent varier selon que les services ont été rendus par un avocat ou un notaire à l’emploi d’un centre d’aide ou de la Commission ou par un avocat ou un notaire qui n’est pas à l’emploi d’un centre ou de la Commission.  Les dispositions du règlement prises en vertu du paragraphe f du premier alinéa peuvent varier selon les services juridiques rendus ou les secteurs d'activités dans lesquels ces services sont rendus ou selon que les services sont rendus par un stagiaire ou un étudiant en droit.  La manière permettant d'établir le montant exigible d'une personne tenue de rembourser les coûts de l'aide juridique, en vertu du paragraphe s du premier alinéa, peut varier selon les cas qu'indique le règlement.  Les dispositions d'un règlement prévu au paragraphe t du premier alinéa peuvent varier selon les services juridiques dispensés ou les secteurs d'activités dans lesquels ces services sont dispensés ou selon le territoire où elles s'appliquent et leur durée d'application.
+
+Le gouvernement prend les règlements visés aux paragraphes a à a.9, b à b.2, h à h.3, l et q à v du premier alinéa.
+
+Tout autre règlement dans le cadre du présent chapitre est pris par la Commission et est soumis à l'approbation du gouvernement qui peut l'approuver avec ou sans modification.
+
+Après son approbation, un règlement pris par la Commission pour l'application du paragraphe k du premier alinéa est publié à la Gazette officielle du Québec. Il entre en vigueur à compter de cette publication ou à toute date ultérieure qui y est indiquée.
+
+1972, c. 14, a. 80; 1978, c. 8, a. 53; 1982, c. 36, a. 9; 1982, c. 17, a. 35; 1996, c. 23, a. 42; 1996, c. 23, a. 52, a. 53, a. 54; 2000, c. 8, a. 101; 2010, c. 12, a. 27; 2012, c. 20, a. 41.
+
+80.1. (Abrogé).
+
+2000, c. 8, a. 102; 2002, c. 31, a. 1; 2010, c. 12, a. 28.
+
+80.2. (Abrogé).
+
+2007, c. 7, a. 1; 2010, c. 12, a. 28.
+
+81. (Abrogé).
+
+1972, c. 14, a. 81; 1982, c. 36, a. 10; 1985, c. 29, a. 1; 1996, c. 23, a. 43; 1996, c. 23, a. 54; 2010, c. 12, a. 28.
+
+SECTION VIII
+~~~~~~~~~~~~
+
+82. (Abrogé).
+
+1972, c. 14, a. 82; 1986, c. 58, a. 2; 1990, c. 4, a. 49; 1991, c. 33, a. 2; 1996, c. 23, a. 44; 2010, c. 12, a. 29.
+
+82.1. (Abrogé).
+
+1996, c. 23, a. 44; 2010, c. 12, a. 29.
+
+83. (Abrogé).
+
+1972, c. 14, a. 83; 1992, c. 61, a. 47.
+
+CHAPITRE III
+------------
+
+**PRESTATION DE CERTAINS SERVICES JURIDIQUES AUTRES QUE L’AIDE JURIDIQUE**
+
+83.1. Outre les fonctions et les devoirs qui lui sont attribués par le chapitre II, la Commission des services juridiques doit veiller à ce que des services juridiques soient fournis aux personnes accusées dans un procès pénal ou criminel dont le droit aux services d’un avocat rémunéré par l’État, afin d’assurer leur droit constitutionnel à un procès équitable, a été reconnu par une ordonnance judiciaire.
+
+Elle doit également veiller à ce que de tels services soient offerts lorsqu’une ordonnance judiciaire portant sur la désignation d’un avocat a été rendue aux termes d’une disposition du Code criminel (L.R.C. 1985, c. C-46), notamment en vertu des articles 486.3 et 672.24, des paragraphes 8 à 8.2 de l’article 672.5 et des articles 684 et 694.1 de ce code.
+
+2010, c. 12, a. 30.
+
+83.2. Les principes énoncés à l’article 3.2 s’appliquent, compte tenu des adaptations nécessaires, à la gestion et à la prestation des services juridiques rendus dans le cadre du présent chapitre, sans égard à l’admissibilité financière des personnes qui y sont visées.
+
+Les articles 60 et 61 s’appliquent à l’égard d’un service rendu par un avocat en vertu du présent chapitre, compte tenu des adaptations nécessaires.
+
+2010, c. 12, a. 30.
+
+83.3. La Commission, en concertation avec les centres régionaux, prend les mesures nécessaires pour assurer une application cohérente du présent chapitre.
+
+2010, c. 12, a. 30.
+
+83.4. Dès qu’un directeur général est informé de faits prévus à l’un des articles 61.1 et 83.1, il doit en aviser, sans délai, la Commission. Dans le cas prévu à l’article 61.1, l’avis du directeur général peut comporter une recommandation, laquelle ne lie pas la Commission.
+
+La Commission informe le directeur général de tout fait semblable dont elle a connaissance.
+
+2010, c. 12, a. 30.
+
+83.5. Le directeur général du lieu où doit se dérouler ou, le cas échéant, se poursuit la procédure ou le procès exerce les fonctions qui sont attribuées au directeur général en vertu du chapitre II.
+
+2010, c. 12, a. 30.
+
+83.6. Le directeur général doit confier la prestation des services juridiques à un avocat qui n’est pas à l’emploi d’un centre régional, lorsqu’une personne visée à l’un des articles 61.1 et 83.1 fait le choix particulier de cet avocat et que celui-ci accepte de fournir ses services professionnels à cette personne selon les honoraires indiqués, le cas échéant, par la Commission en vertu du premier alinéa de l’article 83.12.
+
+À défaut, le directeur général doit fournir les services professionnels d’un avocat du centre régional.
+
+Le présent article ne s’applique pas lorsqu’une ordonnance a été rendue aux termes de l’article 486.3 du Code criminel (L.R.C. 1985, c. C-46).
+
+2010, c. 12, a. 30.
+
+83.7. Sous réserve de l’article 83.8, lorsqu’une personne visée à l’un des articles 61.1 et 83.1 n’a pas fait de choix particulier conformément aux articles 52 ou 83.6 ou que son avocat n’accepte pas de fournir ses services professionnels conformément aux règlements et que le directeur général est dans l’impossibilité de fournir les services professionnels d’un avocat à l’emploi du centre régional, ce directeur fait appel à la Commission qui doit procurer à cette personne les services professionnels d’un avocat selon l’un des trois modes suivants:
+
+ 1° un avocat qui n’est pas à l’emploi d’un centre régional ou de la Commission et qui accepte de fournir ses services professionnels selon les honoraires indiqués, le cas échéant, par la Commission en vertu du premier alinéa de l’article 83.12;
+
+ 2° un avocat qui est à l’emploi de la Commission;
+
+ 3° un avocat qui est à l’emploi d’un centre régional avec lequel le centre régional a conclu une entente de prêt de services conformément à l’article 83.11.
+
+Dans la mesure du possible, la sélection des avocats se fait selon le libre choix du bénéficiaire.
+
+Malgré le premier alinéa, la Commission peut exceptionnellement conclure un contrat de services professionnels avec un avocat, qui n’est pas à l’emploi d’un centre régional ou de la Commission, lorsque l’expertise particulière de cet avocat est requise pour permettre à la Commission de s’acquitter de son obligation prévue au premier alinéa de l’article 83.1 ou si la conclusion de ce contrat permet d’assurer une gestion efficace des services et des ressources.
+
+2010, c. 12, a. 30.
+
+83.8. Pour l’application d’une ordonnance rendue aux termes de l’article 486.3 du Code criminel (L.R.C. 1985, c. C-46), la sélection de l’avocat doit être faite, dans la mesure du possible, selon la règle de l’alternance entre, d’une part, un avocat visé au paragraphe 1° du premier alinéa de l’article 83.7 et, d’autre part, un avocat visé au deuxième alinéa de l’article 83.6 ou au paragraphe 2° ou 3° du premier alinéa de l’article 83.7.
+
+2010, c. 12, a. 30.
+
+83.9. Tout avocat qui rend des services professionnels dans le cadre du présent chapitre doit, sous réserve des règlements, les accomplir personnellement, dans leurs aspects essentiels.
+
+2010, c. 12, a. 30.
+
+83.10. La Commission dresse et tient à jour, pour tout le territoire du Québec, une liste des avocats visés au paragraphe 1° du premier alinéa de l’article 83.7 et en transmet une copie à chaque centre régional.
+
+La Commission met cette liste à la disposition du public.
+
+2010, c. 12, a. 30.
+
+83.11. Le directeur général du centre régional du lieu où doit se dérouler ou, le cas échéant, se poursuit la procédure ou le procès peut conclure avec le directeur général d’un autre centre régional une entente prévoyant un prêt de services d’un membre du personnel de leur centre respectif.
+
+La Commission est partie à cette entente.
+
+L’entente peut également prévoir un prêt de services d’un membre du personnel de la Commission ou l’affectation à un centre régional d’un avocat lié à la Commission par un contrat de services professionnels.
+
+2010, c. 12, a. 30.
+
+83.12. Dans les cas prévus au premier alinéa de l’article 83.6 et au paragraphe 1° du premier alinéa de l’article 83.7, la Commission indique, en application du tarif applicable en vertu de l’article 83.21, les honoraires applicables à l’avocat d’une personne visée à l’article 61.1 ou au premier alinéa de l'article 83.1.
+
+La Commission établit, par règlement, les critères qu’elle doit notamment considérer pour prendre la décision visée au premier alinéa, compte tenu des circonstances de l’affaire. Ce règlement est soumis à l’approbation du gouvernement qui peut l’approuver avec ou sans modification.
+
+La Commission doit aviser sans délai le directeur général de sa décision.
+
+La décision de la Commission ne peut faire l’objet d’aucune révision par le comité formé en vertu du paragraphe k de l’article 22.
+
+2010, c. 12, a. 30.
+
+83.13. La personne visée au premier alinéa de l’article 83.1 est tenue de verser le montant de la contribution qu’elle s’est engagée à verser. Elle est également tenue de fournir toute garantie qu’elle s’est engagée à fournir.
+
+Ces garanties sont établies en faveur de la Commission.
+
+2010, c. 12, a. 30.
+
+83.14. La personne visée au premier alinéa de l’article 83.1 doit verser la contribution à son avocat s’il n’est pas à l’emploi d’un centre régional ou de la Commission.
+
+L’avocat visé au premier alinéa de l’article 83.6 ou au paragraphe 1° du premier alinéa de l’article 83.7 doit, selon les honoraires que la Commission a indiqués en vertu du premier alinéa de l’article 83.12, utiliser la totalité de la contribution que la personne visée au premier alinéa de l’article 83.1 s’est engagée à verser avant de réclamer à la Commission d’autres honoraires.
+
+2010, c. 12, a. 30.
+
+83.15. La personne visée au premier alinéa de l’article 83.1 doit verser la contribution à la Commission dans le cas où son avocat est à l’emploi d’un centre ou de la Commission.
+
+2010, c. 12, a. 30.
+
+83.16. La personne visée au premier alinéa de l’article 83.1 qui n’aurait pas dû bénéficier, en raison notamment de sa fausse déclaration, de la prestation de certains services juridiques dans le cadre du présent chapitre, est tenue de rembourser à la Commission les coûts des services juridiques qui lui ont été ainsi rendus.
+
+Pour l’application du premier alinéa, les services rendus, lorsqu’ils le sont par un avocat visé à l’un des paragraphes 2° ou 3° du premier alinéa ou du troisième alinéa de l’article 83.7, sont réputés avoir été rémunérés en vertu du premier alinéa de l’article 83.12, selon les honoraires indiqués par la Commission.
+
+2010, c. 12, a. 30.
+
+83.17. Le gouvernement peut par règlement déterminer ce que comprennent les coûts d’un service juridique visé aux fins de l’article 83.16.
+
+2010, c. 12, a. 30.
+
+83.18. La Commission peut, par règlement:
+
+ 1° déterminer les cas où les honoraires et les déboursés des avocats, qui ne sont pas à l’emploi d’un centre ou de la Commission et dont les services sont retenus à la suite d’une ordonnance visée à l’article 83.1, sont payés par un centre ou par la Commission;
+
+ 2° déterminer la forme et le contenu du document confirmant le droit à la prestation de services juridiques dans le cadre du présent chapitre;
+
+ 3° déterminer l’endroit où une personne qui désire obtenir des services juridiques doit adresser sa demande et établir des règles à cet égard;
+
+ 4° déterminer la manière dont la liste prévue à l’article 83.10 est dressée et tenue à jour, ainsi que les renseignements qu’elle doit contenir.
+
+Les règlements de la Commission sont soumis à l’approbation du gouvernement qui peut les approuver avec ou sans modification.
+
+2010, c. 12, a. 30.
+
+CHAPITRE IV
+-----------
+
+**DISPOSITIONS COMMUNES**
+
+SECTION I
+~~~~~~~~~
+
+**DISPOSITIONS GÉNÉRALES**
+
+83.19. Sous réserve des dispositions d’une convention collective, la Commission des services juridiques détermine, par règlement, les normes et barèmes de rémunération de son personnel et de celui des centres régionaux conformément aux conditions définies par le gouvernement.
+
+2010, c. 12, a. 30.
+
+83.20. Pour l’application de la Loi sur l’équité salariale (chapitre E-12.001), la Commission et les centres régionaux sont réputés ne constituer qu’une seule entreprise et la Commission est considérée l’employeur des salariés des centres régionaux.
+
+Malgré l’article 11 de la Loi sur l’équité salariale, il ne peut y avoir qu’un seul programme d’équité salariale pour l’ensemble des salariés de la Commission et des centres régionaux.
+
+2010, c. 12, a. 30.
+
+83.21. Le ministre peut, avec l’approbation du Conseil du trésor, conclure avec les organismes habilités à représenter les notaires, les avocats, les huissiers ou les sténographes, toute entente concernant les tarifs des honoraires applicables aux fins de la présente loi ainsi qu’une procédure de règlement des différends et les matières qui peuvent en faire l’objet. L’entente a force de loi, prend effet le jour de sa publication à la Gazette officielle du Québec et cesse d’avoir effet à la date qui y est fixée.
+
+À défaut d’entente selon le premier alinéa, le ministre peut, avec l’approbation du Conseil du trésor, édicter un règlement concernant les sujets pouvant faire l’objet d’une entente et y fixer la date où il cesse d’avoir effet.
+
+Un tarif établi suivant les dispositions du présent article peut fixer, dans la mesure qui y est prévue, des honoraires forfaitaires pour l’ensemble des services juridiques fournis dans le cadre d’un même mandat. Il peut prévoir le niveau maximal des honoraires pouvant être versés en vertu de la présente loi à un même professionnel au cours d’une période que le tarif indique et au-delà duquel les honoraires versés à ce professionnel sont réduits, pour chaque mandat, dans la proportion que le tarif indique. Les dispositions du tarif relatives au niveau maximal des honoraires pouvant être versés à un même professionnel peuvent varier selon la catégorie de professionnels à laquelle elles s’appliquent. Le tarif peut également indiquer qui peut déterminer les honoraires applicables à un service non tarifé ou, dans certains cas, le dépassement des honoraires applicables et prévoir, le cas échéant, à quelles conditions un tel pouvoir peut être exercé.
+
+Le tarif peut déterminer les indemnités de déplacements et autres déboursés admissibles ou indiquer qui peut les déterminer ou encore, référer au règlement ou à la directive qui s’applique.
+
+Une entente ou un règlement demeure en vigueur après la date fixée pour sa cessation d’effet jusqu’à son remplacement, soit par une nouvelle entente, soit par un nouveau règlement.
+
+Une nouvelle entente ou un nouveau règlement peut rétroagir à une date qui ne peut être antérieure à la date où le texte remplacé devait cesser d’avoir effet. Lorsqu’une modification intervient en cours d’effet d’un texte, celle-ci peut rétroagir à une date qui ne peut être antérieure à la date de prise d’effet initiale du texte.
+
+2010, c. 12, a. 30.
+
+83.22. La Commission peut convenir avec toute association d’experts des honoraires et des frais auxquels ont droit les experts qui acceptent d’agir à ce titre dans le cadre de la présente loi. Une telle convention s’applique sur tout le territoire du Québec.
+
+À défaut de convention avec une association, tout centre régional ou tout regroupement de centres régionaux peut conclure une convention avec une association d’experts ou avec les personnes qui acceptent d’agir comme experts. Une telle convention s’applique sur tout le territoire du Québec ou dans les régions que la convention indique.
+
+Sauf en cas d’impossibilité d’agir des experts visés par une convention, lorsqu’une convention a été conclue, un centre ne peut en aucun cas verser, pour toute expertise, des honoraires et frais supérieurs à ceux prévus dans la convention.
+
+En l’absence d’une convention ou en cas d’impossibilité d’agir des experts visés par une convention, le directeur général fixe le montant des honoraires et des frais payables à l’expert.
+
+2010, c. 12, a. 30.
+
+SECTION II
+~~~~~~~~~~
+
+**DISPOSITIONS PÉNALES**
+
+83.23. Commet une infraction et est passible d’une amende d’au moins 800 $ et d’au plus 10 000 $, s’il s’agit d’une personne physique, et d’une amende d’au moins 2 500 $ et d’au plus 62 000 $, s’il s’agit d’une personne morale, toute personne qui fait une déclaration qu’elle sait fausse ou trompeuse ou transmet un document sachant que celui-ci contient un renseignement trompeur ou faux, en vue:
+
+ 1° de se rendre ou de demeurer admissible à l’aide juridique prévue par le chapitre II;
+
+ 2° de rendre un membre de sa famille admissible ou de le faire demeurer admissible à cette aide;
+
+ 3° d’aider une autre personne à obtenir cette aide à laquelle elle n’a pas droit.
+
+2010, c. 12, a. 30.
+
+83.24. Tout avocat ou notaire qui, contrairement à l’article 60 ou au deuxième alinéa de l’article 61, reçoit une somme d’argent ou quelque autre avantage non prévu par la présente loi commet une infraction et est passible d’une amende d’au moins 2 000 $ et d’au plus 32 000 $.
+
+2010, c. 12, a. 30.
+
+83.25. Tout avocat ou notaire visé au premier alinéa de l’article 61 qui fait défaut de remettre au centre ou, le cas échéant, à la Commission qui l’emploie les honoraires et déboursés qu’il perçoit à la suite d’un jugement ou d’une transaction commet une infraction et est passible d’une amende d’au moins 2 000 $ et d’au plus 32 000 $.
+
+2010, c. 12, a. 30.
+
+83.26. Toute personne qui refuse ou néglige de fournir les renseignements et les documents exigés par l’article 64 commet une infraction et est passible d’une amende d’au moins 500 $ et d’au plus 5 000 $ s’il s’agit d’une personne physique et d’une amende d’au moins 1 500 $ et d’au plus 30 000 $ s’il s’agit d’une personne morale.
+
+2010, c. 12, a. 30.
+
+SECTION III
+~~~~~~~~~~~
+
+**DISPOSITIONS DIVERSES**
+
+84. La Commission doit transmettre ses prévisions budgétaires au ministre de la Justice, pour l'exercice financier subséquent, au plus tard le 1er novembre de chaque année.
+
+1972, c. 14, a. 84; 1996, c. 23, a. 45.
+
+85. La Commission et les centres d'aide juridique ne peuvent faire de dépenses ou assumer des obligations dont les montants dépassent, dans un exercice financier, les sommes dont ils disposent pour cet exercice.
+
+La Commission ne peut, au cours d'un exercice financier, prendre des engagements, autres qu'un emprunt, supérieurs au montant autorisé à cette fin par le ministre de la Justice pour cet exercice.  Les centres d'aide juridique ne peuvent non plus, au cours d'un exercice financier, prendre des engagements supérieurs au montant autorisé à cette fin par la Commission pour cet exercice.
+
+Le présent article n'a pas pour effet d'empêcher la Commission ou un centre de s'engager pour plus d'un exercice financier lorsqu'il s'agit du bail d'un bien meuble ou immeuble, d'une convention collective ou de la rémunération et des conditions de travail des employés qui ne sont pas régis par une telle convention.  Il n'a pas non plus pour effet d'empêcher la Commission de contracter un emprunt dont le terme de remboursement excède un exercice financier.
+
+1972, c. 14, a. 85; 1979, c. 32, a. 13; 1996, c. 23, a. 46.
+
+85.1. La Commission ne peut contracter un emprunt, par billet ou autre titre, qu'avec l'autorisation du gouvernement, au taux d'intérêt et aux autres conditions que ce dernier détermine.
+
+1996, c. 23, a. 46.
+
+86. Chaque centre d'aide juridique doit, chaque année, à la date fixée par règlement, transmettre à la Commission un rapport financier vérifié par un comptable public et comprenant son bilan, son compte de revenus et dépenses, l'état des obligations assumées ou des engagements contractés, notamment en vertu de l'article 52, un estimé du coût de ses engagements ainsi qu'un état détaillé de l'utilisation de l'aide financière que la Commission lui a accordée.  Elle doit transmettre une copie de ce rapport au ministre de la Justice.
+
+1972, c. 14, a. 86; 1979, c. 32, a. 14; 1996, c. 23, a. 47, a. 54.
+
+87. La Commission doit, chaque année, dans les quatre mois qui suivent la clôture de son exercice financier, transmettre au ministre de la Justice un rapport financier vérifié par un comptable public et comprenant son bilan, son compte de revenus et dépenses, l'état des obligations assumées ou des engagements contractés, notamment en vertu de l'article 52, un estimé du coût de ses engagements ainsi qu'un état détaillé de l'utilisation de la subvention que le gouvernement lui a accordée et de tout revenu dont elle dispose, y compris les sommes perçues par les centres d'aide juridique.
+
+Sur demande, la Commission doit également transmettre au ministre tout renseignement ou tout document se rapportant à l'administration de la présente loi que le ministre requiert.
+
+1972, c. 14, a. 87; 1979, c. 32, a. 14; 1996, c. 23, a. 48.
+
+87.1. Un centre ne peut assumer le financement d'un recours collectif, si ce n'est qu'il peut permettre qu'un avocat à son emploi soit le procureur du représentant.
+
+1978, c. 8, a. 54; 1996, c. 23, a. 54.
+
+87.2. La Commission assume le coût des déboursés de cour exigibles par le gouvernement du Québec et des droits qu'un officier de la publicité des droits aurait autrement perçus, et dont les bénéficiaires sont dispensés du paiement en application du paragraphe b du premier alinéa de l'article 5, à l'exception des honoraires visés à l'article 8.3 de la Loi favorisant la réforme du cadastre québécois (chapitre R-3.1). À la fin de chaque exercice financier, elle verse les déboursés et les droits dont elle assume le paiement au fonds consolidé du revenu. La partie de ces déboursés et de ces droits relative au coût des biens et services que finance le fonds des registres du ministère de la Justice ou le Fonds d'information sur le territoire du ministère des Ressources naturelles et de la Faune est portée au crédit de l'un ou l'autre de ces fonds, selon le cas.
+
+1993, c. 28, a. 1; 1996, c. 23, a. 49; 2000, c. 42, a. 99; 2003, c. 8, a. 6; 2006, c. 3, a. 35; 2011, c. 16, a. 42; 2011, c. 18, a. 101; 2013, c. 16, a. 43.
+
+88. Sous réserve de l'article 89, tout centre régional ayant compétence sur la totalité ou une partie de l'île de Montréal, et que la Commission désigne à cette fin, succède, à compter de la date que la Commission détermine, au Bureau d'assistance judiciaire du Barreau de Montréal et il en acquiert les droits et en assume les obligations à la date indiquée.
+
+1972, c. 14, a. 88; 1996, c. 23, a. 52.
+
+89. Les employés permanents de tout organisme d'assistance judiciaire établi en vertu de la Loi sur le Barreau (chapitre B-1) et les employés d'une section du Barreau chargés exclusivement de s'occuper de l'assistance judiciaire, qui sont en fonction le 5 septembre 1972, ont droit, en priorité, de devenir des employés de la Commission ou d'un centre d'aide juridique, suivant que le détermine la Commission.
+
+Les avantages que la Commission ou les centres accorderont à ces employés ne doivent pas être moindres que ceux dont ils bénéficiaient le 21 mars 1972.
+
+1972, c. 14, a. 89; 1996, c. 23, a. 54.
+
+90. La Commission peut provisoirement fournir directement les services d'aide juridique dans une région jusqu'à ce qu'un centre régional ait été constitué et soit en mesure de fournir lui-même ces services.
+
+Dans le cas visé au présent article, la Commission exerce les pouvoirs dévolus à un centre régional, elle en assume les fonctions et en remplit les devoirs.
+
+À cette fin, la Commission nomme un avocat qui exerce les fonctions dévolues par la présente loi au directeur général d'un centre régional.
+
+1972, c. 15, a. 3; 1996, c. 23, a. 52.
+
+91. Toutes communications faites par un requérant ou un bénéficiaire à l'un des membres de la Commission ou d'un centre, au directeur général ou à l'un quelconque de leurs préposés, a le même caractère confidentiel qu'une communication entre client et avocat, et toutes ces personnes qui reçoivent telles communications sont tenues au secret professionnel.
+
+1972, c. 14, a. 90; 1996, c. 23, a. 54.
+
+92. La Commission, un centre ou un bureau d'aide juridique peut se prévaloir des dispositions de l'article 88 du Code des professions (chapitre C-26).  À cette fin, ils sont assimilés à une personne recourant aux services d'un membre d'un ordre professionnel.
+
+1972, c. 14, a. 93; 1996, c. 23, a. 50.
+
+93. Le ministre de la Justice doit, dans les six mois qui suivent la fin de chaque exercice financier, déposer à l'Assemblée nationale un rapport des activités de la Commission pour cet exercice financier.
+
+1972, c. 14, a. 95.
+
+94. Le ministre de la Justice peut, conformément à la loi, conclure des ententes relatives à l'aide juridique avec tout autre gouvernement ou l'un de ses ministères ou organismes ou avec toute autre autorité qui, à l'extérieur du Québec, est responsable de l'attribution de l'aide juridique.
+
+Le ministre peut également, conformément à la loi, conclure avec le gouvernement du Canada ou l'un de ses ministères ou organismes, des ententes relatives au paiement par le Canada au Québec de la partie des dépenses nécessaires à l'application de la présente loi qui est déterminée par ces ententes.
+
+1972, c. 14, a. 97; 1996, c. 23, a. 51.
+
+95. Le ministre de la Justice est chargé de l'application de la présente loi.
+
+1972, c. 14, a. 99.
+
+96. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 14 des lois de 1972, tel qu'en vigueur au 31 décembre 1977, à l'exception des articles 98 et 100, est abrogé à compter de l'entrée en vigueur du chapitre A-14 des Lois refondues.

@@ -1,0 +1,384 @@
+.. warning:: Abrogée le 1er décembre 1982
+
+.. _A-7:
+
+======================
+A-7 Loi sur l'adoption
+======================
+
+.. sidebar:: État courant
+
+    :Statut: Abrogée
+    :Date: 01 déc 1982
+
+Abrogée, 1980, c. 39, a. 60.
+
+SECTION I
+~~~~~~~~~
+
+**DÉFINITIONS**
+
+1. Dans la présente loi, à moins que le contexte n'indique un sens différent, les expressions et mots suivants signifient:
+
+ a) «société d'adoption reconnue»: toute société d'adoption reconnue conformément à l'article 12;
+
+ b) «tribunal»: le Tribunal de la jeunesse;
+
+ c) «règlement»: tout règlement adopté par le gouvernement en vertu de la présente loi;
+
+ d) «ministre»: le ministre des Affaires sociales.
+
+1969, c. 64, a. 1; 1970, c. 42, a. 17; 1977, c. 20, a. 138.
+
+SECTION II
+~~~~~~~~~~
+
+**CAS OÙ L'ADOPTION PEUT AVOIR LIEU**
+
+2. L'adoption ne peut intervenir qu'aux conditions prévues par la présente loi; elle ne peut être prononcée que dans l'intérêt de l'enfant.
+
+1969, c. 64, a. 2.
+
+3. Seuls peuvent adopter un enfant:
+
+ a) les époux faisant vie commune;
+
+ b) le nouveau conjoint du père ou de la mère d'un enfant légitime;
+
+ c) les époux séparés de corps judiciairement ou de fait ou l'un d'eux, s'ils ont adopté de facto l'enfant avant leur séparation;
+
+ d) une personne non mariée, pourvu que l'enfant soit du même sexe qu'elle.
+
+Le tribunal peut toutefois prononcer l'adoption malgré la différence de sexe entre l'adopté et l'adoptant si celui-ci est le père, la mère ou un autre ascendant de l'enfant ou s'il est un veuf ou une veuve qui avait déjà adopté de fait l'enfant avant le décès de son conjoint.
+
+1969, c. 64, a. 3.
+
+4. L'adoptant doit avoir au moins dix-huit ans de plus que l'adopté, à moins que ce dernier ne soit son enfant ou celui de son conjoint, ou à moins que le tribunal ne décide de passer outre à cette exigence.
+
+1969, c. 64, a. 4.
+
+5. L'adoptant ou l'un des conjoints adoptants doit professer la foi religieuse à laquelle appartient l'adopté.
+
+Le tribunal peut toutefois passer outre à cette exigence si l'enfant a déjà été adopté de fait par l'adoptant.
+
+Le premier alinéa ne s'applique pas lorsque l'enfant n'appartient à aucune religion ou fait partie d'une société religieuse qui n'exige pas l'identité de foi chez l'adoptant et chez l'adopté.
+
+1969, c. 64, a. 5.
+
+6. L'enfant mineur naturel ne peut être adopté que dans les cas suivants:
+
+ a) avec le consentement du père et de la mère si les deux en assument de fait le soin, l'entretien ou l'éducation; sinon, avec le consentement de celui qui, de son père ou de sa mère, en assume de fait le soin, l'entretien ou l'éducation, ou avec le consentement de l'un ou l'autre dans les autres cas;
+
+ b) lorsque ni le père ni la mère ni un ascendant de l'enfant n'en a assumé de fait le soin, l'entretien ou l'éducation pendant au moins six mois avant qu'il ait été placé en vue de son adoption;
+
+ c) lorsque la Cour supérieure a prononcé la déchéance totale de l'autorité parentale à l'égard du père et de la mère.
+
+1969, c. 64, a. 6; 1977, c. 20, a. 150.
+
+7. L'enfant mineur légitime ne peut être adopté que dans les cas suivants:
+
+ a) lorsqu'il est orphelin de père et de mère et qu'aucun ascendant n'en assume le soin, l'entretien ou l'éducation;
+
+ b) lorsqu'il est orphelin de père ou de mère, que l'adoptant est son ascendant et que le consentement de l'époux survivant a été obtenu;
+
+ c) lorsque le mariage de ses père et mère a été annulé ou a été dissous par décès ou divorce, que l'adoptant est le nouveau conjoint de l'une des parties au mariage annulé ou dissous et que le consentement de l'autre partie à ce mariage, si elle survit, a été obtenu;
+
+ d) lorsque ni son père ni sa mère ni un autre ascendant n'en assume de fait le soin, l'entretien ou l'éducation depuis plus d'un an et que, de l'avis du tribunal, il est improbable qu'un d'eux en reprendra la charge;
+
+ e) lorsque son père ou sa mère est atteint d'une maladie mentale qui le rend inapte à en prendre soin, que l'avenir de l'enfant en est compromis, que l'adoptant est son ascendant et que le consentement du parent survivant, capable de le donner, a été obtenu;
+
+ f) lorsque son père n'est pas le mari de sa mère, nonobstant l'article 218 du Code civil, et que ni son père, ni sa mère ni un de ses ascendants n'en a assumé de fait le soin, l'entretien ou l'éducation pendant au moins six mois avant qu'il ait été placé en vue de son adoption;
+
+ g) lorsque la Cour supérieure a prononcé la déchéance totale de l'autorité parentale à l'égard du père et de la mère.
+
+1969, c. 64, a. 7; 1977, c. 20, a. 151.
+
+8. Une personne majeure ne peut être adoptée que par les personnes qui l'ont nourrie, entretenue et élevée comme leur enfant propre pendant sa minorité.
+
+1969, c. 64, a. 8.
+
+9. L'adoption ne peut avoir lieu qu'avec le consentement de l'enfant, s'il est âgé de dix ans ou plus, sauf s'il ignore son adoption de fait et si son comportement habituel à l'égard de l'adoptant peut être interprété par le tribunal comme un consentement tacite; toutefois, lorsque l'enfant de moins de quatorze ans refuse son consentement, le tribunal peut différer l'adoption pour la période de temps qu'il indique ou, nonobstant le refus, prononcer l'adoption.
+
+1969, c. 64, a. 9.
+
+10. L'adoption ne peut non plus avoir lieu qu'avec le consentement du tuteur ou du curateur de l'enfant, s'il en est, et celui de la société d'adoption reconnue qui a eu en dernier lieu charge de l'enfant dans le cas où le père et la mère de l'enfant sont inconnus ou l'ont abandonné.
+
+1969, c. 64, a. 10.
+
+11. Tout consentement donné en vertu des articles qui précèdent doit être écrit; il est valide nonobstant la minorité de son auteur.
+
+1969, c. 64, a. 11.
+
+SECTION III
+~~~~~~~~~~~
+
+**SOCIÉTÉS D'ADOPTION ET PLACEMENT EN VUE DE L'ADOPTION**
+
+12. Le ministre peut reconnaître, pour les fins de la présente loi, toute société d'adoption qui se conforme aux règlements.
+
+1969, c. 64, a. 12.
+
+13. Toute société d'adoption reconnue peut, sous l'autorité du ministre, prendre charge des enfants abandonnés et placer, en vue de leur adoption, les enfants qui peuvent être adoptés en vertu de la présente loi.
+
+Elle doit procéder à l'évaluation d'une personne qui demande d'adopter un enfant domicilié ou résidant au Québec ou hors du Québec dans la mesure où le ministre a déterminé qu'il y a des enfants qui peuvent être adoptés.
+
+Le ministre détermine les possibilités d'adoption des enfants domiciliés ou résidant hors du Québec en tenant compte des objectifs définis par le ministre des Communautés culturelles et de l'Immigration en vertu du paragraphe h du quatrième alinéa de l'article 3 de la Loi sur le ministère des Communautés culturelles et de l'Immigration (chapitre M-23.1).
+
+1969, c. 64, a. 13; 1979, c. 17, a. 1; 1981, c. 9, a. 7.
+
+14. Aucune requête en adoption ne peut être accordée si l'enfant qui en fait l'objet n'a été placé en vue de son adoption conformément à la présente section et s'il n'a vécu avec l'adoptant pendant au moins six mois avant la date à laquelle la requête est présentée au tribunal.
+
+1969, c. 64, a. 14.
+
+15. Un enfant ne peut être placé en vue de son adoption qu'auprès d'une personne qui désire l'adopter, et qui peut l'adopter en vertu de la présente loi.
+
+1969, c. 64, a. 15.
+
+16. Un enfant dont l'adoption est permise par la présente loi ne peut être placé en vue de son adoption que par une société d'adoption reconnue.
+
+Pourvu qu'un avis écrit en soit préalablement donné au ministre, le placement peut cependant être effectué par une personne autre qu'une société d'adoption reconnue, dans les cas suivants:
+
+ a) le requérant est un ascendant, un parent en ligne collatérale jusqu'au troisième degré de l'adopté ou le conjoint de cet ascendant ou parent;
+
+ b) le requérant est le conjoint du père ou de la mère de l'adopté;
+
+ c) le placement a lieu par l'intermédiaire d'un gouvernement, d'un ministère ou d'un organisme agissant conformément à une entente ou une convention visée dans l'article 37.1, et une évaluation a été effectuée conformément à l'article 13.
+
+Toutefois, l'absence d'un tel avis n'empêche pas le tribunal de prononcer ultérieurement l'adoption pourvu qu'un rapport écrit d'une société d'adoption reconnue établisse, à la satisfaction du tribunal, qu'aucun inconvénient sérieux n'en est résulté.
+
+1969, c. 64, a. 16; 1979, c. 17, a. 2.
+
+17. À compter de la date à laquelle un enfant est placé en vue de son adoption conformément à la présente section, son père, sa mère, ses ascendants ni son tuteur ne peuvent en obtenir la garde sans l'autorisation du tribunal.
+
+Lorsque l'enfant a été placé en vue de son adoption par une société d'adoption reconnue, avis de toute demande en vue d'obtenir la garde de l'enfant doit être donné à cette société d'adoption.
+
+1969, c. 64, a. 17.
+
+SECTION IV
+~~~~~~~~~~
+
+**REQUÊTE EN ADOPTION**
+
+18. La demande d'adoption est faite par l'adoptant au moyen d'une requête adressée au tribunal du district de son domicile ou, si le requérant n'a pas son domicile dans le Québec, au tribunal du domicile de l'enfant.
+
+La requête peut aussi être présentée au tribunal du district de la société d'adoption reconnue qui avait, antérieurement et en dernier lieu, charge de l'enfant.
+
+1969, c. 64, a. 18.
+
+19. Le mineur adoptant a la capacité de présenter la requête en adoption sans être autorisé ni assisté.
+
+1969, c. 64, a. 19.
+
+20. Si le requérant est marié, son conjoint doit se porter partie à la requête sauf dans le cas prévu au paragraphe c du premier alinéa de l'article 3 et sauf en cas d'incapacité légale.
+
+1969, c. 64, a. 20.
+
+21. Lorsqu'un consentement requis en vertu de la présente loi n'est pas produit avec la requête, un avis d'au moins dix jours doit être signifié à la personne dont le consentement fait défaut, de se présenter devant le tribunal, pour donner son consentement, à la date et à l'heure indiquées dans l'avis.
+
+La signification est faite en la manière prescrite par le Code de procédure civile.
+
+1969, c. 64, a. 21.
+
+22. Le tribunal peut, s'il le juge à propos, ordonner la signification de l'avis prévu à l'article 21 à toute autre personne qu'il indique.
+
+Il peut aussi exiger tous autres consentements qu'il estime nécessaires.
+
+1969, c. 64, a. 22.
+
+23. Si, après la signification prévue aux articles 21 et 22, les personnes dont le consentement est requis font défaut de comparaître ou si, comparaissant, elles ne s'opposent pas à l'adoption, ou si elles refusent abusivement d'y consentir, le tribunal peut passer outre.
+
+1969, c. 64, a. 23.
+
+24. La requête peut indiquer, pour l'adopté, un nom patronymique et des prénoms, ainsi que les noms d'un parrain et d'une marraine.
+
+1969, c. 64, a. 24.
+
+25. L'adoption ne peut être prononcée que si un rapport écrit d'une société d'adoption reconnue est produit.  Ce rapport doit statuer sur les qualités et aptitudes requises de l'adoptant pour élever convenablement l'enfant et sur la manière dont l'enfant a été traité par l'adoptant et sa famille.
+
+Le tribunal peut requérir toute autre preuve qu'il estime nécessaire.
+
+1969, c. 64, a. 25.
+
+26. La requête en adoption est présentée et instruite à l'audience ou en chambre, mais, dans tous les cas, à huis clos.
+
+1969, c. 64, a. 26.
+
+27. Le jugement refusant la requête en adoption ne fait pas obstacle à une nouvelle demande fondée sur des faits nouveaux.
+
+1969, c. 64, a. 27.
+
+28. Les procédures prévues par la présente loi ne comportent paiement d'aucun droit ou honoraire au trésor public.
+
+1969, c. 64, a. 28.
+
+29. Le greffier du tribunal doit transmettre gratuitement à la société d'adoption qui a produit le rapport prévu à l'article 25 une copie du jugement accordant ou refusant l'adoption, et au ministre un avis de tout jugement rendu en vertu de la présente loi.
+
+1969, c. 64, a. 29.
+
+30. Le dossier de la requête, le jugement et les registres du tribunal ne doivent en aucun cas mentionner l'illégitimité de l'adopté; mais le jugement doit indiquer la date et le lieu de sa naissance, s'ils peuvent être établis, de même que, le cas échéant, la date de son baptême et les noms du parrain et de la marraine.
+
+Dans les cas visés aux articles 17, 21 et 22, le tribunal doit prendre les mesures requises pour que les personnes qui réclament la garde d'un enfant ou dont le consentement est requis pour l'adoption d'un enfant, ne soient pas confrontées avec les adoptants et ne puissent les identifier ni être identifiées par eux.
+
+1969, c. 64, a. 30.
+
+31. Les dossiers du tribunal, les archives des sociétés d'adoption et les documents transmis au ministre sont confidentiels.
+
+Le tribunal qui a rendu le jugement d'adoption peut toutefois, à la requête d'une personne qui établit un intérêt compatible avec le plus grand bien de l'adopté, l'autoriser, par jugement écrit et versé au dossier, à consulter les dossiers du tribunal et, au besoin, à en obtenir des extraits.
+
+1969, c. 64, a. 31.
+
+SECTION V
+~~~~~~~~~
+
+**REGISTRES DE L'ÉTAT CIVIL**
+
+32. Le greffier du tribunal ou toute société d'adoption reconnue indiquée par le tribunal doit transmettre un certificat du jugement d'adoption, rédigé suivant la formule 1 de l'annexe, au dépositaire du double registre de l'état civil tenu par la société religieuse à laquelle appartient l'adoptant ou l'un des conjoints adoptants, ou au dépositaire du double registre tenu en vertu de l'article 53a du Code civil, au lieu indiqué dans le jugement.
+
+1969, c. 64, a. 32.
+
+33. Lorsque l'adoptant est domicilié hors du Québec, le certificat du jugement d'adoption est transmis au lieu où se trouve la société d'adoption reconnue qui a produit le rapport prévu à l'article 25.
+
+1969, c. 64, a. 33.
+
+34. Le dépositaire du double registre doit y transcrire immédiatement le certificat du jugement d'adoption et inscrire en marge, à la date de naissance de l'adopté, les nom et prénoms de ce dernier et un renvoi à l'année et à la page contenant la transcription du certificat.
+
+1969, c. 64, a. 34.
+
+35. Le certificat ainsi transcrit équivaut à un acte de l'état civil et annule l'acte de naissance antérieur de l'adopté.
+
+1969, c. 64, a. 35.
+
+36. Le greffier du tribunal ou la société d'adoption reconnue indiquée par le tribunal doit aussi transmettre au dépositaire du double registre où a été consigné l'acte de naissance de l'adopté ou un certificat de jugement d'adoption antérieur, un document rédigé suivant la formule 2 de l'annexe.
+
+Ce document doit être immédiatement transcrit en marge de l'acte de naissance de l'adopté ou du certificat du jugement d'adoption antérieur.
+
+Dans les cas où l'adopté est né dans une autre province ou à l'étranger, copie du jugement d'adoption doit être transmise au registraire de la province dont il s'agit ou, s'il s'agit d'un pays étranger, au ministre de la Justice du Québec qui la transmet par voie diplomatique au fonctionnaire exerçant des fonctions équivalentes, dans ce pays étranger, à celles du registraire général d'une province.
+
+1969, c. 64, a. 36; 1969, c. 26, a. 115.
+
+37. Le dépositaire du double registre doit transmettre sans délai une copie attestée par lui des notes marginales qu'il a inscrites au registre conformément à l'article 34, au protonotaire de la Cour supérieure du district, qui doit immédiatement les insérer à l'endroit voulu dans le registre déposé aux archives.
+
+Il doit aussi transmettre une copie de ces notes au ministre des Affaires sociales.
+
+1969, c. 64, a. 37; 1970, c. 42, a. 17.
+
+SECTION V.1
+~~~~~~~~~~~
+
+**ADOPTION D'ENFANTS DOMICILIÉS OU RÉSIDANT HORS DU QUÉBEC**
+
+37.1. Le ministre peut, conformément à la loi, conclure une entente avec un autre gouvernement ou avec l'un de ses ministères ou organismes en vue de l'application de la présente loi.
+
+Le ministre peut également, en vue de l'application de la présente loi, conclure des conventions avec tout autre organisme qui s'occupe principalement de la défense des droits de l'enfant, de la promotion de ses intérêts et de l'amélioration de ses conditions de vie.
+
+1979, c. 17, a. 3.
+
+37.2. Seul un gouvernement, un ministère ou un organisme agissant conformément à une entente ou une convention visée dans l'article 37.1 peut servir d'intermédiaire pour faire placer au Québec, en vue de l'adoption, un enfant domicilié ou résidant hors du Québec.
+
+1979, c. 17, a. 3.
+
+SECTION V.2
+~~~~~~~~~~~
+
+**AIDE FINANCIÈRE**
+
+37.3. Le ministre peut, dans les cas et selon les critères, modalités et conditions prévus par règlement, accorder à un adoptant une aide financière visant à favoriser l'adoption d'un enfant.
+
+1979, c. 17, a. 3.
+
+SECTION VI
+~~~~~~~~~~
+
+**EFFETS DE L'ADOPTION**
+
+38. À compter de la date du jugement prononçant l'adoption:
+
+ a) l'adopté devient, à tous égards et à l'égard de tous, l'enfant légitime de l'adoptant et celui de son conjoint si ce dernier s'est porté partie à la requête d'adoption;
+
+ b) l'adopté a légalement le nom patronymique et les prénoms que le tribunal lui a attribués dans le jugement d'adoption;
+
+ c) les parents, le tuteur ou les gardiens de l'adopté perdent, à l'endroit de ce dernier, les droits et sont libérés à son égard des devoirs établis par la loi, sauf, le cas échéant, l'obligation de rendre compte.
+
+1969, c. 64, a. 38.
+
+39. Sur demande du certificat de naissance d'un enfant adoptif, le dépositaire du registre de l'état civil doit fournir un certificat rédigé suivant la formule 3 de l'annexe.
+
+Toutefois, lorsqu'il s'agit de l'adoption par le nouveau conjoint du père ou de la mère d'un enfant légitime ou adoptif, le dépositaire doit rédiger le certificat suivant la formule 4 de l'annexe.
+
+1969, c. 64, a. 39.
+
+40. Lorsqu'une seconde demande d'adoption est accordée, tout ce qui a pu résulter légalement d'un premier jugement d'adoption prend fin, sauf ce qui concerne l'intérêt que peut avoir l'enfant dans les biens qui lui ont été dévolus pendant la durée de la première adoption.
+
+1969, c. 64, a. 40.
+
+SECTION VII
+~~~~~~~~~~~
+
+**RÈGLEMENTS**
+
+41. Le gouvernement peut adopter des règlements concernant:
+
+ a) les conditions requises de toute société d'adoption qui désire être reconnue par le ministre, les conditions qu'elle doit remplir et les renseignements qu'elle doit fournir;
+
+ b) la régie interne et la gestion des affaires des sociétés d'adoption reconnues;
+
+ c) la comptabilité et la vérification des livres des sociétés d'adoption reconnues ainsi que les rapports et statistiques qu'elles doivent fournir et les registres qu'elles doivent tenir;
+
+ d) les soins à donner aux enfants dont les sociétés d'adoption reconnues ont la garde, ou qui ont été placés en vue de leur adoption, ainsi que la surveillance qui doit être exercée sur eux;
+
+ e) la forme et la teneur de tout avis qui doit être donné en vertu de la présente loi, ainsi que le délai dans lequel il doit être donné;
+
+ f)  les cas où le ministre peut accorder l'aide financière prévue par l'article 37.3 ainsi que les critères dont il doit tenir compte pour déterminer son étendue, ses modalités et les conditions que doit remplir l'adoptant qui en bénéficie;
+
+ g) toute autre matière requise pour l'application de la présente loi.
+
+Les règlements adoptés en vertu du présent article entrent en vigueur à la date de leur publication dans la Gazette officielle du Québec ou à toute autre date ultérieure qui y est fixée.
+
+1969, c. 64, a. 41; 1979, c. 17, a. 4.
+
+SECTION VIII
+~~~~~~~~~~~~
+
+**DISPOSITIONS FINALES**
+
+42. Quiconque enfreint sciemment une disposition de la présente loi concernant le caractère confidentiel d'une procédure ou d'un dossier d'adoption, ou viole le caractère confidentiel d'une telle procédure ou d'un tel dossier, commet une infraction et est passible, sur poursuite sommaire, en outre du paiement des frais, d'une amende n'excédant pas $1,000 ou d'un emprisonnement n'excédant pas un an ou des deux peines à la fois.
+
+1969, c. 64, a. 42.
+
+43. Quiconque, contrairement à l'article 16, place un enfant en vue de l'adoption ou omet de donner avis au ministre, commet une infraction et est passible, sur poursuite sommaire, en outre du paiement des frais, d'une amende d'au plus 500 $ ou, à défaut de paiement, d'une peine d'emprisonnement d'au plus trois mois, s'il s'agit d'un individu, ou d'une amende d'au plus 1 000 $ s'il s'agit d'une corporation.
+
+En cas de récidive, le maximum des amendes et de la peine prévues par l'alinéa précédent est porté à 1 000 $ et à six mois, s'il s'agit d'un individu, et à 2 000 $ s'il s'agit d'une corporation.
+
+1969, c. 64, a. 43; 1979, c. 17, a. 5.
+
+44. Toute personne autre qu'une société d'adoption reconnue qui donne ou reçoit, ou accepte de donner ou de recevoir, directement ou indirectement, un paiement, un bénéfice ou une récompense, pour obtenir ou procurer l'adoption d'un enfant ou pour procurer à qui que ce soit un enfant ou contribuer à ce qu'il soit placé en vue de son adoption, commet une infraction et est passible, sur poursuite sommaire, en outre du paiement des frais, d'une amende n'excédant pas $2,500 ou d'un emprisonnement n'excédant pas deux ans, ou des deux peines à la fois.
+
+Le présent article ne s'applique pas lorsqu'un parent ou allié d'un enfant verse ou accepte de verser à l'adoptant ou à toute personne auprès de laquelle l'enfant est placé en vue de son adoption, des sommes d'argent pour le soin, l'entretien ou l'éducation de cet enfant.
+
+1969, c. 64, a. 44.
+
+45. Le ministre des Affaires sociales est chargé de l'application de la présente loi.
+
+1969, c. 64, a. 48; 1970, c. 42, a. 17.
+
+46. La présente loi a effet indépendamment des dispositions des articles 2 et 7 à 15 de la Loi constitutionnelle de 1982 (annexe B de la Loi sur le Canada, chapitre 11 du recueil des lois du Parlement du Royaume-Uni pour l'année 1982).
+
+1982, c. 21, a. 1.
+
+La présente loi sera abrogée par l'entrée en vigueur de l'article 60 du chapitre 39 des lois de 1980, à la date fixée par proclamation du gouvernement.
+
+ANNEXES ABROGATIVES
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 64 des lois annuelles de 1969, tel qu'en vigueur au 31 décembre 1977, à l'exception des articles 47 et 49 est abrogé à compter de l'entrée en vigueur du chapitre A-7 des Lois refondues.
+
+Conformément à l'article 17 de la Loi sur la refonte des lois et des règlements (chapitre R-3), l'article 37-2 du chapitre 64 des lois annuelles de 1969, tel qu'en vigueur au 31 décembre 1981, est abrogé à compter de l'entrée en vigueur de la mise à jour au 31 décembre 1981 du chapitre A-7 des Lois refondues.
+
+MISES À JOUR TOUCHANT CE CHAPITRE:
+
+1er JUIN 1979
+
+1er NOVEMBRE 1980
+
+31 DÉCEMBRE 1981
+
+1er JUILLET 1982

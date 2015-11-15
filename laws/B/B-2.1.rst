@@ -1,0 +1,397 @@
+.. warning:: Abrogée le 4 mars 2002
+
+.. _B-2.1:
+
+=================================================
+B-2.1 Loi sur la Bibliothèque nationale du Québec
+=================================================
+
+.. sidebar:: État courant
+
+    :Statut: Abrogée
+    :Date: 04 mar 2002
+
+Abrogée, 2001, c. 11, a. 19.
+
+SECTION I
+~~~~~~~~~
+
+**CONSTITUTION ET ORGANISATION**
+
+1. Un organisme est institué sous le nom de «Bibliothèque nationale du Québec».
+
+1988, c. 42, a. 1.
+
+2. La Bibliothèque est une personne morale.
+
+1988, c. 42, a. 2; 1999, c. 40, a. 38.
+
+3. La Bibliothèque est un mandataire de l'État.
+
+Ses biens font partie du domaine de l'État mais l'exécution de ses obligations peut être poursuivie sur ses biens autres que les documents publiés et les biens qui font partie de ses collections.
+
+1988, c. 42, a. 3; 1999, c. 40, a. 38.
+
+4. Elle a son siège dans le territoire de la Ville de Montréal à l'endroit déterminé par le gouvernement. Un avis de la situation ou de tout déplacement du siège est publié à la Gazette officielle du Québec.
+
+1988, c. 42, a. 4; 2000, c. 56, a. 219.
+
+5. Les affaires de la Bibliothèque sont administrées par un conseil d'administration composé de neuf membres nommés par le gouvernement, dont un président et un vice-président.
+
+Cinq de ces membres, autres que le président, sont nommés après consultation du milieu des bibliothèques et de celui de l'édition ainsi que des associations d'écrivains et des universités et parmi ces membres, un membre doit être un bibliothécaire.
+
+1988, c. 42, a. 5.
+
+6. Le président de la Bibliothèque est responsable de la direction et de la gestion de la Bibliothèque dans le cadre de ses règlements et de ses politiques et il exerce ses fonctions à plein temps.  Il est d'office directeur général de la Bibliothèque.
+
+1988, c. 42, a. 6.
+
+7. Le président est nommé pour un mandat d'au plus cinq ans et les autres membres pour un mandat d'au plus trois ans.
+
+1988, c. 42, a. 7.
+
+8. À l'expiration de son mandat, un membre demeure en fonction jusqu'à ce qu'il ait été remplacé ou nommé de nouveau.
+
+Une vacance parmi les membres est comblée en suivant le mode prescrit pour la nomination du membre à remplacer.
+
+1988, c. 42, a. 8.
+
+9. Le quorum aux séances du conseil d'administration est de cinq membres.
+
+En cas de partage égal, le président a voix prépondérante.
+
+1988, c. 42, a. 9.
+
+10. Le gouvernement détermine la rémunération, les avantages sociaux et les autres conditions de travail du président.
+
+Les autres membres du conseil ne sont pas rémunérés, sauf dans les cas, aux conditions et dans la mesure que peut déterminer le gouvernement.  Ils ont cependant droit au remboursement des dépenses faites dans l'exercice de leurs fonctions, aux conditions et dans la mesure que détermine le gouvernement.
+
+1988, c. 42, a. 10.
+
+11. En cas d'absence ou d'empêchement du président, il est remplacé par le vice-président.
+
+1988, c. 42, a. 11; 1999, c. 40, a. 38.
+
+12. Le président ne peut, sous peine de déchéance de sa charge, avoir un intérêt direct ou indirect dans une entreprise qui met en conflit son intérêt personnel et les devoirs de ses fonctions.
+
+Toutefois, cette déchéance n'a pas lieu si cet intérêt lui échoit par succession ou par donation, pourvu qu'il y renonce ou en dispose avec diligence.
+
+Tout autre membre ayant un tel intérêt dans une entreprise doit, sous peine de déchéance de sa charge, le révéler par écrit au président et s'abstenir de participer à toute délibération et à toute décision portant sur l'entreprise dans laquelle il a un intérêt.
+
+1988, c. 42, a. 12.
+
+13. Les membres du personnel de la Bibliothèque sont nommés suivant la Loi sur la fonction publique (chapitre F-3.1.1).
+
+Le président exerce à leur égard les pouvoirs que cette loi attribue à un dirigeant d'organisme.
+
+1988, c. 42, a. 13; 2000, c. 8, a. 242.
+
+14. La Bibliothèque peut adopter tout règlement concernant l'exercice de ses pouvoirs et sa régie interne.  Elle peut également, par règlement, déterminer les normes relatives à l'administration interne de l'établissement, à la surveillance et à la sécurité des biens qui s'y trouvent.
+
+1988, c. 42, a. 14.
+
+15. La Bibliothèque peut établir des comités formés de personnes chargées de la conseiller sur l'acquisition de biens et sur toute autre matière relevant de ses fonctions et peut, par règlement, établir des normes relatives au fonctionnement de ces comités.
+
+Les membres de ces comités ne sont pas rémunérés, sauf dans les cas, aux conditions et dans la mesure que peut déterminer le gouvernement.  Ils ont cependant droit au remboursement des dépenses faites dans l'exercice de leurs fonctions, aux conditions et dans la mesure que détermine le gouvernement.
+
+1988, c. 42, a. 15.
+
+16. Les procès-verbaux des séances du conseil d'administration, approuvés par celui-ci et certifiés conformes par le président ou par le secrétaire sont authentiques.
+
+Il en est de même de toute copie de document de la Bibliothèque certifiée conforme par le président ou par une personne qu'il désigne.
+
+1988, c. 42, a. 16.
+
+SECTION II
+~~~~~~~~~~
+
+**FONCTIONS ET POUVOIRS**
+
+17. La Bibliothèque a pour fonctions de rassembler, de conserver de manière permanente et de diffuser le patrimoine documentaire québécois publié et tout document qui s'y rattache et qui présente un intérêt culturel.
+
+Elle a également pour fonctions de rassembler, de conserver et de diffuser les documents relatifs au Québec et publiés à l'extérieur du Québec.
+
+1988, c. 42, a. 17.
+
+18. La Bibliothèque peut notamment, dans l'exécution de ses fonctions:
+
+ 1° conserver de manière permanente un exemplaire des documents publiés au Québec de préférence dans leur forme originale, sinon sur un support issu des nouvelles technologies de conservation;
+
+ 2° acquérir tout document publié à l'extérieur du Québec et susceptible d'assurer une meilleure exploitation de la documentation québécoise;
+
+ 3° publier la bibliographie des documents publiés au Québec, un index analytique des articles des principales revues publiées au Québec et tout document utile à la recherche;
+
+ 4° faire connaître et mettre en valeur ses collections ainsi que celles d'autres bibliothèques ou organismes par des expositions ou par tout autre moyen approprié;
+
+ 5° établir des modes de collaboration avec d'autres personnes, sociétés ou organismes oeuvrant dans le domaine de la documentation;
+
+ 6° acquérir, aliéner, louer, prêter, emprunter, échanger, conserver et restaurer des documents;
+
+ 7° solliciter et recevoir des dons, legs, subventions ou autres contributions et en disposer.
+
+Elle peut, par règlement, déterminer les conditions d'acquisition, d'aliénation, de location, de prêt, d'emprunt, d'échange, de conservation ou de restauration des documents.
+
+Elle ne peut accepter, en argent, des dons, legs, autres contributions ou subventions auxquels est attachée une charge ou une condition que dans la mesure autorisée par le gouvernement.
+
+1988, c. 42, a. 18.
+
+19. La Bibliothèque peut, conformément à la loi, conclure une entente avec un gouvernement autre que celui du Québec ou l'un de ses ministères, une organisation internationale ou un organisme de ce gouvernement ou de cette organisation en vue de l'exécution de ses fonctions.
+
+1988, c. 42, a. 19.
+
+20. La Bibliothèque ne peut, sans obtenir l'autorisation préalable du gouvernement:
+
+ 1° acquérir, aliéner ou hypothéquer un immeuble;
+
+ 2° conclure un contrat de plus de trois ans, à l'exception d'un contrat de services visant une exposition ou une autre activité d'animation.
+
+1988, c. 42, a. 20.
+
+21. Le gouvernement peut déterminer un montant maximum au-delà duquel la Bibliothèque doit obtenir l'autorisation du gouvernement pour:
+
+ 1° contracter un emprunt qui porte au-delà de ce montant le total des sommes empruntées par la Bibliothèque et non encore remboursées;
+
+ 2° louer un immeuble.
+
+1988, c. 42, a. 21.
+
+22. (Abrogé).
+
+1988, c. 42, a. 22; 1994, c. 18, a. 32; 2000, c. 8, a. 105.
+
+23. La Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1) ne s'applique pas à un document que la Bibliothèque acquiert, loue, reçoit en échange ou emprunte d'une personne ou d'un organisme qui n'est pas visé aux articles 3 à 7 de cette loi.
+
+1988, c. 42, a. 23.
+
+SECTION III
+~~~~~~~~~~~
+
+**GARANTIES GOUVERNEMENTALES**
+
+24. Le gouvernement peut déterminer les conditions de toute subvention qu'il accorde à la Bibliothèque pour pourvoir en totalité ou en partie au paiement en capital et intérêts de tout emprunt ou autre obligation de la Bibliothèque.
+
+1988, c. 42, a. 24.
+
+25. Le gouvernement peut garantir, aux conditions qu'il détermine, le paiement en capital et intérêts de tout emprunt ou autre obligation de la Bibliothèque.  Les sommes requises pour l'application du présent article sont prises sur le fonds consolidé du revenu.
+
+1988, c. 42, a. 25.
+
+SECTION IV
+~~~~~~~~~~
+
+**COMPTES ET RAPPORTS**
+
+26. L'exercice financier de la Bibliothèque se termine le 31 mars de chaque année.
+
+1988, c. 42, a. 26.
+
+27. La Bibliothèque doit soumettre au gouvernement, pour approbation, son budget pour l'année suivante dans le délai et selon la forme que celui-ci peut déterminer.
+
+1988, c. 42, a. 27.
+
+28. La Bibliothèque doit, dans les quatre mois de la fin de son exercice financier, transmettre au ministre ses états financiers ainsi qu'un rapport de ses activités pour l'exercice financier précédent.
+
+Les états financiers et le rapport d'activités doivent contenir tous les renseignements exigés par le ministre.
+
+1988, c. 42, a. 28.
+
+29. Le ministre dépose le rapport d'activités et les états financiers devant l'Assemblée nationale dans les 30 jours de leur réception si elle est en session ou, sinon, dans les 30 jours de la reprise des travaux.
+
+1988, c. 42, a. 29.
+
+30. La Bibliothèque doit fournir au ministre tout renseignement qu'il requiert sur ses activités.
+
+1988, c. 42, a. 30.
+
+31. Les livres et comptes de la Bibliothèque sont vérifiés par le vérificateur général, chaque année et chaque fois que le détermine le gouvernement.
+
+Le rapport du vérificateur doit accompagner le rapport d'activités et les états financiers de la Bibliothèque.
+
+1988, c. 42, a. 31.
+
+32. La Bibliothèque doit, dans les quatre mois précédant le début de son exercice financier, soumettre au ministre ses orientations pour cet exercice.
+
+Le ministre peut, à la suite de la transmission des orientations, donner des directives à ce sujet à la Bibliothèque pour cet exercice.
+
+Ces directives doivent être approuvées par le gouvernement et entrent en vigueur le jour de leur approbation.  Une fois approuvées, elles lient la Bibliothèque qui est tenue de s'y conformer.
+
+Toute directive donnée en vertu du présent article doit être déposée devant l'Assemblée nationale dans les 30 jours de son approbation par le gouvernement si elle est en session ou, sinon, dans les 30 jours de la reprise des travaux.
+
+1988, c. 42, a. 32.
+
+SECTION V
+~~~~~~~~~
+
+**ADMINISTRATION PROVISOIRE**
+
+33. Le ministre de la Culture et des Communications peut charger une personne qu'il désigne de vérifier si les dispositions de la présente loi et des règlements sont observées par la Bibliothèque ou d'enquêter sur la gestion ou les activités de la Bibliothèque.
+
+La personne ainsi désignée est investie, pour les fins d'une enquête, de l'immunité et des pouvoirs d'un commissaire nommé en vertu de la Loi sur les commissions d'enquête (chapitre C-37), sauf du pouvoir d'ordonner l'emprisonnement.
+
+1988, c. 42, a. 33; 1992, c. 65, a. 43; 1994, c. 14, a. 34.
+
+34. Le gouvernement peut, pendant ou après la tenue d'une vérification ou d'une enquête, et après avoir donné aux membres du conseil d'administration l'occasion de présenter leurs observations, ordonner que les pouvoirs de la Bibliothèque soient suspendus pour la période qu'il détermine et nommer un administrateur qui exerce les pouvoirs du conseil d'administration lorsque la Bibliothèque s'adonne à des pratiques ou tolère une situation qui sont incompatibles avec la poursuite de ses fins et celles d'une saine administration.
+
+1988, c. 42, a. 34.
+
+35. L'administrateur nommé par le gouvernement peut, sous réserve des droits des tiers de bonne foi, annuler toute décision prise par la Bibliothèque.
+
+1988, c. 42, a. 35.
+
+SECTION VI
+~~~~~~~~~~
+
+**DÉPÔT DES DOCUMENTS PUBLIÉS**
+
+36. Un éditeur qui publie un document doit, à chaque édition, dans les sept jours de sa publication, en déposer gratuitement deux exemplaires auprès de la Bibliothèque.
+
+1988, c. 42, a. 36.
+
+37. L'obligation de dépôt ne s'applique pas à un film au sens de l'article 1 de la Loi sur le cinéma (chapitre C-18.1).
+
+1988, c. 42, a. 37.
+
+38. Le dépôt d'un document en transfère la propriété.
+
+1988, c. 42, a. 38.
+
+39. Lorsque le prix au détail d'un document varie selon différents tirages, l'éditeur dépose un exemplaire du tirage de ce document dont le prix est le plus élevé et un exemplaire de l'un des autres tirages.
+
+1988, c. 42, a. 39.
+
+40. Malgré les articles 36 et 39, l'éditeur dépose un seul exemplaire d'un document:
+
+ 1° s'il appartient à une catégorie de documents publiés déterminés par règlement;
+
+ 2° lorsque le prix au détail du document se situe entre deux montants fixés par règlement.
+
+1988, c. 42, a. 40.
+
+41. Malgré l'article 36, le gouvernement peut, par règlement, soustraire à l'obligation de dépôt des catégories de documents publiés ainsi que tout document dont le prix au détail excède le montant fixé par règlement.
+
+L'éditeur doit, à l'égard de ces documents, transmettre à la Bibliothèque les renseignements prévus par règlement au moment qui y est indiqué.
+
+1988, c. 42, a. 41.
+
+42. La Bibliothèque peut acquérir, aux frais de l'éditeur qui fait défaut d'effectuer le dépôt d'un document, les exemplaires dont le dépôt est requis.
+
+1988, c. 42, a. 42.
+
+43. L'éditeur inscrit sur tout document publié ou sur le contenant d'un tel document les mentions relatives au dépôt requises par règlement.
+
+1988, c. 42, a. 43.
+
+44. La présente section s'applique également à une personne ou à un organisme qui assume la responsabilité de la production d'un document publié.
+
+1988, c. 42, a. 44.
+
+SECTION VII
+~~~~~~~~~~~
+
+**DISPOSITIONS RÉGLEMENTAIRES**
+
+45. La Bibliothèque peut, par règlement:
+
+ 1° déterminer les normes relatives à l'exercice de ses pouvoirs, de sa régie interne ainsi qu'à l'administration interne de l'établissement, à la surveillance et à la sécurité des biens qui s'y trouvent;
+
+ 2° établir des normes relatives au fonctionnement des comités qu'elle a établis;
+
+ 3° déterminer les conditions d'acquisition, d'aliénation, de location, de prêt, d'emprunt, d'échange, de conservation ou de restauration des documents.
+
+Tout règlement de la Bibliothèque est soumis au gouvernement pour approbation et entre en vigueur le quinzième jour qui suit la date de sa publication à la Gazette officielle du Québec ou à toute autre date ultérieure qui y est indiquée.
+
+1988, c. 42, a. 45.
+
+46. Le gouvernement peut, par règlement, après consultation de la Bibliothèque:
+
+ 1° déterminer les catégories de documents publiés pour lesquels le dépôt d'un seul exemplaire d'une édition de ce document est requis;
+
+ 2° fixer les deux montants pour l'application du paragraphe 2° de l'article 40;
+
+ 3° soustraire à l'obligation de dépôt des catégories de documents publiés, ainsi que tout document dont le prix au détail excède le montant fixé par règlement;
+
+ 4° établir, à l'égard de certains documents soustraits de l'obligation de dépôt, quels renseignements une personne ou un organisme qui assume la responsabilité de la production d'un document publié ou un éditeur doit transmettre à la Bibliothèque et indiquer à quel moment ils doivent être transmis à la Bibliothèque;
+
+ 5° déterminer les mentions relatives au dépôt qui doivent être inscrites sur un document publié ou sur le contenant de ce document;
+
+ 6° déterminer, parmi les dispositions d'un règlement adopté en vertu des paragraphes 1° à 5°, celles dont la violation constitue une infraction.
+
+1988, c. 42, a. 46.
+
+SECTION VIII
+~~~~~~~~~~~~
+
+**DISPOSITIONS PÉNALES**
+
+47. L'éditeur ou la personne ou l'organisme visé à l'article 44 qui contrevient aux articles 36 ou 39 ou à une disposition réglementaire adoptée en vertu des paragraphes 1° ou 5° de l'article 46 et dont la violation constitue une infraction en vertu du paragraphe 6° de l'article 46 est passible d'une amende de 100 $ à 400 $.
+
+1988, c. 42, a. 47; 1990, c. 4, a. 954.
+
+48. L'éditeur ou la personne ou l'organisme visé à l'article 44 qui contrevient à une disposition réglementaire adoptée en vertu du paragraphe 4° de l'article 46 et dont la violation constitue une infraction en vertu du paragraphe 6° de l'article 46 est passible d'une amende de 500 $ à 2 000 $.
+
+1988, c. 42, a. 48; 1990, c. 4, a. 954.
+
+49. (Abrogé).
+
+1988, c. 42, a. 49; 1990, c. 4, a. 955.
+
+SECTION IX
+~~~~~~~~~~
+
+**DISPOSITIONS DIVERSES ET TRANSITOIRES**
+
+50. Les sections VI, VII et VIII lient le gouvernement, ses ministères et les organismes mandataires de l'État.
+
+1988, c. 42, a. 50; 1999, c. 40, a. 38.
+
+51. L'appellation «Bibliothèque nationale du Québec» ne peut être utilisée pour désigner un immeuble, une entreprise ou un organisme quelconque sans l'autorisation écrite de la Bibliothèque nationale du Québec.
+
+1988, c. 42, a. 51.
+
+52. La Bibliothèque nationale du Québec instituée en vertu de la présente loi devient, à compter du 1er avril 1989, propriétaire des documents et des biens acquis conformément à la Loi sur la Bibliothèque nationale du Québec (chapitre B-2).
+
+1988, c. 42, a. 52.
+
+53. À moins que le contexte ne le permette pas, la Bibliothèque nationale du Québec est substituée de plein droit à la direction de la Bibliothèque nationale du Québec du ministère des Affaires culturelles et au conservateur en chef dans tout règlement, arrêté en conseil, décret, directive, contrat ou autre document où il est fait mention de cette direction ou de cette fonction.
+
+1988, c. 42, a. 53.
+
+54. Le personnel de la direction de la Bibliothèque nationale du Québec du ministère des Affaires culturelles, en fonction le 31 mars 1989, devient sans autre formalité le personnel de la Bibliothèque.
+
+1988, c. 42, a. 54.
+
+55. Les biens meubles appartenant au gouvernement et qui, le 31 mars 1989, sont utilisés pour l'exploitation de la direction de la Bibliothèque nationale du Québec du ministère des Affaires culturelles deviennent les biens meubles de la Bibliothèque nationale du Québec.
+
+1988, c. 42, a. 55.
+
+56. Malgré l'article 7, quatre des premiers membres du conseil d'administration de la Bibliothèque nationale du Québec, autres que le président, sont nommés pour un mandat de deux ans.
+
+1988, c. 42, a. 56.
+
+57. (Modification intégrée au c. A-21.1, a. 2).
+
+1988, c. 42, a. 57.
+
+58. (Abrogé).
+
+1988, c. 42, a. 58; 1992, c. 65, a. 23.
+
+59. (Omis).
+
+1988, c. 42, a. 59.
+
+60. (Omis).
+
+1988, c. 42, a. 60.
+
+61. Le ministre de la Culture et des Communications est chargé de l'application de la présente loi.
+
+1988, c. 42, a. 61; 1992, c. 65, a. 43; 1994, c. 14, a. 34.
+
+62. (Omis).
+
+1988, c. 42, a. 62.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 42 des lois de 1988, tel qu'en vigueur le 1er mars 1990, à l'exception de l'article 62, est abrogé à compter de l'entrée en vigueur du chapitre B-2.1 des Lois refondues.

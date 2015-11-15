@@ -1,0 +1,1712 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-29:
+
+================================
+A-29 Loi sur l'assurance maladie
+================================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+SECTION I
+~~~~~~~~~
+
+**INTRODUCTION**
+
+1. Dans la présente loi, à moins que le contexte n'indique un sens différent, les expressions et mots suivants signifient ou désignent:
+
+ a) «services assurés»: les services, médicaments, appareils ou autres équipements suppléant à une déficience physique, aides visuelles, aides auditives et aides à la communication visés dans l'article 3;
+
+ b) «professionnel de la santé» ou «professionnel»: tout médecin, dentiste, optométriste ou pharmacien légalement autorisé à fournir des services assurés;
+
+ c) «professionnel soumis à l'application d'une entente»: un professionnel qui exerce sa profession dans le cadre du régime institué par la présente loi, qui est rémunéré suivant le tarif prévu à une entente et dont le montant des honoraires, qui comprend le prix des médicaments dans le cas d'un pharmacien, lui est payé directement par la Régie lorsqu'une personne assurée a présenté sa carte d'assurance maladie ou son carnet de réclamation, selon le cas, ou directement par une personne assurée lorsque cette  dernière n'a pas présenté sa carte d'assurance maladie ou son carnet de réclamation, selon le cas;
+
+ d) «professionnel désengagé»: un professionnel autre qu'un pharmacien qui exerce sa profession en dehors des cadres du régime institué par la présente loi mais qui accepte d'être rémunéré suivant le tarif prévu à une entente et dont le montant des honoraires est payé à ses patients par la Régie;
+
+ e) «professionnel non participant»: un professionnel qui exerce sa profession en dehors des cadres du régime institué par la présente loi mais qui n'accepte pas d'être rémunéré suivant le tarif prévu à une entente ou qui fait l'objet d'une ordonnance émise en vertu de l'article 77, 77.0.1 ou 77.1.1 et dont tous les patients assument seuls le paiement des honoraires qui comprennent le prix des médicaments dans le cas d'un pharmacien;
+
+ f) «entente»: une entente conclue en vertu de l'article 19;
+
+ f.1) «rémunération de base»: le tarif de base prévu à une entente visée à l'article 19 pour la rémunération à l'acte d'un service assuré avant l'application des règles relatives au plafonnement d'activités;
+
+ g) (paragraphe abrogé);
+
+ g.1) «personne assurée»: une personne qui réside ou qui séjourne au Québec et qui est dûment inscrite à la Régie;
+
+ h) «régime équivalent»: un régime d'assurance de soins médicaux qui est en vigueur au cours d'une année dans une province canadienne et à l'égard duquel une contribution est payable pour cette année par le gouvernement fédéral en vertu de la Loi canadienne sur la santé (Lois révisées du Canada (1985), chapitre C-6);
+
+ i) «Régie»: la Régie de l'assurance maladie du Québec instituée par la Loi sur la Régie de l'assurance maladie du Québec (chapitre R-5);
+
+ j) «prescrit»: prescrit par règlement;
+
+ k) «règlement»: un règlement adopté conformément aux articles 69, 69.2 ou 72;
+
+ l) «bourse d'études»: une bourse visée à la section XI;
+
+ m) «bourse de recherche»: une bourse visée à la section XII;
+
+ n) «centre hospitalier»: un centre hospitalier au sens de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) ou au sens de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5);
+
+ o) «établissement»: un établissement visé par la Loi sur les services de santé et les services sociaux ou par la Loi sur les services de santé et les services sociaux pour les autochtones cris;
+
+ p) «laboratoire»: un laboratoire comme le définit la Loi sur les laboratoires médicaux, la conservation des organes et des tissus et la disposition des cadavres (chapitre L-0.2);
+
+ q) «ministre»: le ministre de la Santé et des Services sociaux;
+
+ r) «prime d'encouragement»: une prime d'encouragement visée dans la section IX.1;
+
+ s) (paragraphe abrogé);
+
+ t) (paragraphe abrogé).
+
+Dans la présente loi, le mot «province» comprend le territoire du Yukon, les territoires du Nord-Ouest et le Nunavut.
+
+1970, c. 37, a. 1; 1970, c. 38, a. 1; 1971, c. 47, a. 1; 1973, c. 30, a. 1; 1973, c. 49, a. 45; 1974, c. 40, a. 1; 1977, c. 44, a. 1; 1979, c. 1, a. 1; 1985, c. 23, a. 24; 1986, c. 79, a. 1; 1989, c. 50, a. 1; 1991, c. 42, a. 556; 1992, c. 21, a. 100; 1994, c. 8, a. 1; 1994, c. 23, a. 23; 1996, c. 32, a. 88; 1999, c. 89, a. 1, a. 42; 2001, c. 60, a. 166; 2009, c. 30, a. 58.
+
+1.1. Aux fins de l'application des articles 10, 11 et 64, le coût des services assurés est le montant établi par la Régie suivant la rémunération de base, au sens du paragraphe f.1 du premier alinéa de l'article 1, pour ces services telle qu'applicable au moment où le professionnel de la santé fournit un service assuré à une personne assurée sans tenir compte de toute modification à celle-ci et ultérieure à ce moment.
+
+1991, c. 42, a. 557; 1999, c. 89, a. 42.
+
+2. Sous réserve de toute autre disposition législative applicable, rien dans la présente loi ne limite la liberté qu'a une personne qui réside au Québec de choisir le professionnel de la santé par lequel elle désire être traitée ou celle qu'a un tel professionnel d'accepter ou non de traiter une telle personne.
+
+1970, c. 37, a. 2.
+
+3. Le coût des services suivants qui sont rendus par un professionnel de la santé est assumé par la Régie pour le compte de toute personne assurée, conformément aux dispositions de la présente loi et des règlements:
+
+ a) tous les services que rendent les médecins et qui sont requis au point de vue médical;
+
+ b) les services de chirurgie buccale déterminés par règlement et qui sont requis au point de vue dentaire et qui sont rendus par un dentiste dans un centre exploité par un établissement universitaire ou dans une installation maintenue par un établissement qui exploite un centre hospitalier, pourvu toutefois, s'ils sont rendus au Québec, qu'ils le soient dans un centre exploité par un établissement universitaire déterminé par règlement ou dans une installation maintenue par un établissement qui exploite un centre hospitalier par un dentiste autorisé à exercer sa profession dans ce centre;
+
+ c) les services déterminés par règlement qui sont requis au point de vue optométrique et qui sont rendus par les optométristes dans la pratique de l'optométrie au sens de la Loi sur l'optométrie (chapitre O-7); toutefois, le coût de ces services n'est assumé par la Régie que pour le compte d'une personne assurée dont l'âge est celui fixé à ces fins par règlement ou qui détient un carnet de réclamation en vigueur délivré suivant l'article 71 ou 71.1;
+
+ d) les services de planification familiale déterminés par règlement et qui sont rendus par un médecin;
+
+ e) les services de procréation assistée déterminés par règlement.
+
+Le coût des services déterminés par règlement, qui sont requis au point de vue dentaire et qui sont rendus par les dentistes, est aussi assumé par la Régie conformément aux dispositions de la présente loi et des règlements pour le compte de toute personne assurée selon son âge et selon le fait qu'elle détient ou non un carnet de réclamation en vigueur délivré suivant l'article 71.1.
+
+La Régie assume aussi, conformément aux dispositions de la présente loi et des règlements et sous réserve de la Loi sur l'assurance médicaments (chapitre A-29.01), le coût des services déterminés par règlement qui sont requis au point de vue pharmaceutique et qui sont fournis par les pharmaciens, le coût des médicaments que fournissent les pharmaciens sur ordonnance d'un médecin, d'un résident en médecine, d'un dentiste, d'une sage-femme ou d'un autre professionnel habilité par la loi ou par un règlement pris en application du paragraphe b du premier alinéa de l'article 19 de la Loi médicale (chapitre M-9) ainsi que, le cas échéant, le coût de médicaments fournis dans le cadre des activités d'un établissement suivant le troisième alinéa de l'article 8 de la Loi sur l'assurance médicaments, pour le compte de toute personne assurée qui est une personne admissible au sens de cette loi et qui:
+
+ a) est âgée de 65 ans ou plus et n'adhère pas à un contrat d'assurance collective ou à un régime d'avantages sociaux applicable à un groupe de personnes déterminé conformément à l'article 15.1 de la Loi sur l'assurance médicaments et comportant les garanties prévues par le régime général, ou qui n'est pas bénéficiaire d'un tel régime;
+
+ b) détient un carnet de réclamation en vigueur délivré suivant l'article 70; ou
+
+ c) n'est pas tenue d'adhérer à un contrat d'assurance collective ou un régime d'avantages sociaux visé au paragraphe a ou que nul n'est tenu de couvrir comme bénéficiaire des garanties prévues par un tel contrat ou régime suivant l'article 18 de cette loi.
+
+La Régie assume aussi, conformément aux dispositions de la présente loi et des règlements et sous réserve de la Loi sur l'assurance médicaments, le coût des services déterminés par règlement qui sont requis au point de vue pharmaceutique et qui sont fournis par les pharmaciens, le coût des médicaments que fournissent les pharmaciens sur ordonnance d'un médecin, d'un résident en médecine, d'un dentiste, d'une sage-femme ou d'un autre professionnel habilité par la loi ou par un règlement pris en application du paragraphe b du premier alinéa de l'article 19 de la Loi médicale, ainsi que, le cas échéant, le coût de médicaments fournis dans le cadre des activités d'un établissement suivant le troisième alinéa de l'article 8 de la Loi sur l'assurance médicaments, à toute personne assurée qui est une personne admissible au sens de cette loi et qui détient un carnet de réclamation en vigueur délivré suivant l'article 71.
+
+La Régie assume pour le compte d'une personne assurée dont l'âge est celui fixé à ces fins par règlement le coût des services déterminés par règlement et des appareils ou autres équipements qui suppléent à une déficience physique et qui sont déterminés par règlement.
+
+La Régie rembourse à un établissement reconnu à cette fin par le ministre le coût des services déterminés par règlement qu'il a fournis et des aides visuelles déterminées par règlement qu'il a prêtées à une personne assurée qui a une déficience visuelle et dont l'âge est celui fixé à ces fins par règlement.
+
+La Régie assume pour le compte d'une personne assurée dont l'âge est celui fixé à ces fins par règlement le coût des services déterminés par règlement et des aides auditives qui suppléent à une déficience auditive et qui sont déterminées par règlement.
+
+La Régie rembourse à un établissement reconnu à cette fin par le ministre le coût des services déterminés par règlement qu'il a fournis et des aides à la communication déterminées par règlement qu'il a prêtées à une personne assurée qui a une déficience physique de la communication et dont l'âge est celui fixé à ces fins par règlement.
+
+Les cas et les conditions suivant lesquels la Régie assume ou rembourse le coût des services assurés visés aux cinquième, sixième, septième et huitième alinéas et suivant lesquels ils sont fournis sont déterminés par règlement du gouvernement de même que les déficiences physiques, auditives, visuelles et de la communication. Les ensembles ou les sous-ensembles d'appareils, d'équipements et d'aides qui suppléent à de telles déficiences sont énumérés dans ce règlement.
+
+Les appareils, équipements et aides assurés sont déterminés par règlement de la Régie, conformément à l'article 72.1, en fonction de l'énumération prévue au neuvième alinéa.
+
+non en vigueurLa Régie doit publier la liste des établissements reconnus par le ministre pour l'application des sixième et huitième alinéas et chacune de ses mises à jour à la Gazette officielle du Québec, lesquelles entrent en vigueur à la date de leur publication ou à toute autre date qui y est fixée.
+
+
+Toutefois, ces services, médicaments, appareils ou autres équipements qui suppléent à une déficience physique, aides visuelles, aides auditives et aides à la communication ne comprennent pas ceux qu'une personne peut obtenir et auxquels elle a droit en vertu d'une autre loi du Québec, d'une loi du Parlement du Canada autre que la Loi canadienne sur la santé (Lois révisées du Canada (1985), chapitre C-6) ou en vertu d'une loi d'une autre province du Canada ou d'un autre pays.
+
+Cependant, les services visés dans le premier alinéa auxquels une personne a droit en vertu de la Loi sur les services de santé et les services sociaux (chapitre S-4.2), de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5), de la Loi sur l'assurance-hospitalisation (chapitre A-28) et de la Loi sur l'assurance médicaments ou qui sont rendus en vertu de la Loi sur la santé et la sécurité du travail (chapitre S-2.1) demeurent des services assurés en vertu de la présente loi.
+
+La Régie assume aussi le coût des services qui sont rendus par un professionnel de la santé dans le cadre de la Loi sur les accidents du travail (chapitre A-3) ou de la Loi sur les accidents du travail et les maladies professionnelles (chapitre A-3.001), y compris ceux d'un membre du Bureau d'évaluation médicale ou d'un membre d'un comité des maladies professionnelles pulmonaires ou d'un comité spécial agissant en vertu du chapitre VI de cette loi, mais à l'exception des services rendus par un professionnel de la santé à la demande de l'employeur.
+
+La Régie assume aussi, conformément aux dispositions de la loi et des règlements, le coût des services rendus par un professionnel de la santé pour l'exécution d'activités ou de tâches administratives déterminées par règlement pris en vertu de l'article 69.
+
+La Régie assume aussi le coût des services et des biens prévus aux programmes qu'elle administre en vertu du premier alinéa de l'article 2 de la Loi sur la Régie de l'assurance maladie du Québec (chapitre R-5) selon les conditions et modalités prévues à ces programmes.
+
+ Un service fourni par un médecin qui est en stage de formation en médecine familiale ou pour l'obtention d'un premier certificat de spécialiste n'est un service assuré que s'il est fourni dans une installation maintenue par un établissement autre que l'installation où il effectue son stage ou pour la Corporation d'urgences-santé. Lorsqu'il fournit un service qui n'est pas assuré au sens du présent article à une personne qui réside au Québec, ce médecin doit, dans les cas et en la forme prescrits, aviser cette personne que ce service n'est pas assuré.
+
+1970, c. 37, a. 3; 1970, c. 38, a. 2; 1971, c. 47, a. 2; 1971, c. 48, a. 160, a. 161; 1973, c. 30, a. 2; 1973, c. 49, a. 45; 1973, c. 52, a. 31; 1974, c. 40, a. 2; 1975, c. 60, a. 1; 1977, c. 44, a. 2; 1979, c. 1, a. 2; 1979, c. 63, a. 273; 1981, c. 22, a. 1; 1985, c. 6, a. 488; 1986, c. 79, a. 2; 1989, c. 50, a. 2; 1991, c. 42, a. 558; 1992, c. 19, a. 1; 1992, c. 21, a. 101; 1985, c. 23, a. 1; 1992, c. 21, a. 101; 1992, c. 11, a. 77; 1994, c. 8, a. 2; 1994, c. 23, a. 23; 1996, c. 32, a. 89; 1999, c. 24, a. 14; 1999, c. 89, a. 2, a. 42; 2002, c. 69, a. 122; 2002, c. 33, a. 8; 2005, c. 40, a. 32; 2009, c. 45, a. 1; 2009, c. 30, a. 46; 2011, c. 37, a. 4.
+
+3.1. La Régie peut conclure un contrat avec un fournisseur d'appareils ou autres équipements qui suppléent à une déficience physique, d'aides visuelles, d'aides auditives ou d'aides à la communication visés à l'article 3, afin d'y prévoir les conditions de fourniture aux dispensateurs des services dont le coût sera assumé ou remboursé par la Régie.
+
+1989, c. 50, a. 3; 1994, c. 8, a. 3; 1999, c. 89, a. 3; 2007, c. 21, a. 21.
+
+4. (Abrogé).
+
+1971, c. 47, a. 3; 1974, c. 40, a. 3; 1979, c. 1, a. 3; 1981, c. 22, a. 2; 1984, c. 27, a. 41; 1985, c. 23, a. 2; 1996, c. 32, a. 90.
+
+4.1. (Abrogé).
+
+1985, c. 23, a. 2; 1996, c. 32, a. 90.
+
+4.2. (Abrogé).
+
+1985, c. 23, a. 2; 1992, c. 21, a. 102; 1996, c. 32, a. 90.
+
+4.3. (Abrogé).
+
+1992, c. 21, a. 103; 1996, c. 32, a. 90.
+
+4.4. (Abrogé).
+
+1992, c. 21, a. 103; 1996, c. 32, a. 90.
+
+4.5. (Abrogé).
+
+1992, c. 21, a. 103; 1996, c. 32, a. 90.
+
+4.6. (Abrogé).
+
+1992, c. 21, a. 103; 1996, c. 32, a. 90.
+
+4.7. (Abrogé).
+
+1992, c. 21, a. 103; 1996, c. 32, a. 90.
+
+4.8. (Abrogé).
+
+1992, c. 21, a. 103; 1996, c. 32, a. 90.
+
+4.9. (Abrogé).
+
+1992, c. 21, a. 103; 1996, c. 32, a. 90.
+
+4.10. (Abrogé).
+
+1992, c. 21, a. 103; 1996, c. 32, a. 90.
+
+SECTION II
+~~~~~~~~~~
+
+**PERSONNES ASSURÉES**
+
+5. Pour l'application de la présente loi, est une personne qui réside au Québec toute personne qui y est domiciliée, satisfait aux conditions prévues par règlement et est, selon le cas:
+
+ 1° un citoyen canadien;
+
+ 2° un résident permanent au sens de la Loi sur l'immigration et la protection des réfugiés (Lois du Canada, 2001, chapitre 27);
+
+ 3° un Indien inscrit à ce titre aux termes de la Loi sur les Indiens (Lois révisées du Canada (1985), chapitre I-5);
+
+ 4° une personne à qui le statut de réfugié au sens de la Convention de Genève a été accordé au Canada, par l'autorité compétente;
+
+ 5° une personne qui appartient à toute autre catégorie de personnes déterminée par règlement.
+
+Toutefois, un mineur non émancipé qui n'est pas déjà domicilié au Québec en application de l'article 80 du Code civil est considéré domicilié au Québec, lorsqu'il y est établi.
+
+Une personne ne devient résidente du Québec qu'à compter du moment prévu par règlement et selon les conditions qui y sont prévues et cesse de l'être à compter du moment prévu par règlement et selon les conditions qui y sont prévues.
+
+1970, c. 37, a. 4; 1971, c. 47, a. 4; 1973, c. 30, a. 3; 1977, c. 44, a. 3; 1979, c. 1, a. 4; 1989, c. 50, a. 4; 1999, c. 89, a. 4.
+
+5.0.1. Pour l'application de la présente loi, est une personne qui séjourne au Québec toute personne qui satisfait aux conditions prévues par règlement, dans les cas et à compter du moment qui y sont prévus.
+
+1999, c. 89, a. 4.
+
+5.0.2. Une personne perd sa qualité de personne qui séjourne au Québec à compter du moment prévu par règlement et selon les conditions qui y sont prévues.
+
+1999, c. 89, a. 4.
+
+5.1. Une personne qui réside ou qui séjourne au Québec et qui s'absente dans les cas, conditions et circonstances prévus par règlement, conserve sa qualité de personne qui réside ou qui séjourne au Québec pour la période qui y est fixée.
+
+1989, c. 50, a. 5; 1999, c. 89, a. 5.
+
+6. Une personne qui quitte le Québec pour s'établir dans une province du Canada où existe un régime équivalent continue à être une personne qui réside au Québec pour la période déterminée par règlement.
+
+1970, c. 37, a. 5; 1971, c. 47, a. 5; 1989, c. 50, a. 6.
+
+7. Une personne qui quitte le Québec pour s'établir dans un autre pays cesse, dès son départ, d'être une personne qui réside au Québec.
+
+Une personne qui possède le statut légal de résident permanent dans un pays autre que le Canada est présumée ne pas être domiciliée au Québec à moins qu'elle ne démontre à la Régie qu'elle est domiciliée au Québec et qu'elle ne lui produise une déclaration assermentée à cet effet selon une formule dont le contenu est prescrit par la Régie.
+
+1970, c. 37, a. 6; 1971, c. 47, a. 6; 1979, c. 1, a. 5; 1989, c. 50, a. 7; 1999, c. 89, a. 6.
+
+8. Une personne qui s'établit au Québec après avoir quitté une province où existe un régime équivalent devient une personne qui réside au Québec lorsqu'elle cesse d'avoir droit aux bénéfices de ce régime.
+
+1970, c. 37, a. 7; 1971, c. 47, a. 7.
+
+9. Toute personne qui réside au Québec ou qui séjourne au Québec doit s'inscrire à la Régie conformément au règlement.
+
+La demande d'inscription est accompagnée des renseignements et des documents prescrits par règlement.
+
+La Régie délivre une carte d'assurance maladie à la personne ainsi inscrite. Cette carte est valide pour la durée prévue par règlement. Une personne doit pour obtenir une nouvelle carte s'inscrire de nouveau à la Régie.
+
+La carte d'assurance maladie est la propriété de la Régie et son titulaire doit la retourner à la Régie et cesser de la présenter pour obtenir des services assurés s'il n'est plus une personne qui réside au Québec ou qui séjourne au Québec.
+
+La Régie peut faire parvenir un avis à un titulaire lui indiquant s'il est ou non une personne qui réside ou qui séjourne au Québec.
+
+1970, c. 37, a. 8; 1974, c. 40, a. 4; 1979, c. 1, a. 6; 1989, c. 50, a. 8; 1991, c. 42, a. 559; 1999, c. 89, a. 42; 1999, c. 89, a. 7; 2005, c. 32, a. 236; 2012, c. 23, a. 142.
+
+9.0.0.1. La production de la carte d'assurance maladie ou de la carte d'admissibilité ne peut être exigée qu'à des fins liées à la prestation de services ou à la fourniture de biens ou de ressources en matière de santé ou de services sociaux dont le coût est assumé par le gouvernement, en tout ou en partie, directement ou indirectement, en vertu d'une loi dont l'application relève du ministre de la Santé et des Services sociaux.
+
+1992, c. 21, a. 104; 1999, c. 89, a. 42.
+
+9.0.1. Doit s'inscrire à la Régie, conformément au règlement, toute personne visée par le paragraphe 2° du premier alinéa de l'article 10 ou par l'article 10.1 de la Loi sur le ministère de la Santé et des Services sociaux (chapitre M-19.2) et qui bénéficie de la totalité ou d'une partie des services prévus par la présente loi.
+
+La demande d'inscription est accompagnée des renseignements et des documents prescrits par règlement.
+
+La Régie délivre à la personne inscrite une carte d'admissibilité à la totalité ou à une partie de ces services. Cette carte est valide pour la durée prévue par règlement. Une personne doit pour obtenir une nouvelle carte s'inscrire de nouveau à la Régie.
+
+La carte d'admissibilité est la propriété de la Régie et son titulaire doit la retourner à la Régie et cesser de la présenter s'il n'est plus visé par le paragraphe 2° du premier alinéa de l'article 10 ou par l'article 10.1 de la Loi sur le ministère de la Santé et des Services sociaux. Il doit faire de même s'il ne bénéficie plus de la totalité ou d'une partie des services prévus.
+
+La Régie peut faire parvenir un avis à un titulaire lui indiquant s'il est visé ou non par le paragraphe 2° du premier alinéa de l'article 10 ou par l'article 10.1 de la Loi sur le ministère de la Santé et des Services sociaux, ou s'il bénéficie ou non de la totalité ou d'une partie des services prévus.
+
+L'article 22.0.1 s'applique, compte tenu des adaptations nécessaires, à ce titulaire.
+
+1989, c. 50, a. 9; 1991, c. 42, a. 560; 2005, c. 32, a. 237; 2012, c. 23, a. 143.
+
+9.0.1.1. (Abrogé).
+
+2005, c. 32, a. 238; 2012, c. 23, a. 144.
+
+9.0.1.2. (Abrogé).
+
+2005, c. 32, a. 238; 2012, c. 23, a. 144.
+
+9.0.1.3. (Abrogé).
+
+2008, c. 8, a. 17; 2012, c. 23, a. 175.
+
+9.0.2. La Régie peut notamment refuser de délivrer une carte d'assurance maladie ou une carte d'admissibilité à une personne qui demande de s'inscrire à la Régie ou qui demande le renouvellement de son inscription lorsqu'elle est déjà débitrice de la Régie à l'égard du coût d'un service assuré payé pour elle par la Régie ou à l'égard de frais exigibles par la Régie.
+
+1992, c. 21, a. 105; 1994, c. 8, a. 4; 1999, c. 89, a. 42.
+
+9.0.3. La carte d'assurance maladie ou la carte d'admissibilité comporte une photographie de la personne assurée conforme aux normes prescrites par règlement ainsi que sa signature.
+
+Toutefois, la Régie peut délivrer une carte d'assurance maladie ou une carte d'admissibilité sans la photographie ou la signature de la personne assurée, dans les cas, les circonstances et les conditions prévus par règlement ou lorsque la personne assurée réside à l'un des endroits prévus à la liste que dresse le ministre.
+
+La Régie doit publier cette liste et chacune de ses mises à jour à la Gazette officielle du Québec, lesquelles entrent en vigueur à la date de leur publication ou à toute autre date qui y est fixée.
+
+1992, c. 21, a. 105; 1994, c. 8, a. 5; 1999, c. 89, a. 42.
+
+9.0.4. La demande d'inscription, la demande de renouvellement d'inscription et la demande de remplacement de la carte d'assurance maladie ou de la carte d'admissibilité doivent être authentifiées conformément au règlement, à l'exception d'une demande pour laquelle la Régie délivre une carte d'assurance maladie ou une carte d'admissibilité sans la photographie et la signature de la personne assurée.
+
+1992, c. 21, a. 105; 1999, c. 89, a. 42.
+
+9.0.5. (Remplacé).
+
+2006, c. 11, a. 1; 2010, c. 38, a. 9.
+
+9.1. Il est interdit à une personne assurée ou à une personne visée par l'article 9.0.1 de confier à un tiers, de prêter, donner, vendre ou autrement aliéner sa carte d'assurance maladie ou sa carte d'admissibilité et nul ne peut exiger ni accepter qu'une personne assurée ou une telle personne lui confie, prête, donne, vende ou aliène autrement sa carte.
+
+Toutefois, une personne assurée ou une personne visée par l'article 9.0.1 peut confier sa carte d'assurance maladie ou sa carte d'admissibilité à un établissement et un établissement peut exiger ou recevoir cette carte.
+
+1979, c. 1, a. 6; 1989, c. 50, a. 10; 1999, c. 89, a. 42.
+
+9.1.1. Nul ne peut avoir en sa possession une carte d'assurance maladie ou une carte d'admissibilité qui ne correspond pas à son identité en vue d'obtenir ou de recevoir un service visé dans la présente loi, les règlements, un régime ou un programme administré par la Régie.
+
+Quiconque contrevient à une disposition du présent article est passible d'une amende de 200 $ à 1 000 $.
+
+1999, c. 89, a. 8.
+
+9.2. Quiconque s'inscrit à la Régie sans y avoir droit ou aide ou encourage sciemment une autre personne à s'inscrire à la Régie alors que cette personne n'y a pas droit ou contrevient à l'article 9.1, commet une infraction et est passible d'une amende d'au moins 200 $ et d'au plus 1 000 $.
+
+1979, c. 1, a. 6; 1990, c. 4, a. 76.
+
+9.3. Quiconque donne sciemment une information fausse ou trompeuse dans ou au sujet d'une demande d'inscription à la Régie, commet une infraction et est passible d'une amende d'au moins 200 $ et d'au plus 1 000 $.
+
+1979, c. 1, a. 6; 1990, c. 4, a. 76.
+
+9.4. Commet une infraction et est passible d'une amende d'au moins 200 $ et d'au plus 1 000 $:
+
+ a) quiconque néglige ou refuse de retourner à la Régie sa carte d'assurance maladie ou la présente pour obtenir des services assurés alors qu'il n'est plus une personne qui réside au Québec ou une personne qui séjourne au Québec;
+
+ b) quiconque néglige ou refuse de retourner à la Régie sa carte d'admissibilité ou la présente pour obtenir des services assurés alors qu'il n'est plus visé par le paragraphe 2° du premier alinéa de l'article 10 ou par l'article 10.1 de la Loi sur le ministère de la Santé et des Services sociaux (chapitre M-19.2) ou alors qu'il ne bénéficie plus de la totalité ou d'une partie des services prévus.
+
+1991, c. 42, a. 561; 1999, c. 89, a. 42; 1999, c. 89, a. 9.
+
+9.5. Nul ne peut inscrire sur une carte d'assurance maladie un renseignement autre que celui déterminé par règlement ou apposer sur une carte d'assurance maladie une matière ou un objet non autorisé par la Régie.
+
+Une personne qui contrevient au présent article commet une infraction et est passible d'une amende de 50 $ à 500 $ et, en cas de récidive, d'une amende de 100 $ à 1 000 $.
+
+Une personne qui accomplit ou omet d'accomplir quelque chose en vue d'aider une personne à commettre une infraction prévue au présent article ou qui lui conseille de commettre une telle infraction, l'y encourage ou l'y incite, commet une infraction et est passible de la même peine que cette personne.
+
+1991, c. 42, a. 561; 1999, c. 89, a. 42.
+
+non en vigueurPossession interdite.
+9.6. Lorsqu'une personne, qui n'y a pas droit, a en sa possession une carte d'assurance maladie ou une carte d'admissibilité et qu'elle omet ou refuse de la retourner, la Régie ou toute personne qu'elle désigne à cette fin peut en reprendre possession.
+Reprise de possession.
+La reprise de possession de la carte d'assurance maladie ou de la carte d'admissibilité peut être effectuée pour les motifs suivants:
+ 1° la personne n'est pas une personne qui réside ou qui séjourne au Québec;
+ 2° la personne n'est pas visée par le paragraphe 2° du premier alinéa de l'article 10 ou par l'article 10.1 de la Loi sur le ministère de la Santé et des Services sociaux (chapitre M-19.2).
+Recours.
+Cette reprise de possession ne peut avoir lieu avant l'expiration du délai pour former le recours prévu à l'article 18.1 ou, le cas échéant, avant l'expiration du délai pour contester la décision de la Régie devant le Tribunal administratif du Québec.
+1999, c. 89, a. 10.
+
+
+9.7. Est tenue de restituer à la Régie les sommes que cette dernière a assumées pour son compte ou pour le compte d'un conjoint ou d'un enfant à l'égard duquel elle est tenue de pourvoir à une couverture d'assurance en vertu de la loi ou les sommes que la Régie lui a remboursées conformément à la présente loi, une personne qui a reçu des services assurés pour elle-même ou pour ce conjoint ou cet enfant alors que la personne à qui ces services ont été dispensés n'y avait pas droit pour l'un des motifs suivants:
+
+ 1° elle était inscrite à la Régie sans y avoir droit;
+
+ 2° elle avait cessé d'être une personne qui réside ou qui séjourne au Québec;
+
+ 3° elle avait cessé d'être une personne admissible à un programme administré par la Régie en vertu de l'article 2 de la Loi sur la Régie de l'assurance maladie du Québec (chapitre R-5) ou une personne visée par le paragraphe 2° du premier alinéa de l'article 10 ou par l'article 10.1 de la Loi sur le ministère de la Santé et des Services sociaux (chapitre M-19.2).
+
+Dans ces cas, le droit d'action de la Régie se prescrit par trois ans à compter de la date à laquelle la Régie a eu connaissance du fait qu'une personne était inadmissible.
+
+Toutefois, il y a suspension de la prescription lorsque cette personne demande la révision de la décision de la Régie en vertu de l'article 18.1 ou conteste la décision de la Régie devant le Tribunal administratif du Québec en vertu de l'article 18.4 jusqu'à ce qu'une décision définitive soit rendue.
+
+1999, c. 89, a. 10; 2005, c. 40, a. 33.
+
+9.8. La Régie met en demeure un débiteur en lui notifiant la décision qui énonce le montant de sa dette, les motifs d'exigibilité et son droit de demander une révision conformément à l'article 18.1.
+
+Cette décision doit également comporter des informations sur les modalités de recouvrement, notamment celles relatives à la délivrance du certificat prévu par l'article 18.3.1 et à ses effets.
+
+Cette décision interrompt la prescription.
+
+2005, c. 40, a. 34.
+
+10. Une personne assurée a droit d'exiger de la Régie le remboursement du coût des services assurés qui lui ont été fournis en dehors du Québec par un professionnel de la santé, à l'exception des services pharmaceutiques et des médicaments visés aux troisième et quatrième alinéas de l'article 3, pourvu qu'elle remette à la Régie sur demande les reçus d'honoraires qu'elle a payés et qu'elle lui fournisse les renseignements dont la Régie a besoin pour justifier le paiement réclamé.
+
+Malgré le premier alinéa, le coût de l'exécution d'une ordonnance ou de son renouvellement et de médicaments fournis à une personne admissible au sens de la Loi sur l'assurance médicaments (chapitre A-29.01), à l'extérieur du Québec, par une personne légalement autorisée à y exercer la profession de pharmacien et avec qui la Régie a conclu une entente particulière à cette fin, peut faire l'objet d'un remboursement, s'ils sont fournis dans une pharmacie située dans une région limitrophe au Québec lorsque, dans un rayon de 32 kilomètres de cette pharmacie, aucune pharmacie au Québec ne dessert la population.
+
+non en vigueurRemboursement.
+Il en est de même du coût de médicaments fournis à une personne admissible au sens de la Loi sur l'assurance médicaments, à l'extérieur du Québec, dans le cadre des activités d'un établissement suivant le troisième alinéa de l'article 8 de cette loi.
+
+
+Toutefois, elle n'a droit d'exiger que le moindre du montant qu'elle a effectivement payé pour ces services ou de celui établi par la Régie pour de tels services payés au Québec.
+
+Malgré le quatrième alinéa, une personne assurée peut exiger le montant effectivement payé pour des services médicaux dans les cas et conditions déterminés par règlement.
+
+1970, c. 37, a. 9; 1979, c. 1, a. 7; 1989, c. 50, a. 11; 1996, c. 32, a. 91; 1999, c. 89, a. 11, a. 42.
+
+11. La Régie peut aussi assumer elle-même, pour le compte d'une personne assurée, le paiement du coût des services visés dans l'article 10, sur présentation d'un relevé d'honoraires et après avoir obtenu les renseignements dont elle a besoin pour justifier le paiement réclamé.
+
+Elle ne peut toutefois payer ainsi un montant supérieur à celui qu'elle aurait payé sur présentation d'un reçu d'honoraires en vertu de l'article 10.
+
+Malgré le deuxième alinéa, elle peut assumer le coût effectivement réclamé pour des services médicaux dans les cas et conditions déterminés par règlement.
+
+1970, c. 37, a. 10; 1979, c. 1, a. 8; 1989, c. 50, a. 12; 1999, c. 89, a. 42.
+
+12. Une personne assurée a aussi droit d'exiger de la Régie le paiement du coût des services assurés qui lui ont été fournis au Québec par un professionnel désengagé ou par un professionnel visé dans l'article 30, sur présentation d'un formulaire de relevé d'honoraires fourni à cette fin par la Régie et dont le contenu est conforme au règlement, pourvu que la Régie ait obtenu de cette personne assurée ou du professionnel dont il s'agit les renseignements dont elle a besoin pour justifier le paiement réclamé.
+
+La personne assurée n'a pas droit d'exiger plus que le montant qui aurait été payé par la Régie pour de tels services à un professionnel soumis à l'application d'une entente.
+
+La Régie doit, lorsqu'elle apprécie un relevé d'honoraires soumis en vertu du présent article, appliquer toutes les règles relatives à la rémunération prévues à l'entente concernée comme si le paiement était effectué directement au professionnel de la santé.
+
+1970, c. 38, a. 3; 1979, c. 1, a. 9; 1989, c. 50, a. 13; 1991, c. 42, a. 562; 1999, c. 89, a. 42; 2007, c. 21, a. 22.
+
+13. Une personne assurée a aussi droit d'exiger de la Régie le paiement du coût déterminé par règlement pour les services et pour les appareils ou autres équipements qui suppléent à une déficience physique visés dans les cinquième, neuvième et dixième alinéas de l'article 3 qui lui ont été fournis au Québec par un établissement, un laboratoire ou une personne visée dans le paragraphe h.3 du premier alinéa de l'article 69, ou qui lui ont été fournis hors du Québec par un établissement ou un laboratoire reconnu par le ministre ou par une personne visée dans le paragraphe h.3 du premier alinéa de l'article 69, sur présentation d'un état de compte dont la forme est acceptée par la Régie et dont le contenu est conforme au règlement, pourvu que la Régie ait obtenu de cette personne assurée les renseignements dont elle a besoin pour justifier le paiement réclamé.
+
+Cette personne assurée n'a pas droit d'exiger plus que le coût déterminé par règlement pour un service assuré visé dans les cinquième, neuvième et dixième alinéas de l'article 3.
+
+La Régie peut aussi assumer elle-même pour le compte d'une personne assurée jusqu'à concurrence des coûts déterminés par règlement, le paiement du coût des services visés dans le premier alinéa.  Elle ne le fait toutefois que si cette personne assurée lui présente un état de compte et lui fournit les renseignements appropriés.
+
+Un établissement, un laboratoire ou une personne visée dans le paragraphe h.3 du premier alinéa de l'article 69 qui fournit un service assuré visé dans les cinquième, neuvième et dixième alinéas de l'article 3 ne peut être payé que pour ce qu'il a réellement exécuté et seulement jusqu'à concurrence des coûts déterminés par règlement.
+
+1973, c. 30, a. 4; 1974, c. 40, a. 5; 1979, c. 1, a. 10; 1989, c. 50, a. 14; 1990, c. 56, a. 1; 1994, c. 8, a. 6; 1999, c. 89, a. 12, a. 42.
+
+13.1. Une personne assurée qui n'a pas présenté sa carte d'assurance maladie, son carnet de réclamation ou sa carte d'admissibilité, selon le cas, à un professionnel de la santé soumis à l'application d'une entente, a aussi droit d'exiger de la Régie le remboursement ou le paiement du coût des services assurés, sur présentation d'un formulaire de relevé d'honoraires fourni à cette fin par la Régie et dont le contenu est conforme au règlement, pourvu que la Régie ait obtenu de cette personne assurée ou du professionnel dont il s'agit les renseignements dont elle a besoin pour justifier le paiement réclamé.
+
+La personne assurée n'a pas droit d'exiger plus que le montant qui aurait été payé par la Régie pour de tels services à un professionnel soumis à l'application d'une entente.
+
+1979, c. 1, a. 11; 1989, c. 50, a. 15; 1999, c. 89, a. 13, a. 42; 2007, c. 21, a. 23.
+
+13.2. Seul un établissement visé dans le sixième alinéa de l'article 3 a droit d'exiger de la Régie, jusqu'à concurrence des coûts déterminés par règlement, le remboursement, en vertu des sixième, neuvième et dixième alinéas de l'article 3, du coût des services qu'il a fournis et des aides visuelles qu'il a prêtées à une personne assurée qui a une déficience visuelle, sur présentation d'un état de compte dont la forme est acceptée par la Régie et dont le contenu est conforme au règlement, pourvu que la Régie ait obtenu de cet établissement les renseignements dont elle a besoin pour justifier le paiement réclamé.
+
+Il ne peut exiger ni recevoir pour de telles aides aucun autre paiement que celui qui lui est payable par la Régie.
+
+Il ne peut exiger aucun paiement pour une aide visuelle qui a déjà fait l'objet d'un prêt et qu'il a récupérée, sauf le paiement du coût des réparations.
+
+Il ne peut exiger le paiement du coût des réparations d'une aide visuelle lorsque ce coût est payable en vertu de la garantie offerte par le fabricant.
+
+1979, c. 1, a. 11; 1989, c. 50, a. 16; 1999, c. 40, a. 29; 1999, c. 89, a. 14.
+
+13.2.1. Une personne assurée qui a une déficience auditive a aussi droit d'exiger de la Régie le paiement du coût déterminé par règlement pour des services et pour des aides auditives visés au septième alinéa de l'article 3, qui lui ont été fournis conformément aux conditions prévues par règlement, sur présentation d'une demande de remboursement dont la forme est acceptée par la Régie et dont le contenu est conforme au règlement, pourvu que la Régie ait obtenu de cette personne les renseignements dont elle a besoin pour justifier le paiement réclamé.
+
+La personne assurée n'a pas droit d'exiger plus que le paiement du coût déterminé par règlement pour un tel service, ni plus que le montant qu'elle a déjà acquitté.
+
+La Régie peut aussi assumer pour le compte d'une telle personne, jusqu'à concurrence du coût déterminé par règlement, le paiement du coût d'un service assuré visé au premier alinéa. Elle ne le fait toutefois que si cette personne lui présente une demande de paiement dont la forme est acceptée par la Régie et dont le contenu est conforme au règlement et si elle lui fournit les renseignements appropriés.
+
+Celui qui fournit un tel service ne peut être payé que pour ce qu'il a réellement exécuté et seulement jusqu'à concurrence du coût déterminé par règlement.
+
+1999, c. 89, a. 15.
+
+13.3. Le professionnel visé dans les articles 12 et 13.1 doit remplir le formulaire de relevé d'honoraires fourni à cette fin par la Régie et dont le contenu est conforme au règlement et le remettre à la personne assurée.
+
+1979, c. 1, a. 11; 1989, c. 50, a. 17; 1999, c. 89, a. 42; 2007, c. 21, a. 24.
+
+13.4. Tout appareil ou équipement qui supplée à une déficience physique, toute aide visuelle, aide auditive et aide à la communication visés à l'article 3 et fournis à une personne assurée est incessible et insaisissable.
+
+L'appareil ou équipement qui supplée à une déficience physique ou l'aide auditive qui n'est plus utilisé par une personne assurée devient la propriété de la Régie et, selon le cas, peut ou doit être récupéré conformément aux normes prévues par règlement.
+
+1994, c. 8, a. 8; 1999, c. 89, a. 42; 1999, c. 89, a. 16.
+
+14. Une personne assurée n'a droit d'exiger de la Régie le paiement ou le remboursement, selon le cas, du coût d'aucun service fourni par un professionnel de la santé si ce n'est suivant les articles 10, 11, 12, 13.1 ou 22.0.1.
+
+Il n'a droit d'exiger de la Régie le paiement du coût d'aucun service assuré visé dans le cinquième alinéa de l'article 3, si ce n'est suivant l'article 13.
+
+Un établissement visé dans le sixième alinéa de l'article 3 n'a droit d'exiger de la Régie le remboursement du coût d'aucun service assuré visé dans le sixième alinéa de l'article 3, si ce n'est suivant l'article 13.2.
+
+Une personne assurée qui a une déficience auditive n'a droit d'exiger de la Régie le paiement du coût d'aucun service assuré visé dans le septième alinéa de l'article 3, si ce n'est suivant l'article 13.2.1.
+
+1970, c. 37, a. 11; 1970, c. 38, a. 4; 1973, c. 30, a. 5; 1979, c. 1, a. 12; 1989, c. 50, a. 18; 1994, c. 8, a. 9; 1999, c. 89, a. 17, a. 42.
+
+14.1. Une personne qui réside ou qui séjourne au Québec et qui reçoit un service assuré alors qu'elle n'est pas dûment inscrite à la Régie peut exiger le paiement ou le remboursement de la Régie du coût de ce service assuré pourvu qu'elle s'inscrive à la Régie conformément à l'article 9.
+
+En ce cas, elle est réputée être une personne assurée à partir de la date à laquelle elle a reçu ce service assuré.
+
+1979, c. 1, a. 12; 1989, c. 50, a. 19; 1999, c. 40, a. 29; 1999, c. 89, a. 42; 1999, c. 89, a. 18.
+
+14.2. La personne assurée n'a droit d'exiger de la Régie le paiement ou le remboursement selon le cas, du coût d'un service assuré que si elle  transmet sa réclamation à la Régie dans l'année suivant la date à laquelle elle a reçu le service assuré.
+
+La Régie peut accepter de considérer une réclamation transmise après l'expiration de ce délai si la personne assurée démontre qu'elle a été, en fait, dans l'impossibilité de faire sa réclamation plus tôt.
+
+1989, c. 50, a. 20; 1999, c. 89, a. 19, a. 42.
+
+14.2.1. Dans les cas prévus par règlement, une personne doit, à la demande de la Régie et aux frais de cette dernière, se soumettre à l'examen d'un professionnel de la santé ou à l'évaluation d'un audiologiste, d'un orthophoniste, d'un audioprothésiste, d'un ergothérapeute ou d'un physiothérapeute choisi par cette personne, ou lorsque la Régie l'estime nécessaire, désigné par elle.
+
+Cet examen ou cette évaluation doit se faire selon les normes que la Régie détermine par règlement.
+
+1999, c. 89, a. 20.
+
+14.2.2. Une personne qui se soumet à l'examen ou à l'évaluation prévu à l'article 14.2.1 a également droit, selon les conditions prescrites par règlement de la Régie, d'être remboursée par la Régie des frais de déplacement et de séjour qu'elle engage en vue de subir cet examen ou cette évaluation.
+
+Lorsque l'état physique ou psychique ou l'âge de la personne qui se soumet à cet examen ou à cette évaluation requiert d'être accompagnée, la personne qui l'accompagne a droit, selon les conditions prescrites par règlement, de recevoir une allocation de disponibilité et d'être remboursée par la Régie des frais de déplacement et de séjour qu'elle engage.
+
+1999, c. 89, a. 20.
+
+14.2.3. Le professionnel de la santé, l'audiologiste, l'orthophoniste, l'audioprothésiste, l'ergothérapeute ou le physiothérapeute qui examine ou évalue une personne à la demande de la Régie doit faire rapport à celle-ci sur toute question pour laquelle l'examen ou l'évaluation a été requis.
+
+Sur réception de ce rapport, la Régie doit en transmettre une copie à la personne qui a subi l'examen ou l'évaluation ou à toute personne désignée par cette dernière.
+
+1999, c. 89, a. 20.
+
+SECTION II.0.1
+~~~~~~~~~~~~~~
+
+14.3. (Abrogé).
+
+1992, c. 19, a. 2; 1996, c. 32, a. 92.
+
+14.4. (Abrogé).
+
+1992, c. 19, a. 2; 1996, c. 32, a. 92.
+
+14.5. (Abrogé).
+
+1992, c. 19, a. 2; 1996, c. 32, a. 92.
+
+14.6. (Abrogé).
+
+1992, c. 19, a. 2; 1996, c. 32, a. 92.
+
+14.7. (Abrogé).
+
+1992, c. 19, a. 2; 1996, c. 32, a. 92.
+
+14.8. (Abrogé).
+
+1992, c. 19, a. 2; 1996, c. 32, a. 92.
+
+SECTION II.0.2
+~~~~~~~~~~~~~~
+
+**CONTRATS D'ASSURANCE ET SUBROGATION**
+
+15. Un assureur ou une personne qui administre un régime d'avantages sociaux peut conclure ou maintenir un contrat d'assurance ou établir ou maintenir un régime d'avantages sociaux, selon le cas, comportant une garantie de paiement à l'égard du coût d'un service assuré fourni à une personne qui réside ou séjourne au Québec uniquement si:
+
+ 1° le contrat d'assurance ou le régime d'avantages sociaux ne couvre aucun autre service assuré que ceux qui sont requis pour effectuer une arthroplastie-prothèse totale de la hanche ou du genou, une extraction de la cataracte avec implantation d'une lentille intra-oculaire ou un autre traitement médical spécialisé déterminé conformément à l'article 15.1 ainsi que ceux qui sont requis, le cas échéant, pour dispenser les services préopératoires, postopératoires, de réadaptation et de soutien à domicile visés à l'article 333.6 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2);
+
+ 2° le contrat d'assurance ou le régime d'avantages sociaux comporte, sous réserve de toute franchise applicable, une garantie de paiement à l'égard du coût de tous les services assurés et de tous les services préopératoires, postopératoires, de réadaptation et de soutien à domicile visés au paragraphe 1°;
+
+ 3° la garantie de paiement ne s'applique qu'à l'égard d'une chirurgie ou d'un autre traitement médical spécialisé dispensé dans un centre médical spécialisé visé au paragraphe 2° du premier alinéa de l'article 333.3 de la Loi sur les services de santé et les services sociaux.
+
+Un contrat d'assurance ou un régime d'avantages sociaux qui va à l'encontre du paragraphe 1° du premier alinéa mais qui a également pour objet d'autres services et biens demeure valide quant à ces autres services et biens et la considération prévue à l'égard de ce contrat ou de ce régime doit être ajustée en conséquence, à moins que le bénéficiaire de ces services et de ces biens n'accepte de recevoir en échange des avantages équivalents.
+
+Rien dans le présent article n'empêche la conclusion d'un contrat d'assurance ou l'établissement d'un régime d'avantages sociaux qui a pour objet l'excédent du coût des services assurés rendus hors du Québec ou l'excédent du coût des médicaments dont la Régie assume le paiement. Il n'empêche pas non plus un contrat d'assurance ou un régime d'avantages sociaux qui a pour objet la contribution que doit payer une personne assurée en vertu de la Loi sur l'assurance médicaments (chapitre A-29.01).
+
+On entend par «assureur», une personne morale titulaire d'un permis délivré par l'Autorité des marchés financiers qui l'autorise à pratiquer l'assurance de personnes au Québec.
+
+On entend par «régime d'avantages sociaux», un régime d'avantages sociaux non assurés, doté ou non d'un fonds, et qui accorde à l'égard d'un risque une protection qui pourrait être autrement obtenue en souscrivant une assurance de personnes.
+
+En cas de contravention au premier alinéa, l'assureur ou la personne qui administre un régime d'avantages sociaux commet une infraction et est passible d'une amende de 50 000 $ à 100 000 $ et, en cas de récidive, d'une amende de 100 000 $ à 200 000 $.
+
+1970, c. 37, a. 12; 1970, c. 42, a. 17; 1971, c. 47, a. 8; 1974, c. 40, a. 6; 1981, c. 22, a. 3; 1983, c. 54, a. 9; 1989, c. 50, a. 21; 1992, c. 19, a. 3; 1996, c. 32, a. 93; 1999, c. 89, a. 42; 1999, c. 89, a. 21; 2006, c. 43, a. 42.
+
+15.1. Le gouvernement peut déterminer, parmi les traitements médicaux spécialisés déterminés par un règlement pris en application du premier alinéa de l'article 333.1 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2), ceux qui peuvent être couverts par un contrat d'assurance ou un régime d'avantages sociaux en application des dispositions de l'article 15.
+
+Le gouvernement ne peut prendre un tel règlement avant qu'il n'ait fait l'objet d'une étude par la commission compétente de l'Assemblée nationale.
+
+2006, c. 43, a. 42; 2009, c. 29, a. 29.
+
+16.  1. Lorsqu'un employeur s'est engagé à payer une somme d'argent au profit de ses employés pour l'assurance du coût de services qui deviennent des services assurés, il doit, si le montant qu'il paie à l'égard d'un employé en vertu de l'article 82 est inférieur au montant qu'il aurait autrement payé à son égard, lui remettre la différence au fur et à mesure des échéances jusqu'au terme de son engagement et indiquer à ses employés, au plus tard le 1er février 1971, le montant qui revient ainsi à chacun d'eux et la façon dont ce montant a été établi; lorsque les employés sont représentés par une association accréditée au sens du Code du travail (chapitre C-27), l'employeur doit donner ces indications à cette association.
+
+ 2. L'employeur est relevé de l'obligation de remettre à un employé le montant qui lui revient, en vertu du paragraphe 1, si cet employé accepte en échange des avantages équivalents; lorsque des employés sont représentés par une association accréditée au sens du Code du travail, cette association peut accepter à la place des employés que l'employeur leur accorde des avantages équivalents.
+
+ 3. Le paiement des montants dus par un employeur à ses employés en vertu des paragraphes 1 et 2 ne peut être exigé par eux avant le 1er février 1971.
+
+ 4. Si l'engagement de l'employeur existe en vertu d'une convention collective au sens du Code du travail, toute difficulté résultant de l'application du présent article constitue un grief au sens du Code du travail comme s'il s'agissait de l'interprétation ou de l'application de la convention collective liant l'employeur et cette association; dans les autres cas, il y a lieu à arbitrage comme si une clause compromissoire avait été convenue entre les parties.
+
+ 5. Aux fins du présent article, le mot «employé» comprend les retraités et le présent article ne s'applique pas aux employés régis par une convention collective au sens du Code du travail lorsque cette convention prévoit explicitement la façon dont il sera disposé d'une assurance du coût de services qui deviennent des services assurés.
+
+1970, c. 37, a. 13.
+
+17. (Abrogé).
+
+1971, c. 47, a. 9; 1979, c. 1, a. 13.
+
+18.  1. La Régie est de plein droit subrogée au recours de toute personne qui bénéficie des services assurés contre un tiers jusqu'à concurrence du coût des services assurés fournis ou qui seront fournis à la suite d'un préjudice causé par la faute du tiers. Une telle personne doit fournir à la Régie tout renseignement nécessaire à l'établissement de la responsabilité de ce tiers ou de la réclamation de la Régie.
+
+ 2. La faute commune entraîne la réduction du montant de cette subrogation dans la même proportion que le recours de la personne assurée.
+
+ 2.1. L'assureur de la responsabilité d'un tiers doit aviser la Régie par écrit dès qu'il entame des négociations en vue du règlement d'une réclamation pour dommages-intérêts en réparation du préjudice subi susceptible d'entraîner le paiement de services assurés.
+
+ 3. L'assureur de la responsabilité d'un tiers ne peut se libérer de son obligation de l'indemniser de sa responsabilité envers la Régie découlant du présent article, autrement que par paiement à la Régie.
+
+ 4. Un engagement par une personne bénéficiant de services assurés de libérer un tiers ou son assureur de leur responsabilité envers la Régie découlant du présent article ou de les en indemniser est sans effet et est réputé non écrit dans toute convention, transaction ou quittance.
+
+ 5. Les droits acquis par l'effet de la subrogation prévue au présent article font partie du domaine de l'État à compter de leur naissance et sont soumis aux règles applicables aux droits qui en font partie; toutefois le droit d'action qui en résulte se prescrit par trois ans à compter de la date à laquelle la Régie a eu connaissance du fait qui y donne naissance.
+
+1970, c. 37, a. 14; 1974, c. 40, a. 7; 1989, c. 50, a. 22; 1999, c. 40, a. 29; 1999, c. 89, a. 22; 2006, c. 43, a. 43.
+
+SECTION II.1
+~~~~~~~~~~~~
+
+**RÉVISION ET RECOURS DEVANT LE TRIBUNAL ADMINISTRATIF DU QUÉBEC**
+
+18.1. Une personne assurée ou une personne admissible à un programme administré par la Régie en vertu du premier alinéa de l'article 2 de la Loi sur la Régie de l'assurance maladie du Québec (chapitre R-5) et qui se croit lésée par une décision de la Régie peut en demander la révision.  Une personne que la Régie refuse de considérer comme une personne assurée peut également demander la révision de cette décision.
+
+1989, c. 50, a. 23; 1991, c. 42, a. 563; 1999, c. 89, a. 42.
+
+18.2. La demande en révision se fait au moyen d'un avis écrit à la Régie exposant les motifs de la demande.  Cette demande doit être faite dans les six mois de la date à laquelle le demandeur a été avisé de la décision.
+
+La Régie peut considérer une demande de révision transmise après l'expiration de ce délai si le demandeur démontre qu'il a été, en fait, dans l'impossibilité de faire sa demande plus tôt.
+
+1989, c. 50, a. 23.
+
+18.3. Dans les 90 jours de la réception de la demande de révision, la Régie révise le dossier et rend une décision motivée.  Elle avise par écrit le demandeur de sa décision et de son droit de la contester devant le Tribunal administratif du Québec ainsi que du délai de recours.
+
+1989, c. 50, a. 23; 1997, c. 43, a. 59.
+
+18.3.1. Lorsqu'une personne fait défaut de rembourser ou de payer le montant qu'elle doit à la Régie, celle-ci peut, à l'expiration du délai prévu pour demander la révision et si aucun recours n'a été formé à l'égard de sa décision, délivrer un certificat qui mentionne les nom et adresse du débiteur et qui atteste le montant de la dette ainsi que le défaut du débiteur de former un recours à l'encontre de la décision.
+
+La Régie peut également, à l'expiration du délai prévu pour contester la décision en révision devant le Tribunal administratif du Québec, délivrer un tel certificat, confirmant en tout ou en partie sa décision à la suite d'une révision faite en vertu de l'article 18.3, si aucun recours n'a été formé à l'égard de cette décision.
+
+La Régie peut aussi délivrer un tel certificat à l'expiration d'un délai de 30 jours suivant une décision du Tribunal administratif du Québec confirmant en tout ou en partie la décision de la Régie prise en vertu de l'article 18.3.
+
+1999, c. 89, a. 23; 2005, c. 40, a. 35.
+
+18.3.2. Après avoir délivré le certificat, la Régie peut, le cas échéant, procéder au recouvrement de la dette par compensation en retenant une partie de tout montant qu'elle doit au débiteur en vertu de la présente loi.
+
+Tout remboursement dû à un débiteur par suite de l'application d'une loi fiscale peut également faire l'objet d'une retenue après délivrance du certificat par le ministre du Revenu conformément à l'article 31 de la Loi sur l'administration fiscale (chapitre A-6.002).
+
+2005, c. 40, a. 35; 2010, c. 31, a. 175.
+
+18.3.3. Sur dépôt du certificat, accompagné d'une copie de la décision définitive qui établit la dette, au greffe du tribunal compétent, la décision devient exécutoire comme s'il s'agissait d'un jugement final et sans appel de ce tribunal et en a tous les effets.
+
+2005, c. 40, a. 35.
+
+18.4. Le demandeur qui se croit lésé par une décision rendue par la Régie en vertu de l'article 18.3 peut, dans les 60 jours de sa notification, la contester devant le Tribunal administratif du Québec.
+
+En outre, une personne peut contester devant le Tribunal la décision dont elle a demandé la révision si la Régie n'a pas disposé de la demande dans les 90 jours suivant sa réception, sous réserve de ce qui suit:
+
+ 1° lorsque la personne qui a demandé la révision a requis un délai pour présenter ses observations ou produire des documents, le délai de 90 jours court à partir de cette présentation ou de cette production;
+
+ 2° lorsque la Régie estime qu'un examen par un professionnel de la santé ou la transmission de documents est nécessaire à la prise de la décision, le délai est prolongé de 90 jours; la personne qui a demandé la révision doit en être avisée.
+
+1989, c. 50, a. 23; 1997, c. 43, a. 60; 2005, c. 17, a. 35.
+
+SECTION III
+~~~~~~~~~~~
+
+**PROFESSIONNELS DE LA SANTÉ**
+
+19. Le ministre peut, avec l'approbation du Conseil du trésor, conclure avec les organismes représentatifs de toute catégorie de professionnels de la santé, toute entente pour l'application de la présente loi.
+
+Une entente peut prévoir notamment que la rémunération de services assurés varie selon des règles applicables à une activité, un genre d'activité ou l'ensemble des activités d'un professionnel de la santé, ou aux activités d'une catégorie de professionnels ou d'une spécialité à laquelle il appartient. Une telle entente peut aussi prévoir différents modes de rémunération dont les modes de rémunération à l'acte, à honoraires forfaitaires et à salaire. Elle peut en outre prévoir, à titre de compensation ou de remboursement, le versement de divers montants tels des primes, des frais ou des allocations.
+
+Le ministre détermine par règlement, après consultation des organismes représentatifs des professionnels de la santé concernés, les territoires ou les lieux d'exercice qu'il estime insuffisamment pourvus de professionnels. Ce règlement peut viser l'ensemble des professionnels d'un territoire ou d'un lieu d'exercice situé dans celui-ci ou une partie d'entre eux compte tenu de leur genre d'activité.
+
+Une entente peut prévoir une rémunération différente pour la fourniture de services médicaux dans un territoire ou un lieu d'exercice visé par un règlement pris en vertu du troisième alinéa.
+
+Une entente peut prévoir une rémunération différente pour les médecins selon qu'ils sont autorisés ou non à y adhérer en vertu des articles 360 et suivants de la Loi sur les services de santé et les services sociaux (chapitre S-4.2), pour la totalité ou une partie de leurs activités dans la région. Elle peut également prévoir les modalités de participation à une telle entente.
+
+Afin d'assurer le respect des plans régionaux des effectifs médicaux visés à l'article 377 de la Loi sur les services de santé et les services sociaux, une entente peut prévoir une rémunération différente pour certaines catégories de professionnels selon leur lieu d'exercice ou le territoire où ils exercent leurs activités.
+
+À défaut d'entente pour déterminer la rémunération différente visée dans le quatrième alinéa, le Conseil du trésor peut, par règlement qui tient lieu d'une entente, fixer cette rémunération. Il peut de même déterminer le nombre d'années d'exercice d'un médecin pendant lesquelles cette rémunération s'applique; ce nombre ne peut excéder trois ans.
+
+À défaut d'entente pour déterminer la rémunération différente et les modalités de participation du médecin à une entente visée au cinquième alinéa, le Conseil du trésor peut, par règlement qui tient lieu d'une entente, fixer cette rémunération et déterminer les modalités de participation visées dans le cinquième alinéa. Il peut de même déterminer le nombre d'années pendant lesquelles la rémunération différente s'applique et des règles d'équivalence permettant à un médecin d'être libéré d'une participation à une activité médicale particulière, en raison notamment de la lourdeur de la tâche de ce médecin ou du nombre d'années pendant lesquelles il a pratiqué dans un territoire ou un lieu de pratique que ce règlement détermine.
+
+À défaut d'entente pour déterminer la rémunération différente visée dans le sixième alinéa, le Conseil du trésor peut, par règlement qui tient lieu d'une entente, fixer cette rémunération.
+
+Le ministre peut, à titre expérimental et pour une période déterminée, conclure une entente particulière avec les professionnels d'un département clinique d'un établissement pour l'application à l'ensemble de ces professionnels d'un mode de rémunération prévu à une entente conclue en vertu du premier alinéa. Cette entente requiert, au préalable, l'assentiment des professionnels de la santé concernés, du conseil d'administration de l'établissement et de l'organisme représentatif des professionnels concernés.
+
+Si la diminution de services médicaux dans un territoire met en péril la santé publique, le ministre peut, afin de permettre que ces services soient fournis adéquatement dans une installation maintenue par un établissement de ce territoire, conclure pour une période déterminée une entente particulière avec un professionnel de la santé.
+
+Toute entente lie, selon le cas, la Régie, les agences et les établissements.
+
+Le ministre doit consulter la Régie, une agence, un établissement ou un groupe d'établissements susceptibles d'être liés nommément par une entente ou une partie d'entente. Ceux-ci peuvent transmettre au ministre des recommandations quant aux modalités de leur participation à la conclusion de cette entente ou partie d'entente.
+
+La Commission de la santé et de la sécurité du travail collabore à l'élaboration de la partie de telle entente qui traite des services visés dans le quatorzième alinéa de l'article 3.
+
+Les dispositions du Code du travail (chapitre C-27) et de la Loi sur les normes du travail (chapitre N-1.1) ne s'appliquent pas à un professionnel de la santé visé par une entente conclue en vertu du présent article qui rend des services assurés dans une installation maintenue par un établissement ou pour le compte d'un établissement.
+
+1970, c. 37, a. 15; 1970, c. 42, a. 17; 1973, c. 30, a. 6; 1973, c. 49, a. 45; 1974, c. 40, a. 8; 1979, c. 1, a. 14; 1981, c. 22, a. 4; 1984, c. 47, a. 15; 1985, c. 6, a. 489; 1991, c. 42, a. 564; 1994, c. 23, a. 7; 1998, c. 39, a. 177; 1999, c. 89, a. 24; 2000, c. 8, a. 241; 2002, c. 66, a. 17; 2005, c. 32, a. 308.
+
+19.0.1. (Abrogé).
+
+1991, c. 42, a. 565; 1998, c. 39, a. 178; 2002, c. 66, a. 18.
+
+19.1. Le ministre peut, avec l'approbation du Conseil du trésor, conclure avec un organisme représentatif des résidents en médecine une entente sur les conditions de travail applicables aux résidents en médecine en stage de formation auprès des établissements qui ont conclu un contrat d'affiliation, une entente ou un contrat de services conformément à l'article 110 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) ou auprès des établissements affiliés à une université au sens de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5).
+
+Le douzième alinéa de l'article 19 s'applique à cette entente.
+
+1981, c. 22, a. 5; 1989, c. 50, a. 24; 1992, c. 21, a. 106; 1991, c. 42, a. 566; 1994, c. 23, a. 23; 1998, c. 39, a. 179; 2000, c. 8, a. 241; 2002, c. 66, a. 19.
+
+19.2. Malgré toute stipulation d'une entente visée à l'article 19, lorsqu'un service fourni par un professionnel de la santé cesse d'être un service assuré, toute somme prévue pour le financement de la rémunération de ce professionnel à l'égard d'un tel service est, à ce moment, exclue de la rémunération convenue avec l'organisme représentatif concerné.
+
+2015, c. 8, a. 182.
+
+20. Sous réserve des dispositions d'un règlement pris en vertu des articles 69 ou 72, les dispositions d'une entente continuent d'avoir effet après son expiration; elles subsistent jusqu'à l'entrée en vigueur d'une nouvelle entente qui peut toutefois comporter des dispositions ayant effet à compter de l'expiration de celle qu'elle remplace.
+
+1970, c. 37, a. 16; 1989, c. 50, a. 25; 1991, c. 42, a. 567.
+
+21. Une entente visée à l'article 19 oblige tous les professionnels de la santé qui sont membres de l'organisme qui l'a conclue ainsi que tous ceux dont le champ d'activités professionnelles est le même que celui de ces membres et qui sont visés par l'entente.
+
+Une entente visée à l'article 19.1 oblige tous les résidents en médecine qui sont membres de l'organisme qui l'a conclue ainsi que tous ceux dont le champ d'activités professionnelles est le même que celui de ces membres et qui sont visés par l'entente.
+
+1970, c. 37, a. 17; 1983, c. 54, a. 10; 1989, c. 50, a. 26.
+
+22. Un professionnel de la santé soumis à l'application d'une entente a droit d'être rémunéré par la Régie pour un service assuré qu'il a lui-même fourni à une personne assurée qui a présenté sa carte d'assurance maladie ou son carnet de réclamation, selon le cas, ou d'être rémunéré par une personne assurée pour un service assuré qu'il lui a lui-même fourni lorsque cette dernière n'a pas présenté sa carte d'assurance maladie ou son carnet de réclamation, selon le cas, pourvu que ce professionnel de la santé se soit conformé aux dispositions de l'entente.
+
+Toutefois, pourvu qu'il se soit conformé aux dispositions de l'entente, un professionnel de la santé soumis à l'application d'une entente a droit d'être rémunéré par la Régie pour un service assuré qu'il a lui-même fourni à une personne assurée même si cette dernière n'a pas présenté sa carte d'assurance maladie ou son carnet de réclamation, dans les circonstances et les cas suivants:
+
+ a) si la personne assurée est âgée de moins d'un an;
+
+ b) si la personne assurée au moment où elle a reçu des services assurés est dans un état requérant des soins urgents;
+
+ c) si la personne assurée est un mineur de 14 ans ou plus et qu'elle reçoit des services assurés auxquels elle consent seule conformément aux dispositions du Code civil;
+
+ d) si la personne assurée est hébergée par un établissement qui exploite un centre d'hébergement et de soins de longue durée ou un centre de réadaptation au sens de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) ou si elle est hébergée dans un centre d'accueil ou un centre hospitalier de la classe des centres hospitaliers de soins de longue durée au sens de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5) et des règlements adoptés sous l'autorité de cette loi;
+
+ e) dans les autres circonstances et cas prescrits.
+
+Un pharmacien soumis à l'application d'une entente a droit d'être rémunéré suivant les premier ou deuxième alinéas, même si le service assuré a été fourni légalement par un de ses employés.
+
+Un professionnel de la santé soumis à l'application d'une entente ne peut exiger ni recevoir, pour un service assuré, que la rémunération prévue à l'entente et à laquelle il a droit en vertu des alinéas qui précèdent; toute convention à l'effet contraire est nulle de nullité absolue. Cependant un pharmacien peut exiger la différence entre le prix du médicament indiqué à la liste et le montant dont la Régie assume le paiement.
+
+Un professionnel de la santé soumis à l'application d'une entente ne peut recevoir d'un établissement une somme d'argent ou un avantage direct ou indirect en considération de la dispensation de services assurés.
+
+La Régie peut récupérer d'un professionnel de la santé qui contrevient au cinquième alinéa, par compensation ou autrement, toute somme ou valeur de l'avantage reçu après l'avoir avisé par écrit.
+
+Un professionnel de la santé soumis à une entente ne peut exiger ou recevoir paiement de la Régie ou d'une personne assurée, selon le cas, pour un service assuré qui n'a pas été fourni, qu'il n'a pas fourni lui-même, qu'il n'a pas fourni conformément à une entente ou qu'il a faussement décrit.
+
+Il ne peut exiger ou recevoir paiement de la Régie pour un service non assuré, non considéré comme assuré par règlement ou non déterminé comme service assuré par règlement.
+
+Il est interdit à toute personne d'exiger ou de recevoir tout paiement d'une personne assurée pour un service, une fourniture ou des frais accessoires à un service assuré rendu par un professionnel soumis à l'application d'une entente ou par un professionnel désengagé, sauf dans les cas prescrits ou prévus dans une entente et aux conditions qui y sont mentionnées.
+
+Tout service rendu par un dentiste en cabinet privé, relié au service assuré prévu au paragraphe b du premier alinéa de l'article 3, est réputé être un service accessoire.
+
+Un professionnel de la santé soumis à l'application d'une entente ne peut permettre ou accepter que la rémunération pour des services assurés qu'il a fournis soit réclamée au nom d'un autre professionnel. De même, un professionnel de la santé soumis à l'application d'une entente ne peut permettre ou accepter que la rémunération pour des services assurés fournis par un autre professionnel de la santé soit réclamée de la Régie en son nom.
+
+Un professionnel de la santé qui contrevient à une disposition du quatrième, septième, huitième ou onzième alinéa et quiconque contrevient à une disposition du neuvième alinéa commet une infraction et est passible d'une amende de 1 000 $ à 2 000 $ et, en cas de récidive, d'une amende de 2 000 $ à 5 000 $.
+
+1970, c. 37, a. 18; 1973, c. 30, a. 7; 1974, c. 40, a. 9; 1979, c. 1, a. 15; 1981, c. 22, a. 6; 1984, c. 27, a. 42; 1984, c. 47, a. 16; 1986, c. 79, a. 3; 1990, c. 4, a. 77; 1991, c. 42, a. 568; 1992, c. 21, a. 107; 1991, c. 42, a. 568; 1992, c. 57, a. 435; 1994, c. 23, a. 23; 1999, c. 40, a. 29; 1999, c. 89, a. 25, a. 42.
+
+22.0.0.0.1. Malgré le premier alinéa de l'article 22, un médecin n'a pas le droit d'être rémunéré pour un service assuré qu'il a fourni dans un centre médical spécialisé exploité sans permis ou dont le permis était suspendu, révoqué ou non renouvelé, sauf s'il s'agit d'un service médical visé au paragraphe 3° du premier alinéa de l'article 333.7 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2).
+
+Il en est de même pour tous les services assurés fournis par un médecin dans un laboratoire ou dans un centre de procréation assistée au sens de la Loi sur les activités cliniques et de recherche en matière de procréation assistée (chapitre A-5.01) exploité sans permis ou dont le permis est suspendu, révoqué ou non renouvelé.
+
+L'interdiction de rémunération prévue au premier et au deuxième alinéas s'applique dès la réception, par la Régie, de la copie de la décision du ministre de suspendre, de révoquer ou de refuser de renouveler le permis ou, selon le cas, de l'avis du ministre l'informant que le centre médical spécialisé, le laboratoire ou le centre de procréation assistée est exploité sans permis.
+
+2009, c. 29, a. 30; 2009, c. 30, a. 47.
+
+22.0.0.1. Un médecin soumis à l'application d'une entente ou un médecin désengagé qui exerce dans un cabinet privé ou un médecin soumis à l'application d'une entente qui exerce dans un centre médical spécialisé au sens de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) doit afficher à la vue du public, dans la salle d'attente du cabinet ou du centre médical spécialisé où il exerce, le tarif des services, fournitures et frais accessoires prescrits ou prévus dans une entente qu'il peut réclamer d'une personne assurée, conformément au neuvième alinéa de l'article 22, ainsi que celui des services médicaux qu'il rend et qui sont non assurés ou non considérés comme assurés par règlement. Une même affiche peut servir pour les médecins qui ont une salle d'attente en commun.
+
+Aucune autre somme d'argent que celle affichée conformément au premier alinéa ne peut être réclamée d'une personne assurée, directement ou indirectement, pour l'obtention d'un service médical dans un cabinet privé ou dans un centre médical spécialisé.
+
+Lorsqu'un paiement est exigé d'une personne assurée, une facture détaillée doit lui être remise. Cette facture doit indiquer le tarif réclamé pour chacun des services, fournitures et frais accessoires et pour chacun des services médicaux non assurés ou non considérés comme assurés.
+
+L'affiche prévue au premier alinéa et la facture doivent faire mention du recours prévu au premier alinéa de l'article 22.0.1.
+
+Pour l'application du présent article ou de toute autre disposition de la présente loi, un service non assuré ou un service non considéré comme assuré est réputé demeurer un service non assuré ou un service non considéré comme assuré même s'il est requis avant la dispensation d'un service assuré, lors de sa dispensation ou à la suite de celle-ci. Il en est de même à l'égard des services, fournitures et frais accessoires visés au premier alinéa.
+
+Un médecin soumis à l'application d'une entente ou un médecin désengagé qui contrevient au premier, troisième ou quatrième alinéa commet une infraction et est passible d'une amende de 500 $ à 1 000 $ et, en cas de récidive, d'une amende de 1 000 $ à 2 000 $.
+
+Quiconque contrevient au deuxième alinéa commet une infraction et est passible d'une amende de 1 000 $ à 2 500 $ et, en cas de récidive, d'une amende de 2 000 $ à 5 000 $.
+
+2006, c. 43, a. 44.
+
+22.0.1. Lorsque la Régie est d'avis qu'un professionnel de la santé ou un tiers a exigé paiement d'une personne assurée à l'encontre de la présente loi, alors que rien dans les règlements ou les ententes ne le permet ou a exigé plus que le montant qui aurait été payé par la Régie à un professionnel soumis à l'application d'une entente pour les services assurés fournis à une personne assurée qui n'a pas présenté sa carte d'assurance maladie, son carnet de réclamation ou sa carte d'admissibilité, elle rembourse à la personne assurée la somme ainsi versée et en avise par écrit le professionnel de la santé ou le tiers.  La Régie effectue un tel remboursement uniquement lorsque la personne assurée lui en fait la demande écrite dans l'année suivant la date du paiement.
+
+Une somme ainsi remboursée et les frais d'administration prescrits constituent une dette envers la Régie et peuvent être recouvrés de ce professionnel de la santé ou de ce tiers par compensation ou autrement, à l'expiration d'un délai de 30 jours à compter de la date de cet avis.
+
+Dans les six mois de la compensation, le professionnel de la santé peut se pourvoir à l'encontre de la décision de la Régie devant la Cour supérieure ou la Cour du Québec, selon leur compétence respective ou, lorsqu'il s'agit d'une question d'interprétation ou d'application d'une entente, devant un conseil d'arbitrage créé en vertu de l'article 54.  Il incombe au professionnel de la santé de prouver que la décision de la Régie est mal fondée.
+
+1989, c. 50, a. 28; 1999, c. 89, a. 26, a. 42.
+
+22.0.2. Le montant que le pharmacien est tenu de percevoir suivant l'article 31 de la Loi sur l'assurance médicaments (chapitre A-29.01) est réputé l'être à titre de rémunération.  La Régie déduit ce montant de la rémunération payable en vertu d'une entente visée à l'article 19.
+
+1992, c. 19, a. 4; 1996, c. 32, a. 94.
+
+22.1. Un professionnel de la santé n'a droit d'être rémunéré par la Régie que s'il a lui-même signé le formulaire de relevé d'honoraires fourni à cette fin par la Régie et dont le contenu est conforme au règlement, sous réserve des cas et conditions prescrits.
+
+Le professionnel de la santé doit, pour avoir droit d'être rémunéré par la Régie, lui soumettre son relevé d'honoraires dûment complété dans les 90 jours de la date où le service assuré est fourni.  Un établissement, un laboratoire ou une personne visée dans le paragraphe h.3 du premier alinéa de l'article 69, selon le cas, en ce qui concerne les appareils ou autres équipements suppléant à une déficience physique, un établissement, en ce qui concerne les aides visuelles ou les aides à la communication, un audioprothésiste ou un distributeur, en ce qui concerne les aides auditives, doit pareillement soumettre son relevé d'honoraires dans les 90 jours de la date où le service assuré est fourni.
+
+La Régie peut prolonger ce délai si un professionnel de la santé, un établissement, un laboratoire, une personne visée au paragraphe h.3 du premier alinéa de l'article 69, un audioprothésiste ou un distributeur lui démontre qu'il a été en fait dans l'impossibilité d'agir plus tôt ou en cas de décès de l'une des personnes visées au deuxième alinéa.
+
+1979, c. 1, a. 16; 1981, c. 22, a. 7; 1989, c. 50, a. 29; 1991, c. 42, a. 569; 1999, c. 89, a. 27; 2007, c. 21, a. 25.
+
+22.1.0.1. Pour avoir droit d'être rémunéré par la Régie, un pharmacien ou, le cas échéant, un établissement, doit indiquer à la Régie, sur son relevé d'honoraires ou sa demande de paiement, qu'il a perçu la contribution visée à l'article 31 de la Loi sur l'assurance médicaments (chapitre A-29.01).
+
+Un pharmacien ou, le cas échéant, un établissement, doit soumettre à la Régie son relevé d'honoraires ou sa demande de paiement même s'il réclame d'une personne assurée, par application de la Loi sur l'assurance médicaments, la totalité du coût des services assurés qu'il lui a fournis.
+
+Toutefois, avant de fournir à une personne assurée un service assuré, un pharmacien ou, le cas échéant, un établissement doit, pour avoir droit d'être rémunéré par la Régie, obtenir de celle-ci une autorisation préalable de paiement en lui transmettant au moyen d'un support informatique en mode interactif son relevé d'honoraires ou sa demande de paiement, conformément aux conditions et modalités établies par la Régie.
+
+1992, c. 19, a. 5; 1996, c. 32, a. 95; 1999, c. 89, a. 42; 2007, c. 21, a. 26.
+
+Dans le troisième alinéa, les mots: «ou, le cas échéant, un établissement» entreront en vigueur à la date fixée par décret du gouvernement (1996, c. 32, a. 119).
+
+
+
+non en vigueurInformation des coûts.
+22.1.1. Toute personne assurée doit être informée du coût des services assurés qu'elle reçoit, selon les modalités prévues par règlement.
+1991, c. 42, a. 570; 1999, c. 89, a. 42.
+
+
+22.2. Lorsque la Régie est d'avis que des services dont le paiement est réclamé par un professionnel de la santé ou pour lesquels il a obtenu paiement au cours des 36 mois précédents, étaient des services fournis non conformément à l'entente, elle peut refuser le paiement de ces services ou procéder à leur remboursement par compensation ou autrement, selon le cas.  Les différends résultant du présent alinéa sont tranchés par le conseil d'arbitrage institué par l'article 54.
+
+Lorsque la Régie, suite à une enquête, est d'avis que des services dont le paiement est réclamé par un professionnel de la santé ou pour lesquels il a obtenu paiement au cours des 36 mois précédents, étaient des services qui n'ont pas été fournis, qu'il n'a pas fournis lui-même ou qu'il a faussement décrits, ou des services non assurés, des services non considérés comme assurés par règlement ou des services non déterminés comme services assurés par règlement, elle peut refuser le paiement de ces services ou procéder à leur remboursement par compensation ou autrement, selon le cas.
+
+Lorsque la Régie décide de refuser le paiement de services ou de procéder à compensation, elle doit informer le professionnel de la santé des motifs de sa décision.
+
+Dans les cas prévus au présent article, il appartient au professionnel de la santé de prouver que la décision de la Régie est non fondée.
+
+Le professionnel de la santé qui veut se pourvoir d'une décision de la Régie devant la Cour supérieure ou la Cour du Québec, selon leur compétence respective, doit le faire dans les six mois de la réception de cette décision.
+
+Pour l'application de la présente loi dans le cadre du régime général d'assurance médicaments, les deuxième, troisième, quatrième et cinquième alinéas s'appliquent à un établissement en y faisant les adaptations nécessaires.
+
+1979, c. 1, a. 16; 1981, c. 22, a. 8; 1996, c. 32, a. 96; 1999, c. 89, a. 28; 2002, c. 27, a. 41.
+
+22.3. Lorsqu'un professionnel de la santé ne se pourvoit pas d'une décision de la Régie devant la Cour supérieure ou la Cour du Québec, selon leur compétence respective, conformément au cinquième alinéa de l'article 22.2 et que la Régie se retrouve dans une situation telle qu'elle ne peut refuser le paiement des services visés par sa décision ni procéder à leur remboursement par compensation ou autrement, la Régie peut, à l'expiration du délai d'appel visé au cinquième alinéa de l'article 22.2, délivrer un certificat qui mentionne les nom et adresse du professionnel et atteste le montant de la dette ainsi que le défaut de ce professionnel de se pourvoir de la décision de la Régie devant le tribunal compétent. Sur dépôt du certificat au greffe de ce tribunal, la décision devient exécutoire comme s'il s'agissait d'un jugement final et sans appel de ce tribunal et en a tous les effets.
+
+Le deuxième alinéa de l'article 18.3.2 s'applique, compte tenu des adaptations nécessaires, au montant dû par ce professionnel.
+
+1999, c. 89, a. 29; 2005, c. 40, a. 36.
+
+22.4. Tout montant dont un professionnel de la santé est redevable en vertu de la présente loi comporte des frais de recouvrement de 10 % calculés sur le solde impayé de cette dette à la date où la Régie, pour percevoir une telle dette, utilise soit une mesure de recouvrement en vertu de l'article 22.2 ou de l'article 50, soit un recours devant la Cour supérieure ou la Cour du Québec, selon leur compétence respective. Ces frais ne peuvent être inférieurs à 50 $ ni supérieurs à 10 000 $.
+
+Lorsqu'à l'égard d'une dette plusieurs recours ou mesures de recouvrement sont exercés par la Régie, ceux-ci ne donnent lieu qu'une seule fois à l'application des frais visés au premier alinéa.
+
+La Régie peut annuler ou réduire ces frais si elle estime que ceux-ci n'auraient pas été exigibles n'eût été d'une erreur ou négligence qui lui est imputable ou lorsque le montant de la dette ayant donné lieu à l'application de ces frais est annulé ou réduit.
+
+1999, c. 89, a. 29.
+
+23. Aucune entente ne peut prévoir un supplément de rémunération pour des services assurés.
+
+1970, c. 37, a. 19.
+
+24. Rien dans la présente loi ni dans une entente n'autorise la Régie à refuser de payer le coût de services assurés pour le motif qu'elle met en doute la qualité d'un acte pour lequel il est demandé paiement.
+
+La Régie ne peut déterminer la fréquence d'un acte susceptible d'être payé. Toutefois, la Régie peut, lorsqu'elle soumet une affaire au comité de révision visé à l'article 47, invoquer la fréquence d'un acte pour lequel un professionnel lui présente un relevé d'honoraires.
+
+1970, c. 38, a. 5; 1979, c. 1, a. 17; 1989, c. 50, a. 30.
+
+25. Le paiement du coût des services assurés doit être refusé ou suspendu chaque fois que le conseil de discipline de l'Ordre professionnel des médecins du Québec, de l'Ordre professionnel des dentistes du Québec, de l'Ordre professionnel des pharmaciens du Québec ou de l'Ordre professionnel des optométristes du Québec ou que le Tribunal des professions recommande de le faire à l'égard d'un professionnel de la santé soumis à son autorité.
+
+1970, c. 38, a. 5; 1971, c. 47, a. 10; 1973, c. 46, a. 49; 1973, c. 49, a. 45; 1973, c. 51, a. 46; 1973, c. 52, a. 31; 1979, c. 1, a. 18; 1994, c. 40, a. 457; 2008, c. 11, a. 212.
+
+26. Une entente n'oblige pas les professionnels de la santé qui informent la Régie sous pli recommandé ou certifié, conformément aux dispositions de l'entente, qu'ils désirent devenir des professionnels désengagés ou des professionnels non participants; ces options prennent effet après l'expiration du délai qui est prévu dans l'entente et qui suit l'expédition d'un avis à cette fin à la Régie.
+
+1970, c. 37, a. 20; 1970, c. 38, a. 6; 1971, c. 47, a. 11; 1975, c. 83, a. 84.
+
+27. À défaut de dispositions dans une entente, la manière d'aviser la Régie et le délai visés à l'article 26 sont déterminés par règlement.
+
+1970, c. 37, a. 21.
+
+28. Tout professionnel de la santé qui s'est désengagé de l'application d'une entente peut se réengager en avisant la Régie de son intention, sous pli recommandé ou certifié, suivant la manière et dans le délai prescrits à l'entente ou, à défaut, conformément aux règlements.
+
+Il en est de même du professionnel qui est devenu un professionnel non participant.
+
+De plus, un professionnel désengagé peut devenir un professionnel non participant et vice versa, selon la même procédure.
+
+1970, c. 37, a. 22; 1970, c. 38, a. 7; 1975, c. 83, a. 84.
+
+29. Les modalités suivant lesquelles les personnes qui résident ou qui séjournent au Québec sont avisées des changements effectués suivant les articles 26 ou 28 et les cas dans lesquels ces modalités doivent être observées sont arrêtés par règlement; un tel règlement peut déterminer les obligations de la Régie relativement à ces avis ainsi que celles des professionnels de la santé désengagés ou non participants suivant l'article 26.
+
+1970, c. 37, a. 23; 1970, c. 38, a. 8; 1989, c. 50, a. 31; 1999, c. 89, a. 30.
+
+30. Lorsque le ministre estime que le nombre de professionnels qui sont des professionnels non participants dans l'ensemble du Québec ou dans une de ses régions, ou que le nombre de ceux qui exercent un même genre d'activités et qui sont des professionnels non participants dans l'ensemble du Québec ou dans une de ses régions est trop considérable pour que les services assurés puissent continuer à être rendus selon des conditions uniformes, il doit faire publier un avis à la Gazette officielle du Québec faisant état de la situation.
+
+À compter du huitième jour de la publication de l'avis, le gouvernement peut, par règlement, décréter que les professionnels de la santé visés dans l'avis ne peuvent exiger ni recevoir, à compter de la date de l'entrée en vigueur du règlement, pour les services assurés qu'ils fournissent à des personnes assurées, aucune autre rémunération que celle prévue à une entente en vigueur.  La Régie doit rembourser aux personnes assurées le coût des services assurés qu'elles reçoivent de ces professionnels.
+
+Le décret prévu au deuxième alinéa est pour une période d'au plus 90 jours à compter de l'entrée en vigueur du règlement.
+
+Les professionnels de la santé visés dans le deuxième alinéa sont les professionnels qui sont devenus non participants à compter de la date fixée dans le règlement, date qui peut être antérieure à la date de l'entrée en vigueur du règlement.
+
+Les services assurés dont le coût est remboursé par la Régie sont ceux qui ont été rendus par les professionnels de la santé depuis la date fixée dans le règlement.
+
+Les articles 31 à 35 s'appliquent, compte tenu des adaptations nécessaires, à ces professionnels de la santé.
+
+1970, c. 37, a. 24; 1970, c. 38, a. 9; 1970, c. 42, a. 17; 1979, c. 1, a. 19; 1999, c. 89, a. 42.
+
+30.1. Lorsque le ministre estime que la qualité ou la suffisance des services médicaux offerts dans l'ensemble du Québec ou dans une de ses régions par les professionnels soumis à l'application d'une entente serait affectée par une augmentation du nombre de professionnels non participants exerçant un même genre d'activité, il peut, par arrêté, suspendre la possibilité pour les professionnels soumis à l'application d'une entente de devenir des professionnels non participants et d'exercer ce même genre d'activité dans l'ensemble du Québec ou dans une de ses régions.
+
+L'arrêté du ministre indique la durée de la suspension, le genre d'activité et la région visés ainsi que la date d'entrée en vigueur de la suspension, laquelle peut être antérieure à la date de la prise de l'arrêté pour une période maximale de 30 jours. Le ministre rend public immédiatement cet arrêté, lequel doit en outre être publié à la Gazette officielle du Québec.
+
+La période de suspension ne peut excéder deux ans. Si le ministre l'estime nécessaire, il peut la prolonger suivant les mêmes modalités, pourvu que la durée de chaque prolongation n'excède pas deux ans.
+
+Est nul tout avis de non-participation qui prendrait effet durant la période de suspension.
+
+2006, c. 43, a. 45.
+
+30.2. Un règlement pris en application de l'article 30 n'est pas soumis aux dispositions des articles 8 et 17 de la Loi sur les règlements (chapitre R-18.1). Il en est de même pour un arrêté ministériel pris en application de l'article 30.1.
+
+2006, c. 43, a. 45.
+
+31. Un professionnel de la santé ne peut exiger ni recevoir pour des services assurés qu'il a fournis à une personne assurée alors qu'il était un professionnel désengagé aucune autre rémunération que celle qui est prévue à une entente; toute convention à l'effet contraire est nulle de nullité absolue.
+
+Quiconque contrevient à une disposition du présent article commet une infraction et est passible d'une amende de 1 000 $ à 2 000 $ et, en cas de récidive, d'une amende de 2 000 $ à 5 000 $.
+
+1970, c. 38, a. 10; 1974, c. 40, a. 10; 1979, c. 1, a. 20; 1981, c. 22, a. 9; 1990, c. 4, a. 78; 1999, c. 40, a. 29; 1999, c. 89, a. 42.
+
+32. La Régie doit, lorsqu'elle effectue un paiement à une personne assurée, suite à la présentation par cette dernière d'un relevé d'honoraires pour des services assurés fournis par un professionnel désengagé, en aviser par écrit en même temps ce professionnel; ce dernier ne peut exiger ni recevoir de la personne assurée paiement d'aucuns honoraires pour des services assurés avant qu'il ait reçu cet avis. Un professionnel désengagé qui contrevient au présent article commet une infraction et est passible de l'amende prévue à l'article 31.
+
+1970, c. 38, a. 10; 1979, c. 1, a. 21; 1990, c. 4, a. 76; 1999, c. 89, a. 42.
+
+33. La Régie doit aussi, lorsqu'elle expédie à une personne assurée un avis l'informant qu'elle ne lui paiera pas le montant réclamé, en totalité ou en partie, expédier une copie de cet avis au professionnel désengagé qui a rendu les services pour lesquels les honoraires ont été réclamés; celui-ci peut, à compter de la réception de cet avis, réclamer en justice de la Régie, aux lieu et place de son patient, le montant d'honoraires que la Régie entend ne pas payer pourvu qu'il en avise par écrit son patient.
+
+1970, c. 38, a. 10; 1979, c. 1, a. 22; 1999, c. 89, a. 42.
+
+34. Un professionnel de la santé, qui n'a pas reçu de la Régie une copie d'un avis visé dans les articles 32 ou 33 relativement à un montant d'honoraires qu'il a réclamé à une personne assurée pour des services assurés qu'il lui a rendus alors qu'il était un professionnel désengagé, peut réclamer en justice de la Régie le montant impayé, aux lieu et place de son patient, à compter du quatre-vingt-dixième jour qui suit l'expédition de son compte au patient, pourvu qu'il ait avisé par écrit la Régie et son patient de son intention au moins trente jours auparavant.
+
+1970, c. 38, a. 10; 1979, c. 1, a. 23; 1999, c. 89, a. 42.
+
+35. Lorsqu'un professionnel de la santé réclame de la Régie conformément aux articles 33 ou 34, celle-ci doit, si elle effectue un paiement à la suite de cette réclamation, le faire directement au professionnel en cause mais elle doit alors en donner avis au patient.
+
+1970, c. 38, a. 10.
+
+36. Un professionnel de la santé qui n'est pas un professionnel soumis à l'application d'une entente n'a droit d'être rémunéré par la Régie pour des services assurés qu'il fournit à une personne assurée que suivant l'article 11 ou les articles 31 à 35 ou pour des services rendus au Québec dans des cas d'urgence déterminés suivant les normes établies par règlement; il ne peut alors exiger de la Régie que la rémunération prévue à l'article 11 ou aux articles 31 à 35 ou, s'il s'agit de services rendus au Québec en cas d'urgence, que la rémunération prévue à une entente.
+
+1970, c. 37, a. 25; 1970, c. 38, a. 11; 1979, c. 1, a. 24; 1999, c. 89, a. 42.
+
+37. Sous réserve des troisième et quatrième alinéas de l'article 3 et des articles 10, 11, 12, 13, 13.1, 13.2 et 13.2.1, seul un professionnel de la santé a droit d'exiger de la Régie le paiement du coût des services assurés fournis à une personne assurée.
+
+1970, c. 37, a. 26; 1970, c. 38, a. 12; 1973, c. 30, a. 8; 1979, c. 1, a. 25; 1996, c. 32, a. 97; 1999, c. 89, a. 31, a. 42.
+
+38. Sauf en ce qui concerne les recours prévus aux articles 18.4 et 50 et sous réserve du deuxième alinéa de l'article 18.2, un recours contre la Régie en application de la présente loi, d'un règlement ou d'une entente se prescrit par six mois à compter de la décision de la Régie qui y donne ouverture.  Ce délai est suspendu lorsqu'un différend qui résulte de cette décision est soumis à un conseil d'arbitrage.
+
+1970, c. 37, a. 27; 1979, c. 1, a. 26; 1981, c. 22, a. 10; 1989, c. 50, a. 32; 1997, c. 43, a. 61.
+
+SECTION IV
+~~~~~~~~~~
+
+39. (Abrogé).
+
+1971, c. 47, a. 12; 1979, c. 1, a. 27; 1985, c. 23, a. 24; 1991, c. 42, a. 571; 1996, c. 32, a. 98.
+
+40. (Abrogé).
+
+1971, c. 47, a. 12; 1979, c. 1, a. 28; 1991, c. 42, a. 572; 1994, c. 8, a. 11; 1996, c. 32, a. 98.
+
+SECTION V
+~~~~~~~~~
+
+**COMITÉS DE RÉVISION**
+
+41. Pour chaque catégorie de professionnels de la santé, au moins un comité de révision est constitué afin de faire des recommandations à la Régie concernant les affaires qu'elle lui soumet conformément à l'article 47.
+
+1970, c. 37, a. 28; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1979, c. 1, a. 29.
+
+42. Chaque comité est composé de sept membres nommés pour un mandat n'excédant pas deux ans par le gouvernement, qui désigne parmi eux un président et un vice-président.
+
+Le mandat d'un membre d'un comité de révision ne peut être renouvelé consécutivement que deux fois.
+
+À la fin de leur mandat, les membres d'un comité demeurent en fonction jusqu'à ce qu'ils aient été nommés de nouveau ou remplacés.
+
+Un des comités comprend cinq médecins spécialistes, dont deux sont choisis parmi une liste d'au moins quatre noms fournie par l'Ordre professionnel des médecins du Québec et trois autres sont choisis parmi une liste d'au moins six noms fournie par la Fédération des médecins spécialistes du Québec; ces personnes ne doivent pas occuper une charge élective ou une charge à plein temps au sein de cet Ordre ou de cette Fédération.
+
+Un autre comité comprend cinq médecins omnipraticiens, dont deux sont choisis parmi une liste d'au moins quatre noms fournie par l'Ordre professionnel des médecins du Québec et trois autres sont choisis parmi une liste d'au moins six noms fournie par la Fédération des médecins omnipraticiens du Québec; ces personnes ne doivent pas occuper une charge élective ou une charge à plein temps au sein de cet Ordre ou de cette Fédération.
+
+Un autre comité comprend cinq spécialistes en chirurgie buccale, dont deux sont choisis parmi une liste d'au moins quatre noms fournie par l'Ordre professionnel des dentistes du Québec et trois autres sont choisis parmi une liste d'au moins six noms fournie par l'Association des spécialistes en chirurgie buccale du Québec; ces personnes ne doivent pas occuper une charge élective ou une charge à plein temps au sein de cet Ordre ou de cette Association.
+
+Un autre comité comprend cinq dentistes, dont deux sont choisis parmi une liste d'au moins quatre noms fournie par l'Ordre professionnel des dentistes du Québec et trois autres sont choisis parmi une liste d'au moins six noms fournie par l'Association des chirurgiens-dentistes du Québec; ces personnes ne doivent pas occuper une charge élective ou une charge à plein temps au sein de cet Ordre ou de cette Association.
+
+Un autre comité comprend cinq optométristes, dont deux sont choisis parmi une liste d'au moins quatre noms fournie par l'Ordre professionnel des optométristes du Québec et trois autres sont choisis parmi une liste d'au moins six noms fournie par l'Association professionnelle des optométristes du Québec; ces personnes ne doivent pas occuper une charge élective ou une charge à plein temps au sein de cet Ordre ou de cette Association.
+
+Un autre comité comprend cinq pharmaciens, dont deux sont choisis parmi une liste d'au moins quatre noms fournie par l'Ordre professionnel des pharmaciens du Québec et trois autres sont choisis parmi une liste d'au moins six noms fournie par l'Association québécoise des pharmaciens propriétaires; ces personnes ne doivent pas occuper une charge élective ou une charge à plein temps au sein de cet Ordre ou de cette Association.
+
+Le sixième membre de chaque comité, qui doit être un avocat dûment inscrit auprès du Barreau du Québec, est nommé sur la recommandation de l'Office des professions du Québec.
+
+Le septième membre de chaque comité, qui est un fonctionnaire de la Régie et qui n'a pas droit de vote, est nommé sur la recommandation de la Régie.
+
+À défaut par un organisme visé dans le présent article de fournir sa liste de noms, le gouvernement, sur la recommandation de l'Office des professions du Québec, nomme parmi les membres de l'organisme visé qui n'y occupent pas une charge élective ou une charge à plein temps le nombre de membres du comité qui doivent être choisis parmi les membres de cet organisme.  Toutefois, le gouvernement ne peut exercer ce pouvoir que trente jours après que le ministre a adressé à l'organisme en cause un avis du défaut de fournir sa liste de noms; tel avis peut être expédié jusqu'à deux mois avant la date à laquelle un mandat deviendra expiré.
+
+1970, c. 37, a. 29; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1973, c. 49, a. 45; 1974, c. 40, a. 11; 1979, c. 1, a. 30; 1981, c. 22, a. 11; 1991, c. 42, a. 574; 1994, c. 40, a. 457.
+
+43. Les membres des comités de révision ne peuvent être poursuivis en justice en raison d'actes officiels accomplis de bonne foi dans l'exercice de leurs fonctions.
+
+1970, c. 37, a. 30; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1979, c. 1, a. 31.
+
+44. Le traitement ou, s'il y a lieu, les honoraires ou les allocations de chacun des membres de ces comités sont fixés par le gouvernement et payés par la Régie, qui assume aussi le paiement des frais administratifs de chaque comité conformément aux normes établies par le gouvernement.
+
+1970, c. 37, a. 31; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1979, c. 1, a. 32.
+
+45. Le gouvernement nomme le secrétaire de chacun des comités.
+
+Chaque comité nomme tout autre personnel requis pour son fonctionnement, conformément aux normes que le gouvernement peut prescrire à cet égard.
+
+1970, c. 37, a. 32; 1970, c. 38, a. 13; 1973, c. 30, a. 9.
+
+46. Le quorum d'un comité est de trois membres ayant droit de vote dont le président ou le vice-président en cas d'absence ou d'empêchement du président.
+
+En cas d'égalité des voix, le président ou le vice-président a un vote prépondérant.
+
+1970, c. 37, a. 33; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1979, c. 1, a. 33; 1981, c. 22, a. 12; 1999, c. 40, a. 29.
+
+47. Lorsque la Régie est d'avis que les services assurés ou une partie des services assurés dont le paiement est réclamé par un professionnel de la santé ou pour lesquels il a obtenu paiement, au cours des 36 mois précédents, n'étaient pas requis au point de vue médical, optométrique, dentaire ou pharmaceutique et que par conséquent ils ont été fournis plus fréquemment que nécessaire ou encore qu'ils ont été dispensés de façon abusive, elle soumet l'affaire au comité de révision approprié et elle doit alors en aviser le professionnel de la santé concerné.
+
+Le comité de révision, avant de faire une recommandation, doit permettre au professionnel de la santé concerné de présenter ses observations.
+
+1970, c. 37, a. 34; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1973, c. 49, a. 45; 1974, c. 40, a. 12; 1979, c. 1, a. 34; 1997, c. 43, a. 62.
+
+48. Tout professionnel de la santé, de même que tout établissement, doit fournir au comité, à sa demande, tout document ou renseignement pertinent relatif à une affaire qui lui est soumise.
+
+Sur demande, ou de sa propre initiative, le comité d'inspection professionnelle d'un ordre peut communiquer à un comité de révision des informations qu'il croit utiles à l'exercice des fonctions de ce dernier.  De même, un comité de révision peut, sur demande, ou de sa propre initiative, communiquer à un comité d'inspection professionnelle des informations qu'il croit utiles à l'exercice des fonctions de ce dernier.  Dans ce dernier cas, le comité de révision doit en informer le professionnel en cause.
+
+1970, c. 37, a. 35; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1973, c. 49, a. 45; 1979, c. 1, a. 35; 1994, c. 40, a. 457.
+
+49. Le comité de révision auquel une affaire a été soumise conformément à l'article 47 doit, après étude, faire une recommandation à la Régie à l'effet que cette dernière doit soit payer le montant réclamé en tout ou en partie, soit refuser de payer ce montant, soit exiger le remboursement de ce qui a été payé en trop, par compensation ou autrement.  Le comité de révision peut, avant de faire sa recommandation, demander un avis à l'ordre professionnel concerné.
+
+Le comité de révision peut fonder sa recommandation sur le fait qu'un écart appréciable dans la dispensation d'un service assuré est constaté en comparant, au cours d'une période donnée, le profil de pratique d'un professionnel et les profils de pratique des professionnels d'une même discipline ou exerçant les mêmes activités dans des conditions ou des régions socio-sanitaires semblables.
+
+La recommandation doit être motivée et signée par le président ou le vice-président et les membres qui y concourent.  Tout membre dissident peut faire un rapport distinct.
+
+La recommandation, les rapports distincts des membres dissidents ainsi que les avis obtenus doivent être transmis par le secrétaire du comité de révision, par courrier recommandé, au secrétaire de la Régie.
+
+1970, c. 37, a. 36; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1979, c. 1, a. 36; 1994, c. 40, a. 457.
+
+50. La Régie doit rendre une décision motivée dans les 30 jours de la réception de la recommandation du comité de révision et procéder à la compensation, sauf si la décision de la Régie n'est pas conforme à la recommandation du comité de révision.  Elle doit en aviser sans délai par écrit, par courrier recommandé, le professionnel visé dans la décision, l'ordre professionnel et la fédération ou l'association professionnelle concernée.  L'avis transmis au professionnel doit être accompagné d'une copie de la recommandation du comité de révision.
+
+Un professionnel qui se croit lésé à la suite d'une décision rendue en vertu de l'alinéa précédent peut, dans les 60 jours de sa notification, la contester devant le Tribunal administratif du Québec.  Il incombe au professionnel de prouver que la décision de la Régie est mal fondée, sauf si la décision de la Régie n'est pas conforme à la recommandation du comité de révision, auquel cas le fardeau de la preuve incombe à la Régie.
+
+1970, c. 37, a. 37; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1973, c. 49, a. 45; 1974, c. 40, a. 13; 1979, c. 1, a. 37; 1989, c. 50, a. 33; 1994, c. 40, a. 457; 1997, c. 43, a. 63.
+
+51. La Régie peut, à l'expiration du délai pour former le recours prévu au deuxième alinéa de l'article 50 et si ce recours n'est pas formé, délivrer un certificat qui mentionne les nom et adresse du professionnel et atteste le montant de la dette ainsi que le défaut de ce professionnel de contester la décision de la Régie devant le Tribunal administratif du Québec.
+
+Sur dépôt du certificat au greffe du tribunal compétent, la décision devient exécutoire comme s'il s'agissait d'un jugement final et sans appel de ce tribunal et en a tous les effets.
+
+Le deuxième alinéa de l'article 18.3.2 s'applique, compte tenu des adaptations nécessaires, à un professionnel visé au présent article.
+
+Aucune recommandation d'un comité de révision ne doit être interprétée comme portant approbation ou désapprobation de la compétence d'un professionnel qui y est visé ou de la qualité des actes dont il y est question.
+
+1970, c. 37, a. 38; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1973, c. 46, a. 43; 1973, c. 49, a. 40, a. 45; 1973, c. 52, a. 27; 1979, c. 1, a. 38; 1988, c. 21, a. 66; 1997, c. 43, a. 64; 2005, c. 40, a. 37.
+
+51.1. Lorsque la Régie soumet au comité de révision une affaire concernant un professionnel de la santé à l'encontre duquel elle a déjà rendu une décision conformément à l'article 50 dans les 60 derniers mois, elle peut suspendre tout ou partie du paiement à ce professionnel de la santé du coût des services assurés rendus, pourvu qu'il n'y ait plus ouverture à aucun recours contre la décision qu'elle avait rendue.
+
+Cette suspension des honoraires a effet jusqu'à ce que la décision de la Régie soit rendue.
+
+1989, c. 50, a. 34.
+
+52. Les délais de prescription de tout recours contre la Régie en paiement de services assurés qui ont donné lieu à l'application de l'article 47 sont suspendus à partir du moment où la Régie a soumis l'affaire à un comité de révision jusqu'au moment où la Régie a avisé le professionnel de la santé de sa décision ou jusqu'au moment où le Tribunal administratif du Québec a disposé du recours, selon le cas.
+
+1970, c. 37, a. 39; 1970, c. 38, a. 13; 1973, c. 30, a. 9; 1973, c. 49, a. 45; 1979, c. 1, a. 39; 1997, c. 43, a. 65.
+
+52.1. Les sommes dues à la Régie en vertu de la présente loi portent intérêt au taux fixé en vertu de l'article 28 de la Loi sur l'administration fiscale (chapitre A-6.002) à compter du quarante-cinquième jour de la date où la Régie en avise le débiteur.
+
+Le montant de cet intérêt est recouvrable de la même manière que la créance principale.
+
+1981, c. 22, a. 13; 2010, c. 31, a. 175.
+
+53. Tout comité de révision doit, au plus tard le 31 mars de chaque année, faire au ministre un rapport de ses activités pour l'année se terminant le 31 décembre précédent.
+
+1970, c. 37, a. 40; 1970, c. 38, a. 13; 1973, c. 30, a. 9.
+
+SECTION VI
+~~~~~~~~~~
+
+**CONSEILS D'ARBITRAGE**
+
+54. Un différend qui résulte de l'interprétation ou de l'application d'une entente est soumis à un conseil d'arbitrage, exclusivement à tout tribunal de juridiction civile.
+
+La composition du conseil d'arbitrage et la nomination de ses membres peuvent être déterminées dans une entente.  À défaut, elles sont déterminées par le ministre du Travail après consultation des organismes représentatifs des professionnels de la santé.
+
+1970, c. 37, a. 41; 1970, c. 38, a. 14; 1981, c. 22, a. 14; 1982, c. 53, a. 56; 1994, c. 12, a. 15; 1996, c. 29, a. 43.
+
+54.1. Le ministre nomme le greffier du conseil d'arbitrage. Celui-ci est rémunéré par la Régie.
+
+1981, c. 22, a. 15.
+
+55. Un membre d'un conseil d'arbitrage ne doit avoir aucun intérêt pécuniaire dans le différend qui est soumis au conseil ni avoir agi dans ce différend à quelque titre que ce soit et il doit, avant d'agir, prêter serment de rendre sentence suivant la loi.
+
+1970, c. 37, a. 42; 1970, c. 38, a. 15.
+
+56. Un tel conseil procède en toute diligence à l'instruction du différend selon la procédure et le mode de preuve qu'il juge appropriés.
+
+Il doit toutefois convoquer les parties au différend et leur permettre de se faire entendre elles-mêmes ou par leurs représentants dûment désignés, d'interroger les témoins et d'exposer leurs arguments.
+
+1970, c. 37, a. 43.
+
+57. Le président d'un tel conseil a tous les pouvoirs d'un juge de la Cour supérieure pour la conduite des séances du conseil et toute personne qui témoigne devant le conseil a les mêmes privilèges et les mêmes immunités qu'un témoin devant la Cour supérieure; le président d'un tel conseil ne peut cependant imposer l'emprisonnement.
+
+1970, c. 37, a. 44.
+
+58. Sur demande des parties ou du conseil d'arbitrage, les témoins sont assignés par ordre écrit signé par le greffier du conseil; celui-ci peut faire prêter serment.
+
+1970, c. 37, a. 45; 1981, c. 22, a. 16.
+
+59. Une personne dûment assignée devant un conseil d'arbitrage qui refuse de comparaître ou de témoigner peut y être contrainte comme si elle avait été assignée suivant le Code de procédure civile (chapitre C-25).
+
+1970, c. 37, a. 46; 1990, c. 4, a. 79.
+
+60. Les témoins ont droit à la même taxe que les témoins en Cour supérieure. Cette taxe est payable par la partie qui les a assignés ou interrogés.
+
+1970, c. 37, a. 47.
+
+61. La sentence d'un conseil d'arbitrage doit être motivée et signée par son président et, s'il est composé de plusieurs membres, par les membres qui y concourent.
+
+Tout membre dissident peut faire un rapport distinct.
+
+À défaut d'unanimité ou de majorité, le rapport du président constitue la sentence du conseil.
+
+Le greffier du conseil transmet la sentence du conseil aux parties sous pli recommandé ou certifié.
+
+1970, c. 37, a. 48; 1970, c. 38, a. 16; 1975, c. 83, a. 84; 1981, c. 22, a. 17.
+
+62. La sentence d'un conseil d'arbitrage lie les parties; elle est homologuée, à la demande de l'une des parties, par la Cour supérieure ou la Cour du Québec selon leur compétence respective, et le jugement est alors exécutoire sous l'autorité du tribunal qui a homologué la sentence.
+
+1970, c. 37, a. 49; 1981, c. 22, a. 18; 1988, c. 21, a. 66.
+
+SECTION VII
+~~~~~~~~~~~
+
+**RENSEIGNEMENTS**
+
+63. Les membres, les fonctionnaires et les employés de la Régie, de même que les membres et les employés d'un comité de révision constitué en vertu de l'article 41 et d'un conseil d'arbitrage visé à l'article 54 ne doivent pas révéler, autrement que suivant l'article 308 du Code de procédure civile (chapitre C-25), un renseignement obtenu pour l'exécution de la présente loi.
+
+Toutefois, une personne visée au premier alinéa peut, en vue de prévenir un acte de violence, dont un suicide, communiquer un renseignement dans les conditions prévues aux articles 59.1 et 60.1 de la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1).
+
+1970, c. 37, a. 50; 1970, c. 38, a. 17; 1973, c. 30, a. 10; 2001, c. 78, a. 3; 2005, c. 32, a. 239; 2007, c. 31, a. 3; 2012, c. 23, a. 145.
+
+64. La personne qui a fourni ou reçu un service assuré par la Régie, de même que son avocat ou ses représentants dûment autorisés par elle ou agissant pour elle en vertu de la loi, a droit d'accès aux seuls renseignements suivants, malgré l'article 83 de la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1):
+
+ a) la date à laquelle ce service a été fourni;
+
+ b) le nom et l'adresse de la personne qui a fourni ce service;
+
+ c) les sommes payées par la Régie pour ce service et le nom des personnes à qui elles ont été payées.
+
+La Régie est tenue de divulguer ces renseignements au ministre du Revenu du Québec ou au ministre du Revenu du Canada, dans la mesure où cette communication est nécessaire à l'application d'une loi dont ils sont responsables, chaque fois qu'ils lui en font la demande et elle doit divulguer au ministre de la Santé du Canada les renseignements qu'elle a obtenus pour l'exécution de la présente loi, chaque fois qu'il lui en fait la demande, mais elle ne peut lui divulguer ces renseignements que dans la mesure où ils sont requis aux fins de l'application de la Loi canadienne sur la santé (Lois révisées du Canada (1985), chapitre C-6). En ces cas, l'article 63 ne s'applique pas aux membres de la Régie non plus qu'à ses fonctionnaires et employés autorisés par elle à divulguer les renseignements visés au présent alinéa.
+
+La Régie doit, dans les cas, conditions ou circonstances et pour les services déterminés par règlement, transmettre à toute personne assurée pour qui elle a payé des services assurés un relevé qui indique:
+
+ a) le nom du professionnel de la santé, de l'établissement, du laboratoire ou de toute personne qui a fourni les services;
+
+ b) les dates auxquelles ils ont été fournis;
+
+ c) le coût de chaque prestation de service reçu par une personne assurée;
+
+ d) la somme totale ainsi payée pour ces services.
+
+La Régie est tenue de vérifier périodiquement, par voie d'échantillonnage, si les services assurés dont elle a assumé le coût ont été effectivement rendus.
+
+1970, c. 37, a. 51; 1974, c. 40, a. 14; 1979, c. 1, a. 40; 1981, c. 22, a. 19; 1984, c. 27, a. 43; 1986, c. 95, a. 19; 1987, c. 68, a. 20; 1989, c. 50, a. 35; 1991, c. 42, a. 576; L.C. 1996, c. 8, a. 32; 1999, c. 89, a. 32, a. 42.
+
+65. L'article 63 n'interdit pas de révéler des renseignements obtenus pour l'exécution de la présente loi au Conseil d'administration de l'Ordre professionnel des médecins du Québec, au Conseil d'administration de l'Ordre professionnel des dentistes du Québec, au Conseil d'administration de l'Ordre professionnel des optométristes du Québec, au Conseil d'administration de l'Ordre professionnel des pharmaciens du Québec, au conseil de discipline ou au comité d'inspection professionnelle de chacun de ces ordres ou, en ce qui concerne les professionnels d'un établissement, au conseil des médecins, dentistes et pharmaciens de cet établissement.
+
+La Régie est tenue de divulguer au ministre ainsi qu'à l'organisme avec lequel le ministre a conclu une entente en vertu de l'article 19, sous forme non nominative, les renseignements nécessaires à la négociation et à l'application d'une telle entente, à la gestion des effectifs qui y sont soumis et au suivi du coût des mesures qui y sont prévues.
+
+La Régie est tenue de divulguer à l'organisme avec lequel le ministre a conclu une entente, le nom d'un professionnel de la santé qui a reçu une rémunération de la Régie, le montant de sa rémunération, le nombre, la nature et la date où des services assurés ainsi rémunérés ont été fournis lorsqu'elle a été dûment autorisée à cette fin par écrit par ce professionnel de la santé. Dans un tel cas, la Régie est tenue de divulguer ces renseignements au ministre, sauf le nom du professionnel de la santé.
+
+La Régie est tenue de divulguer à une agence visée par la Loi sur les services de santé et les services sociaux (chapitre S-4.2) et à l'établissement visé à la partie IV.2 de cette loi les renseignements concernant la participation ou la rémunération relatives à la pratique, dans un centre exploité par un établissement, d'un médecin ayant adhéré à une entente conclue en vertu du cinquième alinéa de l'article 19 de la présente loi.
+
+La Régie peut aussi, conformément aux conditions et formalités prévues par la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1), transmettre à un établissement ou à un professionnel de la santé, afin que les renseignements contenus dans les fichiers ou index locaux de cet établissement ou de ce professionnel soient à jour, exacts et complets ou, le cas échéant, afin de vérifier l'admissibilité d'une personne au régime d'assurance maladie, au régime d'assurance médicaments institué par la Loi sur l'assurance médicaments (chapitre A-29.01) ou au régime d'assurance-hospitalisation institué par la Loi sur l'assurance-hospitalisation (chapitre A-28), les renseignements suivants: les nom, prénom, date de naissance, sexe, adresse, code de langue, numéro d'assurance maladie, date d'expiration de la carte d'assurance maladie, numéro de téléphone, date de décès et numéro d'assurance sociale des usagers, des bénéficiaires, des patients ou des personnes assurées de cet établissement ou auxquels ce professionnel de la santé dispense des services de santé ainsi que les nom et prénom de la mère et du père de ces usagers, de ces bénéficiaires, de ces patients ou de ces personnes assurées ou, le cas échéant, de leur représentant légal. Le numéro d'assurance sociale ne peut être transmis qu'aux seules fins de vérifier la validité des autres renseignements ou d'en faciliter le transfert.
+
+Elle peut également, conformément aux conditions et formalités prévues par la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels, transmettre les mêmes renseignements au ministère des Ressources humaines et du Développement social du Canada, au ministère de la Citoyenneté et de l'Immigration du Canada, à Héma-Québec ainsi qu'aux ministères ou organismes suivants du gouvernement du Québec: le ministère de la Santé et des Services sociaux, le ministère de l'Emploi et de la Solidarité sociale, le ministère du Travail, le ministère des Transports, le ministère de l'Éducation, du Loisir et du Sport, le ministère de l'Enseignement supérieur, de la Recherche, de la Science et de la Technologie, le ministère de l'Immigration et des Communautés culturelles, le ministère des Finances, le ministère des Ressources naturelles et de la Faune, l'Agence du revenu du Québec, la Commission administrative des régimes de retraite et d'assurances, la Régie des rentes du Québec, la Société de l'assurance automobile du Québec, la Commission de la santé et de la sécurité du travail, la Commission des normes du travail et le Curateur public.
+
+La Régie peut informer le ministère de la Santé nationale et du Bien-être social que les renseignements visés au cinquième alinéa et préalablement transmis à la Régie par ce ministère ne sont pas concordants avec ceux qu'elle détient. Elle peut en outre informer ce ministère de la date de décès d'une personne assurée.
+
+Un tel établissement, un tel ministère et un tel organisme ne peuvent divulguer à toute autre personne les renseignements ainsi obtenus.
+
+La Régie peut transmettre au directeur de la protection de la jeunesse d'un centre de protection de l'enfance et de la jeunesse, sur demande, les noms, date de naissance, sexe, adresse et date de décès d'une personne inscrite à son fichier d'inscription des personnes assurées  afin de permettre de retrouver, conformément au Code civil, une personne adoptée ou ses parents biologiques.
+
+La Régie peut également transmettre, sur demande, au ministère de la Sécurité publique et à la Commission québécoise des libérations conditionnelles l'adresse, le numéro de téléphone, le code de langue et, le cas échéant, la date de décès d'une personne inscrite à son fichier des personnes assurées afin de permettre la communication visée à l'article 175 de la Loi sur le système correctionnel du Québec (chapitre S-40.1).
+
+1970, c. 37, a. 52; 1971, c. 47, a. 13; 1973, c. 46, a. 43, a. 44, a. 49; 1973, c. 49, a. 40, a. 41, a. 45; 1973, c. 51, a. 39, a. 40, a. 46; 1973, c. 52, a. 27, a. 28, a. 31; 1979, c. 1, a. 41; 1979, c. 77, a. 34; 1979, c. 63, a. 329; 1979, c. 45, a. 150; 1981, c. 9, a. 7; 1981, c. 22, a. 20; 1982, c. 53, a. 57; 1984, c. 47, a. 209; 1985, c. 21, a. 18; 1985, c. 23, a. 24; 1986, c. 95, a. 20; 1988, c. 41, a. 88; 1988, c. 82, a. 215; 1990, c. 19, a. 11; 1991, c. 42, a. 577; 1992, c. 19, a. 6; 1991, c. 42, a. 577; 1992, c. 44, a. 81; 1992, c. 21, a. 108; 1993, c. 51, a. 17; 1994, c. 8, a. 12; 1994, c. 12, a. 16; 1994, c. 15, a. 34; 1994, c. 16, a. 50; 1994, c. 17, a. 76; 1994, c. 40, a. 457; 1996, c. 29, a. 43; 1996, c. 21, a. 33; 1997, c. 63, a. 128; 1997, c. 73, a. 90; 1998, c. 39, a. 180; 1999, c. 36, a. 37; 1999, c. 89, a. 33, a. 42; 2001, c. 24, a. 105; 2001, c. 44, a. 30; 2002, c. 66, a. 20; 2004, c. 11, a. 62; 2005, c. 11, a. 22; 2005, c. 24, a. 22; 2005, c. 28, a. 195; 2005, c. 32, a. 240; 2006, c. 3, a. 35; 2006, c. 22, a. 158; 2006, c. 22, a. 159; 2007, c. 21, a. 27; 2008, c. 11, a. 212; 2009, c. 45, a. 2; 2010, c. 31, a. 175; 2013, c. 4, a. 12; 2012, c. 23, a. 146; 2013, c. 28, a. 202.
+
+65.0.1. La Régie transmet au directeur général des élections les changements relatifs au nom, à l'adresse, à la date de naissance et au sexe d'une personne assurée inscrite sur la liste électorale permanente constituée en vertu de l'article 40.1 de la Loi électorale (chapitre E-3.3) ainsi que, le cas échéant, la date de son décès et les codes de péremption de l'adresse de cette personne. Elle transmet également le nom, l'adresse, la date de naissance et le sexe d'une personne assurée majeure qui a informé la Régie de l'acquisition de sa citoyenneté canadienne ou qui s'est nouvellement inscrite auprès de celle-ci en indiquant détenir la citoyenneté canadienne. Elle transmet enfin les mêmes renseignements concernant toute personne assurée qui atteindra l'âge de 18 ans et ce, au moins six mois avant qu'elle n'atteigne cet âge ainsi que les renseignements concernant toute personne assurée qui répond aux critères énoncés aux paragraphes 1° à 3° du premier alinéa de l'article 1 de la Loi électorale et qui n'est pas inscrite sur la liste électorale permanente.
+
+La Régie transmet au directeur général des élections, sur demande, tout autre renseignement personnel nécessaire à la confection et à la mise à jour de la liste électorale permanente, après avoir reçu l'avis de la Commission d'accès à l'information.
+
+La Régie transmet, sur demande, au directeur général des élections, l'ensemble des adresses résidentielles qu'elle détient au Québec.
+
+1995, c. 23, a. 52; 1997, c. 98, a. 19; 1998, c. 52, a. 107; 1999, c. 89, a. 42; 2006, c. 22, a. 160; 2008, c. 22, a. 84.
+
+65.0.2. La Régie transmet à un percepteur désigné conformément à l'article 322 du Code de procédure pénale (chapitre C-25.1), en application d'une entente conclue avec le ministre de la Justice, l'adresse et, le cas échéant, la date de décès d'une personne qui n'a pas acquitté dans le délai prescrit une somme due au sens de ce code.
+
+Cette entente doit être soumise à la Commission d'accès à l'information pour avis selon la procédure prévue à l'article 70 de la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1).
+
+Pendant la durée d'une telle entente, l'article 323 du Code de procédure pénale cesse de s'appliquer à l'autorité compétente de la Régie et aux personnes mentionnées à l'article 63 de la présente loi.
+
+1999, c. 89, a. 34.
+
+65.0.3. La Régie effectue les communications de renseignements prévues par la Loi concernant le partage de certains renseignements de santé (chapitre P-9.0001).
+
+2012, c. 23, a. 147.
+
+65.1. La Régie peut, à la suite de l'inscription d'une personne assurée en provenance d'une autre province, transmettre aux responsables de l'application du régime équivalent dans cette autre province et afin de leur permettre d'établir la date de fin d'admissibilité à ce régime, les renseignements suivants: son nom, sa date de naissance, son sexe, la date de son arrivée au Québec et son adresse, son numéro d'assurance maladie et celui de la province d'où elle provient ainsi que la date de son admissibilité au régime québécois.
+
+1990, c. 56, a. 2; 1999, c. 89, a. 42.
+
+65.2. La Régie peut, aux fins de déterminer l'admissibilité d'une personne à une entente de réciprocité conclue en vertu de l'article 10 de la Loi sur le ministère de la Santé et des Services sociaux (chapitre M-19.2), informer le ministère de l'Immigration et des Communautés culturelles, à la suite d'une demande de délivrance d'un certificat d'assujettissement à telle entente de réciprocité formulée par une personne, du fait que cette personne est admissible ou non au régime d'assurance maladie.
+
+La Régie peut également, aux fins d'obtenir le remboursement du coût qu'elle a assumé pour des services qui ont été fournis à une personne en application d'une entente de réciprocité conclue en vertu de l'article 10 de la Loi sur le ministère de la Santé et des Services sociaux, transmettre à la personne ou à l'organisme auquel la réclamation est soumise, la date à laquelle un service a été rendu, la nature de ce service, le nom, l'adresse et la profession de la personne qui a rendu le service ainsi que les sommes encourues par la Régie pour ce service.
+
+1999, c. 89, a. 35; 2005, c. 24, a. 23.
+
+66. Les membres de la Régie ainsi que ses fonctionnaires et employés sont tenus de fournir aux personnes et organismes mentionnés au premier alinéa de l'article 65, à tout comité de révision constitué en vertu de l'article 41 et à tout conseil d'arbitrage visé à l'article 54, les renseignements qu'ils possèdent et qu'ils ont obtenus pour l'exécution de la présente loi lorsqu'ils sont requis de le faire aux fins d'une enquête tenue par une telle personne, un tel organisme, un tel comité ou un tel conseil relativement à un professionnel de la santé soumis à leur compétence.
+
+Il en est de même des membres et des employés des comités de révision constitués en vertu de l'article 41 et des conseils d'arbitrage visés à l'article 54 à l'égard des personnes ou organismes mentionnés au premier alinéa de l'article 65, dans les circonstances visées à l'alinéa précédent.
+
+1970, c. 37, a. 53; 1970, c. 38, a. 18; 1973, c. 30, a. 11; 1986, c. 95, a. 21.
+
+66.0.1. (Abrogé).
+
+1994, c. 8, a. 13; 1996, c. 32, a. 99; 2002, c. 27, a. 41; 2010, c. 15, a. 56.
+
+66.1. La Régie transmet au ministre ou au conseil des médecins, dentistes et pharmaciens d'un établissement, sur demande, le profil de pratique collectif des professionnels de la santé d'un établissement ou de ceux qui exercent un même genre d'activité dans une installation maintenue par cet établissement. Ces renseignements ne doivent pas indiquer les nom, et adresse des professionnels.
+
+La Régie transmet au chef de département clinique d'un centre hospitalier, sur demande, le profil de pratique individuel en établissement des professionnels de la santé qui exercent leur profession dans son département.
+
+La Régie transmet en outre, sur demande, à une agence visée par la Loi sur les services de santé et les services sociaux (chapitre S-4.2), sous forme non nominative, les profils de pratique individuels ou collectifs des professionnels de la santé qui exercent leurs activités dans la région concernée ainsi que, sous forme nominative, les renseignements concernant la spécialité dans laquelle un médecin omnipraticien ou un médecin spécialiste est classé, le fait qu'il est rémunéré ou non par la Régie ainsi que ses lieux d'exercice, à savoir le nom de l'établissement lorsqu'il exerce dans un centre exploité par un établissement et le nom de la localité dans tout autre cas. Elle transmet également, sur demande, ces profils de pratique à l'organisme représentatif des médecins omnipraticiens et à l'organisme représentatif des médecins spécialistes avec lesquels le ministre a conclu une entente au sens de l'article 19 ainsi qu'au regroupement des agences de la santé et des services sociaux.
+
+Le gouvernement peut, par règlement, déterminer les renseignements qui doivent être mentionnés dans les profils de pratique.
+
+1981, c. 22, a. 21; 1984, c. 47, a. 209; 1991, c. 42, a. 578; 1992, c. 21, a. 109; 1998, c. 39, a. 181; 2005, c. 32, a. 241, a. 309.
+
+67. L'article 63 n'interdit pas de révéler, pour fins de statistiques, des renseignements obtenus pour l'exécution de la présente loi, pourvu qu'il ne soit pas possible de les relier à une personne particulière.
+
+Nul ne peut utiliser, à des fins autres que celles prévues par la présente loi, un renseignement obtenu par la Régie.
+
+Il n'interdit pas de révéler au ministre les renseignements sur les services assurés dispensés par territoire ou par genre d'activité dans un territoire ou une installation maintenue par un établissement.  Ces renseignements ne doivent pas indiquer les nom, et adresse d'un professionnel.
+
+Il n'interdit pas non plus de révéler au ministre de l'Emploi et de la Solidarité la nature des services, des médicaments, des appareils et autres équipements qui suppléent à une déficience physique, des aides visuelles, des aides auditives ou des aides à la communication dont le coût est assumé ou remboursé par la Régie en vertu des paragraphes b et c du premier alinéa, du deuxième, du troisième, du cinquième, du sixième, du septième et du huitième alinéas de l'article 3, la date où ces biens et services ont été fournis et leur coût à l'égard de chaque personne et chaque famille admissible à un programme d'aide financière de dernier recours  prévu à la Loi sur l'aide aux personnes et aux familles (chapitre A-13.1.1) et qui détient un carnet de réclamation en vigueur délivré suivant les articles 70 ou 71.1.
+
+Il n'interdit pas non plus de révéler un renseignement obtenu pour l'exécution de la présente loi à l'Institut de la statistique du Québec institué en vertu de la Loi sur l'Institut de la statistique du Québec (chapitre I-13.011) lorsque cette communication est nécessaire à l'exercice de ses attributions, conformément aux conditions et formalités prévues par la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1).
+
+Il n'interdit pas non plus de révéler un renseignement obtenu pour l'exécution de la présente loi à la Société de l'assurance automobile du Québec et au ministère de la Santé et des Services sociaux aux fins de l'établissement du coût de financement des services de santé fournis à la suite d'un accident d'automobile, conformément à l'article 155.4 de la Loi sur l'assurance automobile (chapitre A-25).
+
+Il n'interdit pas non plus de révéler un renseignement obtenu pour l'exécution de la présente loi à une personne, un ministère ou un organisme à qui la Régie confie un mandat en vertu de l'article 67.2 de la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels.
+
+Il n'interdit pas non plus de communiquer des renseignements, conformément aux conditions et formalités prévues par la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels, au ministre de la Santé et des Services sociaux, à un directeur de santé publique, à l'Institut national de santé publique du Québec ou à un tiers visé au deuxième alinéa de l'article 34 de la Loi sur la santé publique (chapitre S-2.2) lorsque ceux-ci sont requis pour mettre en opération un plan de surveillance établi conformément à cette loi.
+
+Il n'interdit pas non plus de révéler un renseignement obtenu pour l'exécution de la présente loi à une personne autorisée par la Commission d'accès à l'information à utiliser ce renseignement à des fins de recherche dans le domaine de la santé et des services sociaux.
+
+Il n'interdit pas non plus de communiquer, conformément aux conditions et formalités prévues par la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels, au ministre de la Santé et des Services sociaux, les renseignements nécessaires à des fins d'appréciation et d'évaluation des résultats en matière de santé et de services sociaux en application du paragraphe 13° du deuxième alinéa de l'article 431 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2).
+
+Il n'interdit pas non plus de communiquer, sous forme non nominative, des renseignements obtenus pour l'exécution de la présente loi à l'Institut national d'excellence en santé et en services sociaux lorsque ces renseignements sont nécessaires à l'application de la Loi sur l'Institut national d'excellence en santé et en services sociaux (chapitre I-13.03).
+
+Il n'interdit pas en outre de communiquer à l'Institut un renseignement personnel nécessaire à l'application de la Loi sur l'Institut national d'excellence en santé et en services sociaux, conformément aux conditions et formalités prévues par la Loi sur l'accès aux documents des organismes publics et sur la protection des renseignements personnels (chapitre A-2.1).
+
+Il n'interdit pas non plus de révéler un renseignement obtenu pour l'exécution de la présente loi au ministre du Revenu:
+
+ 1° pour l'application de la section I.1 du chapitre IV de la Loi sur la Régie de l'assurance maladie du Québec (chapitre R-5), afin de lui permettre de vérifier les montants qui doivent être payés en vertu des articles 37.6 et 37.8 de cette loi;
+
+ 2° pour l'application du paragraphe m de l'article 69.1 de la Loi sur l'administration fiscale (chapitre A-6.002), afin de permettre à la Régie de vérifier si, d'une part, une personne réside ou séjourne au Québec au sens de la présente loi et, d'autre part, si une personne devait s'inscrire au régime d'assurance médicaments institué par la Loi sur l'assurance médicaments (chapitre A-29.01);
+
+ 3° pour l'application de l'article 28.1 de la Loi sur l'assurance médicaments, afin de permettre à la Régie d'obtenir de ce ministre des renseignements statistiques, sous forme non nominative, en vue d'établir annuellement le montant maximum visé à l'article 23.
+
+1970, c. 37, a. 54; 1971, c. 47, a. 14; 1973, c. 30, a. 12; 1979, c. 1, a. 42; 1981, c. 9, a. 37; 1981, c. 22, a. 22; 1982, c. 53, a. 57; 1984, c. 47, a. 17; 1989, c. 50, a. 36; 1988, c. 51, a. 102; 1991, c. 42, a. 579; 1992, c. 44, a. 81; 1992, c. 21, a. 110; 1994, c. 8, a. 14; 1994, c. 12, a. 17; 1996, c. 32, a. 100; 1997, c. 63, a. 128; 1998, c. 44, a. 45; 1999, c. 22, a. 40; 1998, c. 36, a. 168; 1999, c. 89, a. 36; 2001, c. 60, a. 144; 2002, c. 27, a. 32; 2005, c. 15, a. 143; 2009, c. 45, a. 3; 2010, c. 15, a. 57; 2010, c. 31, a. 175.
+
+68. Tout professionnel de la santé auquel s'applique une entente est tenu, quel que soit son mode de rémunération, de fournir à la Régie les seuls renseignements ou documents dont la Régie a besoin pour apprécier un relevé d'honoraires ou une demande de paiement concernant des services assurés qu'il a fournis à une personne assurée ou pour les fins de l'application des articles 2.1, 24.1 et 24.2 de la Loi sur la Régie de l'assurance maladie du Québec (chapitre R-5) et des articles 18 et 64 de la présente loi.
+
+Un établissement qui doit attester un relevé d'honoraires ou une demande de paiement d'un professionnel de la santé ne doit le faire qu'à l'égard des services assurés visés à l'article 3.
+
+1970, c. 37, a. 55; 1979, c. 1, a. 43; 1991, c. 42, a. 580; 1999, c. 89, a. 42.
+
+68.1. La Commission de la santé et de la sécurité du travail, la Société de l'assurance automobile du Québec ou une université doit fournir à la Régie, sur demande de son président-directeur général, le montant de la rémunération versée à l'ensemble des professionnels de la santé soumis à l'application d'une entente ou à une catégorie d'entre eux selon le genre d'activité qu'ils exercent.
+
+La Régie transmet ces renseignements au ministre sur demande.
+
+1981, c. 22, a. 23; 1990, c. 19, a. 11; 2007, c. 21, a. 28.
+
+68.2. Le ministère de la Santé et des Services sociaux doit fournir à la Régie, sur demande, l'identification des personnes hébergées qui sont assujetties au régime de contribution des adultes hébergés, afin de permettre à la Régie de délivrer à ces personnes une carte d'assurance maladie ou une carte d'admissibilité sans leur photographie et leur signature.
+
+1992, c. 21, a. 111; 1999, c. 89, a. 42.
+
+SECTION VIII
+~~~~~~~~~~~~
+
+**RÈGLEMENTS**
+
+69. Le gouvernement peut, après consultation de la Régie ou sur la recommandation de celle-ci, en outre des autres pouvoirs de réglementation qui lui sont conférés par la présente loi, adopter des règlements pour:
+
+ a) prescrire tout ce qui peut être prescrit en vertu de la présente loi;
+
+ b) déterminer, parmi les services visés à l'article 3, ceux qui ne doivent pas être considérés comme des services assurés, et la fréquence à laquelle certains de ceux qui sont visés au paragraphe c du premier alinéa ou au deuxième alinéa de l'article 3 peuvent être rendus pour demeurer des services assurés;
+
+ b.1)  prescrire les cas, conditions ou circonstances, dans lesquels des services visés à l'article 3 ne sont pas considérés comme des services assurés pour les personnes assurées ou celles d'entre elles qu'il indique;
+
+ b.2) déterminer, parmi les services que rendent les médecins pour un problème de daltonisme ou de réfraction, ceux qui ne doivent pas être considérés comme des services assurés pour les personnes assurées que ce règlement détermine selon leur âge ou selon le fait qu'elles détiennent ou non un carnet de réclamation en vigueur délivré suivant l'article 71 ou 71.1;
+
+ b.3) déterminer, pour les services de mammographie utilisés à des fins de dépistage, ceux qui ne doivent pas être considérés comme des services assurés, pour les personnes assurées que ce règlement détermine, selon leur âge et dans les lieux d'exercice désignés par le ministre ou par une personne qu'il autorise par écrit pour leur dispensation et prescrire la fréquence à laquelle ces services doivent être rendus pour demeurer des services assurés, cette fréquence pouvant varier selon les cas, conditions et circonstances qu'il indique;
+
+ c) déterminer les services de chirurgie buccale qui doivent être considérés comme des services assurés aux fins du paragraphe b du premier alinéa de l'article 3;
+
+ c.1) déterminer les services de planification familiale qui doivent être considérés comme des services assurés aux fins du paragraphe d du premier alinéa de l'article 3;
+
+ c.2) déterminer dans quels cas et à quelles conditions, notamment l'âge, les services de procréation assistée doivent être considérés comme des services assurés aux fins du paragraphe e du premier alinéa de l'article 3;
+
+ d) déterminer les services que rendent les dentistes et qui doivent être considérés comme des services assurés aux fins du deuxième alinéa de l'article 3 à l'égard de chacune des catégories de personnes assurées qui y sont visées;
+
+ e) fixer l'âge où une personne aura droit aux services assurés en vertu du deuxième alinéa de l'article 3;
+
+ e.1) déterminer les services que rendent les pharmaciens et qui doivent être considérés comme des services assurés aux fins des troisième et quatrième alinéas de l'article 3 et prescrire la fréquence à laquelle certains de ces services doivent être rendus pour demeurer des services assurés, cette fréquence pouvant varier selon les cas, conditions et circonstances qu'il indique;
+
+ e.2) déterminer, parmi les services que rendent les pharmaciens et qui doivent être considérés comme des services assurés aux fins des troisième et quatrième alinéas de l'article 3, ceux qui doivent se rattacher à un médicament qui figure à la liste des médicaments dressée par le ministre en vertu de l'article 60 de la Loi sur l'assurance médicaments (chapitre A-29.01);
+
+ f) prévoir, au-delà du montant dont la Régie assume le paiement conformément à l'article 60 de la Loi sur l'assurance-médicaments, le montant ou la méthode de fixation des frais qui peuvent être exigés des personnes assurées par un pharmacien, les modalités de leur perception et les cas d'exonération, totale ou partielle, avec ou sans conditions;
+
+ g) déterminer les services que rendent les optométristes et qui doivent être considérés comme des services assurés aux fins du paragraphe c du premier alinéa de l'article 3 et fixer l'âge des personnes assurées pouvant recevoir ces services ou certains d'entre eux;
+
+ h) déterminer les déficiences physiques, les services ainsi que les ensembles ou les sous-ensembles d'appareils qui suppléent à une déficience physique qui doivent être considérés comme des services assurés aux fins du cinquième alinéa de l'article 3, fixer l'âge des personnes assurées qui y sont visées et en déterminer les catégories, déterminer le coût que la Régie peut assumer pour le compte d'une personne assurée qui a une déficience physique ainsi que les cas et les conditions dans lesquels la Régie assume le coût de ces services assurés et dans lesquels ils sont fournis et prescrire les cas et les conditions dans lesquels certains de ces biens peuvent ou doivent être récupérés;
+
+ h.1) déterminer les déficiences visuelles, les services ainsi que les ensembles ou les sous-ensembles d'aides visuelles qui doivent être considérés comme des services assurés aux fins du sixième alinéa de l'article 3, fixer l'âge des personnes assurées qui y sont visées et en déterminer les catégories, déterminer le coût que rembourse la Régie à un établissement reconnu par le ministre à l'égard d'une personne assurée qui a une déficience visuelle ainsi que les cas et les conditions dans lesquels la Régie rembourse le coût des services assurés et dans lesquels ils sont fournis et prescrire les cas et les conditions dans lesquels ces aides visuelles peuvent ou doivent être récupérées;
+
+ h.2) déterminer les déficiences auditives, les services ainsi que les ensembles ou les sous-ensembles d'aides auditives qui doivent être considérés comme des services assurés aux fins du septième alinéa de l'article 3, fixer l'âge des personnes assurées qui y sont visées et en déterminer les catégories, déterminer le coût que la Régie peut assumer pour le compte d'une personne assurée qui a une déficience auditive, déterminer les cas et les conditions dans lesquels la Régie assume le coût de ces services assurés et dans lesquels ils sont fournis, prescrire les modalités de réclamation et de paiement ainsi que les cas et les conditions dans lesquels certaines de ces aides auditives peuvent ou doivent être récupérées;
+
+ h.2.1) déterminer les déficiences physiques de la communication, les services ainsi que les ensembles ou les sous-ensembles d'aides à la communication qui doivent être considérés comme des services assurés aux fins du huitième alinéa de l'article 3, fixer l'âge des personnes assurées qui y sont visées et en déterminer les catégories, déterminer le coût que rembourse la Régie à un établissement reconnu par le ministre à l'égard d'une personne assurée qui a une déficience physique de la communication ainsi que les cas et les conditions dans lesquels la Régie rembourse le coût des services assurés et dans lesquels ils sont fournis et prescrire les cas et les conditions dans lesquels ces aides à la communication peuvent ou doivent être récupérées;
+
+ h.3) déterminer les personnes hors du Québec et, pour chacun des territoires qu'il définit, déterminer les personnes au Québec, autres qu'un établissement ou un laboratoire, pouvant fournir certaines catégories de services assurés visés dans le cinquième alinéa de l'article 3 dont le coût déterminé peut être exigé de la Régie par la personne assurée, les catégories de services dont le coût peut être ainsi exigé, fixer le coût maximum pouvant être exigé de la personne assurée par ces personnes;
+
+ i) déterminer ce qu'est un centre hospitalier en dehors du Québec ou un établissement universitaire, aux fins du paragraphe b du premier alinéa de l'article 3;
+
+ i.1) déterminer les activités ou tâches administratives qu'assume un professionnel de la santé et qui doivent être considérées comme des services assurés aux fins du onzième alinéa de l'article 3;
+
+ j) prévoir, pour l'application de l'article 5, les conditions auxquelles doit satisfaire une personne qui y est visée ainsi que le moment et les conditions où une personne devient résidente du Québec et le moment et les conditions où elle cesse de l'être et déterminer toute catégorie de personnes visée au paragraphe 5°;
+
+ j.1) prévoir dans quels cas et à quelles conditions une personne peut être une personne qui séjourne au Québec et à compter de quel moment elle le devient;
+
+ j.2) prévoir dans quels cas et à quelles conditions une personne qui réside au Québec conserve sa qualité de résidente du Québec malgré son absence du Québec et déterminer la période pendant laquelle elle peut conserver ainsi cette qualité;
+
+ j.2.1) prévoir le moment à compter duquel une personne perd sa qualité de personne qui séjourne au Québec ainsi que les conditions de cette perte de qualité;
+
+ j.3) déterminer la période de prolongation d'admissibilité pour la personne résidente du Québec qui s'établit dans une autre province canadienne;
+
+ k) (paragraphe abrogé);
+
+ l) déterminer les conditions que doit remplir une personne qui s'inscrit à la Régie, les renseignements et les documents qu'elle doit fournir, l'époque de l'inscription ainsi que les cas, conditions, circonstances et modalités suivant lesquels une personne doit s'inscrire auprès de la Régie et les cas dans lesquels une demande d'inscription peut être faite par une personne pour une autre;
+
+ l.1) prescrire les normes relatives à la photographie que doit fournir une personne qui s'inscrit à la Régie, qui demande le renouvellement de son inscription ou le remplacement de sa carte d'assurance maladie ou de sa carte d'admissibilité;
+
+ l.2) déterminer les modalités suivant lesquelles une demande d'inscription, de renouvellement d'inscription ou de remplacement d'une carte d'assurance maladie ou d'une carte d'admissibilité doit être authentifiée, les catégories de personnes, les ministères, les organismes publics ou les établissements qui, en outre de la Régie, sont autorisés à authentifier ces demandes selon les catégories de personnes assurées qu'il indique, les documents qui doivent être présentés par la personne qui fait une demande ainsi que les conditions qu'elle doit remplir à l'occasion de l'authentification de sa demande;
+
+ m) déterminer les conditions de renouvellement et de remplacement d'une carte d'assurance maladie, les cas où elle doit être retournée à la Régie et en fixer le délai d'expiration;
+
+ m.1) déterminer les conditions de renouvellement et de remplacement de la carte d'admissibilité, les cas où elle doit être retournée à la Régie et en fixer le délai d'expiration;
+
+ m.2) (paragraphe abrogé);
+
+ n) établir des normes permettant de déterminer les cas d'urgence dans lesquels la Régie paie la rémunération prévue à une entente à un professionnel de la santé désengagé ou non participant pour des services assurés qu'il rend à une personne assurée;
+
+ o) déterminer le nombre et les catégories de bourses d'études ou de recherche, le montant et le mode de paiement des bourses ainsi que les modalités selon lesquelles un territoire est assigné à tout boursier;
+
+ p) prescrire la teneur de l'engagement que tout boursier doit remplir en sus des conditions prévues par la présente loi;
+
+ q)  déterminer les cas, conditions ou circonstances et les services pour lesquels la Régie doit transmettre à une personne assurée un relevé des services assurés qu'elle a payés pour elle et la périodicité de cette transmission;
+
+ r) (paragraphe remplacé);
+
+ s) prescrire la teneur de l'engagement qu'un professionnel qui reçoit une prime d'encouragement doit remplir et déterminer le nombre et le montant des primes d'encouragement ainsi que la composition et le mode de fonctionnement d'un jury visé dans l'article 77.4;
+
+ t)  déterminer les cas ou circonstances où un professionnel de la santé soumis à l'application d'une entente a droit d'être rémunéré par la Régie pour des services assurés qu'il a fournis lui-même à une personne assurée lorsqu'elle n'a pas présenté sa carte d'assurance maladie;
+
+non en vigueur t.1) déterminer les modalités suivant lesquelles une personne assurée est informée du coût d'un service assuré fourni par un professionnel de la santé;
+
+
+ u) (paragraphe abrogé);
+
+ v) déterminer les cas et conditions dans lesquels la Régie peut rembourser ou assumer le coût effectivement réclamé pour des services médicaux assurés;
+
+ w) (paragraphe abrogé);
+
+ x) (paragraphe abrogé).
+
+Le ministre ou la personne qu'il autorise par écrit doit publier sur le site Internet du ministère de la Santé et des Services sociaux la liste des lieux désignés en application du paragraphe b.3 du premier alinéa. Cette liste ainsi que chacune des mises à jour de celle-ci entrent en vigueur à la date de la désignation.
+
+Un règlement pris en vertu des paragraphes b à e, g, i ou i.1 du premier alinéa a effet, même à l'égard de professionnels de la santé liés par une entente en cours de validité et malgré toute stipulation de celle-ci, à la date ou aux dates fixées dans ce règlement.
+
+Toutefois, un règlement pris en vertu du paragraphe b.1 du premier alinéa a effet même à l'égard de professionnels de la santé liés par une entente en cours de validité et malgré toute stipulation de celle-ci, à la date ou aux dates fixées dans ce règlement, à l'exception d'un tel règlement qui a pour effet de déterminer les services qui ne sont pas considérés comme des services assurés dans les cas, conditions ou circonstances qui tiennent compte du lieu d'exercice de leur dispensation.
+
+1970, c. 37, a. 56; 1970, c. 38, a. 19; 1970, c. 42, a. 17; 1971, c. 47, a. 15; 1973, c. 30, a. 13; 1973, c. 49, a. 45; 1974, c. 40, a. 15; 1979, c. 1, a. 44; 1981, c. 22, a. 24; 1985, c. 23, a. 3; 1986, c. 79, a. 4; 1986, c. 99, a. 1; 1989, c. 50, a. 37; 1990, c. 56, a. 5; 1991, c. 42, a. 581; 1992, c. 19, a. 7; 1992, c. 21, a. 112; 1991, c. 42, a. 581; 1994, c. 8, a. 15; 1996, c. 32, a. 101; 1998, c. 39, a. 182; 1999, c. 89, a. 37, a. 42; 2002, c. 66, a. 22; 2007, c. 21, a. 29; 2009, c. 30, a. 48; 2015, c. 8, a. 193.
+
+69.0.1. (Abrogé).
+
+1989, c. 50, a. 38; 1994, c. 8, a. 16; 2007, c. 21, a. 30.
+
+69.0.1.1. Le Conseil du trésor peut, après consultation de la Régie ou sur la recommandation de celle-ci, prendre des règlements en application des septième et huitième alinéas de l'article 19.
+
+2002, c. 66, a. 23.
+
+69.0.2. Un règlement pris en vertu de l'article 69.0.1.1 n'est pas soumis à l'obligation de publication et au délai d'entrée en vigueur prévus aux articles 8 et 17 de la Loi sur les règlements (chapitre R-18.1).
+
+1989, c. 50, a. 38; 1991, c. 42, a. 582; 1992, c. 21, a. 113; 1996, c. 32, a. 102; 2002, c. 66, a. 24.
+
+69.1. (Abrogé).
+
+1985, c. 23, a. 4; 1991, c. 42, a. 583; 1992, c. 21, a. 114; 1996, c. 32, a. 103.
+
+69.2. Le ministre peut faire des règlements pour déterminer les territoires ou les lieux d'exercice situés dans ceux-ci qu'il estime insuffisamment pourvus de professionnels, pour l'ensemble ou une partie d'entre eux, compte tenu de leur genre d'activité.
+
+1991, c. 42, a. 584.
+
+70. Le ministre de l'Emploi et de la Solidarité sociale délivre un carnet de réclamation en la forme qu'il prescrit à une personne ou à une famille admissible à un programme d'aide financière de dernier recours prévu à la Loi sur l'aide aux personnes et aux familles (chapitre A-13.1.1), ou qui est bénéficiaire d'une allocation versée suivant le deuxième alinéa de l'article 67 de la Loi de l'aide sociale (1969, chapitre 63), attestant qu'elle a droit aux services prévus au troisième alinéa de l'article 3, au cours de la période qui y est prévue.
+
+1971, c. 47, a. 16; 1974, c. 40, a. 16; 1975, c. 60, a. 2; 1977, c. 44, a. 4; 1979, c. 1, a. 45; 1981, c. 9, a. 37; 1982, c. 53, a. 57; 1988, c. 51, a. 103; 1992, c. 44, a. 81; 1994, c. 12, a. 17; 1997, c. 63, a. 128; 1998, c. 36, a. 169; 2001, c. 44, a. 30; 2005, c. 15, a. 144.
+
+71. Le ministre de l'Emploi et de la Solidarité sociale délivre un carnet de réclamation, en la forme qu'il prescrit, à toute personne âgée d'au moins 60 ans et de moins de 65 ans, attestant qu'elle a droit aux services prévus au paragraphe c du premier alinéa et au quatrième alinéa de l'article 3 ainsi qu'aux services déterminés par un règlement adopté en vertu du paragraphe b.2 du premier alinéa de l'article 69, au cours de la période qui y est prévue,
+
+ a) si cette personne reçoit une allocation en vertu de la partie III de la Loi sur la sécurité de la vieillesse (Lois révisées du Canada (1985), chapitre O-9); et
+
+ b) si cette personne, sans cette allocation, serait admissible à un programme d'aide financière de dernier recours prévu à la Loi sur l'aide aux personnes et aux familles (chapitre A-13.1.1) ou serait bénéficiaire d'une allocation versée suivant le deuxième alinéa de l'article 67 de la Loi de l'aide sociale (1969, chapitre 63).
+
+1975, c. 60, a. 3; 1977, c. 44, a. 5; 1979, c. 1, a. 46; 1981, c. 9, a. 37; 1982, c. 53, a. 57; 1988, c. 51, a. 104; 1992, c. 44, a. 81; 1994, c. 8, a. 17; 1994, c. 12, a. 17; 1997, c. 63, a. 128; 1998, c. 36, a. 170; 2001, c. 44, a. 30; 2005, c. 15, a. 145.
+
+71.1. Le ministre de l'Emploi et de la Solidarité sociale délivre un carnet de réclamation en la forme qu'il prescrit à une personne ou à une famille admissible à un programme d'aide financière de dernier recours  prévu à la Loi sur l'aide aux personnes et aux familles (chapitre A-13.1.1), attestant qu'elle a droit aux services prévus au paragraphe c du premier alinéa et au deuxième alinéa de l'article 3 ainsi qu'aux services déterminés par un règlement adopté en vertu du paragraphe b.2 du premier alinéa de l'article 69, au cours de la période qui y est prévue.
+
+1979, c. 1, a. 47; 1981, c. 9, a. 37; 1982, c. 53, a. 57; 1988, c. 51, a. 105; 1992, c. 19, a. 8; 1992, c. 44, a. 81; 1994, c. 12, a. 17; 1997, c. 63, a. 128; 1998, c. 36, a. 171; 2001, c. 44, a. 30; 2005, c. 15, a. 146.
+
+71.2. L'obligation faite au ministre en vertu des articles 70, 71 et 71.1 ne s'applique pas à l'égard d'une personne ou d'une famille à qui peut être accordée uniquement une prestation spéciale relative à l'aide juridique en vertu de la Loi sur l'aide aux personnes et aux familles (chapitre A-13.1.1).
+
+1982, c. 58, a. 15; 1988, c. 51, a. 106; 1998, c. 36, a. 172; 2005, c. 15, a. 147.
+
+72. La Régie peut par règlement:
+
+ a) prescrire le contenu des formules de relevés d'honoraires ou de toute autre formule de la Régie qui peuvent ou doivent être utilisées par un professionnel de la santé, une personne assurée, une personne qui réside ou qui séjourne au Québec, un établissement ou un laboratoire;
+
+ b) prescrire les cas et les conditions suivant lesquels un mandataire peut réclamer des honoraires de la Régie au nom d'un professionnel de la santé, les renseignements et la teneur des documents pertinents à la réclamation que ce professionnel doit fournir à la Régie et conserver ainsi que la durée de leur conservation;
+
+ c) fixer le montant des frais exigibles lors du remplacement d'une carte d'assurance maladie avant son délai d'expiration ainsi que les catégories de personnes qui peuvent être exemptées de ces frais;
+
+ c.1) fixer le montant des frais exigibles par la Régie pour une demande de renouvellement de l'inscription d'une personne assurée qui est une personne qui séjourne au Québec;
+
+ c.2) fixer le montant des frais exigibles pour une demande de réinscription d'une personne assurée qui n'a pas transmis à la Régie, dans le délai qui lui est accordé par règlement, l'avis de renouvellement de son inscription et déterminer dans quels cas une personne est exemptée de les payer;
+
+ d) fixer le montant des frais exigibles lors du remplacement de la carte d'admissibilité avant son délai d'expiration ainsi que les catégories de personnes qui peuvent être exemptées de ces frais;
+
+ d.1) fixer le montant des frais exigibles par la Régie pour une demande de renouvellement de l'inscription d'une personne visée par le paragraphe 2° du premier alinéa de l'article 10 de la Loi sur le ministère de la Santé et des Services sociaux (chapitre M-19.2);
+
+ d.2) fixer le montant des frais exigibles par la Régie d'un professionnel de la santé qui lui soumet son relevé d'honoraires ou sa demande de paiement au moyen d'un système de facturation autre que par télécommunication, déterminer les modalités de paiement de ces frais et exempter, dans les cas, conditions et circonstances qu'il indique, certains professionnels de la santé ou certaines catégories de professionnels de la santé de leur paiement;
+
+ e) fixer le montant des frais d'administration exigibles par la Régie lorsqu'elle est d'avis qu'on a exigé paiement d'une personne assurée alors que rien dans la présente loi, les règlements ou les ententes ne le permet;
+
+ f) (paragraphe abrogé);
+
+ g) établir des catégories de carte d'assurance maladie suivant les services auxquels une personne est admissible et déterminer, pour chacune d'entre elles, les informations qui y sont contenues;
+
+ h) déterminer la teneur d'une carte d'assurance maladie et d'une carte d'admissibilité ainsi que les modalités de leur délivrance et déterminer les cas, les circonstances et les conditions selon lesquels la Régie peut ou doit délivrer une carte d'assurance maladie ou une carte d'admissibilité sans la photographie ou la signature d'une personne assurée;
+
+ i) prévoir dans quels cas et à quelles conditions une personne doit, à la demande de la Régie et aux frais de celle-ci, se soumettre à l'examen ou à l'évaluation visé à l'article 14.2.1, les normes suivant lesquelles doit se faire cet examen ou cette évaluation et les conditions de remboursement des frais de déplacement et de séjour de la personne qui s'y soumet et de celle qui, le cas échéant, l'accompagne ainsi que déterminer, pour cette dernière personne, une allocation de disponibilité.
+
+Un tel règlement doit, avant d'entrer en vigueur, être approuvé par le gouvernement.
+
+1970, c. 37, a. 57; 1979, c. 1, a. 48; 1989, c. 50, a. 39; 1991, c. 42, a. 585; 1992, c. 21, a. 115; 1994, c. 8, a. 18; 1999, c. 89, a. 38, a. 42; 1999, c. 89, a. 38; 2007, c. 21, a. 31.
+
+72.1. La Régie peut, à l'égard des biens et des services visés au cinquième, sixième, septième ou huitième alinéa de l'article 3 et en tenant compte du règlement pris par le gouvernement en vertu du neuvième alinéa de cet article, prendre un règlement qui détermine:
+
+ 1° le nom ainsi que la description des biens et des services ainsi visés et, s'il y a lieu, la marque de commerce, le modèle, le nom du fabricant ou du distributeur, le prix fixé et ce qu'il inclut, le prix maximum fixé ou la méthode d'établissement du prix lors de leur achat ou leur remplacement ainsi que la durée de la garantie offerte pour chacun de ces biens et de ces services;
+
+ 2° toute autre norme nécessaire à l'application du cinquième, du sixième, du septième ou du huitième alinéa de l'article 3.
+
+Un règlement pris en vertu du premier alinéa n'est pas soumis à l'obligation de publication et au délai d'entrée en vigueur prévus aux articles 8 et 17 de la Loi sur les règlements (chapitre R-18.1). Ce règlement entre en vigueur à la date de sa publication sur le site Internet de la Régie ou à toute autre date ultérieure qu'il indique. Cette publication accorde au règlement une valeur authentique.
+
+Avant le 1er avril de chaque année, la Régie publie, à la partie 2 de la Gazette officielle du Québec, un avis indiquant à quelle date le règlement pris en vertu du premier alinéa a fait l'objet d'un remplacement ou d'une modification au cours de l'année précédente. L'avis indique également l'adresse du site Internet où le règlement est publié.
+
+1999, c. 89, a. 39; 2007, c. 21, a. 32.
+
+73. (Abrogé).
+
+1970, c. 37, a. 58; 1981, c. 22, a. 25; 1994, c. 8, a. 19.
+
+SECTION IX
+~~~~~~~~~~
+
+**DISPOSITIONS PÉNALES ET AUTRES SANCTIONS**
+
+74. Personne ne doit sciemment obtenir ou recevoir de la Régie, directement ou indirectement, le bénéfice de services qu'il n'a pas le droit d'obtenir ou de recevoir en vertu de la présente loi, des règlements ou d'un régime ou programme administré par la Régie, ni ainsi obtenir ou recevoir sciemment le bénéfice de services de façon abusive ou injustifiée.
+
+Personne ne doit sciemment aider ou encourager une autre personne à obtenir ou recevoir de la Régie, directement ou indirectement, le bénéfice de services que cette autre personne n'a pas le droit d'obtenir ou de recevoir en vertu de la présente loi, des règlements ou d'un régime ou programme administré par la Régie, ni sciemment aider ou encourager une autre personne à ainsi obtenir ou recevoir le bénéfice des services de façon abusive ou injustifiée.
+
+Quiconque contrevient à une disposition du présent article commet une infraction et est passible d'une amende maximale de 500 $ et, en cas de récidive, d'une amende de 100 $ à 1 000 $.
+
+1970, c. 37, a. 59; 1981, c. 22, a. 26; 1990, c. 4, a. 80.
+
+75. Quiconque contrevient à une disposition de l'article 63 commet une infraction et est passible d'une amende de 50 $ à 500 $ et, en cas de récidive, d'une amende de 50 $ à 1 000 $.
+
+Quiconque contrevient sciemment à une disposition de l'article 63 commet une infraction et est passible d'une amende de 1 000 $ à 5 000 $ et, en cas de récidive, d'une amende de 5 000 $ à 10 000 $.
+
+1970, c. 37, a. 60; 1981, c. 22, a. 27; 1990, c. 4, a. 81.
+
+76. Quiconque enfreint une disposition de la présente loi ou des règlements pour la violation de laquelle aucune peine n'est prévue, commet une infraction et est passible d'une amende d'au plus 1 000 $.
+
+1970, c. 37, a. 61; 1981, c. 22, a. 28; 1990, c. 4, a. 82.
+
+76.1. Une poursuite pénale pour la sanction d'une infraction à une disposition de la présente loi ou de l'un de ses règlements se prescrit par deux ans à compter de la date de la perpétration de l'infraction.
+
+1994, c. 8, a. 20.
+
+77. Lorsqu'un professionnel de la santé poursuivi en vertu du Code criminel (Lois révisées du Canada (1985), chapitre C-46) est déclaré coupable pour une infraction ou un acte criminel qui a trait à une réclamation faite à la Régie ou payée par elle, la Régie doit, dès que le jugement définitif est prononcé, émettre une ordonnance écrite aux termes de laquelle ce professionnel de la santé est considéré comme un professionnel non participant pour une période de six mois s'il s'agit d'une première déclaration de culpabilité ou d'un an s'il s'agit d'une déclaration subséquente.
+
+Une telle ordonnance doit indiquer la date à partir de laquelle le professionnel de la santé sera considéré comme un professionnel non participant et la période au cours de laquelle elle s'applique.  La Régie doit envoyer, par courrier recommandé, une copie de cette ordonnance au professionnel de la santé, à sa dernière adresse connue de la Régie, et faire publier un avis à la Gazette officielle du Québec.
+
+1970, c. 37, a. 62; 1974, c. 40, a. 17; 1979, c. 1, a. 49; 1981, c. 22, a. 29.
+
+77.0.1. La Régie peut rendre une ordonnance de non-participation de six mois à l'égard d'un professionnel de la santé lorsque:
+
+ 1° une affaire concernant ce professionnel a été soumise à un comité de révision alors que, dans les 60 derniers mois, la Régie avait déjà rendu une décision conformément à l'article 50 à l'encontre de ce professionnel;
+
+ 2° il n'y a plus ouverture à aucun recours contre la décision de la Régie rendue à la suite de cette deuxième affaire soumise au comité de révision.
+
+Une telle ordonnance de non-participation est rendue selon les modalités prévues à l'article 77.
+
+1989, c. 50, a. 40.
+
+77.1. Dans une poursuite intentée en vertu de la présente loi, un relevé d'honoraires ou une demande de paiement signé par un mandataire autorisé par un professionnel de la santé est présumé avoir été signé par ce professionnel de la santé.
+
+1979, c. 1, a. 49; 1999, c. 89, a. 40.
+
+77.1.1. La Régie doit, dès qu'elle reçoit un avis d'un établissement en vertu de l'article 257 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) ou en vertu de l'article 132.2 de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5), émettre une ordonnance écrite constatant la non participation du médecin ou du dentiste visé dans l'avis.
+
+Cette ordonnance doit indiquer la date à partir de laquelle le médecin ou le dentiste est un professionnel non participant et la période au cours de laquelle elle s'applique.
+
+Lorsque plus d'un médecin ou d'un dentiste d'un même établissement est visé par de tels avis, la Régie peut, après consultation de l'établissement concerné, déterminer des dates différentes pour le début de la période de non participation de ces médecins ou dentistes et les échelonner sur la période qu'elle juge appropriée.
+
+La Régie doit envoyer, par courrier recommandé, une copie de cette ordonnance à ce médecin ou à ce dentiste, à sa dernière adresse connue de la Régie et en faire publier un avis à la Gazette officielle du Québec et dans un journal circulant dans la région où il exerce sa profession.
+
+1986, c. 79, a. 6; 1992, c. 21, a. 116; 1994, c. 23, a. 23.
+
+SECTION IX.1
+~~~~~~~~~~~~
+
+**PRIMES D'ENCOURAGEMENT**
+
+77.2. Le ministre peut accorder, conformément à la présente loi et aux règlements, une prime d'encouragement à un professionnel de la santé qui accepte de fournir des services assurés aux personnes assurées dans un territoire reconnu par le ministre comme étant insuffisamment desservi en services assurés.
+
+Une entente peut prévoir les conditions et les modalités d'octroi des primes d'encouragement.
+
+1979, c. 1, a. 50; 1999, c. 89, a. 42.
+
+77.3. Nul n'a droit à une prime d'encouragement si, de l'avis d'un jury:
+
+ a) il n'est domicilié au Québec;
+
+ b) il n'est titulaire d'un permis d'exercice délivré par le Conseil d'administration de l'ordre professionnel qui régit sa profession et membre en règle de cet ordre;
+
+ c) il n'a souscrit l'engagement prescrit.
+
+1979, c. 1, a. 50; 1994, c. 40, a. 457; 1997, c. 43, a. 875; 2008, c. 11, a. 212.
+
+77.4. L'examen des professionnels de la santé qui demandent des primes d'encouragement est effectué par un jury dont la composition et le mode de fonctionnement sont déterminés par règlement.
+
+Les examens ont pour objet de déterminer l'aptitude des postulants à remplir leur engagement.
+
+1979, c. 1, a. 50.
+
+77.5. Chaque jury transmet au ministre un rapport écrit de son examen et une liste des postulants admissibles, par ordre de priorité.
+
+1979, c. 1, a. 50.
+
+77.6. La Régie doit, dans son rapport annuel, donner séparément un compte rendu détaillé de ses activités relatives à l'application de la présente section.
+
+1979, c. 1, a. 50.
+
+77.7. Les primes d'encouragement accordées par le ministre pour chaque exercice financier sont payées par la Régie durant cet exercice.  La Régie doit dans son rapport annuel faire état séparément des sommes versées à ces fins.
+
+1979, c. 1, a. 50.
+
+SECTION X
+~~~~~~~~~
+
+78. (Remplacé).
+
+1976, c. 27, a. 1; 1978, c. 70, a. 12.
+
+79. (Remplacé).
+
+1976, c. 27, a. 2; 1978, c. 35, a. 1; 1978, c. 70, a. 12.
+
+80. (Remplacé).
+
+1976, c. 27, a. 3; 1978, c. 70, a. 12.
+
+81. (Remplacé).
+
+1976, c. 27, a. 4; 1978, c. 70, a. 12.
+
+82. (Remplacé).
+
+1976, c. 27, a. 5; 1978, c. 70, a. 12.
+
+83. (Remplacé).
+
+1976, c. 27, a. 6; 1978, c. 70, a. 12.
+
+84. (Remplacé).
+
+1976, c. 27, a. 7; 1978, c. 70, a. 12.
+
+85. (Remplacé).
+
+1976, c. 27, a. 8; 1978, c. 70, a. 12.
+
+86. (Remplacé).
+
+1976, c. 27, a. 9; 1978, c. 70, a. 12.
+
+87. (Remplacé).
+
+1976, c. 27, a. 13; 1978, c. 70, a. 12.
+
+SECTION XI
+~~~~~~~~~~
+
+**BOURSES D'ÉTUDES**
+
+88. Le ministre peut accorder des bourses d'études, conformément à la présente loi et aux règlements, aux personnes qui acceptent de fournir des services assurés en qualité de professionnels soumis à l'application d'une entente.
+
+Les boursiers fournissent ces services, après l'obtention d'un permis d'exercice dans une science de la santé ou d'un certificat de spécialiste, ou après une deuxième année de formation postdoctorale en omnipratique, dans un territoire et pour une période fixés par le ministre.
+
+Les bourses ainsi accordées sont payées par la Régie.
+
+1974, c. 40, a. 18; 1981, c. 22, a. 30; 1985, c. 23, a. 5.
+
+89. Nul n'a droit à une bourse d'études si, de l'avis du ministre:
+
+ a) il n'est domicilié au Québec;
+
+ b) il n'a une connaissance d'usage de la langue officielle du Québec;
+
+ c) il n'est admis à un cours théorique et pratique donnant ouverture à un diplôme dans une science de la santé;
+
+ d) il n'a souscrit l'engagement prescrit par règlement de fournir les services assurés qu'un tel permis d'exercice habilite à fournir;
+
+ e) (paragraphe abrogé).
+
+1974, c. 40, a. 18; 1984, c. 47, a. 18; 1990, c. 11, a. 58; 1997, c. 90, a. 14; 2002, c. 66, a. 25.
+
+90. Toute somme d'argent versée à une personne au titre d'une bourse d'études est insaisissable.
+
+1974, c. 40, a. 18.
+
+91. Un boursier qui abandonne les études convenues ou qui manque autrement à son engagement doit rembourser à la Régie, dans les six mois suivant la date de l'abandon ou du manquement, les sommes qu'il a reçues à titre de bourse, avec les intérêts computés à partir de la date où elles lui ont été versées.
+
+Un boursier qui manque à son engagement en cessant de fournir des services avant l'expiration de la période fixée par le ministre doit rembourser à la Régie les sommes reçues à titre de bourse au prorata de la période qu'il lui reste à couvrir.
+
+Un boursier qui ne se rend pas fournir des services dans le territoire fixé par le ministre doit rembourser à la Régie les sommes qu'il a reçues à titre de bourse dans les six mois suivant la date de la réception de la lettre du ministre lui fixant un territoire.
+
+L'obligation de rembourser s'éteint lorsqu'un boursier devient de façon permanente incapable d'exercer sa profession ou lorsqu'il décède.
+
+1974, c. 40, a. 18; 1984, c. 47, a. 19; 1985, c. 23, a. 6; 1999, c. 89, a. 41.
+
+92. Le ministre doit voir à l'établissement et au fonctionnement d'un ou plusieurs jurys, chacun d'au moins trois membres, qui procèdent à l'examen des personnes qui lui demandent des bourses d'études.
+
+Les examens ont pour objet de déterminer l'aptitude des candidats à remplir leur engagement.
+
+Les membres de chaque jury sont nommés par le ministre.
+
+1974, c. 40, a. 18; 1984, c. 47, a. 20.
+
+93. Chaque jury transmet un rapport écrit de son examen au ministre qui établit une liste des postulants admissibles par ordre de priorité.
+
+1974, c. 40, a. 18; 1984, c. 47, a. 21.
+
+94. La Régie doit, dans son rapport annuel, donner séparément un compte rendu détaillé de ses activités relatives à l'application de la présente section.
+
+1974, c. 40, a. 18.
+
+SECTION XII
+~~~~~~~~~~~
+
+**BOURSES DE RECHERCHE**
+
+95. Le ministre peut accorder, conformément à la présente loi et aux règlements, des bourses de recherche aux personnes qui désirent faire de la recherche au Québec dans une science de la santé.
+
+1974, c. 40, a. 18.
+
+96. Nul n'a droit à une bourse de recherche si, de l'avis du Fonds de recherche du Québec – Santé, institué par la Loi sur le ministère du Développement économique, de l'Innovation et de l'Exportation (chapitre M-30.01):
+
+ 1° il n'est pas domicilié au Québec;
+
+ 2° il n'a pas une connaissance d'usage de la langue officielle du Québec;
+
+ 3° il ne poursuit pas, pour un organisme universitaire ou pour un établissement, des travaux de recherche portant sur une science de la santé.
+
+1974, c. 40, a. 18; 1979, c. 1, a. 51; 1981, c. 22, a. 31; 1983, c. 23, a. 102; 1992, c. 21, a. 117; 1999, c. 8, a. 21; 2003, c. 29, a. 140; 2006, c. 8, a. 31; 2011, c. 16, a. 244.
+
+97. Le Fonds peut constituer un ou plusieurs jurys, chacun d'au moins trois membres, qui procèdent à l'examen des personnes qui lui demandent des bourses de recherche.
+
+Ces examens ont pour objet de déterminer l'aptitude des candidats à faire leurs travaux conformément à leur engagement.
+
+Les membres du jury sont nommés par le ministre parmi les personnes dont les noms apparaissent à une liste que doit fournir le Fonds à cette fin.
+
+1974, c. 40, a. 18; 1981, c. 22, a. 31.
+
+98. Chaque jury transmet un rapport écrit de son examen au Fonds qui fournit au ministre la liste des postulants admissibles qu'il recommande pour l'obtention des bourses de recherche.
+
+1974, c. 40, a. 18; 1981, c. 22, a. 31.
+
+99. Toute bourse de recherche doit servir à la création et au maintien d'un poste de chercheur; elle ne peut être affectée au paiement du coût de fonctionnement des activités d'un établissement.
+
+1974, c. 40, a. 18; 1992, c. 21, a. 118.
+
+100. Une bourse de recherche est accordée pour une période maximum de trois ans.
+
+1974, c. 40, a. 18.
+
+101. Les sommes versées au titre de bourse de recherche sont insaisissables.
+
+1974, c. 40, a. 18.
+
+102. Nul ne peut recevoir plus d'une bourse à la fois; cependant, le ministre peut renouveler une bourse si les conditions prescrites par la loi et les règlements sont remplies.
+
+Le renouvellement s'obtient de la même façon que la bourse initiale.
+
+1974, c. 40, a. 18.
+
+103. Le montant des bourses de recherche accordées par le ministre pour chaque exercice financier est versé au ministre par la Régie jusqu'à concurrence d'un montant total égal à 0,4% de la rémunération totale payée aux professionnels de la santé pendant l'exercice précédent; la Régie doit, dans son rapport annuel, faire état séparément des sommes versées à ces fins.
+
+1974, c. 40, a. 18; 1981, c. 22, a. 31.
+
+104. Le Fonds doit, dans son rapport annuel au ministre, donner séparément un compte rendu détaillé de ses activités relatives à l'application de la présente section.
+
+1974, c. 40, a. 18; 1981, c. 22, a. 32.
+
+SECTION XII.1
+~~~~~~~~~~~~~
+
+104.0.1. (Abrogé).
+
+1989, c. 50, a. 41; 1991, c. 42, a. 586.
+
+104.0.2. (Abrogé).
+
+1989, c. 50, a. 41; 1991, c. 42, a. 586.
+
+SECTION XIII
+~~~~~~~~~~~~
+
+**DISPOSITIONS DIVERSES**
+
+104.1. La présente loi est d'ordre public.
+
+1981, c. 22, a. 33.
+
+105. Le ministre de la Santé et des Services sociaux est chargé de l'application de la présente loi.
+
+1970, c. 37, a. 88; 1970, c. 42, a. 17; 1979, c. 1, a. 52; 1985, c. 23, a. 24.
+
+106. (Abrogé).
+
+1970, c. 37, a. 89; 1979, c. 1, a. 53.
+
+107. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXES ABROGATIVES
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 37 des lois de 1970, tel qu'en vigueur au 31 décembre 1977, à l'exception des articles 79, 80 et 90 à 92, est abrogé à compter de l'entrée en vigueur du chapitre A-29 des Lois refondues.
+
+Conformément à l'article 17 de la Loi sur la refonte des lois et des règlements (chapitre R-3), les articles 10c et 11a ainsi que le paragraphe o du premier alinéa de l'article 56 du chapitre 37 des lois de 1970, tels qu'en vigueur au 1er novembre 1980, sont abrogés à compter de l'entrée en vigueur de la mise à jour au 1er novembre 1980 du chapitre A-29 des Lois refondues.

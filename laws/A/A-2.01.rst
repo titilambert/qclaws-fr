@@ -1,0 +1,283 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-2.01:
+
+=========================================================================
+A-2.01 Loi sur l'accès à l'égalité en emploi dans des organismes publics 
+=========================================================================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+SECTION I
+~~~~~~~~~
+
+**OBJET ET CHAMP D'APPLICATION**
+
+1. La présente loi institue un cadre particulier d'accès à l'égalité en emploi pour corriger la situation des personnes faisant partie de certains groupes victimes de discrimination en emploi, soit les femmes, les personnes handicapées au sens de la Loi assurant l'exercice des droits des personnes handicapées en vue de leur intégration scolaire, professionnelle et sociale (chapitre E-20.1), les autochtones, les personnes qui font partie d'une minorité visible en raison de leur race ou de la couleur de leur peau et les personnes dont la langue maternelle n'est pas le français ou l'anglais et qui font partie d'un groupe autre que celui des autochtones et celui des personnes qui font partie d'une minorité visible.
+
+2000, c. 45, a. 1; 2004, c. 31, a. 58.
+
+2. La présente loi s'applique aux organismes publics suivants, dès lors qu'ils emploient 100 personnes ou plus pendant une période continue de six mois au cours de chacune de deux années consécutives:
+
+ 1° un organisme dont le gouvernement ou un ministre nomme la majorité des membres ou des administrateurs ou dont le fonds social fait partie du domaine de l'État, à l'exception des organismes visés à l'article 92 de la Charte des droits et libertés de la personne (chapitre C-12);
+
+ 2° une municipalité, une communauté urbaine, une communauté métropolitaine, une régie intermunicipale, une société intermunicipale de transport, un conseil intermunicipal de transport, une société de transport d'une communauté urbaine ou un autre organisme municipal dont le conseil d'administration est formé majoritairement d'élus municipaux, à l'exception du Gouvernement de la nation crie et de l'Administration régionale Kativik;
+
+ 3° une commission scolaire visée par la Loi sur l'instruction publique (chapitre I-13.3), le Comité de gestion de la taxe scolaire de l'île de Montréal, une institution dont le régime d'enseignement est l'objet d'une entente internationale au sens de la Loi sur le ministère des Relations internationales (chapitre M-25.1.1), un collège d'enseignement général et professionnel, un établissement agréé aux fins de subventions en vertu de la Loi sur l'enseignement privé (chapitre E-9.1) et un établissement d'enseignement de niveau universitaire visé aux paragraphes 1° à 11° de l'article 1 de la Loi sur les établissements d'enseignement de niveau universitaire (chapitre E-14.1);
+
+ 4° un établissement public visé par la Loi sur les services de santé et les services sociaux (chapitre S-4.2), un établissement privé visé par cette loi qui fonctionne en ayant recours à des sommes d'argent provenant du fonds consolidé du revenu et une agence visée par cette loi, à l'exception d'un établissement et de l'agence visés par la partie IV.1 de cette loi.
+
+Est assimilé à un organisme public visé au premier alinéa, la Sûreté du Québec à l'égard de ses membres ainsi qu'une personne nommée par le gouvernement ou un ministre, avec le personnel qu'elle dirige, dans le cadre des fonctions qui lui sont attribuées par la loi, le gouvernement ou le ministre.
+
+2000, c. 45, a. 2; 2002, c. 75, a. 33; 2005, c. 32, a. 308; 2011, c. 16, a. 174; 2013, c. 19, a. 91.
+
+SECTION II
+~~~~~~~~~~
+
+**ANALYSE**
+
+3. Tout organisme public visé par la présente loi doit procéder à l'analyse de ses effectifs afin de déterminer, pour chaque type d'emploi, le nombre de personnes faisant partie de chacun des groupes visés par la présente loi.
+
+Les types d'emploi sont déterminés par l'employeur et appariés aux groupes de base de la Classification nationale des professions du Canada édictée en 1993 par le ministre fédéral de l'Emploi et de l'Immigration.
+
+2000, c. 45, a. 3.
+
+4. L'organisme public peut procéder à l'analyse de ses effectifs par établissement si des disparités dans le nombre de personnes compétentes pour un type d'emploi par zone appropriée de recrutement le justifient.
+
+De même, l'organisme peut ne pas inclure le personnel temporaire ou à temps partiel si les circonstances le justifient.
+
+2000, c. 45, a. 4.
+
+5. Le rapport d'analyse des effectifs est transmis, après consultation du personnel ou de ses représentants, à la Commission des droits de la personne et des droits de la jeunesse, avec mention du nombre et de la proportion des effectifs que représente, pour chaque type d'emploi, chacun des groupes visés par la présente loi.
+
+Le rapport indique également, pour chaque type d'emploi, les compétences et l'expérience requises ainsi que la zone appropriée de recrutement de l'organisme.
+
+2000, c. 45, a. 5.
+
+6. La Commission peut imposer à tout organisme un délai pour la transmission du rapport d'analyse d'effectifs.
+
+À défaut pour l'organisme de se conformer à ce délai, la Commission peut s'adresser au Tribunal des droits de la personne, lequel peut ordonner à l'organisme de transmettre le rapport dans le délai qu'il fixe.
+
+2000, c. 45, a. 6.
+
+7. Afin de déterminer s'il y a sous-représentation d'un groupe visé par la présente loi dans un type d'emploi, la Commission compare la représentation de ce groupe au sein des effectifs concernés de l'organisme avec sa représentation au sein des personnes compétentes ou aptes à acquérir cette compétence dans un délai raisonnable pour ce type d'emploi à l'intérieur de la zone appropriée de recrutement.
+
+À cette fin, la Commission peut, après consultation de l'organisme, procéder par regroupement de types d'emploi.
+
+2000, c. 45, a. 7.
+
+8. La Commission avise l'organisme du résultat de cette comparaison par type ou regroupement de types d'emploi.
+
+2000, c. 45, a. 8.
+
+9. L'organisme est tenu d'établir un programme d'accès à l'égalité en emploi, pour un type ou regroupement de types d'emploi, dans le cas où la Commission estime que la représentation des personnes à l'emploi de l'organisme faisant partie d'un groupe visé par la présente loi est généralement non conforme à la représentation des personnes compétentes de ce groupe dans la zone de recrutement applicable.
+
+Dans le cas contraire, l'organisme doit veiller à maintenir une représentation des personnes à son emploi qui soit conforme à la représentation des personnes faisant partie des groupes visés par la présente loi.
+
+2000, c. 45, a. 9.
+
+SECTION III
+~~~~~~~~~~~
+
+**PROGRAMME D'ACCÈS À L'ÉGALITÉ EN EMPLOI**
+
+10. Un organisme public visé par la présente loi et tenu d'élaborer un programme d'accès à l'égalité en emploi doit, après consultation du personnel ou de ses représentants, le transmettre à la Commission dans les 12 mois d'un avis de la Commission à cet effet.
+
+2000, c. 45, a. 10.
+
+11. L'organisme peut élaborer un programme distinct applicable à un ou plusieurs établissements si des disparités dans le nombre de personnes compétentes pour un type d'emploi par zone appropriée de recrutement le justifient.
+
+De même, l'organisme peut ne pas inclure le personnel temporaire ou à temps partiel dans ses effectifs si les circonstances le justifient.
+
+2000, c. 45, a. 11.
+
+12. La Commission, sur demande, prête son assistance à l'élaboration d'un programme d'accès à l'égalité en emploi.
+
+2000, c. 45, a. 12.
+
+13. Un programme d'accès à l'égalité en emploi vise à augmenter la représentation des personnes faisant partie de chaque groupe qu'il vise et à corriger les pratiques du système d'emploi.
+
+Un programme comprend les éléments suivants :
+
+ 1° une analyse du système d'emploi, plus particulièrement les politiques et pratiques en matière de recrutement, de formation et de promotion ;
+
+ 2° les objectifs quantitatifs poursuivis, par type ou regroupement de types d'emploi, pour les personnes faisant partie de chaque groupe visé ;
+
+ 3° des mesures de redressement temporaires fixant des objectifs de recrutement et de promotion, par type ou regroupement de types d'emploi, pour les personnes faisant partie de chaque groupe visé ;
+
+ 4° des mesures d'égalité de chances et des mesures de soutien, le cas échéant, pour éliminer les pratiques de gestion discriminatoires ;
+
+ 5° l'échéancier pour l'implantation des mesures proposées et l'atteinte des objectifs fixés ;
+
+ 6° des mesures relatives à la consultation et à l'information du personnel et de ses représentants ;
+
+ 7° l'identification de la personne en autorité responsable de la mise en oeuvre du programme.
+
+2000, c. 45, a. 13.
+
+14. Un programme d'accès à l'égalité en emploi ne peut obliger un organisme :
+
+ 1° à engager des personnes qui ne sont pas compétentes ou à leur donner une promotion ;
+
+ 2° à engager des personnes ou à leur donner une promotion sans égard au mérite dans le cas où une convention collective ou les pratiques établies exigent que la sélection soit faite au mérite ;
+
+ 3° à porter atteinte d'une manière indue aux intérêts de l'organisme ou des personnes qui n'appartiennent pas à un groupe visé ;
+
+ 4° à créer de nouveaux postes ;
+
+ 5° à exclure l'ancienneté comme critère d'embauche, de promotion, de licenciement, de mise à pied, de rappel au travail ou de redéploiement des effectifs.
+
+2000, c. 45, a. 14.
+
+15. La Commission vérifie la teneur d'un programme d'accès à l'égalité en emploi en tenant compte des éléments suivants :
+
+ 1° l'importance des effectifs de l'organisme et le nombre de personnes dans un type ou regroupement de types d'emploi ;
+
+ 2° la disponibilité, pour chaque groupe visé, de personnes compétentes ou aptes à le devenir dans un délai raisonnable dans les effectifs de l'organisme ainsi que dans la zone appropriée de recrutement ;
+
+ 3° la sous-représentation, en nombre et en pourcentage, des personnes faisant partie de chaque groupe visé ;
+
+ 4° l'augmentation ou la réduction prévue des effectifs au cours de la période couverte par l'échéancier ;
+
+ 5° le caractère raisonnable des objectifs quantitatifs poursuivis ;
+
+ 6° les mesures de redressement, les mesures d'égalité des chances et, le cas échéant, les mesures de soutien proposées ;
+
+ 7° les échéanciers du programme d'accès à l'égalité.
+
+À cette fin, la Commission peut exiger d'un organisme tout renseignement ou document et faire les vérifications requises.
+
+2000, c. 45, a. 15.
+
+16. La Commission peut demander à un organisme de modifier son programme d'accès à l'égalité en emploi si elle estime que :
+
+ 1° les mesures proposées ne sont pas susceptibles de corriger la situation des personnes faisant partie de chaque groupe visé ;
+
+ 2° les objectifs quantitatifs poursuivis sont insuffisants eu égard à la disponibilité de personnes compétentes faisant partie de chaque groupe visé ;
+
+ 3° les échéanciers pour l'implantation des mesures ou l'atteinte des objectifs quantitatifs ne sont pas raisonnables.
+
+Elle donne un avis motivé à l'organisme et lui indique le délai dans lequel son programme doit être modifié et lui être soumis de nouveau pour vérification.
+
+2000, c. 45, a. 16.
+
+17. Si la Commission estime qu'un organisme est en défaut d'élaborer ou d'implanter un programme d'accès à l'égalité en emploi ou n'a pas modifié son programme conformément à son avis, elle peut lui faire des recommandations.
+
+2000, c. 45, a. 17.
+
+18. À défaut par un organisme de se conformer à une recommandation de la Commission, celle-ci peut s'adresser au Tribunal des droits de la personne qui peut ordonner à l'organisme, dans le délai qu'il fixe, d'élaborer, de modifier ou d'implanter un programme d'accès à l'égalité en emploi.
+
+Le programme est déposé devant ce Tribunal qui peut y apporter les modifications qu'il juge adéquates.
+
+2000, c. 45, a. 18.
+
+19. Un programme d'accès à l'égalité en emploi peut être modifié, reporté ou annulé si des faits nouveaux le justifient, notamment en cas de modification à la structure juridique de l'organisme, par fusion ou autrement.
+
+Lorsque la Commission et un organisme s'entendent, l'accord modifiant, reportant ou annulant le programme est constaté par écrit.
+
+En cas de désaccord, l'un ou l'autre peut s'adresser au Tribunal des droits de la personne afin qu'il décide si les faits nouveaux justifient la modification, le report ou l'annulation du programme.
+
+2000, c. 45, a. 19.
+
+20. Tout organisme tenu d'implanter un programme d'accès à l'égalité en emploi doit, à cette fin, prendre les mesures raisonnables pour atteindre les objectifs poursuivis selon l'échéancier prévu.
+
+Il fait rapport à la Commission, à tous les trois ans, sur l'implantation de ce programme en faisant état des mesures prises et des résultats obtenus.
+
+2000, c. 45, a. 20.
+
+21. Tout organisme doit, après l'atteinte des objectifs d'un programme d'accès à l'égalité en emploi, veiller au maintien de cette égalité.
+
+2000, c. 45, a. 21.
+
+SECTION IV
+~~~~~~~~~~
+
+**DISPOSITIONS RÉGLEMENTAIRES ET DIVERSES**
+
+22. Le gouvernement peut, par règlement, après consultation de la Commission des droits de la personne et des droits de la jeunesse :
+
+ 1° déterminer les critères, normes, barèmes, conditions ou modalités concernant l'élaboration, l'implantation ou l'application de programmes d'accès à l'égalité en emploi visés par la présente loi et en établir les limites ;
+
+ 2° déterminer le contenu des rapports qui doivent être transmis à la Commission ;
+
+ 3° déterminer toute mesure nécessaire ou utile en matière de programme d'accès à l'égalité.
+
+2000, c. 45, a. 22.
+
+23. La Commission des droits de la personne et des droits de la jeunesse publie, à tous les trois ans, la liste des organismes publics assujettis à la présente loi et fait état de leur situation en matière d'égalité en emploi.
+
+2000, c. 45, a. 23.
+
+24. Tout membre de la Commission désigné par le président peut exercer seul le pouvoir de faire des recommandations à un organisme ou de s'adresser au Tribunal des droits de la personne.
+
+La Commission peut autoriser un membre de son personnel à exercer tout ou partie des fonctions qui lui sont confiées par la présente loi, sauf celle de s'adresser au Tribunal des droits de la personne, et lui délivrer un certificat à cet effet. Sur demande, la personne autorisée doit s'identifier et exhiber le certificat signé par le président de la Commission.
+
+2000, c. 45, a. 24.
+
+25. Les coûts liés à la formation de personnes à l'emploi d'un organisme public pour l'élaboration d'un programme d'accès à l'égalité en emploi sont réputés être des dépenses admissibles au sens de l'article 5 de la Loi favorisant le développement et la reconnaissance des compétences de la main-d'oeuvre (chapitre D-8.3).
+
+2000, c. 45, a. 25; 2007, c. 3, a. 68.
+
+26. La modification de la structure juridique d'un organisme, par fusion ou autrement, n'a aucun effet sur les obligations relatives à un programme d'accès à l'égalité en emploi ; le nouvel organisme est lié par ce programme jusqu'à ce qu'une analyse des effectifs démontre qu'il n'est pas tenu d'établir un programme d'accès à l'égalité en emploi ou jusqu'à ce qu'un nouveau programme soit élaboré.
+
+Dans le cas où plusieurs organismes sont affectés par une modification de structure juridique, le programme d'accès à l'égalité de l'organisme assujetti à un tel programme qui comptait le plus de personnes à son emploi devient le programme du nouvel organisme jusqu'à ce qu'il soit ajusté ou qu'il y soit mis fin conformément à la présente loi.
+
+2000, c. 45, a. 26.
+
+SECTION V
+~~~~~~~~~
+
+**DISPOSITIONS TRANSITOIRES ET FINALES**
+
+27. (Modification intégrée au c. C-12, a. 57).
+
+2000, c. 45, a. 27.
+
+28. (Modification intégrée au c. C-12, a. 86).
+
+2000, c. 45, a. 28.
+
+29. (Modification intégrée au c. C-12, a. 92).
+
+2000, c. 45, a. 29.
+
+30. (Modification intégrée au c. C-12, a. 93).
+
+2000, c. 45, a. 30.
+
+31. (Modification intégrée au c. C-12, a. 111.1).
+
+2000, c. 45, a. 31.
+
+32. Le ministre doit, au plus tard le 1er avril 2006, et par la suite tous les cinq ans, faire au gouvernement un rapport sur la mise en oeuvre de la présente loi et sur l'opportunité de la maintenir en vigueur ou de la modifier.
+
+Ce rapport est déposé dans les 30 jours suivants à l'Assemblée nationale ou, si elle ne siège pas, dans les 30 jours de la reprise de ses travaux. La commission compétente de l'Assemblée nationale examine ce rapport.
+
+2000, c. 45, a. 32.
+
+33. Aux fins de l'article 2, un organisme public qui a eu à son emploi 100 personnes ou plus pendant une période continue de six mois au cours de chacune des deux années antérieures au 1er avril 2001 est assujetti à la présente loi à compter de cette date.
+
+2000, c. 45, a. 33.
+
+33.1. L'ajout du groupe des personnes handicapées à la présente loi par l'article 58 de la Loi modifiant la Loi assurant l'exercice des droits des personnes handicapées et d'autres dispositions législatives (2004, chapitre 31) ne modifie pas les obligations prévues à la présente loi pour les autres groupes visés.
+
+Un organisme public visé par la présente loi le 17 décembre 2005 doit transmettre à la Commission des droits de la personne et des droits de la jeunesse son rapport d'analyse d'effectifs concernant le groupe des personnes handicapées dans un délai d'un an de cette date ou dans le délai fixé par la Commission pour l'analyse des effectifs des autres groupes si ce délai est plus long.
+
+2004, c. 31, a. 59.
+
+34. Le ministre responsable de l'application de la partie III de la Charte des droits et libertés de la personne est responsable de l'application de la présente loi.
+
+2000, c. 45, a. 34.
+
+35. (Omis).
+
+2000, c. 45, a. 35.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 9 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 45 des lois de 2000, tel qu'en vigueur le 1er avril 2001, à l'exception de l'article 35, est abrogé à compter de l'entrée en vigueur du chapitre A-2.01 des Lois refondues.

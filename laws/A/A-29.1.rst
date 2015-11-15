@@ -1,0 +1,411 @@
+.. warning:: Abrogée le 1er octobre 2011
+
+.. _A-29.1:
+
+========================================================
+A-29.1 Loi sur l'assurance-prêts agricoles et forestiers
+========================================================
+
+.. sidebar:: État courant
+
+    :Statut: Abrogée
+    :Date: 01 oct 2011
+
+Abrogée, 2011, c. 16, a. 11.
+
+SECTION I
+~~~~~~~~~
+
+**DÉFINITIONS**
+
+1. Dans la présente loi, à moins que le contexte n'indique un sens différent, on entend par:
+
+ a) «Fonds»: le Fonds d'assurance-prêts agricoles et forestiers constitué par l'article 2;
+
+ b) «société»: La Financière agricole du Québec ;
+
+ c) «prêt agricole»: un engagement financier ou la partie d'un engagement financier qui, en vertu d'un programme d'aide établi en vertu de la Loi sur La Financière agricole du Québec (chapitre L-0.1) ou de la Loi sur la Société de financement agricole (chapitre S-11.0101), bénéficie du droit à l'assurance prévue à l'article 4 de la présente loi, un prêt, une ouverture de crédit ou un prêt spécial consenti en vertu de la Loi sur le financement agricole (chapitre F-1.2), un prêt consenti à compter du 1er août 1978 en vertu d'une loi remplacée par celle-ci (Loi favorisant l'amélioration des fermes (chapitre A-18), Loi sur le crédit agricole (chapitre C-75), Loi favorisant le crédit agricole à long terme par les institutions privées (chapitre C-75.1), Loi favorisant le crédit à la production agricole (chapitre C-77), Loi favorisant un crédit spécial pour les producteurs agricoles au cours de périodes critiques (chapitre C-79), ou un prêt ou prêt spécial pris en charge après le 11 août 1988;
+
+ d) «prêt forestier»: un engagement financier ou la partie d'un engagement financier qui, en vertu du programme de financement forestier établi en vertu de l'article 124.37 de la Loi sur les forêts (chapitre F-4.1), bénéficie du droit à l'assurance prévue à l'article 4 de la présente loi, un prêt consenti en vertu de la Loi sur le crédit forestier (chapitre C-78) ou de la Loi favorisant le crédit forestier par les institutions privées (chapitre C-78.1);
+
+ e) «prêteur»: toute personne qui consent un prêt agricole ou un prêt forestier;
+
+ f) «règlement»: un règlement adopté par le gouvernement en vertu de la présente loi.
+
+1978, c. 49, a. 1; 1983, c. 16, a. 66; 1988, c. 3, a. 1; 1992, c. 32, a. 35, a. 43; 1996, c. 14, a. 22; 2000, c. 53, a. 51.
+
+SECTION II
+~~~~~~~~~~
+
+**CONSTITUTION ET POUVOIRS DU FONDS**
+
+2. Un fonds appelé «Fonds d'assurance-prêts agricoles et forestiers» est constitué par la présente loi.
+
+1978, c. 49, a. 2.
+
+3. Le Fonds est une personne morale.
+
+1978, c. 49, a. 3; 1999, c. 40, a. 30.
+
+4. Sous réserve de l'article 25 et à moins qu'un programme d'aide adopté en vertu de la Loi sur La Financière agricole du Québec (chapitre L-0.1), de la Loi sur la Société de financement agricole (chapitre S-11.0101) ou que le programme de financement forestier établi en vertu de l'article 124.37 de la Loi sur les forêts (chapitre F-4.1) n'en dispose autrement, le Fonds assure à un prêteur le remboursement des pertes de principal et d'intérêt résultant d'un prêt agricole ou d'un prêt forestier consenti à compter du 1er août 1978 ainsi que des dépenses admises par règlement et encourues par le prêteur pour la protection de ses garanties ou pour réclamer ou obtenir du débiteur en défaut les sommes qui sont dues ou qui sont devenues exigibles sur le prêt.
+
+Le Fonds peut aussi rembourser sur ses actifs, à un prêteur ou à la société, en principal et intérêts, les déboursés non recouvrés relatifs ou accessoires à une procédure judiciaire intentée par un emprunteur contre l'un d'eux et se rapportant à un prêt agricole ou à un prêt forestier.
+
+Pour les fins de la présente loi, les pertes de principal et d'intérêt visées au premier alinéa comprennent:
+
+ a) le montant en principal impayé du prêt en l'absence de garanties pour ce dernier ou le montant de la perte nette en principal subie par un prêteur à la suite de la réalisation de ses garanties mobilières et immobilières; ou
+
+ b) le montant de la perte nette en principal calculée en la manière prévue au règlement et subie par un prêteur à la suite de la disposition à titre onéreux par ce dernier de l'immeuble ayant garanti un prêt et dont le prêteur a acquis la propriété par l'exercice d'une prise en paiement; et
+
+ c) l'intérêt couru, mais non perçu, jusqu'à la date d'autorisation du paiement de la perte par le Fonds, sur tout montant visé aux paragraphes a ou b et, si l'emprunteur s'y est engagé aux termes du document constatant le prêt, sur tout montant ou versement d'intérêt impayé et sur toute somme déboursée par le prêteur pour la conservation, la protection ou le recouvrement de sa créance, au taux stipulé audit document et, selon le cas, ajustable en la manière y prévue.
+
+La société peut, à l'égard d'un prêt agricole ou d'un prêt forestier consenti par un prêteur autre que la société, refuser ou annuler le droit à l'assurance visée au premier alinéa, à défaut par tel prêteur d'observer les dispositions de la présente loi ou du règlement ou de la loi en vertu de laquelle ce prêt est consenti ou des règlements ou programmes concernant ladite loi.
+
+1978, c. 49, a. 4; 1988, c. 3, a. 2; 1991, c. 11, a. 1; 1992, c. 32, a. 36, a. 43; 1992, c. 57, a. 436; 1996, c. 14, a. 23; 2000, c. 53, a. 52, a. 66.
+
+5. La société paie au Fonds, à chacun de ses exercices financiers, un montant à titre de droits d'assurance à l'égard des prêts agricoles. Le gouvernement fait de même à l'égard des prêts forestiers.
+
+Ce montant est établi et versé en la manière prévue par règlement.
+
+1978, c. 49, a. 5; 1988, c. 3, a. 3; 1991, c. 11, a. 2; 2000, c. 53, a. 53.
+
+5.1. (Abrogé).
+
+1988, c. 3, a. 4; 1991, c. 11, a. 3.
+
+5.2. La manière dont est établi le montant payable au Fonds, à titre de droits d'assurance, doit être révisée au moins une fois à tous les quatre ans à la suite d'une analyse actuarielle des pertes remboursées par le Fonds et compte tenu du comportement du marché, eu égard à la conjoncture ou à la nature de la production à laquelle s'adonnent les personnes qui obtiennent un prêt agricole ou un prêt forestier ou celles qui en assument le paiement.
+
+Les sommes nécessaires à la réalisation de l'analyse actuarielle sont prises sur les actifs du Fonds.
+
+1988, c. 3, a. 4; 1991, c. 11, a. 4; 2000, c. 53, a. 54.
+
+5.3. (Abrogé).
+
+1988, c. 3, a. 4; 1991, c. 11, a. 5.
+
+6. Le Fonds jouit des droits et privilèges d'un mandataire de l'État.
+
+Les sommes versées au Fonds en vertu des articles 5, 19, 23.2, 23.3 et 23.4 et les revenus qu'elles produisent font partie de l'actif du Fonds.
+
+Les biens du Fonds font partie du domaine de l'État, mais l'exécution de ses obligations peut être poursuivie sur ces biens.
+
+Le Fonds n'engage que lui-même lorsqu'il agit en son propre nom.
+
+1978, c. 49, a. 6; 1988, c. 3, a. 5; 1999, c. 40, a. 30.
+
+7. Le Fonds est administré par un conseil d'administration composé de tous les membres de la société.  Chaque membre de ce conseil demeure en fonction à ce titre durant la même période que celle où il est membre de la société.
+
+1978, c. 49, a. 7; 1988, c. 3, a. 6; 1992, c. 32, a. 43; 2000, c. 53, a. 66.
+
+8. Le président du conseil d'administration de la société ainsi que le secrétaire sont respectivement président et secrétaire du conseil d'administration du Fonds.
+
+En cas d'absence ou d'empêchement du président, le conseil d'administration désigne l'un de ses membres pour le remplacer.
+
+1978, c. 49, a. 8; 1992, c. 32, a. 43; 1999, c. 40, a. 30; 2000, c. 53, a. 55; 2008, c. 17, a. 12.
+
+9. Le Fonds a son siège au même endroit que celui de la société.
+
+Le conseil d'administration du Fonds tient ses assemblées à son siège ou à tout autre endroit qu'il choisit.
+
+Le Fonds détermine, par règlement, les règles relatives au quorum du conseil d'administration.
+
+1978, c. 49, a. 9; 1992, c. 32, a. 43; 2000, c. 53, a. 56, a. 66; 2008, c. 17, a. 13.
+
+10. Les procès-verbaux des assemblées du conseil d'administration, certifiés par le secrétaire ou par toute personne autorisée à le faire aux termes d'une résolution ou d'un règlement de régie interne, sont authentiques; il en est de même des documents et des copies émanant du Fonds ou faisant partie de ses archives.
+
+1978, c. 49, a. 10.
+
+11. Les membres du conseil d'administration de même que les fonctionnaires et employés du Fonds ne peuvent être poursuivis en justice en raison d'actes officiels accomplis de bonne foi dans l'exercice de leurs fonctions.
+
+1978, c. 49, a. 11.
+
+12. Les fonctionnaires et employés du Fonds sont nommés suivant la Loi sur la fonction publique (chapitre F-3.1.1).
+
+Le président-directeur général de la société exerce à cet égard les pouvoirs que ladite loi attribue à un dirigeant d'organisme.
+
+1978, c. 49, a. 12; 1978, c. 15, a. 133, a. 140; 1983, c. 55, a. 161; 1992, c. 32, a. 43; 2000, c. 8, a. 242; 2000, c. 53, a. 57, a. 66.
+
+13. Aucun des recours extraordinaires prévus aux articles 834 à 850 du Code de procédure civile ne peut être exercé ni aucune injonction accordée contre le Fonds ni contre les membres de son conseil d'administration agissant en leur qualité officielle.
+
+1978, c. 49, a. 13.
+
+14. Un juge de la Cour d'appel peut, sur requête, annuler sommairement tout bref et toute ordonnance ou injonction délivrés ou accordés à l'encontre de l'article 13.
+
+1978, c. 49, a. 14; 1979, c. 37, a. 43.
+
+15. L'exercice financier du Fonds se termine le dernier jour de mars de chaque année.
+
+1978, c. 49, a. 15.
+
+16. Le Fonds peut, conformément à la loi, conclure tous accords avec tout gouvernement ou organisme ainsi qu'avec toute personne, association ou société, afin de faciliter l'exécution de la présente loi.
+
+1978, c. 49, a. 16; 1988, c. 41, a. 43; 1999, c. 40, a. 30.
+
+SECTION III
+~~~~~~~~~~~
+
+**OPÉRATIONS DU FONDS**
+
+17. Lorsqu'un prêteur autre que la société subit une perte à l'égard d'un prêt agricole ou d'un prêt forestier, il peut, pourvu qu'il se conforme aux conditions prescrites par règlement, produire à la société une réclamation de remboursement par le Fonds des pertes et dépenses visées à l'article 4, et ce dernier doit, sur recommandation de la société, en effectuer le paiement.
+
+Avant de faire la recommandation visée au premier alinéa, la société doit examiner ladite réclamation et en vérifier le bien-fondé.  La société peut, à ces fins, exiger du prêteur, en plus des documents prescrits par règlement, tout autre document ou renseignement qu'elle juge nécessaire.
+
+Nonobstant toute disposition législative inconciliable et sous réserve de l'article 19, lorsque le Fonds effectue un paiement conformément au premier alinéa, la société est de plein droit subrogée aux droits du prêteur à qui tel paiement est effectué, jusqu'à concurrence du montant de ce paiement.
+
+Le présent article s'applique également, compte tenu des adaptations nécessaires, aux déboursés visés au deuxième alinéa de l'article 4.
+
+1978, c. 49, a. 17; 1991, c. 11, a. 6; 1992, c. 32, a. 43; 2000, c. 53, a. 66.
+
+17.1. Avant de produire la réclamation prévue à l'article 17, le prêteur peut, lorsqu'il démontre à la société qu'il peut s'écouler un délai de plus d'un an avant de pouvoir réaliser la garantie du prêt à l'égard duquel des pertes et des dépenses ont été encourues ou sont susceptibles de l'être, produire à la société une réclamation provisoire de remboursement par le Fonds de ces pertes et dépenses.
+
+Le Fonds doit, dans la mesure que la société recommande, après avoir examiné la réclamation et en avoir vérifié le bien-fondé, en effectuer le paiement.
+
+Ce paiement est effectué sous réserve du droit du prêteur de produire une réclamation finale pour le total des pertes et dépenses non remboursées et sous réserve du droit du Fonds d'exiger du prêteur la remise de tout montant versé en trop par le Fonds, dès que le montant réel de ces pertes et dépenses est établi, avec en plus l'intérêt calculé sur ce montant versé en trop, au taux fixé dans l'acte ou dans le document constatant ce prêt et ajustable, le cas échéant, en la manière y prévue.
+
+L'imputation d'un montant versé à un prêteur conformément au troisième alinéa doit être faite par le prêteur en la manière indiquée par la société.
+
+Nonobstant toute disposition législative inconciliable et sous réserve de l'article 19, lorsque le Fonds effectue un paiement conformément au premier alinéa, la société est de plein droit subrogée aux droits du prêteur à qui un tel paiement est effectué, jusqu'à concurrence du montant de ce paiement.
+
+1988, c. 3, a. 7; 1992, c. 32, a. 43; 2000, c. 53, a. 66.
+
+17.2. La société peut demander au prêteur de lui produire une réclamation de remboursement des pertes et dépenses ou une réclamation provisoire dans les cas où une perte résultant d'un prêt agricole ou d'un prêt forestier apparaît inévitable à la société.
+
+1991, c. 11, a. 7; 1992, c. 32, a. 43; 2000, c. 53, a. 66.
+
+17.3. La société peut annuler le droit à l'assurance visé au premier alinéa de l'article 4 à l'égard de l'intérêt couru sur tout montant réclamé, lorsqu'un prêteur ne produit pas dans un délai de 60 jours de la date d'une demande écrite de la société à cet effet:
+
+ 1° une réclamation de remboursement des pertes et dépenses;
+
+ 2° une réclamation provisoire;
+
+ 3° tout autre document ou renseignement nécessaire à la vérification du bien-fondé d'une réclamation.
+
+Cet intérêt couru est calculé à compter de l'expiration du délai de 60 jours jusqu'à la production, conformément aux conditions prescrites par la présente loi, de la réclamation de remboursement, de la réclamation provisoire ou de tout autre document ou renseignement demandé.
+
+1991, c. 11, a. 7; 1992, c. 32, a. 43; 2000, c. 53, a. 66.
+
+17.4. Le recouvrement de toute somme payée par le Fonds conformément aux articles 17 et 17.1 se prescrit par cinq ans à compter de la date du paiement final.
+
+1991, c. 11, a. 7.
+
+18. Lorsque la société subit une perte à l'égard d'un prêt agricole ou d'un prêt forestier qu'elle a consenti ou pour lequel elle a été subrogée dans les droits du prêteur conformément à l'article 17 ou 17.1 ou à la suite de la disposition d'un immeuble ayant garanti un prêt consenti par un prêteur autre que la société et dont cette dernière a acquis la propriété soit à la vente sous contrôle de justice ou à la vente au shérif, soit directement dudit prêteur, le Fonds doit, à la demande de la société, rembourser à cette dernière le montant des pertes et dépenses visées à l'article 4.
+
+Nonobstant toute disposition législative inconciliable et sous réserve de l'article 19, le remboursement visé au premier alinéa ne constitue aucune subrogation en faveur du Fonds.
+
+Les premier et deuxième alinéas s'appliquent, compte tenu des adaptations nécessaires, lorsque la société subit une perte après avoir été subrogée dans les droits d'un prêteur. 
+
+1978, c. 49, a. 18; 1988, c. 3, a. 8; 1992, c. 32, a. 37, a. 43; 1999, c. 40, a. 30; 2000, c. 53, a, 58, a. 66.
+
+19. Sous réserve du deuxième alinéa, les sommes recouvrées par la société relativement à un prêt pour lequel le Fonds a payé une réclamation faite conformément aux articles 17, 17.1 et 18 doivent être versées au Fonds au fur et à mesure de leur recouvrement.
+
+À même les sommes visées au premier alinéa, la société  retient, jusqu'à concurrence des sommes prises à même tout fonds de roulement et qui ont été utilisées par la société pour la protection de toute créance à l'égard de laquelle celle-ci a été subrogée aux droits du prêteur en vertu du troisième alinéa de l'article 17 ou du cinquième alinéa de l'article 17.1, les sommes qu'elle est tenue de remettre au fonds de roulement.
+
+Lorsqu'un prêteur acquiert par l'exercice d'une prise en paiement un immeuble garantissant un prêt par suite du défaut de l'emprunteur ou du débiteur du prêteur et que le montant des revenus nets réalisés ou du déficit encouru par le prêteur relativement à cet immeuble durant le temps où il en demeure propriétaire, ajouté au prix de vente de tel immeuble, lorsqu'il en dispose, ou, selon le cas, diminué dudit prix, quel qu'en soit le mode de paiement, excède le total des sommes qui lui étaient dues en principal, intérêts, frais et accessoires sur ce prêt au moment d'une telle acquisition, des dépenses admises par règlement et des intérêts courus sur lesdites sommes et dépenses à un taux ne dépassant pas le taux fixé pour ledit prêt et ajustable de la même manière que celle prévue à l'acte constatant tel prêt, cet excédent doit être versé au Fonds.
+
+1978, c. 49, a. 19; 1988, c. 3, a. 9; 1992, c. 32, a. 43; 1992, c. 57, a. 437; 2000, c. 53, a. 66.
+
+SECTION IV
+~~~~~~~~~~
+
+**DISPOSITIONS FINANCIÈRES**
+
+20. (Abrogé).
+
+1978, c. 49, a. 20; 1988, c. 3, a. 10.
+
+21. (Abrogé).
+
+1978, c. 49, a. 21; 1988, c. 3, a. 10.
+
+22. (Abrogé).
+
+1978, c. 49, a. 22; 1988, c. 3, a. 10.
+
+23. (Abrogé).
+
+1978, c. 49, a. 23; 1988, c. 3, a. 10.
+
+23.1. Aux fins de la présente loi, le Fonds peut, avec l'autorisation préalable du gouvernement, contracter des emprunts par billets, obligations ou autrement, pour les montants, aux taux d'intérêt et aux autres conditions que détermine le gouvernement.
+
+1988, c. 3, a. 11.
+
+23.2. La dotation de 10 000 000 $ constituée en faveur du Fonds par l'article 20 du chapitre 49 des lois de 1978 est convertie en une avance par le ministre des Finances d'un montant équivalent en capital et dont les taux d'intérêt, le terme et les autres modalités sont déterminés par le gouvernement.
+
+1988, c. 3, a. 11.
+
+23.3. Le gouvernement peut, aux conditions qu'il détermine:
+
+ a) garantir le paiement en capital et intérêts de tout emprunt contracté par le Fonds aux fins prévues à la présente loi, ainsi que l'exécution de toute obligation de ce dernier;
+
+ b) autoriser le ministre des Finances à avancer au Fonds tout montant jugé nécessaire pour l'application de la présente loi, à un taux d'intérêt, pour le laps de temps et aux conditions que détermine le gouvernement.
+
+Les sommes que le gouvernement peut être appelé à payer en vertu de ces garanties ou à avancer au Fonds sont prises sur le fonds consolidé du revenu.
+
+1988, c. 3, a. 11.
+
+23.4. Jusqu'au 1er avril 1992, les sommes nécessaires au paiement des obligations du Fonds résultant des dispositions de l'article 4 sont payées à même les revenus nets que produit la somme de 10 000 000 $ mentionnée à l'article 23.2 et, lorsque ces revenus sont insuffisants, le ministre des Finances est autorisé à verser au Fonds, à la demande de ce dernier, sur le fonds consolidé du revenu, les sommes requises pour parfaire le paiement de ces obligations.
+
+1988, c. 3, a. 11.
+
+23.5. À compter du 1er avril 1992, les sommes perçues par le Fonds en vertu des articles 5 et 19 et les revenus que ces sommes et que les autres actifs du Fonds produisent sont imputés comme suit et prioritairement selon l'ordre suivant:
+
+ a) au paiement des obligations du Fonds résultant des dispositions des articles 4 et 5.2;
+
+ b) au paiement des intérêts sur les emprunts contractés par le Fonds en vertu de l'article 23.1;
+
+ c) au remboursement à l'échéance du capital des emprunts visés à l'article 23.1;
+
+ d) au paiement des intérêts découlant des avances consenties par le ministre des Finances en vertu des articles 23.2 et 23.3;
+
+ e) au remboursement à l'échéance des avances faites par le ministre des Finances en vertu des articles 23.2 et 23.3 ou, en l'absence d'échéance déterminée, selon la fréquence déterminée par le ministre des Finances.
+
+Lorsque les sommes et revenus visés au premier alinéa sont insuffisants pour l'exécution complète des paiements qui y sont prévus, ces paiements sont effectués dans l'ordre y mentionné à même les autres actifs du Fonds.
+
+1988, c. 3, a. 11; 1991, c. 11, a. 8; 2000, c. 53, a. 59.
+
+23.6. Les sommes dont le Fonds ne prévoit pas avoir besoin à court terme pour les paiements visés à l'article 23.5, sont déposées sans délai auprès de la Caisse de dépôt et placement du Québec.
+
+1988, c. 3, a. 11; 1991, c. 11, a. 9.
+
+SECTION V
+~~~~~~~~~
+
+**DISPOSITIONS DIVERSES ET FINALES**
+
+24. Le gouvernement peut adopter tout règlement pour:
+
+ a) prévoir la manière dont il établit le montant payable au Fonds, à chacun de ses exercices financiers, à titre de droits d'assurance ainsi que les modalités de versement de ce montant ;
+
+ a.1) (paragraphe abrogé);
+
+ a.2) (paragraphe abrogé);
+
+ b) déterminer les dépenses dont le remboursement est assuré suivant l'article 4 ainsi que le mode de calcul de la perte nette visée au même article et prescrire les conditions auxquelles doit se conformer un prêteur autre que la société pour produire à cette dernière une réclamation en vertu de l'article 17 ou 17.1;
+
+ c) prescrire les documents, les rapports et les renseignements à produire à la société ou au Fonds et le délai de leur production; et
+
+ d) généralement, prescrire toute autre mesure nécessaire ou utile à l'exécution et au bon fonctionnement de la présente loi.
+
+1978, c. 49, a. 24; 1988, c. 3, a. 12; 1991, c. 11, a. 10; 1992, c. 32, a. 43; 2000, c. 53, a. 60, a. 66.
+
+25. Nonobstant le fait que le prêteur ait donné son autorisation ou son consentement à un prêt agricole ou à un prêt forestier avant le 1er août 1978, un tel prêt est, pour les fins de la présente loi, réputé être consenti à compter du 1er août 1978 si l'acte de prêt, le billet ou la reconnaissance de dette constatant le prêt ou, dans le cas d'une ouverture de crédit consentie en vertu de l'article 4 de la Loi favorisant le crédit à la production agricole, le billet ou la reconnaissance de dette constatant la première avance consentie à l'emprunteur, est signé le ou après le 1er août 1978.
+
+1978, c. 49, a. 25.
+
+25.1. Nonobstant toute disposition législative inconciliable, un prêteur visé au paragraphe 1° de l'article 5 et toute autre personne désignée par le gouvernement en vertu de l'article 6 de la Loi sur le financement agricole (chapitre F-1.2), qui est subrogé aux droits d'un autre prêteur conformément aux articles 1653 et 1654 du Code civil, à l'égard d'un prêt consenti en vertu de cette loi, bénéficie du droit à l'assurance visée au premier alinéa de l'article 4, sans cependant restreindre le pouvoir conféré à la société par le troisième alinéa de cet article au cas d'inobservation de la part du prêteur originaire des dispositions de la loi en vertu de laquelle ce prêt a été consenti ou du règlement d'application de cette loi.
+
+Le premier alinéa s'applique également, compte tenu des adaptations nécessaires, dans le cas d'une hypothèque ou d'une vente visée à l'article 60 de la Loi sur le financement agricole ou à l'article 52 de la Loi favorisant le crédit forestier par les institutions privées (chapitre C-78.1) qui est consentie en conformité de ces articles 60 ou 52, selon le cas.
+
+Une personne qui est subrogée dans les droits d'un prêteur qui a consenti un prêt en vertu d'un programme d'aide établi en vertu de la Loi sur La Financière agricole du Québec (chapitre L-0.1), de la Loi sur la société de financement agricole (chapitre S-11.0101), du programme de financement forestier établi en vertu de l'article 124.37 de la Loi sur les forêts (chapitre F-4.1) ou à qui la créance résultant d'un tel prêt est cédée, bénéficie du droit à l'assurance visée au premier alinéa de l'article 4, dans la même mesure que le prêteur originaire, si elle est elle-même un prêteur accrédité à prêter en vertu de ce programme.  Une telle subrogation ou cession ne restreint cependant pas le pouvoir conféré à la société par le quatrième alinéa de l'article 4 d'annuler ou de refuser le droit à cette assurance, en cas d'inobservation de la part du prêteur originaire des dispositions de cette loi ou du programme en vertu duquel le prêt a été consenti.
+
+1988, c. 3, a. 13; 1992, c. 32, a. 38, a. 43; 1992, c. 57, a. 438; 1996, c. 14, a. 24; 2000, c. 53, a. 61, a. 66.
+
+26. Pour les fins de la présente loi, le Fonds, les membres de son conseil d'administration et ses fonctionnaires et employés ne sont pas assujettis aux dispositions de la Loi sur les assurances (chapitre A-32).
+
+1978, c. 49, a. 26.
+
+27. Les membres et le secrétaire de la société ainsi que ses fonctionnaires et employés qui peuvent être appelés à fournir des services au Fonds n'ont droit à aucun traitement additionnel.
+
+1978, c. 49, a. 27; 1991, c. 11, a. 11; 1992, c. 32, a. 43; 2000, c. 53, a. 66.
+
+28. Le Fonds doit, au plus tard le 30 septembre de chaque année, faire au ministre de l'Agriculture, des Pêcheries et de l'Alimentation un rapport de son administration de la présente loi pour l'exercice financier précédent.  Ce rapport doit être détaillé et contenir tous les renseignements requis par le ministre.
+
+Le ministre dépose ce rapport devant l'Assemblée nationale s'il le reçoit en cours de session; sinon, ou s'il le reçoit après un ajournement, il le dépose dans les 30 jours de l'ouverture de la session suivante ou de la reprise des travaux.
+
+Le Fonds doit, en outre, fournir en tout temps au ministre de l'Agriculture, des Pêcheries et de l'Alimentation tout renseignement que ce dernier requiert sur ses activités en vertu de la présente loi.
+
+Les livres et les comptes du Fonds pour l'administration de la présente loi sont vérifiés par le vérificateur général.
+
+1978, c. 49, a. 28; 1979, c. 77, a. 21; 2000, c. 53, a. 62.
+
+29. (Modification intégrée au c. A-18, a. 16).
+
+1978, c. 49, a. 29.
+
+30. (Modification intégrée au c. A-18, titre de la section IV).
+
+1978, c. 49, a. 30.
+
+31. (Modification intégrée au c. A-18, a. 19).
+
+1978, c. 49, a. 31.
+
+32. (Modification intégrée au c. A-18, a. 20).
+
+1978, c. 49, a. 32.
+
+33. (Modification intégrée au c. A-18, a. 22).
+
+1978, c. 49, a. 33.
+
+34. (Modification intégrée au c. C-77, a. 7).
+
+1978, c. 49, a. 34.
+
+35. (Modification intégrée au c. C-77, a. 8).
+
+1978, c. 49, a. 35.
+
+36. (Modification intégrée au c. C-77, a. 16).
+
+1978, c. 49, a. 36.
+
+37. (Modification intégrée au c. C-77, a. 20).
+
+1978, c. 49, a. 37.
+
+38. (Modification intégrée au c. C-77, a. 23).
+
+1978, c. 49, a. 38.
+
+39. (Modification intégrée au c. C-79, a. 6).
+
+1978, c. 49, a. 39.
+
+40. (Modification intégrée au c. C-79, a. 11).
+
+1978, c. 49, a. 40.
+
+41. (Modification intégrée au c. C-79, a. 13).
+
+1978, c. 49, a. 41.
+
+42. (Modification intégrée au c. C-79, a. 19).
+
+1978, c. 49, a. 42.
+
+43. (Modification intégrée au c. C-79, a. 22).
+
+1978, c. 49, a. 43.
+
+44. (Modification intégrée au c. C-78, a. 27).
+
+1978, c. 49, a. 44.
+
+45. (Modification intégrée au c. C-78, a. 28).
+
+1978, c. 49, a. 45.
+
+46. (Modification intégrée au c. C-78, a. 29).
+
+1978, c. 49, a. 46.
+
+47. (Modification intégrée au c. C-78, a. 49).
+
+1978, c. 49, a. 47.
+
+48. Le ministre de l'Agriculture, des Pêcheries et de l'Alimentation est chargé de l'application de la présente loi.
+
+1978, c. 49, a. 48; 1979, c. 77, a. 21.
+
+49. (Omis).
+
+1978, c. 49, a. 49.
+
+50. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 17 de la Loi sur la refonte des lois et des règlements (chapitre R-3), le chapitre 49 des lois de 1978, tel qu'en vigueur le 1er juin 1979, est abrogé à compter de l'entrée en vigueur du chapitre A-29.1 des Lois refondues.

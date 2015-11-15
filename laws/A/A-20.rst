@@ -1,0 +1,225 @@
+.. warning:: Remplacée le 1er avril 1980
+
+.. _A-20:
+
+===============================================
+A-20 Loi concernant les appareils sous pression
+===============================================
+
+.. sidebar:: État courant
+
+    :Statut: Remplacée
+    :Date: 01 avr 1980
+
+Le chapitre A-20 est remplacé par la Loi sur les appareils sous pression (chapitre A-20.01).  (1979, c. 75, a. 50).
+
+SECTION I
+~~~~~~~~~
+
+**DISPOSITIONS DÉCLARATOIRES ET INTERPRÉTATIVES**
+
+1. Rien dans la présente loi ne doit préjudicier aux pouvoirs que les conseils municipaux possèdent de faire des règlements concernant la sécurité publique, pourvu que ces règlements ne soient pas incompatibles avec les dispositions de la présente loi ni avec les règlements qui sont édictés en vertu d'icelle.
+
+S. R. 1964, c. 156, a. 1.
+
+2. Dans la présente loi:
+
+ 1° Le mot «ministre» désigne le ministre du travail et de la main-d'oeuvre;
+
+ 2° Les mots «inspecteur en chef» désignent l'inspecteur nommé en vertu du paragraphe 1 de l'article 3 de la présente loi;
+
+ 3° Les mots «appareils sous pression» désignent les appareils suivants et tous les accessoires qui y sont raccordés:
+
+a)  Les chaudières et fournaises, soit à la vapeur ou à l'eau chaude;
+
+b)  Les appareils automatiques pour le chauffage des chaudières ou des fournaises;
+
+c)  Les appareils frigorifiques;
+
+d)  Les réservoirs ou récipients contenant du gaz, de l'air ou des liquides sous pression;
+
+e)  Tous autres appareils que le gouvernement indique;
+
+ 4° Les mots «édifices publics» ont le sens qui leur est donné dans la Loi sur la sécurité dans les édifices publics (chapitre S-3) et comprennent en outre les postes de distribution d'essence;
+
+ 5° Les mots «établissements industriels» ont le sens qui leur est donné dans la Loi sur les établissements industriels et commerciaux (chapitre E-15);
+
+ 6° Les mots «propriétaire d'édifice public» signifient et comprennent toute personne, compagnie, association ou corporation ayant en possession ou en location un édifice public ou un établissement industriel;
+
+ 7° Le mot «certificat» signifie une approbation par l'inspecteur en chef de tout appareil sous pression visé par le paragraphe 3° du présent article, quant à sa construction, à son installation ou à son inspection;
+
+ 8° Le mot «inspecteurs» ou «inspecteur» désigne l'inspecteur en chef ou un inspecteur nommé en vertu du paragraphe 2 de l'article 3 de la présente loi;
+
+ 9° Le mot «règlements» désigne les règlements adoptés en vertu de la présente loi.
+
+S. R. 1964, c. 156, a. 2; 1968, c. 43, a. 17.
+
+SECTION II
+~~~~~~~~~~
+
+**DES INSPECTEURS**
+
+3.  1. Le gouvernement peut nommer un inspecteur en chef qui doit être âgé d'au moins vingt-cinq ans et posséder des connaissances techniques et pratiques dans les travaux d'installation et d'opération des appareils sous pression.
+
+ 2. Le gouvernement peut également nommer un nombre d'inspecteurs dûment qualifiés, et choisis parmi des personnes compétentes dans les travaux d'installation et d'opération des appareils sous pression, et les employés nécessaires à l'application de la présente loi.
+
+ 3. Le traitement des inspecteurs nommés en vertu du présent article est déterminé par le gouvernement.
+
+S. R. 1964, c. 156, a. 3.
+
+4. Les devoirs de l'inspecteur en chef sont de diriger les travaux des inspecteurs nommés en vertu de la présente loi; voir aux détails d'administration du bureau des inspecteurs; percevoir les honoraires et tenir des registres.
+
+Cet officier doit conserver dans les archives de son bureau un mémoire de chaque certificat émis par lui, et préparer des rapports sur les opérations de son bureau chaque fois qu'il en est requis par le ministre.
+
+Il peut, sujet à l'approbation du ministre, faire une sous-classification des certificats prévus par la section IV de la présente loi.
+
+S. R. 1964, c. 156, a. 4.
+
+5. Les devoirs des inspecteurs sont d'examiner et de vérifier les plans et devis des appareils sous pression; surveiller la construction et l'installation desdits appareils; faire les inspections annuelles prévues par la présente loi et émettre les certificats.
+
+S. R. 1964, c. 156, a. 5.
+
+SECTION III
+~~~~~~~~~~~
+
+**DE LA CONSTRUCTION DES APPAREILS SOUS PRESSION**
+
+6. Tous les plans et devis des appareils sous pression fabriqués au Québec, doivent être soumis, pour approbation, à l'inspecteur en chef.
+
+S. R. 1964, c. 156, a. 6.
+
+7. Tous appareils sous pression fabriqués au Québec doivent être rigoureusement conformes à tels plans et devis.  Chaque appareil dont l'inspection annuelle est requise doit être accompagné d'un affidavit du fabricant, à cet effet.
+
+S. R. 1964, c. 156, a. 7.
+
+8. Les inspecteurs doivent surveiller et vérifier la construction des appareils sous pression.
+
+S. R. 1964, c. 156, a. 8.
+
+9. Les appareils sous pression, construits en dehors du Québec pour être utilisés au Québec, doivent être enregistrés au bureau de l'inspecteur en chef.
+
+À cette fin les plans et devis desdits appareils doivent être soumis à l'approbation dudit inspecteur en chef.
+
+S. R. 1964, c. 156, a. 9.
+
+10. Les manufacturiers et les entrepreneurs d'appareils sous pression construits en dehors du Québec pour être utilisés au Québec, doivent fournir une feuille de spécifications à laquelle est joint un affidavit attestant la qualité de la main-d'oeuvre, et celle du matériel mentionné sur les plans et devis transmis au bureau de l'inspecteur en chef.
+
+Chaque appareil dont l'inspection annuelle est requise doit être accompagné d'un affidavit du fabricant, à cet effet.
+
+S. R. 1964, c. 156, a. 10.
+
+11. Les appareils sous pression construits en dehors du Québec pour être utilisés au Québec, doivent être inspectés, en cours de fabrication, par un inspecteur nommé en vertu de la présente loi ou en vertu de lois similaires en vigueur à l'endroit de la construction desdits appareils.
+
+S. R. 1964, c. 156, a. 11.
+
+12. Tout appareil sous pression usagé, qu'il ait ou non subi des réparations, ne peut être remis dans le commerce pour servir de nouveau, à moins que son propriétaire n'ait obtenu de l'inspecteur en chef, un certificat autorisant l'usage dudit appareil.
+
+S. R. 1964, c. 156, a. 12.
+
+13. Un inspecteur peut, en tout temps, exiger la démonstration de la qualité de la soudure des appareils sous pression.
+
+S. R. 1964, c. 156, a. 13.
+
+14. Les appareils sous pression dont les parties sont assemblées au moyen de soudure, doivent porter la marque d'identification du fabricant; celle-ci doit être déposée, au préalable, au bureau de l'inspecteur en chef.
+
+S. R. 1964, c. 156, a. 14.
+
+SECTION IV
+~~~~~~~~~~
+
+**DES CERTIFICATS**
+
+15. Il est émis quatre formes de certificats désignés comme suit:
+
+ 1° Le certificat «A» émis pour l'approbation de la construction des appareils sous pression après vérification de tous les plans et devis et inspection finale desdits appareils à l'endroit de la fabrication;
+
+ 2° Le certificat «B» émis pour l'approbation de l'installation des appareils sous pression, avant qu'ils soient utilisés dans leur lieu d'opération;
+
+ 3° Le certificat «C» émis lors de l'inspection annuelle des appareils sous pression;
+
+ 4° Le certificat «D» émis pour tout appareil usagé avant sa remise dans le commerce.
+
+S. R. 1964, c. 156, a. 15.
+
+SECTION V
+~~~~~~~~~
+
+**DE L'INSPECTION DES APPAREILS SOUS PRESSION**
+
+16. L'installation de tout appareil sous pression dans les édifices publics et les établissements industriels doit être vérifiée par un inspecteur avant que cet appareil ne soit utilisé.  L'installation de tout appareil frigorifique mettant en oeuvre plus de dix kilogrammes de réfrigérant doit être ainsi vérifiée en quelque lieu qu'elle soit faite.
+
+Tous les appareils sous pression installés dans les édifices publics et les établissements industriels doivent être inspectés annuellement par un inspecteur ou un mécanicien de machines fixes dûment qualifié pour ce genre de travail et autorisé par l'inspecteur en chef.  Cette inspection est requise pour tout appareil frigorifique actionné par un moteur d'une puissance de plus de trois kilowatts en quelque lieu qu'il soit installé.
+
+S. R. 1964, c. 156, a. 16; 1977, c. 60, a. 32.
+
+17. Tout propriétaire d'édifice public doit fournir tous les moyens et toutes les facilités nécessaires à une inspection efficace.
+
+S. R. 1964, c. 156, a. 17.
+
+18. Tous les appareils sous pression doivent offrir, dans leur construction, tous les moyens nécessaires pour en faire avantageusement l'inspection.
+
+S. R. 1964, c. 156, a. 18.
+
+19. Tout inspecteur ou tout membre de la Sûreté du Québec ou de la police municipale a le droit de demander à toute personne, compagnie, association ou corporation de lui exhiber le ou les certificats prévus par la présente loi, et à défaut, cet inspecteur ou membre de la Sûreté du Québec ou de la police municipale, a le droit d'arrêter immédiatement les opérations en marche et doit aviser l'inspecteur en chef de toute infraction à la présente loi.
+
+S. R. 1964, c. 156, a. 19; 1968, c. 17, a. 97.
+
+20. Rien dans la présente loi ou dans les règlements ne doit être considéré comme rendant responsables les inspecteurs ou les autres fonctionnaires ou employés, pour aucun dommage ou perte causée à toute personne ou propriété par suite de défectuosité dans le travail, les matériaux, les accessoires ou appareils mentionnés dans la présente loi ou par suite d'un règlement ou d'un ordre d'un inspecteur.
+
+S. R. 1964, c. 156, a. 20.
+
+SECTION VI
+~~~~~~~~~~
+
+**DES PÉNALITÉS**
+
+21. Toute personne qui entrave, moleste ou dérange un inspecteur ou tout autre officier ou employé, ou qui intervient dans l'exécution des devoirs d'un inspecteur, est passible, en sus des frais, d'une amende n'excédant pas cent dollars et à défaut de paiement de l'amende et des frais, d'un emprisonnement n'excédant pas six mois.
+
+S. R. 1964, c. 156, a. 21.
+
+22. Toute personne qui contrevient à une disposition de la présente loi ou des règlements, est passible, en sus des frais, d'une amende n'excédant pas cent dollars, et à défaut de paiement de l'amende et des frais, d'un emprisonnement n'excédant pas six mois.
+
+S. R. 1964, c. 156, a. 22.
+
+SECTION VII
+~~~~~~~~~~~
+
+**DES HONORAIRES**
+
+23. Le gouvernement peut édicter, amender, remplacer ou abroger les tarifs des honoraires payables pour:
+
+ a) L'émission des certificats;
+
+ b) L'approbation et l'enregistrement des plans et devis; la réception des affidavits;
+
+ c) Les approbations des installations.
+
+S. R. 1964, c. 156, a. 23.
+
+SECTION VIII
+~~~~~~~~~~~~
+
+**DE LA JURIDICTION DE CERTAINS TRIBUNAUX ET DE LA PROCÉDURE**
+
+24.  1. Toutes les poursuites en vertu de la présente loi sont intentées par l'inspecteur ou par une personne désignée à cette fin par le ministre.
+
+ 2. Les poursuites en vertu de la présente loi sont intentées suivant la Loi sur les poursuites sommaires, (chapitre P-15) et la partie II de cette loi s'y applique.
+
+S. R. 1964, c. 156, a. 24; 1974, c. 11, a. 45.
+
+25. Aucune preuve n'est permise pour établir qu'une poursuite a été intentée à la suite d'une plainte d'un dénonciateur ou pour découvrir l'identité de ce dernier.
+
+S. R. 1964, c. 156, a. 25.
+
+26. En outre des poursuites pénales ci-dessus prévues, une action peut être intentée pour recouvrer tout honoraire payable en vertu des règlements.
+
+S. R. 1964, c. 156, a. 26.
+
+SECTION IX
+~~~~~~~~~~
+
+**DES RÈGLEMENTS**
+
+27. Le gouvernement peut édicter les règlements nécessaires pour la mise en vigueur et le bon fonctionnement de la présente loi, et ces règlements entrent en vigueur à compter de leur publication dans la Gazette officielle du Québec.
+
+S. R. 1964, c. 156, a. 27; 1968, c. 23, a. 8.

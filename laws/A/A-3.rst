@@ -1,0 +1,1601 @@
+.. warning:: Remplacée le 19 août 1985
+
+.. _A-3:
+
+====================================
+A-3 Loi sur les accidents du travail
+====================================
+
+.. sidebar:: État courant
+
+    :Statut: Remplacée
+    :Date: 19 aoû 1985
+
+
+
+SECTION I
+~~~~~~~~~
+
+**DES DISPOSITIONS PRÉLIMINAIRES**
+
+1. La présente loi s'applique à toute industrie ou partie d'industrie, à l'exception des services domestiques lorsque le travailleur est engagé par un particulier pour servir à son domicile, et des activités sportives lorsque le travailleur est un athlète participant.
+
+S. R. 1964, c. 159, a. 1; 1978, c. 57, a. 2.
+
+2.  1. Dans la présente loi, à moins que le contexte n'indique un sens différent, on entend par:
+
+a)  «accident»: un événement imprévu et soudain, attribuable à toute cause, qui survient à une personne par le fait ou à l'occasion de son travail et qui entraîne pour elle une blessure, une maladie ou le décès;
+
+b)  «artisan»: une personne qui, dans le cours de ses affaires, seule, en équipe ou en société, pour son propre compte et sans travailleur à son service, exécute un travail;
+
+c)  «bénéficiaire»: un travailleur ou une personne à charge;
+
+d)  «commission»: la Commission de la santé et de la sécurité du travail établie en vertu de la Loi sur la santé et la sécurité du travail (chapitre S-2.1);
+
+e)  «conjoints»: les personnes
+
+A)  qui sont liées par un mariage ou une union civile et qui cohabitent ; ou
+
+B)  qui vivent ensemble maritalement, qu'elles soient de sexe différent ou de même sexe et qui au moment de l'accident:
+
+i.  résidaient ensemble depuis trois ans ou depuis un an si un enfant était issu de leur union; et
+
+ii.  étaient publiquement représentées comme conjoints;
+
+f)  «emploi»: une occupation génératrice de revenus exercée dans une industrie;
+
+g)  «employeur»: une personne qui, en vertu d'un contrat de travail ou d'apprentissage, utilise les services d'un travailleur dans un emploi se rattachant à une industrie; l'employeur qui prête temporairement les services d'un travailleur demeure l'employeur de ce travailleur pour le temps où ces services sont ainsi prêtés;
+
+h)  «fonds d'accident»: le fonds d'accident établi en vertu de l'article 79;
+
+i)  «industrie»: un établissement, une entreprise, un commerce ou un service;
+
+j)  «invalide»: une personne qui est physiquement ou psychiquement incapable de gagner un salaire;
+
+k)  «maladie professionnelle»: une maladie contractée par le fait ou à l'occasion du travail et reconnue par la commission comme caractéristique d'un travail ou reliée directement aux risques particuliers d'un travail;
+
+l)  «personne à charge»:
+
+1°  un conjoint;
+
+2°  une personne qui est liée au travailleur par un mariage ou une union civile ou qui lui était ainsi liée  et
+
+i.  qui en est séparée de fait ou légalement ou dont le mariage ou l'union civile avec celui-ci est dissous ou déclaré nul par un jugement définitif ou, encore, dont l'union civile est dissoute par une déclaration commune notariée de dissolution; et
+
+ii.  qui, au moment de l'accident, avait droit de recevoir du travailleur une pension alimentaire en vertu d'un jugement ou d'une convention;
+
+3°  un enfant du travailleur, âgé de moins de 18 ans;
+
+4°  un enfant du travailleur, âgé de plus de 18 ans, qui fréquente assidûment un établissement d'enseignement selon les modalités prévues par règlement, ou qui est invalide;
+
+5°  une autre personne liée au travailleur par le sang ainsi que toute personne étrangère qui était à l'égard du travailleur in loco parentis ou à l'égard de qui le travailleur était in loco parentis et qui, lors de l'accident, vivait entièrement ou partiellement du revenu du travailleur selon les critères prévus par règlement;
+
+m)  «prestation»: une indemnité versée en argent, une assistance financière ou un service fourni en vertu de la présente loi;
+
+n)  «règlement»: un règlement adopté par la commission et approuvé par le gouvernement en vertu de la présente loi;
+
+o)  «revenu»: les gains bruts annuels, jusqu'à concurrence du maximum annuel assurable, établis en vertu de l'article 46, retirés par le travailleur dans l'emploi au cours duquel il a été blessé ou est décédé;
+
+p)  «revenu net retenu»: le revenu du travailleur moins les déductions pondérées par tranches de revenus, établies annuellement par règlement, en tenant compte des situations familiales précisées par règlement et en prenant en considération, pour ces fins, la Loi sur les impôts (chapitre I-3), la Loi de l'impôt sur le revenu (Lois révisées du Canada (1985), chapitre 1, 5e supplément), la Loi sur l'assurance-emploi (Lois du Canada, 1996, chapitre 23), la Loi sur l'assurance parentale (chapitre A-29.011) et la Loi sur le régime de rentes du Québec (chapitre R-9);
+
+q)  «travailleur»: une personne qui, en vertu d'un contrat de travail ou d'apprentissage, exécute un travail moyennant rémunération pour un employeur, y compris:
+
+i.  un artisan qui exécute pour une personne exploitant une industrie un travail se rattachant à cette industrie, dans les cas ou circonstances et selon les modalités prévus par règlement;
+
+ii.  un étudiant qui, sous la responsabilité d'un établissement d'enseignement, effectue un stage non rémunéré dans une industrie;
+
+iii.  une personne qui effectue un travail non rémunéré dans une industrie, dans les cas et selon les modalités prévus par règlement.
+
+ 2. Sont considérés employeurs au même titre que les particuliers et soumis aux dispositions de la présente loi:
+
+a)  le gouvernement du Québec et une commission permanente de ce gouvernement;
+
+b)  les municipalités, les commissions scolaires et le Conseil scolaire de l'île de Montréal;
+
+c)  les commissions de services publics;
+
+d)  les commissions exploitant une industrie ou offrant un service pour des fins municipales; et
+
+e)  sujet aux dispositions de la Loi sur l'indemnisation des agents de l'État (Lois révisées du Canada (1985), chapitre G-5), le gouvernement du Canada et ses services.
+
+S. R. 1964, c. 159, a. 2; 1972, c. 60, a. 31; 1977, c. 42, a. 1; 1978, c. 57, a. 3; 1979, c. 63, a. 251; 1979, c. 63, a. 329; 1992, c. 68, a. 157; 1999, c. 14, a. 1; 2002, c. 6, a. 74; 2005, c. 13, a. 74.
+
+SECTION II
+~~~~~~~~~~
+
+**DISPOSITIONS GÉNÉRALES**
+
+3.  1. Un travailleur victime d'un accident a droit aux prestations prévues par la présente loi, sauf,
+
+a)  si l'accident ne le rend pas incapable, au-delà de la journée au cours de laquelle l'accident s'est produit, de gagner son salaire intégral dans l'emploi qu'il occupe au moment de l'accident; ou
+
+b)  si la lésion est imputable uniquement à son imprudence grossière et volontaire, à moins qu'elle n'entraîne son décès ou lui cause une incapacité grave.
+
+ 2. (Paragraphe abrogé).
+
+ 3. L'employeur dont l'industrie est mentionnée dans l'annexe B est personnellement tenu de payer la prestation.
+
+ 4. L'employeur dont l'entreprise est généralement exploitée en dehors du Québec est aussi personnellement tenu de payer la prestation due pour un accident survenu au Québec si le travailleur qui a subi l'accident n'y a pas son lieu de travail ordinaire et si au moment de l'accident cet employeur n'a pas versé à la commission toutes les cotisations auxquelles il peut être tenu en vertu de la présente loi.
+
+ 5. L'employeur dont l'industrie est désignée par règlement est tenu de contribuer au fonds d'accident ci-après prévu; mais il n'est pas tenu personnellement de payer la prestation.
+
+S. R. 1964, c. 159, a. 3; 1966-67, c. 52, a. 1; 1969, c. 52, a. 1; 1978, c. 57, a. 1, a. 5; 1979, c. 63, a. 252.
+
+4.  1. Les accidents survenus en dehors du Québec donnent aussi droit aux prestations prévues par la présente loi, mais seulement dans les cas suivants, savoir:
+
+a)  lorsque l'employeur a un bureau ou une entreprise au Québec et lorsque le travailleur y a sa résidence et son lieu ordinaire de travail, pourvu que la durée de l'emploi en dehors du Québec n'ait pas excédé 36 mois et qu'il ait été la continuation immédiate d'un emploi au Québec au service du même employeur;
+
+b)  lorsque le travailleur, ayant sa résidence au Québec, est obligé, par la nature de son emploi dans une entreprise de transport par terre d'exécuter son travail dans et en dehors du Québec;
+
+c)  lorsque le travailleur ayant sa résidence au Québec ou y ayant été engagé, est obligé, par la nature de son emploi dans une entreprise de transport par eau, d'exécuter son travail partie au Québec et partie en dehors du Québec, si le vaisseau à bord duquel le travailleur est employé est enregistré dans un port canadien ou si le propriétaire ou le noliseur de ce vaisseau a son domicile ou son siège au Québec.
+
+ 2. Lorsqu'une prestation est due à l'occasion d'un accident survenu en dehors du Québec, l'employeur est tenu de la payer personnellement, à moins qu'il n'ait versé au fonds d'accident sa cotisation déterminée par le montant total des salaires payés par lui aux travailleurs engagés dans l'entreprise dans laquelle le travailleur travaillait lorsque l'accident s'est produit. L'entreprise exploitée en dehors du Québec par un employeur qui n'a pas ainsi versé sa contribution est censée être comprise dans l'annexe B.
+
+ 3. (Paragraphe abrogé).
+
+S. R. 1964, c. 159, a. 4; 1978, c. 57, a. 1, a. 6; 1979, c. 63, a. 253.
+
+5.  1. Lorsque le bénéficiaire a droit à une prestation en vertu de la loi du lieu de l'accident et en outre à une prestation en vertu de la présente loi, il est tenu d'opter entre la loi du lieu de l'accident et celle du Québec et de donner avis de son option.  À défaut de faire cette option et d'en donner avis, il est présumé avoir renoncé à toute prestation en vertu de la présente loi.
+
+ 2. Dans les trois mois de l'accident, ou dans les trois mois du décès si l'accident est suivi de mort, ou dans tel autre délai que la commission peut accorder avant ou après l'expiration de ces trois mois, un avis de cette option doit être donné à la commission.
+
+S. R. 1964, c. 159, a. 5; 1978, c. 57, a. 1.
+
+6. La commission peut accorder à une personne à charge qui n'a pas sa résidence au Canada, pour tenir lieu de l'indemnité, telle somme qu'elle juge convenable, et, selon le cas, payer cette somme à même le fonds d'accident ou ordonner à l'employeur de la payer.
+
+S. R. 1964, c. 159, a. 6; 1978, c. 57, a. 1.
+
+7.  1. Quand un travailleur subit un accident au cours de son emploi dans des circonstances telles qu'il en résulte pour un bénéficiaire un droit d'action découlant de la faute d'une personne autre qu'un employeur dont l'industrie est assujettie à la présente loi, ce bénéficiaire, s'il a droit à une prestation, peut, à son option, réclamer cette prestation ou exercer ce droit d'action.
+
+Malgré le premier alinéa, un bénéficiaire peut exercer ce droit d'action contre un employeur dont l'industrie est assujettie à la présente loi, autre que l'employeur du travailleur, lorsque la faute de cet employeur constitue une infraction ou un acte criminel au sens du Code criminel.
+
+ 2. Si la somme adjugée et perçue à la suite d'une action est inférieure au montant de la prestation à laquelle le bénéficiaire a droit en vertu de la présente loi, ce bénéficiaire reçoit une prestation pour la différence.
+
+ 3. Si un bénéficiaire choisit de réclamer une prestation, l'employeur tenu personnellement de payer cette prestation, ou la commission si la prestation est payable à même le fonds d'accident, selon le cas, est de plein droit subrogé aux droits du bénéficiaire et peut personnellement ou aux nom et lieu du bénéficiaire, exercer tout recours que de droit contre la personne responsable; tout montant ainsi recouvré par la commission fait partie du fonds d'accident.  La subrogation a lieu par le seul effet de l'option et peut être exercée jusqu'à concurrence du montant des prestations que l'employeur ou la commission est appelé à payer.
+
+Les ententes ou compromis qui peuvent intervenir entre les parties relativement à cette action ou au droit d'action sont sans effet, jusqu'à ce qu'ils aient été approuvés et ratifiés par la commission et le paiement du montant convenu ou adjugé ne peut être fait que de la manière indiquée par la commission.
+
+ 4. Nonobstant toute disposition contraire, la commission peut exercer son recours contre une municipalité ou une commission scolaire ou contre le Conseil scolaire de l'île de Montréal, en raison d'un accident du travail, durant les 12 mois qui suivent le jour de la réception de l'avis d'option prévu aux paragraphes 1 et 5 du présent article, pourvu que cet avis d'option soit communiqué par la commission à la municipalité ou à la commission scolaire intéressée ou au Conseil scolaire de l'île de Montréal dans les 30 jours qui suivent sa réception.
+
+ 5. L'option entre les recours ci-dessus doit être exercée et avis de cette option doit être donné conformément aux dispositions de l'article 5.
+
+ 6. Lorsqu'un travailleur a droit à l'option prévue par le paragraphe 1 du présent article, la commission peut, dans des cas spéciaux et urgents, même si le travailleur n'a ni exercé son option ni fait sa réclamation, fournir à ce travailleur l'assistance médicale et chirurgicale que requiert son état; et la dépense encourue à cette fin constitue une créance prioritaire, prenant rang immédiatement après les frais de justice, contre la somme qui sera adjugée, si une action est ensuite instituée.
+
+ 7. Le recours prévu par le deuxième alinéa du paragraphe 1 peut être exercé dans un délai de six mois à compter de la date du jugement final déclarant l'employeur coupable d'une infraction ou d'un acte criminel au sens du Code criminel.
+
+S. R. 1964, c. 159, a. 7; 1972, c. 60, a. 32; 1978, c. 57, a. 1, a. 7.
+
+8. Malgré toute disposition contraire et malgré le fait d'avoir obtenu une prestation en vertu de l'option visée dans le paragraphe 1 de l'article 7, le bénéficiaire peut, avant que la prescription ne soit acquise, réclamer, en vertu du droit commun, d'une personne autre que l'employeur du travailleur, la somme additionnelle requise pour former, avec l'indemnité qui lui est due en vertu de la présente loi, un montant équivalent à la perte réellement subie.
+
+S. R. 1964, c. 159, a. 8; 1978, c. 57, a. 8.
+
+9. Les recours prévus par les articles 7 et 8 ne peuvent être exercés contre les travailleurs, préposés ou mandataires d'un employeur dont l'industrie est assujettie à la présente loi en raison d'une faute commise dans l'exécution de leurs fonctions.
+
+S. R. 1964, c. 159, a. 9; 1978, c. 57, a. 9.
+
+10. Pour les fins de la présente loi, la personne morale de qui relève l'établissement d'enseignement sous la responsabilité duquel un étudiant effectue un stage non rémunéré dans une industrie visée par la présente loi, est l'employeur de cet étudiant.
+
+Pour les fins des articles 7, 8, 9 et 16, la personne chez qui un étudiant, sous la responsabilité d'un établissement d'enseignement, effectue un stage non rémunéré dans une industrie visée par la présente loi, est aussi l'employeur de cet étudiant.
+
+1977, c. 42, a. 2; 1992, c. 68, a. 157.
+
+11.  1. L'employeur qui exploite une industrie soumise aux dispositions de la présente loi est considéré comme l'employeur immédiat de tout travailleur au service d'un entrepreneur ou d'un sous-entrepreneur exécutant un travail quelconque pour cette industrie:
+
+a)  aussi longtemps que cet entrepreneur ou ce sous-entrepreneur n'a pas, relativement à ce travail, fait les déclarations prescrites et n'a pas été dûment cotisé comme employeur d'une industrie désignée par règlement; ou,
+
+b)  quand tel entrepreneur ou tel sous-entrepreneur est personnellement responsable du paiement de la prestation, aussi longtemps que la commission n'a pas reconnu et déclaré que la solvabilité de cet entrepreneur ou de ce sous-entrepreneur est suffisante pour la protection de ses travailleurs, ainsi que pour la garantie du paiement des bénéfices établis par la présente loi.
+
+ 2. L'employeur qui a, en vertu du paragraphe 1, payé une cotisation ou une prestation, a droit d'être remboursé par l'entrepreneur ou par le sous-entrepreneur jusqu'à concurrence du montant que la commission détermine.
+
+ 3. Une personne appelée, dans le présent paragraphe et dans le paragraphe 4, «le principal», exploitant une industrie assujettie à la présente loi, qui fait un contrat avec une autre personne ci-après appelée «l'entrepreneur ou le sous-entrepreneur», pour l'exécution d'un travail fait en tout ou en partie par cet entrepreneur ou par ce sous-entrepreneur pour le principal, doit s'assurer que la somme que l'entrepreneur ou le sous-entrepreneur peut être tenu de contribuer au fonds d'accident soit payée, et à défaut, ce principal est solidairement responsable du paiement de cette somme envers la commission qui a, pour contraindre le principal à la payer, les mêmes droits et pouvoirs que pour la perception d'une cotisation.
+
+ 4. Lorsque le principal est tenu en vertu du paragraphe 3 du présent article de faire un paiement à la commission, il a droit d'être indemnisé par la personne qui y est tenue et il  peut retenir sur le montant qu'il doit à cette personne, une somme suffisante pour l'effectuer.
+
+S. R. 1964, c. 159, a. 10; 1978, c. 57, a. 1, a. 10.
+
+12. Les dispositions de l'article 11 n'affectent pas le recours du travailleur pour prestation ni celui de la commission pour contribution au fonds d'accident.  Ce recours peut être exercé contre l'entrepreneur ou le sous-entrepreneur, au lieu de l'être contre le principal.
+
+S. R. 1964, c. 159, a. 11; 1978, c. 57, a. 1.
+
+13.  1. Dans le cas d'une industrie désignée par règlement, l'employeur et tout administrateur d'une personne morale, victimes d'un accident, ainsi que leurs personnes à charge, ont droit aux prestations prévues par la présente loi, à condition:
+
+a)  que l'employeur ou cet administrateur se soit inscrit ou fait inscrire sur la liste des salaires de l'industrie pour un montant que la commission estime raisonnable et qui ne doit pas excéder le maximum annuel assurable établi suivant le paragraphe 1 de l'article 46;
+
+b)  que l'intention d'inclure cet employeur ou cet administrateur d'une personne morale au nombre des travailleurs soit démontrée par la liste des salaires et par l'état fourni à la commission en vertu de l'article 88; et
+
+c)  que le montant du salaire de cet employeur ou de cet administrateur, tel qu'indiqué dans cette liste des salaires et cet état, soit compris dans l'estimation de l'année.
+
+Pour le calcul de l'indemnité, le salaire de cet employeur ou de cet administrateur n'est pris en considération que jusqu'à concurrence du montant porté à cette liste des salaires et à cet état n'excédant pas le maximum annuel assurable établi suivant le paragraphe 1 de l'article 46.
+
+ 2. Lorsqu'un artisan exerce ses fonctions dans une industrie désignée par règlement, cet artisan ou, le cas échéant, ses personnes à charge, s'il est victime d'un accident, a droit aux prestations prévues par la présente loi à condition qu'il ait donné un avis écrit à la commission indiquant:
+
+a)  la nature et le lieu de son industrie;
+
+b)  une estimation des gains bruts annuels provenant de son industrie et n'excédant pas le maximum annuel assurable établi suivant le paragraphe 1 de l'article 46.
+
+ 3. L'employeur ou l'administrateur d'une personne morale qui, le 6 mai 1977, ou, dans le cas de l'artisan qui, le 1er janvier 1979, bénéficie de la protection accordée par les paragraphes 1 ou 2 ou qui s'en prévaut après cette date, continue de bénéficier de cette protection jusqu'à ce qu'il avise par écrit la commission qu'il ne désire plus s'en prévaloir.
+
+Le défaut par l'employeur, la personne morale ou l'artisan d'acquitter une cotisation selon un avis mentionné dans l'article 97 équivaut à l'avis écrit mentionné au premier alinéa et met fin à la protection accordée en vertu des paragraphes 1 ou 2.
+
+S. R. 1964, c. 159, a. 12; 1966-67, c. 52, a. 2; 1971, c. 45, a. 1; 1975, c. 54, a. 1; 1977, c. 42, a. 3; 1978, c. 57, a. 11.
+
+14.  1. Aucune action n'est reçue devant une cour de justice pour le recouvrement d'une prestation, que cette prestation soit payable par un employeur personnellement ou à même le fonds d'accident; une réclamation pour une prestation payable par un employeur ou à même le fonds d'accident est du ressort exclusif de la commission, sous réserve du recours prévu par l'article 65.
+
+ 2. La présente loi n'enlève aucun des recours de droit commun appartenant aux personnes qui ne sont pas assujetties à ses dispositions.
+
+S. R. 1964, c. 159, a. 13; 1978, c. 57, a. 12; 1997, c. 43, a. 2.
+
+15. Le travailleur qui reçoit, en vertu de la présente loi, une rente hebdomadaire ou d'autres paiements périodiques, est déchu de son droit à cette rente ou à ces paiements s'il cesse de résider au Québec, à moins que l'expert ne certifie que l'incapacité de travail résultant de l'accident est probablement d'une nature permanente.
+
+Sur ce certificat de l'expert, la commission peut ordonner qu'il soit payé à ce travailleur tous les trois mois, le montant accumulé de cette rente ou de ces paiements, sur preuve faite, en la manière prescrite par les règlements, de son identité et de la continuation de l'incapacité de travail pour laquelle il reçoit une indemnité.
+
+S. R. 1964, c. 159, a. 14; 1978, c. 57, a. 1.
+
+16. Sous réserve des articles 7 et 8, les prestations que la présente loi prévoit tiennent lieu de tous les droits, recours et droits d'action, de quelque nature qu'ils soient, des bénéficiaires contre un employeur dont l'industrie est assujettie à la présente loi, à raison d'un accident subi par le travailleur, et nulle action à ce sujet n'est reçue devant aucune cour de justice.
+
+S. R. 1964, c. 159, a. 15; 1978, c. 57, a. 13.
+
+17. Sont sans effet, les conventions contraires aux dispositions de la présente loi, ainsi que toute obligation contractée et toute transaction dont l'effet peut être d'empêcher la victime d'un accident ou ses personnes à charge de toucher le montant intégral des prestations prévues par la présente loi et d'en avoir l'entière jouissance.
+
+S. R. 1964, c. 159, a. 16; 1978, c. 57, a. 1.
+
+18. S'il intervient une entente entre l'employeur tenu personnellement au paiement de la prestation, d'une part, et le bénéficiaire, selon le cas, de l'autre part, relativement à la prestation à laquelle ce bénéficiaire peut avoir droit, cette entente, pour valoir, doit être faite par écrit, signée et attestée par les parties et approuvée par la commission.
+
+S. R. 1964, c. 159, a. 17; 1978, c. 57, a. 1.
+
+19.  1. À moins de dispositions contraires, il est défendu à l'employeur de faire une retenue sur le salaire de ses travailleurs ou de recevoir d'eux une souscription ou contribution quelconque, même avec le consentement de ces travailleurs, en ce qui regarde les obligations imposées à cet employeur par la présente loi.  Toute convention en vertu de laquelle une semblable retenue est faite ou une telle souscription ou contribution est reçue est sans effet.
+
+ 2. Un employeur qui contrevient aux dispositions du présent article commet une infraction et est tenu, en outre de toute autre peine prévue par la présente loi, de rembourser au travailleur, sur ordonnance de la commission, le montant qu'il a ainsi déduit du salaire de ce travailleur ou a autrement reçu de celui-ci.
+
+S. R. 1964, c. 159, a. 18; 1978, c. 57, a. 1, a. 14.
+
+20. Les prestations accordées en vertu de la présente loi sont incessibles et insaisissables.
+
+S. R. 1964, c. 159, a. 19; 1978, c. 57, a. 1.
+
+21.  1. Sujet aux dispositions du paragraphe 5 du présent article, aucune prestation n'est payable à moins que l'accident ne soit dénoncé aussitôt que possible après qu'il s'est produit, et ce, avant que la victime de l'accident ait volontairement quitté l'emploi qu'elle occupait au moment où elle a été blessée, et à moins que la réclamation pour prestation ne soit produite dans un délai de six mois de la date de l'accident ou du décès lorsque l'accident est suivi de mort.
+
+ 2. L'avis de l'accident doit indiquer les nom et adresse du travailleur et il est suffisant s'il énonce dans un langage ordinaire la cause de la lésion et l'endroit où l'accident a eu lieu.
+
+ 3. Cet avis est signifié en le remettant soit à la place d'affaires de l'employeur, soit à sa résidence, ou en le transmettant par lettre recommandée ou certifiée à un de ces endroits; si cet employeur est une société ou une personne morale, il suffit de remettre cet avis au bureau de l'employeur ou à un de ses bureaux s'il en a plusieurs ou de le transmettre par lettre recommandée ou certifiée à un de ces endroits.
+
+ 4. Lorsque la prestation est payable par le fonds d'accident, cet avis doit aussi être donné à la commission en le remettant au bureau du secrétaire ou en le lui transmettant par lettre recommandée ou certifiée.
+
+ 5. Le défaut de donner cet avis ou de faire une réclamation, une irrégularité quelconque ou un manque de précision dans cet avis ou cette réclamation, n'entraînent pas déchéance du droit à la prestation si, dans l'opinion de la commission, l'employeur n'en souffre pas préjudice, ou si, dans le cas de prestation payable à même le fonds d'accident, la commission est d'avis que la réclamation en prestation est juste et qu'elle doit être accordée.
+
+S. R. 1964, c. 159, a. 20; 1975, c. 83, a. 84; 1978, c. 57, a. 1.
+
+22.  1. L'employeur doit, dans les deux jours ouvrables suivant un accident qui rend un travailleur à son emploi incapable de gagner son salaire intégral ou nécessite l'assistance médicale, donner un avis par écrit à la commission indiquant:
+
+a)  le fait et la nature de l'accident;
+
+b)  la date de l'accident;
+
+c)  les nom et adresse du travailleur;
+
+d)  l'endroit où l'accident est arrivé;
+
+e)  le nom et l'adresse du médecin ou du chirurgien par qui le travailleur a été ou est traité pour sa lésion.
+
+L'employeur doit, en outre, donner à la commission toutes autres informations et tous autres détails qu'elle requiert concernant un accident ou une réclamation quelconque.
+
+ 2. L'employeur doit signer l'avis dûment rempli, en remettre une copie au travailleur et lui permettre de prendre connaissance de son contenu avant d'y apposer sa signature.
+
+ 3. L'employeur qui ne se conforme pas au présent article ou qui, sciemment, transmet ou fait transmettre une fausse information à la commission, commet une infraction et est tenu, en outre de toute autre peine ou responsabilité qu'il encourt en vertu de la présente loi, de payer à la commission, si elle en ordonne ainsi, le montant des prestations qu'elle peut accorder sur preuve ou informations jugées suffisantes.
+
+S. R. 1964, c. 159, a. 21; 1978, c. 57, a. 1, a. 15.
+
+23.  1. Un travailleur qui réclame une prestation, ou à qui une prestation est due en vertu de la présente loi doit, à la demande de son employeur, se soumettre à l'examen d'un médecin dûment qualifié, choisi et payé par cet employeur; il doit en outre, s'il en est requis par la commission, se soumettre à l'examen de l'expert choisi par celle-ci.
+
+ 2. Le travailleur n'est tenu de se soumettre à l'examen demandé par son employeur que si cet examen est fait conformément aux règlements.
+
+S. R. 1964, c. 159, a. 22; 1978, c. 57, a. 1.
+
+24.  1. Lorsqu'un examen médical du travailleur a été fait à la demande de l'employeur, ou lorsque le travailleur a subi un examen fait par un médecin dûment qualifié et choisi par lui-même et qu'une copie de ce rapport a été transmise, dans le premier cas, par l'employeur au travailleur, et dans le second cas, par le travailleur à l'employeur, la commission peut, à la demande d'une des parties, soumettre le cas à un expert.
+
+ 2. L'expert qui procède en vertu du présent article ou qui examine le travailleur sur l'ordre de la commission en vertu du paragraphe 1 de l'article 23, doit faire un rapport à la commission constatant l'état du travailleur, sa capacité de travail et, si nécessaire, la nature de son emploi et, dans le cas d'incapacité, la cause et le degré de cette incapacité.
+
+ 3. La commission peut suspendre le paiement de l'indemnité à laquelle le travailleur a droit s'il refuse de se soumettre à l'un des examens prescrits par la présente loi ou ordonnés en vertu de l'une de ses dispositions, ou s'il entrave en quelque façon que ce soit l'un de ces examens; et le paiement de l'indemnité reste ainsi suspendu jusqu'à ce que l'examen ait été fait.
+
+ 4. La commission peut, à sa discrétion, réduire l'indemnité à laquelle un travailleur a droit ou en suspendre le paiement, lorsque le travailleur persiste dans des pratiques dangereuses et malsaines qui empêchent ou retardent sa guérison et lorsqu'il refuse de se soumettre à tel traitement médical que la commission, sur l'avis de l'expert, croit nécessaire à sa guérison.  Mais le présent paragraphe 4 ne s'applique pas au cas du refus du travailleur de se soumettre à une intervention chirurgicale.
+
+S. R. 1964, c. 159, a. 23; 1978, c. 57, a. 1, a. 16.
+
+25. Lorsque la commission croit qu'en vue de réduire un montant important dû comme indemnité pour incapacité permanente et protéger ainsi le fonds d'accident, il y a lieu d'autoriser une opération chirurgicale particulière ou un traitement médical particulier à un travailleur, elle peut le faire et en payer le coût à même le fonds d'accident.
+
+S. R. 1964, c. 159, a. 24; 1978, c. 57, a. 1.
+
+26. La commission peut, à la demande de l'employeur ou du travailleur si la prestation est payable par l'employeur personnellement, et à la demande du travailleur ou de l'initiative de la commission si la prestation est payable à même le fonds d'accident, reviser le montant de tout paiement hebdomadaire ou de tous autres paiements périodiques, en le supprimant, en le diminuant ou en l'augmentant à une somme qui ne doit pas excéder le maximum ci-après fixé.
+
+S. R. 1964, c. 159, a. 25; 1978, c. 57, a. 1.
+
+27. Si, lors de l'accident, le travailleur était âgé de moins de 21 ans et si la revision prévue ci-dessus a lieu plus de six mois après l'accident, le montant des paiements hebdomadaires peut être porté à la somme à laquelle le travailleur aurait eu droit si son salaire moyen, au moment de l'accident, avait été égal au salaire qu'il eût probablement gagné à la date de cette revision s'il n'avait pas subi cet accident.
+
+S. R. 1964, c. 159, a. 26; 1978, c. 57, a. 1.
+
+28.  1. L'employeur tenu personnellement au paiement de la prestation peut, avec le consentement du bénéficiaire, selon le cas, et avec l'autorisation de la commission et non autrement, convertir les paiements hebdomadaires ou les autres paiements périodiques en un capital représentatif de ces paiements.  La commission peut, de sa propre initiative et à sa discrétion lorsque la prestation est payable par le fonds d'accident, convertir ces paiements en un tel capital représentatif.
+
+ 2. Le capital représentatif des paiements payables par l'employeur personnellement doit être payé à la commission.
+
+ 3. Ce capital représentatif peut être, à la discrétion de la commission:
+
+a)  utilisé aux fins indiquées par le bénéficiaire;
+
+b)  payé au bénéficiaire;
+
+c)  placé par la commission et employé de temps à autre de la manière qu'elle juge la plus avantageuse pour le bénéficiaire;
+
+d)  remis à des fiduciaires qui doivent l'employer conformément aux termes de la fiducie et au profit des personnes désignées par le bénéficiaire et approuvées par la commission;
+
+e)  employé conformément à un ou à plusieurs des modes indiqués ci-dessus.
+
+ 4. Lorsque la prestation est payable par le fonds d'accident, la commission peut, si elle le croit à propos dans l'intérêt du bénéficiaire ou dans le cas d'un besoin pressant du bénéficiaire, avancer à ce bénéficiaire une somme dont elle détermine le montant, suivant les circonstances.
+
+S. R. 1964, c. 159, a. 27; 1978, c. 57, a. 1.
+
+29. La commission peut obliger un employeur tenu personnellement au paiement d'une prestation, d'assurer ses travailleurs et de les tenir assurés contre les accidents pour lesquels il peut être tenu de payer une prestation, dans une compagnie d'assurance approuvée par la commission et pour telle somme que celle-ci détermine.  Cet employeur doit transmettre à la commission un certificat d'assurance en la forme approuvée par celle-ci.
+
+À défaut par l'employeur de se conformer aux dispositions du présent article, la commission peut elle-même faire assurer les travailleurs de cet employeur et l'obliger à lui rembourser le montant payé à cette fin, en la manière prévue pour le paiement des cotisations.
+
+S. R. 1964, c. 159, a. 28; 1978, c. 57, a. 1.
+
+30.  1. Quand un employeur tenu personnellement au paiement de la prestation est assuré conformément aux dispositions de l'article 29, la commission peut obliger la compagnie d'assurance ou tout autre assureur (underwriter) à lui payer en acquit ou en acompte de la prestation, la somme que l'assureur est tenu de payer à l'employeur, en vertu du contrat d'assurance, pour un accident qui donne droit à un bénéficiaire de réclamer une prestation en vertu de la présente loi.
+
+ 2. Lorsqu'une réclamation pour une prestation est faite et que l'employeur est ainsi assuré, avis de cette réclamation doit être donné à la compagnie d'assurance et à l'employeur.  Dans ce cas la commission se prononce sur le droit du bénéficiaire à la prestation, et elle décide également si cette prestation doit être payée directement, en tout ou en partie, par la compagnie d'assurance ou tout autre assureur (underwriter).
+
+S. R. 1964, c. 159, a. 29; 1978, c. 57, a. 1.
+
+31.  1. Quand un employeur est tenu personnellement au paiement d'une prestation et qu'un accident cause une incapacité de travail permanente, totale ou partielle, ou la mort d'un travailleur, la commission peut obliger l'employeur ou son assureur à verser à la commission une somme qui, avec les intérêts à un taux qu'elle détermine, serait suffisante pour effectuer les paiements qui doivent être faits au bénéficiaire; et la commission sur réception de cette somme, la verse dans un fonds spécial destiné à effectuer les paiements qui doivent être faits à ce bénéficiaire. Si cette somme est insuffisante pour faire ces paiements, l'employeur est tenu d'en payer la différence.  Mais le reliquat s'il en est à l'extinction du droit à la prestation est, à moins que la commission n'en ordonne autrement, remis à l'employeur.
+
+ 2. La commission peut, au lieu d'exiger de l'employeur le paiement de la somme prévue par les dispositions du paragraphe 1 du présent article, obliger cet employeur à lui fournir telle garantie qu'elle estime suffisante pour assurer l'accomplissement par l'employeur des obligations qui lui sont imposées par la présente loi.
+
+S. R. 1964, c. 159, a. 30; 1978, c. 57, a. 1.
+
+32. La commission peut, lorsqu'elle le croit nécessaire en vue d'assurer le prompt paiement des réclamations, obliger tout employeur exploitant une industrie mentionnée dans l'annexe B, à lui faire de temps à autre des dépôts de deniers à même lesquels elle paye aux bénéficiaires les indemnités qui deviennent dues au fur et à mesure que des accidents se produisent.
+
+S. R. 1964, c. 159, a. 31; 1978, c. 57, a. 1.
+
+33. La commission peut, de la manière et à telle époque ou à telles époques qu'elle croit le plus équitable et le plus en harmonie avec les principes généraux et les dispositions de la présente loi, prélever des employeurs qui ont exploité dans le passé, qui exploitent actuellement ou qui exploiteront à l'avenir une des industries visées par la présente loi, les sommes additionnelles résultant de l'augmentation des prestations payables en vertu des dispositions de la présente loi.
+
+Ce prélèvement est fait, dans le cas d'employeurs exploitant une industrie désignée par règlement, par voie d'augmentation de la cotisation ordinaire ou au moyen d'une cotisation spéciale, et, dans le cas d'employeurs exploitant une industrie mentionnée dans l'annexe B, par le dépôt additionnel de toute somme requise à cette fin.
+
+S. R. 1964, c. 159, a. 32; 1978, c. 57, a. 1.
+
+34. Lorsque le paiement d'une indemnité est suspendu en vertu des dispositions de la présente loi, la commission peut, lorsque la suspension est levée, verser l'indemnité au travailleur rétroactivement à la date de la suspension.
+
+S. R. 1964, c. 159, a. 33; 1978, c. 57, a. 17.
+
+34.1. La commission peut, aux fins de l'administration de la présente loi, obtenir de la Régie de l'assurance maladie du Québec, qui doit le lui fournir, tout renseignement que celle-ci possède au sujet:
+
+ 1° de l'identification d'un travailleur victime d'un accident ou d'une maladie professionnelle;
+
+ 2° des coûts et des frais d'administration que la Régie récupère de la commission.
+
+1985, c. 6, a. 479; 1990, c. 57, a. 40; 1999, c. 89, a. 53.
+
+34.2. La Commission et le ministre de l'Emploi et de la Solidarité sociale prennent entente pour la communication des renseignements nécessaires à l'application de la Loi sur l'assurance parentale (chapitre A-29.011).
+
+2005, c. 13, a. 75.
+
+SECTION III
+~~~~~~~~~~~
+
+**DES INDEMNITÉS**
+
+35.  1. Le décès d'un travailleur donne au conjoint survivant, sa vie durant, et aux autres personnes à charge ou, à défaut de conjoint survivant, aux personnes à charge, à parts égales, droit à une indemnité équivalant annuellement à un pourcentage de l'indemnité à laquelle le travailleur aurait eu droit s'il avait survécu et avait été rendu totalement incapable de gagner son salaire intégral dans l'emploi qu'il occupait au moment de l'accident.
+
+ 2. Le pourcentage visé dans le paragraphe 1 est établi à 55% pour une personne à charge, à 65% pour deux personnes à charge et, s'il y en a plus de deux, à 65% plus 5% par personne à charge à compter de la troisième, jusqu'à concurrence de 80%.
+
+ 3. Les personnes à charge visées dans le sous-paragraphe 4° du sous-paragraphe l du paragraphe 1 de l'article 2 sont considérées à charge aussi longtemps que, de la manière prescrite par règlement, ces personnes auraient pu être considérées à charge du travailleur si ce dernier eût survécu.
+
+ 4. Lorsque le travailleur ne laisse pas de conjoint survivant et qu'il laisse des personnes à charge visées dans les sous-paragraphes 3° ou 4° du sous-paragraphe l du paragraphe 1 de l'article 2, l'indemnité de ces personnes à charge, lorsqu'elles sont incapables, est versée à leur tuteur ou à leur curateur ou, à défaut, à une personne désignée par la commission. La personne ainsi désignée a les obligations d'un tuteur ou d'un curateur, selon le cas.
+
+ 5. Lorsqu'un travailleur laisse un conjoint survivant et d'autres personnes à charge, la commission peut ordonner, dans l'intérêt de ces personnes à charge, que partie de l'indemnité, plutôt que d'être versée au conjoint survivant, soit versée aux personnes à charge ou, le cas échéant, à leur tuteur ou à leur curateur ou, à défaut, à une personne désignée par la commission. La personne ainsi désignée a les obligations d'un tuteur ou d'un curateur, selon le cas.
+
+ 6. Malgré le paragraphe 1, lorsqu'il y a à la fois des personnes à charge aux besoins desquelles le travailleur pourvoyait entièrement et des personnes à charge aux besoins desquelles il ne pourvoyait que partiellement, la commission peut attribuer à celles aux besoins desquelles il ne pourvoyait que partiellement telle part du montant de l'indemnité qui peut leur être accordée proportionnellement à la perte pécuniaire subie par chacune d'elles.  La commission peut payer cette somme en un capital, selon les modalités qu'elle détermine.
+
+ 7. Lorsqu'un accident cause le décès d'un travailleur, la commission rembourse à la personne qui les a acquittées les dépenses encourues pour les frais funéraires jusqu'à concurrence de 600 $, plus les frais de transport du corps dans les cas et pour la somme prescrits par règlement.
+
+La commission accorde, en outre, au conjoint survivant, ou, à défaut de conjoint survivant, aux personnes à charge, à parts égales, une somme de 500 $ à titre d'indemnité spéciale.
+
+ 8. Lorsqu'un travailleur est disparu à la suite d'un accident dans des circonstances qui font présumer son décès, la commission peut reconnaître, pour les fins de la présente loi et jusqu'à preuve du contraire, que le travailleur est décédé et que la date de son décès est celle de l'accident.
+
+ 9. Sous réserve des paragraphes 6 et 7, l'indemnité prévue par le présent article est versée sous forme de rente payable mensuellement.
+
+ 10. Lorsque les personnes à charge sont un conjoint ou un conjoint et des enfants visés dans le sous-paragraphe l du paragraphe 1 de l'article 2, la rente mensuelle ne doit pas être inférieure aux montants établis à l'annexe C.
+
+ 11. Abstraction faite des indemnités prévues par le paragraphe 7 et sous réserve de la revalorisation prévue par l'article 41, le total des rentes mensuelles payables en vertu du présent article ne peut excéder 80% de l'indemnité visée dans le paragraphe 1, sauf dans la mesure permise au paragraphe 10.
+
+S. R. 1964, c. 159, a. 34; 1966-67, c. 52, a. 3; 1971, c. 45, a. 2; 1978, c. 57, a. 19.
+
+36.  1. Le conjoint survivant de moins de 35 ans, ainsi que la personne à charge visée dans le sous-paragraphe 2° du sous-paragraphe l du paragraphe 1 de l'article 2, sans enfant et qui n'est pas invalide, ne sont plus considérés à charge cinq ans après le décès du travailleur, et la part du pourcentage visé dans le paragraphe 3 de l'article 35 à laquelle chacun avait droit n'est plus versée à l'expiration de cette période ou au décès du bénéficiaire, selon l'échéance la plus rapprochée.
+
+ 2. Le conjoint survivant perd son droit à une indemnité en vertu de la présente loi lorsqu'il se lie de nouveau par un mariage ou une union civile ou qu'il cohabite de façon maritale avec une autre personne, de sexe différent ou de même sexe, pendant trois ans ou, pendant un an si un enfant est issu de leur union, et qu'ils sont publiquement représentés comme conjoints.
+
+Cette disposition s'applique également à une personne à charge visée dans le sous-paragraphe 2° du sous-paragraphe l du paragraphe 1 de l'article 2.
+
+ 3. Dans les cas prévus par les deux paragraphes précédents, le droit à l'indemnité ne peut cependant être éteint avant l'expiration d'un délai de cinq ans après le décès du travailleur.
+
+ 4. Le bénéficiaire visé dans les paragraphes 1 et 2 doit, sans délai, aviser la commission de tout changement dans sa situation pouvant influer sur le droit à une prestation ou sur le montant de l'indemnité.
+
+S. R. 1964, c. 159, a. 35; 1978, c. 57, a. 20; 2002, c. 6, a. 75.
+
+37. L'indemnité due à un enfant s'éteint lorsqu'il atteint l'âge de 18 ans, ou à sa mort s'il décède avant cet âge, à moins qu'il ne fréquente assidûment un établissement d'enseignement ou qu'il ne soit invalide.
+
+Un enfant de plus de 18 ans qui fréquente assidûment un établissement d'enseignement ou qui est invalide est considéré à charge aussi longtemps que, de la manière prescrite par règlement, il aurait pu être considéré à charge du travailleur, si ce dernier eût survécu.
+
+S. R. 1964, c. 159, a. 36; 1978, c. 57, a. 21; 1992, c. 68, a. 157.
+
+38.  1. Dans le cas d'incapacité totale et permanente résultant d'un accident, le travailleur a droit, sa vie durant, à une rente équivalant annuellement à 90% de son revenu net retenu.
+
+ 2. Dans le cas d'incapacité partielle et permanente, le travailleur a droit, sa vie durant, à la rente prévue par le paragraphe 1 en proportion du pourcentage de son incapacité.
+
+ 3. Lorsque la rente prévue par les paragraphes précédents n'excède pas 60 $ par mois au moment où naît le droit à cette rente, la commission doit, à moins qu'il ne soit pas dans l'intérêt du travailleur d'agir ainsi, convertir la rente en un capital qui lui est payé à l'expiration des délais prévus par les articles 64 et 65 ou lorsque le bureau de révision ou le Tribunal administratif du Québec a rendu sa décision, selon le cas.
+
+La rente mensuelle à laquelle le travailleur a droit lui est versée jusqu'à sa conversion en un capital conformément à l'alinéa précédent.
+
+La conversion en capital de la rente payable au travailleur est établie en proportion de l'âge du travailleur, sur la base des valeurs mentionnées à l'annexe E.
+
+ 4. La diminution de capacité de travail est évaluée, autant que possible, d'après la nature de la lésion, mais en tenant compte aussi de l'aptitude du travailleur à reprendre le travail au cours duquel il a été blessé ou à s'adapter à quelque autre occupation appropriée.
+
+ 5. Lorsque le travailleur décède, la rente qui lui était payable en vertu des paragraphes 1 ou 2 du présent article continue de l'être jusqu'au premier jour du mois suivant.
+
+S. R. 1964, c. 159, a. 37; 1966-67, c. 52, a. 4; 1978, c. 57, a. 1, a. 22; 1997, c. 43, a. 3.
+
+39.  1. Les rentes payables suivant l'article 38 sont revalorisées en ajoutant le pourcentage ci-après dans les cas suivants:
+
+a)  si l'accident est survenu entre le 31 août 1931 et le 1er juillet 1947: 60%;
+
+b)  si l'accident est survenu entre le 30 juin 1947 et le 1er février 1952: 40%;
+
+c)  si l'accident est survenu entre le 31 janvier 1952 et le 1er janvier 1955: 27%;
+
+d)  si l'accident est survenu entre le 31 décembre 1954 et le 1er janvier 1960: 10%.
+
+ 2. La revalorisation s'applique aux versements de rente payables après le 30 septembre 1964.
+
+ 3. L'obligation de payer l'augmentation de rente découlant de la revalorisation incombe au fonds d'accident ou à l'employeur de la même manière que celle de payer la rente.
+
+S. R. 1964, c. 159, a. 38.
+
+40.  1. Les rentes payables suivant les articles 38 et 39 sont revalorisées en ajoutant le pourcentage indiqué dans l'annexe A.
+
+ 2. La revalorisation prévue au paragraphe 1 s'applique aux versements de rente payables après le 30 septembre 1967.
+
+ 3. L'obligation de payer l'augmentation de rente découlant de la revalorisation incombe au fonds d'accident ou à l'employeur de la même manière que celle de payer la rente.
+
+1966-67, c. 52, a. 5.
+
+41.  1. Les rentes payables suivant le paragraphe 1 de l'article 35, les paragraphes 1 et 2 de l'article 38, les articles 39 et 40, le montant prévu par le paragraphe 3 de l'article 38 et les montants minima établis à l'annexe C doivent être revalorisés annuellement, de la manière et à l'époque prescrites conformément à l'article 119 de la Loi sur le régime de rentes du Québec (chapitre R-9) pour l'ajustement des prestations payables en vertu de ladite loi, de telle sorte que le montant payable pour un mois d'une année subséquente soit égal au produit obtenu en multipliant le montant qui aurait été autrement payable pour le mois par la proportion que représente l'indice des rentes pour cette année subséquente par rapport à l'indice des rentes pour l'année qui la précède.
+
+Lorsque le travailleur décède par suite d'un accident ou d'une maladie professionnelle après une période d'incapacité résultant de cet accident ou de cette maladie, la commission doit, pour la fixation de l'indemnité prévue par le paragraphe 1 de l'article 35, si le revenu du travailleur au moment du décès est inférieur à celui qui a servi de base pour établir l'indemnité antérieure, revaloriser, suivant les dispositions de l'alinéa précédent, le revenu du travailleur qui a servi de base pour établir l'indemnité antérieure.
+
+ 2. La revalorisation prévue au paragraphe 1 s'applique aux versements de rente payables après le 1er janvier 1970.
+
+ 3. L'obligation de payer l'augmentation de rente découlant de la revalorisation incombe au fonds d'accident ou à l'employeur de la même manière que celle de payer la rente.
+
+1969, c. 52, a. 2; 1978, c. 57, a. 23.
+
+42. Dans le cas d'incapacité totale et temporaire, l'indemnité est celle prévue au paragraphe 1 de l'article 38, mais elle n'est payée, sujet aux dispositions du sous-paragraphe a du paragraphe 1 de l'article 3, que pendant la durée de cette incapacité.
+
+Dans le cas d'incapacité partielle et temporaire, l'indemnité est celle prévue aux paragraphes 2, 3 et 4 de l'article 38, mais n'est payée, sujet aux dispositions du sous-paragraphe a du paragraphe 1 de l'article 3, que pendant la durée de cette incapacité.
+
+L'indemnité payable en vertu du présent article est revalorisée de 4% au 1er janvier 1986, de 4,1% au 1er janvier 1987, de 4,4% au 1er janvier 1988, de 4,1% au 1er janvier 1989, de 4,8% au 1er janvier 1990, de 4,8% au 1er janvier 1991 et, pour toute année subséquente, de la manière et à l'époque prescrites conformément au premier alinéa du paragraphe 1 de l'article 41.
+
+L'obligation de payer l'augmentation de l'indemnité découlant de la revalorisation incombe au fonds d'accident ou à l'employeur de la même manière que celle de payer l'indemnité.
+
+Les troisième et quatrième alinéas ne s'appliquent qu'à l'égard de l'indemnité payable pour une période d'incapacité postérieure au 31 décembre 1991.
+
+S. R. 1964, c. 159, a. 39; 1978, c. 57, a. 1; 1991, c. 35, a. 1.
+
+42.1. Un travailleur a droit, dans la mesure où ce bénéfice n'est pas déjà couvert par un autre régime:
+
+ a) au remboursement d'une somme dont le montant et les modalités sont déterminés par règlement, pour tenir compte de l'endommagement des vêtements résultant d'un accident ou du port d'une prothèse ou d'une orthèse;
+
+ b) au remboursement, dans les cas et pour les montants déterminés par règlement, des coûts de réparation ou de remplacement d'une prothèse ou d'une orthèse brisée ou endommagée involontairement par le fait ou à l'occasion de son travail.
+
+1978, c. 57, a. 24.
+
+43.  1. S'il est démontré, à la satisfaction de la commission, qu'un travailleur est incapable de travailler, en raison d'une aggravation consécutive à un accident survenue plus d'un an après cet accident, l'indemnité relative à l'incapacité temporaire est basée sur les gains du réclamant à l'époque de l'aggravation, comme s'il s'agissait d'un nouvel accident, lorsque ces gains sont plus élevés que ceux qui ont servi de base pour établir l'indemnité antérieure.
+
+ 2. Quand cette aggravation cause une incapacité permanente, l'indemnité est basée sur les gains précédant l'aggravation si ces gains sont plus élevés que ceux qui ont servi de base pour établir l'indemnité antérieure.
+
+ 3. Dans les cas prévus aux deux paragraphes précédents, le degré d'incapacité pour lequel le travailleur est déjà compensé doit être déduit.
+
+S. R. 1964, c. 159, a. 40; 1966-67, c. 52, a. 6; 1969, c. 52, a. 3; 1978, c. 57, a. 1.
+
+44. L'employeur au service duquel se trouve le travailleur au moment de l'accident, dans le cas du premier alinéa de l'article 42, de l'aggravation dans le cas du paragraphe 1 de l'article 43 ou d'une rechute consécutive à un accident antérieur, doit payer à ce travailleur, à l'époque où son salaire lui aurait été normalement versé, l'indemnité visée dans le premier alinéa de l'article 42 ou dans le paragraphe 1 de l'article 43, pour chacun des cinq premiers jours où le travailleur est totalement incapable de travailler, au-delà du jour au cours duquel l'accident, l'aggravation ou la rechute s'est produit.
+
+Si la réclamation du travailleur pour indemnité en vertu de la présente loi est, par la suite, jugée bien fondée, l'indemnité payée par l'employeur en vertu du présent article constitue une indemnité accordée en vertu de la présente loi et la commission la lui rembourse.
+
+Dans le cas contraire, l'employeur peut exiger remboursement de la part du travailleur.
+
+L'employeur qui ne se conforme pas aux dispositions du premier alinéa du présent article commet une infraction et est passible, en outre des frais, d'une amende égale au double du montant de l'indemnité qu'il a omis de payer au travailleur, à moins que l'employeur ne prouve que la réclamation du travailleur a été jugée non fondée.
+
+1977, c. 42, a. 4; 1978, c. 57, a. 1, a. 25.
+
+45. Le montant de l'indemnité à laquelle un travailleur a droit en cas d'incapacité totale temporaire ou en cas d'incapacité totale et permanente, ne doit pas être inférieur à 35 $ par semaine.
+
+Si le salaire hebdomadaire de l'accidenté est inférieur à ce montant, l'indemnité doit être égale au salaire.
+
+ Dans le cas d'incapacité partielle et temporaire ou d'incapacité partielle et permanente, l'indemnité est déterminée sur la même base et proportionnellement à la diminution de capacité de gain.
+
+S. R. 1964, c. 159, a. 41; 1966-67, c. 52, a. 7; 1978, c. 57, a. 1.
+
+46.  1. Le maximum annuel assurable est égal à 150% d'une moyenne annuelle calculée à partir de la rémunération hebdomadaire moyenne des travailleurs de l'ensemble des activités économiques du Québec telle qu'établie par Statistique Canada pour chacun des 12 mois précédant le 1er juillet de l'année précédant l'année pour laquelle le maximum annuel assurable est calculé.
+
+Le maximum annuel assurable est établi au plus haut 500 $ et est applicable, pour l'année 1979 et chacune des années subséquentes, à compter du 1er janvier de chaque année.
+
+Lorsque Statistique Canada adopte une nouvelle méthode pour déterminer la rémunération hebdomadaire moyenne pour un mois donné, en modifiant soit la période utilisée, soit le champ d'observation visé, et que la moyenne annuelle calculée selon les données de la nouvelle méthode est supérieure ou inférieure de plus de 1% à celle calculée selon les données de l'ancienne méthode, les rémunérations hebdomadaires moyennes à utiliser pour établir la moyenne annuelle pour chacune des années affectées par le changement de méthode sont ajustées par la commission de façon à tenir compte des données selon la méthode utilisée par Statistique Canada le 1er septembre 1977.
+
+Pour l'application du présent paragraphe, la commission utilise les données fournies par Statistique Canada au 1er octobre de l'année au cours de laquelle se termine la période de 12 mois qui sert de base au calcul du maximum annuel assurable.
+
+ 2. La commission détermine le revenu du travailleur en se basant sur ses gains, y compris, le cas échéant, ses pourboires déclarés en vertu de l'article 1019.4 de la Loi sur les impôts (chapitre I-3) et attribués en vertu de l'article 42.11 de cette loi, au cours des 12 mois précédant son accident si son emploi a duré au moins 12 mois au service du même employeur, ou au cours de toute autre période moindre pendant laquelle il a été au service de son employeur, suivant la méthode qu'elle croit la mieux appropriée aux circonstances.
+
+Si, eu égard à la période limitée pendant laquelle le travailleur a été au service de son employeur ou à la nature occasionnelle ou aux conditions spéciales de son travail, la commission ne peut déterminer ses gains d'après la méthode prévue par l'alinéa précédent, elle peut les baser sur les gains d'un travailleur de la même catégorie occupant le même emploi au service du même employeur sur une période de 12 mois précédant l'accident, ou, à défaut, d'après les gains d'un travailleur de même catégorie occupant le même emploi dans la même région économique ou dans la même localité sur une période de 12 mois précédant l'accident.
+
+ 3. Lorsqu'un travailleur est au service de plusieurs employeurs, à tour de rôle, son revenu est celui que, dans l'opinion de la commission, il eût probablement gagné en travaillant uniquement pour l'employeur au service duquel il était lors de l'accident.
+
+ 4. L'emploi par le même employeur signifie l'emploi dans la catégorie dans laquelle le travailleur était employé lors de l'accident, sans interruption pour cause d'absence du travail due à la maladie ou à toute autre cause inévitable.
+
+ 5. Dans la computation du revenu d'un travailleur, les sommes que l'employeur avait l'habitude de lui verser pour payer certaines dépenses spéciales occasionnées par la nature de son emploi, ne doivent pas être prises en considération.
+
+ 6. La commission peut, si elle le croit plus équitable, établir le revenu du travailleur sur la base de ses gains horaires au moment de l'accident en tenant compte de la nature et des conditions particulières de son emploi.
+
+ 7. Pour les fins de la présente loi, la commission établit le revenu:
+
+a)  d'un étudiant qui, sous la responsabilité d'un établissement d'enseignement, effectue un stage non rémunéré dans une industrie, en se basant sur l'ordonnance de la Commission des normes du travail en vigueur au jour de l'accident;
+
+b)  d'une personne qui effectue un travail non rémunéré dans une industrie, en se basant sur l'ordonnance de la Commission des normes du travail en vigueur au jour de l'accident ou, si elle le croit plus équitable, sur les gains d'un travailleur de même catégorie occupant le même emploi dans la même région économique ou dans la même localité sur une période de 12 mois précédant l'accident.
+
+S. R. 1964, c. 159, a. 42; 1966-67, c. 52, a. 8; 1971, c. 45, a. 1; 1975, c. 54, a. 1; 1977, c. 42, a. 5; 1978, c. 57, a. 26; 1979, c. 45, a. 150; 1983, c. 43, a. 1; 1992, c. 68, a. 157; 1997, c. 85, a. 1.
+
+47.  1. En déterminant le montant des rentes hebdomadaires ou mensuelles, la commission doit déduire l'équivalent de ce que l'employeur paye au travailleur pendant son incapacité de travail sous forme de prestation, rente, indemnité ou allocation.
+
+ 2. Lorsque la prestation est payable par le fonds d'accident, la commission doit rembourser l'employeur, à même ce fonds, du montant de toute telle déduction faite au travailleur en vertu du paragraphe précédent.
+
+ 3. La commission peut déduire des rentes hebdomadaires ou mensuelles et rembourser l'équivalent de ce qu'un service d'assistance ou d'assurance paye au travailleur pendant son incapacité de travail, sous forme d'avance.
+
+S. R. 1964, c. 159, a. 43; 1978, c. 57, a. 1.
+
+48. La commission peut, lorsqu'elle le juge à propos, remplacer la rente hebdomadaire par une rente mensuelle ou bimensuelle, ou, lorsque le bénéficiaire réside en dehors du Québec ou cesse d'y résider, par tout autre paiement périodique ou par un paiement unique.
+
+S. R. 1964, c. 159, a. 44; 1978, c. 57, a. 1.
+
+49. La veuve d'un travailleur qui, avant le 1er janvier 1979, avait droit à une rente mensuelle en vertu de l'article 35 tel qu'il existait alors, perd ses droits à cette rente lorsqu'elle se remarie ou cohabite de façon maritale avec un homme pendant trois ans ou, pendant un an si un enfant est issu de leur union, et qu'ils sont publiquement représentés comme conjoints.
+
+La rente de la veuve est alors remplacée par le paiement d'une somme égale au total de la rente pendant deux ans.
+
+S. R. 1964, c. 159, a. 45; 1978, c. 57, a. 27.
+
+50. La commission peut appliquer, en tout ou en partie, au soutien du conjoint ou des enfants d'un travailleur, la rente à laquelle ce travailleur a droit, lorsque:
+
+ a) ce travailleur a quitté le Québec et y a laissé son conjoint ou un ou plusieurs enfants âgés de moins de 18 ans sans moyens suffisants de subsistance; ou
+
+ b) ce travailleur, quoique résidant encore au Québec, néglige ou fait défaut de pourvoir au soutien de son conjoint ou de ses enfants.
+
+S. R. 1964, c. 159, a. 46; 1978, c. 57, a. 28.
+
+51. Lorsque le bénéficiaire d'une rente ou indemnité est un mineur ou une autre personne incapable, la commission peut ordonner, à sa discrétion, que la rente ou indemnité soit payée à une autre personne pour ce bénéficiaire, ou affectée de la manière qu'elle croit à l'avantage de celui-ci.
+
+S. R. 1964, c. 159, a. 47; 1978, c. 57, a. 1.
+
+52. (Abrogé).
+
+1971, c. 45, a. 3; 1978, c. 57, a. 29.
+
+SECTION IV
+~~~~~~~~~~
+
+**DE L'ASSISTANCE MÉDICALE**
+
+53.  1. Un accident visé par la présente loi donne en outre droit, au profit du travailleur, à l'assistance médicale que requiert l'état dans lequel il est par suite de l'accident.
+
+ 2. L'assistance médicale comprend, suivant le cas, l'hospitalisation, les soins médicaux, chirurgicaux et de gardes-malades nécessaires, les remèdes, médicaments et autres produits pharmaceutiques requis, ainsi que la fourniture et le renouvellement normal des appareils de prothèse et d'orthopédie dont l'usage est reconnu nécessaire.  Partout où il se trouve plus d'un centre hospitalier à l'endroit où la victime doit être traitée, cette dernière peut désigner celui de son choix.
+
+ 3. Lorsque l'accident survient dans une industrie assujettie à la présente loi, il doit être fourni à la victime toute l'assistance médicale que son cas requiert.
+
+ 4. Dans tous les cas où un travailleur est victime d'un accident, on doit lui fournir le médecin de son choix dès qu'il est en état de faire connaître ce choix et qu'il juge à propos d'user de son privilège.
+
+ 5. La commission décide de la nécessité, de la nature, de la suffisance ou de la durée de l'assistance médicale, s'il y a désaccord sur une de ces questions.
+
+ 6. Les services rendus par un professionnel de la santé dans le cadre de la présente loi et visés dans le dixième alinéa de l'article 3 de la Loi sur l'assurance maladie (chapitre A-29), édicté par l'article 488 de la Loi sur les accidents du travail et les maladies professionnelles (chapitre A-3.001), à l'exception des services rendus par un professionnel de la santé à la demande de l'employeur, sont payés à ces professionnels par la Régie de l'assurance maladie du Québec conformément aux ententes intervenues dans le cadre de l'article 19 de la Loi sur l'assurance maladie.
+
+Les autres honoraires ou dépenses pour l'assistance médicale ne doivent pas excéder le montant qu'il serait convenable et raisonnable de réclamer du travailleur s'il devait les payer lui-même; et le montant de ces honoraires ou dépenses, sauf convention contraire, est établi et fixé par la commission, et nulle action en recouvrement de l'excédent du montant ainsi fixé n'est reçue par aucune cour de justice.
+
+ 7. Sous réserve des dispositions suivantes, l'employeur ne peut directement ni indirectement, retenir, recevoir ou percevoir d'un travailleur une contribution quelconque pour les honoraires ou dépenses pour l'assistance médicale; un employeur qui enfreint la présente disposition commet une infraction et peut être tenu, sur ordonnance de la commission, en outre de toute autre peine prévue par la présente loi, de rembourser le travailleur du triple du montant ainsi retenu, reçu ou perçu.
+
+ 8. Aucun honoraire ni aucune dépense pour l'assistance médicale prévue par la présente loi ne peut être réclamé d'un travailleur qui subit un accident au sens de la présente loi, et nulle action à cette fin n'est reçue par aucune cour de justice.
+
+ 9. Si un employeur a pris ou prend les mesures nécessaires, relativement à l'industrie qu'il exploite, pour fournir à ses travailleurs une assistance médicale qui soit, de l'avis de la commission, au moins équivalente à celle prévue par le présent article, la commission, après enquête et prenant en considération le désir des travailleurs et de l'employeur, peut approuver les dispositions prises à cette fin.  Ces dispositions, ainsi approuvées, peuvent être mises à effet aussi longtemps que cette approbation n'a pas été révoquée et elles tiennent lieu de l'assistance médicale ci-dessus prévue.  Dans le cas d'une industrie désignée par règlement, l'employeur qui fournit cette assistance médicale a droit à tels remboursements par le fonds d'accident ou à telles réductions de sa cotisation que la commission croit justes.
+
+ 10. (Paragraphe abrogé).
+
+ 11. Lorsqu'il est nécessaire, l'employeur d'un travailleur qui a subi un accident à son emploi doit immédiatement et à ses frais, le faire transporter soit à un centre hospitalier, soit chez le médecin ou soit à la résidence de ce travailleur; et tout employeur qui néglige d'agir ainsi est tenu, sur l'ordre de la commission, de payer le coût de ce transport fait à la demande du travailleur, à celle de toute personne pour lui ou sur l'ordre de la commission.
+
+ 12. Si, outre l'assistance médicale qui doit être fournie gratuitement au travailleur ou relativement à telle assistance médicale, il est suggéré de lui fournir des soins additionnels, la commission décide de l'opportunité et de l'étendue de la contribution du travailleur au coût de ces soins additionnels ou de la légalité de cette contribution de la part du travailleur.
+
+ 13. Le coût de l'assistance médicale est à la charge de la commission; celle-ci rembourse à la Régie de l'assurance maladie du Québec le coût des services visés dans le premier alinéa du paragraphe 6 et les frais d'administration qui s'y rapportent.
+
+Dans le cas d'accidents qui ne rendent pas les travailleurs incapables, au delà de la journée au cours de laquelle l'accident s'est produit, de gagner leur salaire intégral dans l'emploi qu'ils occupent au moment de l'accident et qui ne donnent lieu à aucune autre prestation que des services rendus par un médecin, le montant du remboursement pour une année est égal à 5,4% du total, pour cette année, du coût que la Régie a assumé pour les autres services rendus par les médecins dans le cadre de la présente loi et pour les frais d'administration qui s'y rapportent.
+
+Lorsqu'un employeur appartient à une industrie mentionnée dans l'annexe B, il doit rembourser ces dépenses et ces déboursés à la commission de la manière qu'elle détermine par règlement.
+
+S. R. 1964, c. 159, a. 48; 1971, c. 48, a. 161; 1978, c. 57, a. 1, a. 30; 1985, c. 6, a. 480; 1997, c. 43, a. 4; 1999, c. 89, a. 53.
+
+53.1. La commission et la Régie de l'assurance maladie du Québec concluent une entente au sujet du mode de remboursement des sommes que la Régie débourse dans l'application de la présente loi et au sujet de la détermination des frais d'administration qu'elle fait pour payer les services visés dans le premier alinéa du paragraphe 6 de l'article 53.
+
+1985, c. 6, a. 481; 1999, c. 89, a. 53.
+
+54. Le médecin, le chirurgien ou le représentant d'un centre hospitalier qui a traité un travailleur ou en a pris soin ou a été consulté à son sujet et l'expert qui l'a examiné à la demande de la commission doivent faire rapport à cette dernière, de leurs constatations, traitements et recommandations, dans les six jours du premier traitement, de la consultation ou de l'examen; ils doivent également fournir à la commission les rapports qu'elle leur demande relativement à ce travailleur et qui, selon la commission, sont pertinents pour rendre une décision sur sa réclamation; et à défaut de faire ces rapports, chacun d'eux perd le droit de recouvrer le coût de ses services.
+
+S. R. 1964, c. 159, a. 49; 1971, c. 48, a. 161; 1978, c. 57, a. 1; 1985, c. 6, a. 482; 1986, c. 95, a. 8.
+
+55. Les rapports faits à la commission par un médecin, un praticien ou un expert sont confidentiels.  Nul ne peut en donner ou recevoir communication écrite ou verbale ou y avoir autrement accès, sauf aux fins de l'application  de la présente loi ou de l'examen d'une demande de révision par un bureau de révision ou d'une audition devant le Tribunal administratif du Québec, si ce n'est avec l'autorisation expresse ou implicite du bénéficiaire ou encore sur l'ordre d'un tribunal.
+
+Malgré le premier alinéa, la commission doit communiquer au médecin désigné par l'employeur tout rapport relatif à un accident qui lui est fait par un médecin, un praticien ou un expert si l'employeur le requiert.
+
+Malgré l'article 19 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2), un établissement au sens de cette loi doit faire parvenir à la commission, ou à un médecin qu'elle désigne, sur demande, une copie, un extrait ou un résumé du dossier d'un usager et qui, selon la commission, sont pertinents pour rendre une décision sur une réclamation. Il en est de même pour un établissement au sens de la Loi sur les services de santé et les services sociaux pour les autochtones cris (chapitre S-5).
+
+Un travailleur à qui la commission interdit l'accès à son dossier médical ou refuse de lui en donner la communication écrite ou verbale peut, par requête sommaire, s'adresser à un juge de la Cour supérieure ou de la Cour du Québec pour obtenir l'accès à celui-ci ou pour en obtenir communication selon le cas.
+
+S. R. 1964, c. 159, a. 50; 1971, c. 48, a. 161; 1977, c. 42, a. 6; 1978, c. 57, a. 1; 1979, c. 63, a. 255; 1986, c. 95, a. 9; 1988, c. 21, a. 66; 1997, c. 43, a. 5; 2005, c. 32, a. 230.
+
+SECTION V
+~~~~~~~~~
+
+**DE LA RÉADAPTATION**
+
+56. La commission prend les mesures qu'elle croit nécessaires et fait les dépenses qu'elle croit opportunes pour contribuer à la réadaptation d'un travailleur victime d'un accident ou d'une maladie professionnelle, pour atténuer ou faire disparaître toute incapacité résultant d'une lésion et pour faciliter son retour à la vie normale et sa réinsertion dans la société et sur le marché du travail.
+
+S. R. 1964, c. 159, a. 51; 1978, c. 57, a. 31.
+
+56.1. Dans l'exercice des fonctions qui lui incombent en matière de réadaptation, la commission peut notamment:
+
+ a) organiser et dispenser des services de réadaptation;
+
+ b) développer, soutenir et stimuler les activités des professionnels de la santé, des établissements de santé, des ministères et de tout autre organisme qui s'occupent de réadaptation et coopérer avec eux;
+
+ c) évaluer les services disponibles pour la réadaptation ainsi que leur efficacité;
+
+ d) faire effectuer des recherches sur des méthodes nouvelles de réadaptation;
+
+ e) s'assurer de l'efficacité des mesures de réadaptation et apporter les correctifs appropriés;
+
+ f) diffuser toute information en matière de réadaptation;
+
+ g) faciliter au travailleur victime d'un accident l'accès à des services de consultation dans le domaine de la réadaptation;
+
+ h) assurer au travailleur atteint d'une incapacité à la suite d'un accident ou d'une maladie professionnelle l'accès à des services de consultation notamment dans les domaines de l'orientation professionnelle, de la psychologie, du service social et de la main-d'oeuvre, de façon à favoriser sa réinsertion dans la fonction qu'il exerçait avant son accident;
+
+ i) dans le cas où la réinsertion du travailleur dans la fonction qu'il exerçait avant son accident est impossible, pourvoir à sa rééducation ou à sa formation et lui fournir toute forme d'assistance afin de lui permettre d'accéder à un travail adapté à sa capacité résiduelle;
+
+ j) assurer l'octroi d'une assistance financière au travailleur atteint d'une incapacité résultant d'un accident ou d'une maladie professionnelle dans les cas où elle le juge utile ou nécessaire à sa réinsertion au travail, pendant un stage de formation, d'éducation ou d'apprentissage ou dans d'autres cas qu'elle détermine par règlement; ou
+
+ k) dans le cas d'incapacité permanente obligeant le travailleur à séjourner dans un établissement au sens de la Loi sur les services de santé et les services sociaux (chapitre S-5), favoriser l'adaptation de son lieu de résidence aux besoins de ce travailleur si une telle adaptation peut lui permettre de quitter l'établissement.
+
+1978, c. 57, a. 31.
+
+56.2. Les dépenses et déboursés qui peuvent être effectués pour les fins de la présente section sont payés par la commission et prélevés de la manière prévue par la section X.
+
+Lorsqu'un employeur appartient à une industrie mentionnée dans l'annexe B, il doit, dans les 30 jours d'une demande à cet effet, rembourser à la commission ces dépenses et déboursés.  À défaut, la commission rend une décision qui indique la nature, le montant et la date de ces dépenses et déboursés ainsi que le nom du travailleur pour qui ils ont été faits.
+
+1978, c. 57, a. 31; 1988, c. 66, a. 2.
+
+SECTION VI
+~~~~~~~~~~
+
+**DE LA COMMISSION**
+
+57. (Abrogé).
+
+S. R. 1964, c. 159, a. 52; 1966-67, c. 17, a. 9; 1966-67, c. 85, a. 2; 1969, c. 52, a. 4; 1977, c. 5, a. 14; 1978, c. 57, a. 32; 1978, c. 15, a. 140; 1979, c. 63, a. 256.
+
+58. (Abrogé).
+
+S. R. 1964, c. 159, a. 54; 1979, c. 63, a. 256.
+
+59. (Abrogé).
+
+S. R. 1964, c. 159, a. 55; 1979, c. 63, a. 256.
+
+60. (Abrogé).
+
+S. R. 1964, c. 159, a. 56; 1979, c. 63, a. 256.
+
+61.  1. (Paragraphe abrogé).
+
+ 2. Lorsque la commission ou une personne désignée par elle fait enquête au chef-lieu d'un district judiciaire, le shérif est tenu de fournir un local pour la tenue de cette enquête.
+
+ 3. Lorsqu'une enquête a lieu dans une localité où siège la Cour du Québec, le greffier de cette cour est tenu de permettre à la commission ou à la personne désignée par elle, l'usage du local destiné à la Cour du Québec, à moins que la cour n'y soit alors tenue.
+
+S. R. 1964, c. 159, a. 57; 1965 (1re sess.), c. 17, a. 2; 1979, c. 63, a. 257; 1988, c. 21, a. 66.
+
+62. (Abrogé).
+
+S. R. 1964, c. 159, a. 58; 1966-67, c. 17, a. 10; 1978, c. 15, a. 140; 1979, c. 63, a. 258.
+
+63.  1. Sous réserve de l'article 70 et du recours prévu à l'article 65, la commission a compétence exclusive pour examiner et décider toute affaire et question touchant la présente loi et disposer de toutes autres affaires ou choses au sujet desquelles un pouvoir, une autorité ou une discrétion lui sont conférés.
+
+Sauf sur une question de compétence, aucun recours en vertu de l'article 33 du Code de procédure civile (chapitre C-25) ou recours extraordinaire au sens de ce code ne peut être exercé, ni aucune injonction accordée contre la commission ou ses membres agissant en leur qualité officielle.
+
+Un juge de la Cour d'appel peut, sur requête, annuler par procédure sommaire toute procédure entreprise ou décision rendue à l'encontre des dispositions de l'alinéa qui précède.
+
+ 2. Sans limiter la généralité des dispositions du paragraphe précédent, la commission a compétence exclusive pour décider:
+
+a)  la nature de l'industrie qu'un employeur exploite, selon ses principales activités;
+
+b)  dans quel secteur d'activités économiques et dans quelle unité ou classe d'unités tel employeur, telle industrie ou une partie, un département ou une succursale de telle industrie doit être compris;
+
+c)  toute affaire ou question relative à la classification des industries, à la cotisation des employeurs, à l'assistance médicale ou à la réadaptation.
+
+ 3. Sauf dans les cas où elle a délégué ses pouvoirs suivant les paragraphes 4 et 5, la commission peut en tout temps, relativement aux matières qui sont de sa compétence, reconsidérer une question décidée par elle, rescinder, amender ou changer ses décisions et ses ordonnances.
+
+ 4. La commission peut déléguer généralement à ceux de ses fonctionnaires qu'elle désigne ses pouvoirs pour examiner et décider toute affaire et question relative au droit à une indemnité, au quantum d'une indemnité, au taux de diminution de capacité de travail et à la recevabilité d'une demande d'un proche d'une victime d'un acte criminel visé à l'article 5.1 de la Loi sur l'indemnisation des victimes d'actes criminels (chapitre I-6) pour des services de réadaptation psychothérapeutique.
+
+ 5. La commission peut constituer des bureaux de révision, composés de ceux de ses fonctionnaires qu'elle désigne pour un terme précisé à l'acte de désignation, et dont elle détermine le nombre, et déléguer généralement à ces bureaux ses pouvoirs pour examiner et décider en révision toute affaire relative à l'une des matières énumérées au paragraphe 4.
+
+ 6. Les décisions que rendent ces personnes et ces bureaux sont régies par le paragraphe 8 et elles ont la même valeur que si la commission les eût rendues elle-même.
+
+ 7. Les personnes désignées suivant le paragraphe 4 et les membres des bureaux de révision sont investis des pouvoirs et de l'immunité des commissaires nommés en vertu de la Loi sur les commissions d'enquête (chapitre C-37), sauf de celui d'imposer l'emprisonnement.
+
+ 8. La commission rend ses décisions suivant l'équité, d'après le mérite réel et la justice du cas; elle peut, par tous les moyens légaux qu'elle juge les meilleurs, s'enquérir des matières qui lui sont attribuées.  Ses décisions doivent être motivées.
+
+ 9. (Paragraphe abrogé).
+
+ 10. (Paragraphe abrogé).
+
+S. R. 1964, c. 159, a. 59; 1965 (1re sess.), c. 80, a. 1; 1977, c. 42, a. 7; 1978, c. 57, a. 1, a. 33; 1979, c. 63, a. 259; 1985, c. 6, a. 483; 1986, c. 95, a. 10; 1997, c. 43, a. 6; 2006, c. 41, a. 6.
+
+64. Toute personne qui se croit lésée par une décision rendue par un fonctionnaire désigné suivant le paragraphe 4 de l'article 63 peut demander à un bureau de révision constitué suivant le paragraphe 5 dudit article une révision de cette décision.  Elle expose brièvement les principaux motifs sur lesquels elle s'appuie ainsi que l'objet de la décision sur laquelle elle porte.  Une copie de cette demande est notifiée au procureur général par le bureau.
+
+La demande est formée par un écrit adressé au bureau de révision dans les 30 jours de la notification de la décision si celle-ci porte sur le droit à une indemnité ou sur le quantum d'une indemnité et dans les 90 jours de la notification de la décision si celle-ci porte sur le degré de diminution de capacité de travail.
+
+Un bureau de révision peut permettre à une personne d'agir après l'expiration des délais fixés par l'alinéa précédent si cette personne démontre qu'elle a été, en fait, dans l'impossibilité d'agir plus tôt.
+
+Après avoir donné au demandeur et au procureur général l'occasion de présenter leurs observations, le bureau peut confirmer, infirmer ou modifier la décision et, s'il y a lieu, rendre la décision qui, à son avis, aurait dû être rendue.
+
+La décision doit être écrite, motivée et notifiée au demandeur ainsi qu'au procureur général avec la mention de leur droit de la contester devant le Tribunal administratif du Québec et du délai pour ce faire.
+
+1977, c. 42, a. 8; 1978, c. 57, a. 1; 1997, c. 43, a. 7.
+
+65. Toute personne qui se croit lésée par une décision rendue par un bureau de révision peut, dans les 60 jours de sa notification, la contester devant le Tribunal administratif du Québec.
+
+En outre, une personne peut contester devant le Tribunal la décision dont elle a demandé la révision si le bureau n'a pas disposé de la demande dans les 90 jours suivant sa réception, sous réserve de ce qui suit:
+
+ 1° lorsque la personne qui a demandé la révision a requis un délai pour présenter ses observations ou produire des documents, le délai de 90 jours court à partir de cette présentation ou de cette production;
+
+ 2° lorsque le bureau estime qu'un examen par un professionnel de la santé ou la transmission de documents est nécessaire à la prise de la décision, le délai est prolongé de 90 jours; la personne qui a demandé la révision doit en être avisée.
+
+1977, c. 42, a. 8; 1997, c. 43, a. 8; 2005, c. 17, a. 31.
+
+65.1. Une demande de révision à un bureau de révision ou un recours formé devant le Tribunal administratif du Québec ne suspend pas le paiement d'une indemnité versée sous forme de rente.
+
+1978, c. 57, a. 34; 1997, c. 43, a. 9.
+
+66. (Abrogé).
+
+S. R. 1964, c. 159, a. 60; 1978, c. 57, a. 35; 1979, c. 63, a. 260.
+
+67. (Abrogé).
+
+S. R. 1964, c. 159, a. 61; 1979, c. 63, a. 260.
+
+68. (Abrogé).
+
+S. R. 1964, c. 159, a. 62; 1978, c. 57, a. 36; 1979, c. 63, a. 260.
+
+69. (Abrogé).
+
+S. R. 1964, c. 159, a. 63; 1979, c. 63, a. 260.
+
+70.  1. Sur dépôt au bureau du greffier de la Cour supérieure du district de Québec ou du district dans lequel le débiteur a son domicile ou un bureau, d'une copie authentique d'une décision de la commission, la cour peut, sur requête sommaire de la commission ou de toute partie intéressée, homologuer avec dépens contre le débiteur, la décision, laquelle devient exécutoire comme tout autre jugement.  Durant les vacances judiciaires ou hors de terme, le juge de la Cour supérieure a la même compétence que la cour pour les fins du présent article.
+
+La requête pour homologation doit être signifiée à la partie contre qui la décision a été rendue, de la même manière et avec le même délai qu'une action ordinaire en Cour supérieure.
+
+Si, dans ce délai, l'intimé produit une comparution accompagnée d'un affidavit attestant que de bonne foi il a une contestation à offrir, la requête, sur demande à cet effet, est renvoyée, le cas échéant, pour audition et adjudication à la Cour supérieure du district de son domicile ou de son bureau.
+
+ 2. La décision de la commission est exécutoire 15 jours après la date à laquelle elle a été homologuée.
+
+ 3. Les jugements homologuant les décisions de la commission sont définitifs et sans appel.
+
+S. R. 1964, c. 159, a. 64; 1979, c. 63, a. 261.
+
+71. Le travailleur qui désire faire homologuer une décision rendue en sa faveur peut s'adresser à la Cour supérieure du district de son domicile.
+
+S. R. 1964, c. 159, a. 65; 1978, c. 57, a. 1.
+
+72. (Abrogé).
+
+S. R. 1964, c. 159, a. 66; 1968, c. 23, a. 8; 1969, c. 26, a. 21; 1978, c. 57, a. 37.
+
+73. (Abrogé).
+
+S. R. 1964, c. 159, a. 67; 1970, c. 17, a. 102; 1979, c. 63, a. 262.
+
+74. (Abrogé).
+
+S. R. 1964, c. 159, a. 68; 1968, c. 9, a. 90; 1979, c. 63, a. 262.
+
+75. L'Autorité des marchés financiers ou un membre de son personnel nommé par elle à cette fin, doit, une fois par année, et chaque fois qu'elle en est requise par le gouvernement, examiner les livres et les opérations de la commission pour s'assurer de la suffisance du fonds d'accident, et elle doit faire rapport au gouvernement.
+
+S. R. 1964, c. 159, a. 69; 1982, c. 52, a. 47; 2004, c. 37, a. 91.
+
+76. (Abrogé).
+
+S. R. 1964, c. 159, a. 70; 1978, c. 57, a. 38.
+
+77. (Abrogé).
+
+S. R. 1964, c. 159, a. 71; 1978, c. 57, a. 38.
+
+SECTION VII
+~~~~~~~~~~~
+
+**DE LA CONTRIBUTION DU QUÉBEC**
+
+78. (Abrogé).
+
+S. R. 1964, c. 159, a. 72; 1979, c. 63, a. 262.
+
+SECTION VIII
+~~~~~~~~~~~~
+
+**DU FONDS D'ACCIDENT**
+
+79.  1. Un fonds d'accident est établi pour pourvoir au paiement des prestations ainsi qu'à toute autre obligation qui incombe à la commission par la présente loi.
+
+Tous les employeurs, sauf ceux dont l'industrie est mentionnée dans l'annexe B, doivent participer au financement du fonds.
+
+ 2. La commission peut, par règlement, déterminer des secteurs d'activités économiques et définir les unités et les classes d'unités qui y sont rattachées.  Elle classe chaque employeur, selon les activités principales qu'il exerce, dans une ou plusieurs unités.
+
+ 3. La commission fixe annuellement, par ordonnance, les taux de cotisation applicables à une unité ou à une classe d'unités.
+
+S. R. 1964, c. 159, a. 73; 1978, c. 57, a. 39.
+
+80. Si la commission n'a pas les fonds nécessaires pour payer les prestations ou les dépenses prévues par la présente loi, le gouvernement peut, chaque fois que la commission lui en fait la demande, autoriser le ministre des Finances à lui avancer à même le fonds consolidé du revenu les sommes requises.
+
+Les sommes ainsi avancées sont remboursées au ministre des Finances par la commission et sont versées au fonds consolidé du revenu.
+
+S. R. 1964, c. 159, a. 74; 1978, c. 57, a. 1.
+
+81. Il est du devoir de la commission, à moins que le gouvernement n'en ordonne autrement, de maintenir le fonds d'accident de sorte que, avec le fonds de réserve, mais à l'exclusion de la réserve spéciale, il soit continuellement suffisant pour faire face à toutes les prestations imputables à ce fonds, au fur et à mesure de leur échéance, et de manière qu'ultérieurement les employeurs ne soient pas obérés à raison des paiements à faire concernant les accidents arrivés auparavant.
+
+S. R. 1964, c. 159, a. 75; 1978, c. 57, a. 1.
+
+82.  1. Sauf le cas prévu par l'article 102, la commission n'est pas tenue de constituer et de maintenir un fonds de réserve en tout temps égal au capital représentatif des paiements de la prestation à échoir dans les années à venir, à moins qu'elle ne soit d'avis d'en agir ainsi pour se conformer aux dispositions de l'article 81.
+
+ 2. Il n'est pas nécessaire que le fonds de réserve soit uniforme pour toutes les unités ou toutes les classes d'unités mais, sujet aux dispositions des articles 81 et 102, la commission peut établir un fonds de réserve variant d'une unité ou d'une classe d'unités à l'autre.
+
+S. R. 1964, c. 159, a. 76; 1978, c. 57, a. 1, a. 40.
+
+83. Les sommes perçues par la commission sont, au fur et à mesure de leur perception, déposées dans une banque ou dans une caisse d'épargne et de crédit régie par la Loi sur les caisses d'épargne et de crédit (chapitre C-4).
+
+Les sommes dont la commission prévoit ne pas avoir un besoin immédiat pour ses frais d'administration et pour le paiement d'indemnités ou de prestations sont déposées sans délai auprès de la Caisse de dépôt et placement du Québec.
+
+1972, c. 41, a. 2; 1978, c. 57, a. 1.
+
+84.  1. La commission tient des comptes séparés indiquant les montants perçus et dépensés dans chaque secteur d'activités économiques, dans chaque classe d'unités et dans chaque unité, mais pour les fins du paiement des prestations, le fonds d'accident demeure indivisible.
+
+ 2. Lorsque la commission croit que les accidents dans une industrie sont en partie dus au fait que l'on a négligé de prendre les mesures nécessaires pour les prévenir, ou lorsqu'elle est d'avis que les conditions du travail, les machines ou appareils dans cette industrie sont défectueux ou insuffisants, elle peut, aussi longtemps qu'elle constate que cet état de chose se continue, ajouter au montant de la contribution au fonds d'accident de l'employeur qui exploite cette industrie tel pourcentage qu'elle estime juste et en prélever le montant de cet employeur.  La commission peut encore, à sa discrétion, exclure cette industrie de l'unité ou de la classe d'unités dans laquelle elle est comprise et l'ajouter aux industries de l'annexe B.
+
+ 3. Le pourcentage additionnel prélevé et perçu en vertu du paragraphe 2 est, à la discrétion de la commission, ajouté au fonds d'accident ou appliqué en déduction de la contribution des autres employeurs de l'industrie, de l'unité ou de la classe d'unités à laquelle appartient l'employeur de qui ce pourcentage est perçu.
+
+S. R. 1964, c. 159, a. 77; 1978, c. 57, a. 41.
+
+85. La commission peut, lorsqu'une industrie a été transportée de l'annexe B à celles désignées par règlement mettre à la charge du fonds d'accident les obligations découlant d'accidents survenus avant ce transport, moyennant la remise, par l'employeur ou son assureur, d'une réserve établie d'après les dispositions législatives en vigueur lors de chacun de ces accidents.
+
+S. R. 1964, c. 159, a. 79; 1978, c. 57, a. 1.
+
+86. La commission peut, à la demande d'un employeur, ajouter à une unité ou à une classe d'unités, pour telle période de temps et à telles conditions qu'elle détermine, une industrie ou une partie d'industrie que cet employeur exploite.
+
+S. R. 1964, c. 159, a. 80; 1978, c. 57, a. 42.
+
+87. (Abrogé).
+
+S. R. 1964, c. 159, a. 81; 1968, c. 23, a. 8; 1978, c. 57, a. 43.
+
+SECTION IX
+~~~~~~~~~~
+
+**DES DÉCLARATIONS DES EMPLOYEURS**
+
+88.  1. L'employeur doit chaque année, le ou avant le jour fixé par les règlements de la commission, préparer et transmettre à la commission un état démontrant les salaires gagnés par tous ses employés, y compris, le cas échéant, les pourboires qu'il est réputé leur avoir versés en vertu de l'article 1015.2 de la Loi sur les impôts (chapitre I-3), au cours des 12 mois qui ont précédé la date déterminée par la commission ou au cours d'une partie de ces 12 mois indiquée par elle, un état du montant des salaires qu'il prévoit devoir payer, y compris, le cas échéant, les pourboires qu'il sera réputé verser en vertu de cet article 1015.2, au cours de l'année courante ou de cette partie de l'année indiquée par la commission, le nombre d'employés visés dans chaque cas et tous autres renseignements additionnels demandés par la commission.
+
+L'exactitude de cet état est attestée par une déclaration sous serment donnée par l'employeur ou son gérant, ou si l'employeur est une personne morale, par un de ses administrateurs ou autres dirigeants ayant une connaissance personnelle des matières qui en font l'objet.
+
+ 2. Aux fins de la présente loi, tout employeur doit tenir, suivant la forme ordinaire et avec tous les détails requis, un état précis et exact de tous les salaires qu'il paie à ses employés, y compris, le cas échéant, les pourboires qu'il est réputé leur verser en vertu de l'article 1015.2 de la Loi sur les impôts; cet état doit être constamment gardé au Québec et communiqué, sur demande, à la commission ou à ses employés.
+
+ 3. Lorsque l'entreprise de l'employeur comprend plusieurs genres d'affaires ou plus d'un établissement au sens du la Loi sur la santé et la sécurité du travail (chapitre S-2.1), la commission peut exiger de cet employeur des états distincts pour chaque genre d'affaires et chaque établissement et ces états doivent être faits, vérifiés et transmis conformément au paragraphe 1.
+
+ 4. Si l'employeur ne fait pas et ne transmet pas à la commission l'état ci-dessus prescrit dans le temps requis, la commission peut établir le montant probable de la liste des salaires de cet employeur pour les fins de toute cotisation ordinaire ou supplémentaire, et l'employeur est imposé et cotisé en conséquence.  Si par la suite il est établi que la liste des salaires de cet employeur a excédé le montant fixé par la commission, cet employeur doit payer à la commission la différence entre le montant imposé et cotisé et le montant qui aurait dû l'être d'après la liste réelle des salaires.
+
+ 5. La commission peut, si l'employeur ne produit pas l'état prescrit par le paragraphe 1, tarde à le produire ou produit un estimé insuffisant des salaires qu'il doit payer à ses employés, y compris, le cas échéant, les pourboires qu'il est réputé leur verser en vertu de l'article 1015.2 de la Loi sur les impôts, en outre de toute autre peine prévue par la présente loi, ordonner à cet employeur de payer, selon le cas, une cotisation additionnelle ou des intérêts dont elle fixe le montant.
+
+S. R. 1964, c. 159, a. 82; 1978, c. 57, a. 44; 1979, c. 63, a. 263; 1983, c. 43, a. 2; 1990, c. 4, a. 28.
+
+89. Tout employeur qui exploite une industrie soumise aux dispositions de la présente loi doit obtenir de la commission et afficher dans son établissement à un endroit visible où  tous ses travailleurs ont accès, un certificat établissant qu'il a fait et fourni à la commission les états et rapports prescrits par l'article 88.
+
+S. R. 1964, c. 159, a. 83; 1978, c. 57, a. 1, a. 45.
+
+90. (Abrogé).
+
+S. R. 1964, c. 159, a. 84; 1978, c. 57, a. 46.
+
+91. La commission ou une personne qu'elle désigne a le droit d'examiner en tout temps les livres, documents, dossiers ainsi que la comptabilité d'un employeur et de faire telle enquête que la commission juge utile aux fins de faire toute constatation nécessaire à l'application des lois qu'elle administre et notamment, pour vérifier si un rapport qui lui a été fourni en vertu de l'article 88 est un état fidèle des matières qu'il doit contenir, pour s'assurer du montant exact du rôle de la liste des salaires de l'employeur, pour déterminer la proportion dans laquelle un employeur doit contribuer au fonds d'accident ou pour vérifier si un employeur se conforme à l'article 22 de la loi.
+
+S. R. 1964, c. 159, a. 85; 1978, c. 57, a. 47; 1979, c. 63, a. 264.
+
+92.  1. Si un état est déclaré inexact, la cotisation est faite d'après le véritable montant de la liste des salaires telle qu'établie par cet examen ou par cette enquête; si l'employeur a été cotisé sur la base de la liste des salaires indiquée dans son état, il doit payer à la commission la différence entre le montant pour lequel il a été cotisé et celui pour lequel il aurait dû l'être si le montant exact de la liste des salaires avait été déclaré, et il est en outre tenu de payer à titre de cotisation supplémentaire, une somme égale à cette différence.
+
+ 2. Si la commission est convaincue que l'état n'a pas été faussé intentionnellement, elle peut faire remise de la cotisation supplémentaire ou d'une partie de la cotisation supplémentaire imposée à cet employeur en vertu du paragraphe précédent.
+
+S. R. 1964, c. 159, a. 86; 1978, c. 57, a. 48; 1990, c. 4, a. 29.
+
+93. (Abrogé).
+
+S. R. 1964, c. 159, a. 87; 1978, c. 57, a. 1, a. 49; 1979, c. 63, a. 265.
+
+94. (Abrogé).
+
+S. R. 1964, c. 159, a. 88; 1978, c. 57, a. 50; 1979, c. 63, a. 265.
+
+SECTION X
+~~~~~~~~~
+
+**DES COTISATIONS**
+
+95.  1. La commission doit, chaque année, cotiser les employeurs, autres que ceux exploitant une industrie mentionnée dans l'annexe B, aux taux applicables à l'unité ou à la classe d'unités à laquelle appartient leur industrie, pour pourvoir au financement du fonds d'accident et, notamment:
+
+a)  pour payer les prestations de l'année courante à raison de tout accident qui survient aux travailleurs employés dans les industries de telle unité ou de telle classe d'unités;
+
+b)  pour payer les dépenses encourues par la commission dans l'administration de la présente loi, au cours de ladite année, ou telle proportion des dépenses à laquelle il n'aura pas été autrement pourvu;
+
+c)  pour maintenir un fonds de réserve estimé suffisant par la commission pour rencontrer les prestations à échoir, relativement aux réclamations pour accidents survenus dans cette unité ou dans cette classe d'unités au cours de l'année et éviter ainsi que les employeurs ne soient plus tard injustement obérés par les paiements à faire par suite d'accidents survenus antérieurement.
+
+À cette fin, la commission doit prélever tel pourcentage de l'état des salaires ou telle autre somme qu'elle estime suffisant.
+
+ 2. Lorsque l'employeur est un entrepreneur ou un sous-entrepreneur, la commission peut, lorsqu'elle le croit opportun, établir le pourcentage de la cotisation de cet employeur sur le prix convenu pour les travaux exécutés par lui au lieu de l'établir d'après sa liste des salaires.
+
+ 3. Si l'employeur exploite à la fois, soit directement, soit par l'entremise d'un entrepreneur ou d'un sous-entrepreneur, plusieurs industries sujettes à des taux différents, la commission peut déterminer la proportion de la liste soumise qui doit être considérée comme frais généraux et cotiser ces frais généraux proportionnellement entre toutes les industries exploitées.
+
+ 4. Si la commission le croit opportun, ces cotisations peuvent être imposées provisoirement d'après l'évaluation de la liste des salaires fournie par l'employeur, ou d'après une évaluation faite par la commission, sauf rajustement du montant exact après que la liste des salaires a été vérifiée; et ces cotisations, à la discrétion de la commission, peuvent être acquittées par paiements différés.
+
+ 5. Pour les fins des sections VIII, IX et X, l'artisan visé dans l'article 13 est considéré comme un employeur.
+
+La commission peut, si elle en est requise, considérer une association d'artisans comme un employeur.  En pareil cas, la commission cotise l'association pour tous ses membres et ces derniers bénéficient de la protection de la présente loi dans les cas autres que ceux prévus au sous-paragraphe q du paragraphe 1 de l'article 2.
+
+S. R. 1964, c. 159, a. 89; 1978, c. 57, a. 51.
+
+96.  1. Quand la cotisation est déterminée d'après la liste des salaires de l'employeur et que cette liste indique le salaire ou les gages d'un travailleur payé sur une base supérieure au maximum annuel assurable établi en vertu du paragraphe 1 de l'article 46, l'excédent est déduit du montant de la liste et la cotisation est déterminée d'après le montant de la liste ainsi réduite.
+
+ 2. Il n'est pas nécessaire que la cotisation prélevée sur les employeurs d'une unité ou d'une classe d'unités soit uniforme pour tous ces employeurs, mais elle peut varier pour chaque industrie comprise dans une unité ou dans une classe d'unités en raison des dangers inhérents à cette industrie.
+
+ 3. Il peut être établi un système de cotisation basé sur le mérite ou le démérite si la commission le juge opportun.
+
+S. R. 1964, c. 159, a. 90; 1966-67, c. 52, a. 9; 1971, c. 45, a. 1; 1975, c. 54, a. 1; 1977, c. 42, a. 9; 1978, c. 57, a. 1, a. 52.
+
+97.  1. La commission doit déterminer le pourcentage, le taux ou la somme imposés à chaque employeur en vertu des dispositions des articles 95 et 96, ou le montant de son imposition provisoire, et l'employeur doit payer à la commission le montant de cette imposition provisoire ou de sa cotisation dans le mois ou à telle autre époque que la commission peut fixer, à compter de l'avis de cotisation spécifiant le montant à payer.  Lorsque le paiement peut être fait en plusieurs versements, l'employeur doit payer le premier versement dans le délai ci-dessus indiqué et le versement ou les versements subséquents à l'époque ou aux époques indiquées dans l'avis.
+
+ 2. L'avis peut être expédié à l'employeur par la poste et il est sensé lui avoir été donné le jour où il a été déposé à la poste.
+
+ 3. S'il est constaté qu'un état ou une évaluation de la liste des salaires servant de base à une cotisation ou à une imposition provisoire est trop bas, l'employeur doit, sur demande, payer à la commission telle somme additionnelle fixée par elle pour rétablir le montant de la cotisation ou de l'imposition provisoire à son chiffre exact; et cet employeur peut être contraint au paiement de ladite somme de la manière prévue pour le paiement des cotisations.
+
+S. R. 1964, c. 159, a. 91.
+
+98. S'il est constaté que la somme réalisée au moyen d'une cotisation est insuffisante pour les fins pour lesquelles elle est prélevée, la commission peut imposer une cotisation supplémentaire pour combler le déficit, et l'article 97 régit cette cotisation supplémentaire, mais la commission peut différer telle cotisation supplémentaire jusqu'à la prochaine cotisation annuelle et inclure alors dans cette cotisation annuelle le montant nécessaire pour combler ce déficit.
+
+S. R. 1964, c. 159, a. 92.
+
+99.  1. Lorsque l'insuffisance du montant réalisé à la suite d'une cotisation dans une unité ou dans une classe d'unités provient du défaut de certains employeurs de cette unité ou de cette classe d'unités de payer leur part de cotisation, ou lorsqu'elle résulte d'un désastre quelconque ou d'autres circonstances qui, dans l'opinion de la commission, ont pour effet d'obérer injustement les employeurs de cette unité ou de cette classe d'unités, le déficit ou la perte peut être comblé par une cotisation supplémentaire imposée sur les employeurs de toutes les classes d'unités, et les dispositions de l'article 97 régissent cette cotisation; la commission peut différer l'imposition de telle cotisation supplémentaire jusqu'à la prochaine cotisation annuelle et inclure alors dans cette cotisation annuelle le montant nécessaire pour combler ce déficit.
+
+ 2. La commission peut, si elle le juge à propos, ajouter à la cotisation imposée à une ou plusieurs unités ou à toutes les classes d'unités, un pourcentage ou un montant additionnel pour créer un fonds spécial qu'elle tient en réserve pour faire face aux pertes causées par un désastre ou par toutes autres circonstances qui, dans l'opinion de la commission, surchargeraient les employeurs d'aucune des unités ou classes d'unités.
+
+ 3. Lorsqu'un employeur emploie un travailleur handicapé par le fait d'un accident antérieur, d'une infirmité congénitale ou d'un état pathologique, la commission peut imputer à un fonds spécial, pour le tout ou pour partie, le coût des dépenses et des prestations relatives à un accident subi par ce travailleur.
+
+ 4. La commission peut ajouter à la cotisation imposée à une ou plusieurs unités ou à toutes les classes d'unités, un pourcentage ou un montant additionnel pour constituer le fonds spécial visé dans le paragraphe 3.
+
+ 5. Lorsqu'un travailleur est victime d'un accident survenu par la faute totale ou partielle d'un employeur dont l'industrie est assujettie à la présente loi, d'un travailleur, préposé ou mandataire d'un tel employeur ou d'une personne conduisant une automobile au sens de la Loi sur l'assurance automobile (chapitre A-25), la commission peut imputer, pour le tout ou pour partie, à un fonds spécial, à l'employeur, à une ou plusieurs unités, ou à toutes les classes d'unités, le coût des dépenses et des prestations relatives à cet accident.
+
+Lorsque l'employeur visé dans l'alinéa précédent est un employeur mentionné dans l'annexe B, la commission lui réclame, pour le tout ou pour partie, le coût des dépenses et des prestations relatives à cet accident.
+
+S. R. 1964, c. 159, a. 93; 1978, c. 57, a. 53.
+
+100.  1. Si le déficit mentionné dans les articles 98 et 99 est comblé, en tout ou en partie, par l'employeur en défaut, le montant ainsi perçu est réparti parmi les autres employeurs proportionnellement à la somme payée par eux à la suite de la cotisation supplémentaire qui leur a été imposée pour combler le déficit, et il leur est crédité lors de la cotisation suivante.
+
+ 2. L'employeur qui aurait dû être cotisé pour une année quelconque et qui ne l'a pas été, reste tenu de payer à la commission le montant pour lequel il aurait dû être cotisé, et il peut être contraint de faire ce paiement de la même manière que s'il s'agissait d'une cotisation.
+
+ 3. Toute somme perçue d'un employeur en vertu du paragraphe 2 est portée au crédit des employeurs de l'unité ou de la classe d'unités à laquelle appartient l'industrie que cet employeur exploite et est déduite de la cotisation suivante.
+
+S. R. 1964, c. 159, a. 94; 1978, c. 57, a. 54.
+
+101. Lors même que le déficit provenant du défaut de paiement d'une cotisation ou de partie d'une cotisation a été comblé par une cotisation supplémentaire, l'employeur qui doit cette cotisation ou partie de cette cotisation demeure tenu de la payer à la commission.
+
+S. R. 1964, c. 159, a. 95.
+
+102. Lorsque le gouvernement est d'opinion que le montant disponible dans le fonds d'accident, y compris les réserves mais à l'exclusion toutefois du fonds spécial, est devenu insuffisant pour faire les paiements des prestations au fur et à mesure qu'ils deviennent échus, et de manière à ne pas obérer injustement à l'avenir les employeurs d'une unité ou d'une classe d'unités en particulier en mettant à leur charge des paiements qui sont dus à raison d'accidents ayant eu lieu les années précédentes, il peut requérir la commission de faire une cotisation supplémentaire pour la somme qui, dans son opinion, doit être ajoutée au fonds d'accident.
+
+Sur cette réquisition, la commission procède immédiatement à faire une cotisation supplémentaire en la manière prévue par la présente loi pour les autres cotisations supplémentaires.
+
+S. R. 1964, c. 159, a. 96; 1978, c. 57, a. 55.
+
+103. Afin de maintenir le fonds d'accident suivant les prescriptions de l'article 81, la commission peut de temps à autre et aussi souvent qu'elle le juge nécessaire, augmenter le montant de toutes les cotisations imposées aux employeurs et percevoir d'eux telles sommes qu'elle croit nécessaires à cette fin; et les sommes ainsi imposées et prélevées forment un fonds de réserve et sont placées conformément aux dispositions du Code civil concernant les placements présumés sûrs.
+
+S. R. 1964, c. 159, a. 97; 1966-67, c. 81, a. 4.
+
+104. Si une cotisation n'est pas payée au temps prescrit, l'employeur en défaut doit payer à titre de cotisation supplémentaire un pourcentage du montant impayé qui peut être prescrit par règlement.
+
+S. R. 1964, c. 159, a. 98; 1978, c. 57, a. 56; 1990, c. 4, a. 30.
+
+105.  1. Tout employeur qui refuse ou néglige de faire et transmettre une liste des salaires, un rapport ou un autre état requis en vertu des articles 88 et 108, ou qui refuse ou néglige de payer une cotisation ou une cotisation spéciale ou supplémentaire, ou le montant d'une cotisation provisoire, ou tout versement ou partie de telles cotisations, doit, en outre des peines et autres obligations auxquelles il peut être soumis, payer à la commission le montant entier ou le capital représentatif tel qu'établi par elle, des prestations dues en raison d'un accident survenu à l'un de ses travailleurs pendant qu'il est ainsi en défaut.  Cet employeur peut être contraint de payer ce montant de la même manière qu'il peut l'être pour le paiement d'une cotisation.
+
+ 2. Lorsqu'elle est d'avis que ce défaut est excusable, la commission peut dans tous les cas exonérer cet employeur, soit d'une partie ou de toute responsabilité encourue par lui en vertu du présent article.
+
+ 3. (Paragraphe abrogé).
+
+S. R. 1964, c. 159, a. 99; 1978, c. 57, a. 57.
+
+106. Lorsqu'il y a défaut de payer en tout ou en partie une cotisation quelconque ou une cotisation supplémentaire ou spéciale, la commission peut rendre une décision déclarant qu'une cotisation a été imposée et déterminant le montant dû sur cette cotisation, avec mention des noms et de l'adresse du débiteur.  Cette décision devient exécutoire après avoir été homologuée conformément aux dispositions de l'article 70.
+
+S. R. 1964, c. 159, a. 100.
+
+107. Le jugement homologuant une décision de la commission rendue en vertu de l'article 106 peut être exécuté de la manière ordinaire.
+
+S. R. 1964, c. 159, a. 101.
+
+108. Un employeur doit, dans les dix jours suivant le début des opérations d'une industrie, donner un avis écrit à la commission indiquant:
+
+ a) la nature et le lieu de l'industrie;
+
+ b) une estimation des salaires pour le reste de l'année;
+
+ c) toute autre information déterminée par règlement.
+
+L'employeur qui ne se conforme pas à l'alinéa précédent commet une infraction et est tenu, en outre de toute autre peine ou responsabilité qu'il encourt en vertu de la présente loi, de payer à la commission la cotisation additionnelle ou les intérêts visés dans le paragraphe 5 de l'article 88.
+
+S. R. 1964, c. 159, a. 102; 1978, c. 57, a. 58; 1990, c. 4, a. 31.
+
+109.  1. Lorsqu'un employeur exploite une des industries désignées par règlement et qu'il n'a pas été cotisé pour cette industrie, la commission peut, si elle est d'avis que l'industrie ne doit être exploitée que temporairement, obliger l'employeur à lui payer ou à lui garantir le paiement d'une somme égale à la cotisation à laquelle il eût été tenu si l'industrie avait été en opération lors de la cotisation précédente.
+
+ 2. La commission a les mêmes pouvoirs et a droit aux mêmes recours pour contraindre l'employeur au paiement de cette somme que ceux qu'elle possède ou auxquels elle a droit pour contraindre au paiement des cotisations.
+
+ 3. (Paragraphe abrogé).
+
+S. R. 1964, c. 159, a. 103; 1978, c. 57, a. 1, a. 59.
+
+110.  1. Le montant de toute cotisation ou compensation auquel peut être tenu l'employeur constitue une créance prioritaire sur tous les biens de cet employeur et du principal visé par le paragraphe 3 de l'article 11 de la présente loi, prenant rang immédiatement après les frais de justice.
+
+ 2. Lorsque la prestation est payable par versements périodiques, ces versements sont convertis par la commission, pour les fins du présent article, en un capital représentatif des versements à échoir.
+
+S. R. 1964, c. 159, a. 104; 1978, c. 57, a. 1.
+
+SECTION XI
+~~~~~~~~~~
+
+**DES MALADIES PROFESSIONNELLES**
+
+111.  1. Lorsqu'une maladie professionnelle cause au travailleur une incapacité ou son décès, le bénéficiaire a droit aux prestations prévues par la présente loi, comme si la maladie était une lésion corporelle provenant d'un accident et comme si l'incapacité de travail était le résultat d'un accident, le tout sujet aux dispositions suivantes; nulle prestation n'est payée si le travailleur, lors de son entrée dans l'emploi, a volontairement et faussement représenté par écrit ne pas avoir auparavant souffert de cette maladie.  La réclamation du bénéficiaire doit être produite dans les six mois à compter du moment où il est médicalement établi et porté à sa connaissance qu'il est atteint ou qu'il est décédé d'une maladie professionnelle, selon le cas.
+
+ 2. Lorsqu'en raison d'une maladie professionnelle la prestation est payable par un employeur personnellement, cette prestation est à la charge de l'employeur qui a le dernier utilisé les services du travailleur à un emploi au cours duquel la maladie a originé.
+
+ 3. Sur réquisition à cet effet, le bénéficiaire doit donner à l'employeur mentionné au paragraphe 2 tous les renseignements qu'il possède concernant les noms et les adresses des autres employeurs pour lesquels il a travaillé à un ouvrage qui était de nature à engendrer la maladie; si ces renseignements ne sont pas donnés ou s'ils ne sont pas suffisants pour permettre à l'employeur de procéder tel que prévu au paragraphe 4, en établissant que la maladie n'a pas été contractée pendant que le travailleur était à son emploi, cet employeur peut être exempté de payer toute prestation.
+
+ 4. Le dernier employeur peut, s'il prétend que la maladie a réellement été contractée pendant que le travailleur était au service d'un autre employeur, citer cet autre employeur devant la commission, ou une personne qu'elle désigne, qui, si ce fait est établi, ordonne à ce dernier de payer la prestation.
+
+ 5. S'il s'agit d'une maladie qui se contracte et se développe progressivement, tous les autres employeurs du travailleur qui lui ont fourni un emploi de nature à engendrer telle maladie sont tenus de payer à l'employeur par qui la prestation est due telle quote-part ou contribution que la commission estime juste.
+
+ 6. Le montant de l'indemnité est fixé d'après le revenu du travailleur au service de l'employeur par qui l'indemnité est due et l'avis prescrit par l'article 21 est donné au dernier employeur qui aura fourni à celui-ci un emploi de nature à engendrer telle maladie.
+
+L'avis, dans ce cas, peut être donné même après que le travailleur a volontairement quitté son emploi.
+
+Lorsque le travailleur a quitté l'emploi au cours duquel sa maladie a originé depuis plus d'un an, le montant de l'indemnité est fixé suivant le deuxième alinéa du paragraphe 2 de l'article 46.
+
+ 7. Lorsque la prestation est payable à même le fonds d'accident, la commission doit prendre les mesures nécessaires pour établir à quelle unité, à quelle classe d'unités ou à quel secteur d'activités économiques telle prestation doit être chargée, et agir en conséquence.
+
+ 8. Si, au moment où l'incapacité se manifeste ou immédiatement auparavant, le travailleur était employé dans l'un quelconque des genres d'occupation indiqués dans la seconde colonne de l'annexe D ou des règlements et si la maladie contractée est celle indiquée dans la première colonne de la même annexe ou des règlements en regard de la description de ce genre d'occupation, cette maladie est présumée avoir été causée par ce genre d'occupation. Dans les autres cas, il doit être établi, à la satisfaction de la commission, que la maladie a été causée par le genre d'occupation auquel le travailleur était employé.
+
+Mais aucune prestation n'est payée en vertu de la présente loi à moins que le travailleur n'ait résidé au Québec pendant les trois années qui ont précédé sa réclamation sauf s'il est établi à la satisfaction de la commission que la maladie ne peut être imputée à aucune autre cause qu'à son emploi au Québec.
+
+ 9. Dans le cas d'une maladie non prévue à l'annexe D ou dans les règlements, le présent article s'applique lorsque le bénéficiaire établit, à la satisfaction de la commission, que la maladie a été contractée par le fait ou à l'occasion du travail du travailleur pour un employeur et qu'elle est caractéristique de ce travail ou reliée directement aux risques particuliers de ce travail.
+
+ 10. Dans le cas d'une maladie non prévue par l'annexe D ou par les règlements, le paragraphe 1 s'applique si la maladie du travailleur est causée par une lésion résultant d'un accident lui donnant droit à une prestation en vertu de la présente loi.
+
+S. R. 1964, c. 159, a. 105; 1978, c. 57, a. 1, a. 61; 1979, c. 63, a. 266.
+
+112. Dans la présente loi:
+
+ 1° le mot «pneumoconiose» désigne un état pathologique des poumons dû à l'inhalation d'air chargé de poussière siliceuse, caractérisé anatomiquement par des changements fibreux généralisés dans les deux poumons; ce mot comprend, notamment, les maladies connues sous les noms de «silicose» et d'«amiantose»;
+
+ 2° l'expression «poussière siliceuse» désigne la poussière de silice ou d'autres composés de silicium, y compris l'amiante.
+
+S. R. 1964, c. 159, a. 106.
+
+113. Le travailleur qui a cessé d'être ordinairement et régulièrement employé dans une industrie où il est exposé à l'inhalation de poussière siliceuse doit, sous peine de déchéance, produire sa réclamation pour pneumoconiose et en faire la preuve dans les cinq ans de la date où il a quitté cet emploi.  Cependant, la commission pourra, s'il lui paraît que la justice l'exige, accueillir la réclamation même après ce délai.
+
+S. R. 1964, c. 159, a. 108; 1966-67, c. 52, a. 10; 1978, c. 57, a. 1.
+
+114.  1. La commission peut, à sa discrétion, établir des cliniques et y soumettre à des examens médicaux les travailleurs exposés à l'inhalation de poussière siliceuse.
+
+ 2. Les dépenses effectuées pour ces cliniques sont payées par la commission sur le fonds d'accident et prélevées par voie d'addition à la cotisation de l'unité ou de la classe d'unités à laquelle appartiennent les industries au bénéfice desquelles ces cliniques sont établies.
+
+ 3. La commission peut, de la même manière, contribuer aux dépenses de telles cliniques établies par des employeurs.
+
+ 4. La commission peut, par règlement, pour une industrie, une unité ou une classe d'unités où, à son avis, les travailleurs sont exposés à l'inhalation de la poussière siliceuse, exiger l'examen médical périodique des travailleurs dans une clinique établie ou subventionnée en vertu du présent article.
+
+ 5. Après l'entrée en vigueur d'un tel règlement, aucun employeur d'une industrie y mentionnée ne peut utiliser les services d'un travailleur qui ne lui fournit pas, à l'époque et en la manière fixées par règlement, un certificat attestant qu'il est apte à occuper un emploi pouvant l'exposer à l'inhalation de la poussière siliceuse.
+
+ 6. (Paragraphe abrogé).
+
+ 7. (Paragraphe abrogé).
+
+S. R. 1964, c. 159, a. 109; 1977, c. 42, a. 11; 1978, c. 57, a. 1, a. 62.
+
+SECTION XII
+~~~~~~~~~~~
+
+115. (Abrogé).
+
+S. R. 1964, c. 159, a. 110; 1978, c. 57, a. 64; 1979, c. 63, a. 268.
+
+116. (Abrogé).
+
+S. R. 1964, c. 159, a. 111; 1978, c. 57, a. 65; 1979, c. 63, a. 268.
+
+SECTION XIII
+~~~~~~~~~~~~
+
+**DE LA CONTRIBUTION PAR LES EMPLOYEURS DES INDUSTRIES DE L'ANNEXE B**
+
+117. Les employeurs qui exploitent des industries de l'annexe B doivent payer à la commission telle proportion des dépenses encourues par elle pour l'administration de la présente loi qu'elle croit juste de fixer, et la somme payable par ces employeurs est répartie entre eux, prélevée et perçue de la même  manière que la cotisation pour le fonds d'accident.  Les dispositions de la présente loi s'appliquent, compte tenu des adaptations nécessaires, aux cotisations imposées en vertu du présent article.
+
+S. R. 1964, c. 159, a. 112; 1978, c. 57, a. 1.
+
+SECTION XIV
+~~~~~~~~~~~
+
+**INFRACTIONS**
+
+118. (Abrogé).
+
+S. R. 1964, c. 159, a. 113; 1978, c. 57, a. 67.
+
+119. L'employeur qui contrevient aux articles 19, 22 ou au paragraphe 7 de l'article 53 commet une infraction et est passible
+
+ a) dans le cas d'un individu, d'une amende d'au moins 300 $;
+
+ b) dans le cas d'une personne morale, d'une amende d'au moins 600 $.
+
+S. R. 1964, c. 159, a. 114; 1978, c. 57, a. 68; 1990, c. 4, a. 32.
+
+119.1. L'employeur qui contrevient à l'article 44 commet une infraction et est passible d'une amende égale au double du montant de l'indemnité qu'il a omis de payer au travailleur, à moins que l'employeur ne prouve que la réclamation du travailleur a été jugée non fondée.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 32.
+
+119.2. Quiconque, sans raison valable dont la preuve lui incombe, entrave une enquête ou l'examen d'une affaire de la commission, de toute personne désignée par elle ou d'un bureau de révision, ou refuse ou fait défaut de se soumettre à une ordonnance de la commission, de toute personne désignée par elle ou d'un bureau de révision, commet une infraction et est passible
+
+ a) dans le cas d'un individu, d'une amende d'au moins 150 $;
+
+ b) dans le cas d'une personne morale, d'une amende d'au moins 300 $.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 32; 1997, c. 43, a. 10.
+
+119.3. L'employeur qui contrevient aux paragraphes 1, 2 ou 3 de l'article 88, qui fait ou produit, en vue de s'y conformer, une déclaration fausse ou inexacte, commet une infraction et est passible
+
+ a) dans le cas d'un individu, d'une amende d'au moins 300 $;
+
+ b) dans le cas d'une personne morale, d'une amende d'au moins 500 $.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 32.
+
+119.4. L'employeur qui contrevient à l'article 89 commet une infraction et est passible d'une amende d'au moins 100 $ pour chaque jour de retard.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 32.
+
+119.5. Quiconque empêche, entrave ou refuse l'inspection prévue par l'article 93 commet une infraction et est passible d'une amende d'au moins 500 $.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 32.
+
+119.6. Quiconque contrevient à l'article 94 commet une infraction et est passible d'une amende d'au moins 100 $.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 32.
+
+119.7. Un employeur qui contrevient aux articles 108 ou 109, ou néglige de payer, dans un délai d'un mois à compter de son échéance, une cotisation ou une cotisation spéciale supplémentaire, ou le montant d'une cotisation provisoire, ou tout versement ou partie de telles cotisations, et qui continue après ce délai, et pendant qu'il est encore en défaut, d'exploiter une industrie, commet une infraction et est passible
+
+ a) dans le cas d'un individu, d'une amende d'au moins 300 $ par jour;
+
+ b) dans le cas d'une personne morale, d'une amende d'au moins 600 $ par jour.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 32.
+
+119.8. Un employeur qui contrevient au paragraphe 5 de l'article 114 commet un infraction et est passible
+
+ a) dans le cas d'un individu, d'une amende d'au moins 1 000 $;
+
+ b) dans le cas d'une personne morale, d'une amende d'au moins 2 000 $.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 32.
+
+119.9. Quiconque omet de produire une déclaration requise par la commission ou fait ou produit une déclaration fausse ou inexacte à la commission, ou est partie à une convention contraire à la présente loi ou viole une prescription de la présente loi ou d'un règlement, pour la violation desquels aucune peine n'est spécialement prévue, commet une infraction et est passible
+
+ a) dans le cas d'un individu, d'une amende d'au moins 100 $;
+
+ b) dans le cas d'une personne morale, d'une amende d'au moins 300 $.
+
+1978, c. 57, a. 68; 1979, c. 63, a. 267; 1990, c. 4, a. 32.
+
+119.10. Dans le cas d'une première récidive, le contrevenant est passible d'une amende dont le montant ne doit pas être inférieur au double des amendes prévues par les articles 119 à 119.9.
+
+Pour toute autre récidive, le montant de l'amende ne doit pas être inférieur au triple des amendes prévues par les articles 119 à 119.9.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 32; 1992, c. 61, a. 29.
+
+119.11. Si les infractions visées dans les articles 119 à 119.9 ont mis directement en danger la vie ou la santé d'un travailleur, le contrevenant est passible d'une amende dont le montant ne doit pas être inférieur à dix fois les amendes prévues par les articles 119 à 119.9.
+
+1978, c. 57, a. 68.
+
+119.12. Le défaut d'un travailleur de se conformer à la présente loi ou à ses règlements, n'exonère pas l'employeur d'une obligation que lui impose la présente loi ou ses règlements.
+
+Le défaut d'un employeur de se conformer à la présente loi ou à ses règlements n'exonère pas le travailleur d'une obligation que lui impose la présente loi ou ses règlements.
+
+1978, c. 57, a. 68.
+
+119.13. (Abrogé).
+
+1978, c. 57, a. 68; 1992, c. 61, a. 30.
+
+119.14. Une poursuite pénale pour une infraction à une disposition de la présente loi ou de ses règlements peut être intentée par la commission.
+
+1978, c. 57, a. 68; 1990, c. 4, a. 33; 1992, c. 61, a. 31.
+
+119.15. (Abrogé).
+
+1978, c. 57, a. 68; 1992, c. 61, a. 32.
+
+120. Les amendes appartiennent à la commission et font partie du fonds d'accident, sauf lorsque le procureur général intente la poursuite pénale.
+
+Il en est de même des frais qui sont transmis à la commission avec le plaidoyer du défendeur.
+
+S. R. 1964, c. 159, a. 115; 1992, c. 61, a. 33.
+
+SECTION XV
+~~~~~~~~~~
+
+**DES PRESTATIONS AUX TRAVAILLEURS HANDICAPÉS VISUELS**
+
+121. Est considéré comme handicapé visuel, pour les fins de la présente section, celui que sa vue rend incapable d'accomplir un travail pour lequel la vision est nécessaire.
+
+S. R. 1964, c. 159, a. 116; 1978, c. 57, a. 69.
+
+122. Quand le montant total des prestations payables à raison d'un accident survenu à un travailleur handicapé visuel excède 50 $, le surplus est remboursé par le ministre des Finances au fonds d'accident ou à l'employeur, selon le cas, à la condition que ce travailleur handicapé visuel ait été, lors de l'accident, employé avec le consentement d'un institut pour handicapés visuels reconnu par le gouvernement sur la recommandation de la commission.
+
+S. R. 1964, c. 159, a. 117; 1978, c. 57, a. 69.
+
+123. Le paiement prévu par l'article 122 est fait par le ministre des Finances à même le fonds consolidé du revenu sur le certificat de la commission.
+
+S. R. 1964, c. 159, a. 118; 1978, c. 57, a. 69.
+
+SECTION XVI
+~~~~~~~~~~~
+
+**RÈGLEMENTS**
+
+124. La commission peut faire des règlements pour:
+
+ a) désigner les industries pour lesquelles les employeurs sont tenus de contribuer au fonds d'accident;
+
+ b) préciser les critères selon lesquels un étudiant peut être considéré fréquenter assidûment un établissement d'enseignement;
+
+ c) définir, dans le cas d'une personne à charge, l'expression «vivre entièrement ou partiellement du revenu du travailleur»;
+
+ d) établir les déductions aux fins du calcul du revenu net retenu du travailleur et préciser les situations familiales et les tranches de revenus nécessaires à ce calcul;
+
+ e) déterminer les cas où une personne qui effectue un travail non rémunéré dans une industrie peut être considérée comme un travailleur et en préciser les modalités;
+
+ f) déterminer les cas ou circonstances et les modalités selon lesquels un artisan est un travailleur au sens du sous-paragraphe i du sous-paragraphe q du paragraphe 1 de l'article 2, et prescrire le contenu de l'avis que doit transmettre un artisan à la commission en vertu de l'article 13 et en préciser les modalités;
+
+ g) définir, aux fins du paragraphe 4 de l'article 35 et de l'article 37, les mots «auraient pu être considérées à charge du travailleur si ce dernier eût survécu»;
+
+ h) déterminer les cas où des frais de transport du corps d'un travailleur peuvent être alloués et le montant de ces frais;
+
+ i) déterminer les cas, le montant et les modalités du remboursement des sommes visées dans l'article 42.1;
+
+ j) préciser, aux fins du paragraphe 13 de l'article 53, les modalités de remboursement, par un employeur mentionné dans l'annexe B, des dépenses et des déboursés effectués par la commission pour l'assistance médicale;
+
+ k) déterminer, aux fins du paragraphe j de l'article 56.1, les cas où une assistance financière est accordée au travailleur, en préciser les modalités et les montants et prévoir une revalorisation de l'assistance ou de l'un ou l'autre des éléments servant au calcul de celle-ci;
+
+ l) (paragraphe abrogé);
+
+ m) établir, en vue d'évaluer la diminution de capacité de travail du travailleur, un barème des déficits anatomo-physiologiques, et déterminer les critères et les modalités d'évaluation de l'aptitude pour le travailleur à reprendre le travail au cours duquel il a été blessé et de l'adaptation à quelque autre occupation appropriée;
+
+ n) définir les mots et expressions «secteur d'activités économiques», «classe d'unités» et «unité»;
+
+ o) établir des secteurs d'activités économiques, des unités et des classes d'unités;
+
+ p) déterminer à quelle unité ou à quelle classe d'unités appartient une industrie;
+
+ q) déterminer les cas où un employeur peut faire partie de plus d'une unité;
+
+ r) établir un mécanisme de révision périodique de la classification des employeurs et des industries;
+
+ s) définir la procédure de révision relative à une décision de la commission portant sur la cotisation et la classification;
+
+ t) préciser, aux fins de l'article 104, l'expression «un pourcentage du montant impayé»;
+
+ u) définir le contenu de l'avis exigé par l'article 108;
+
+ v) préciser les cas où la commission peut exiger l'examen médical périodique prévu par le paragraphe 4 de l'article 114;
+
+ w) exiger que lui soit fourni un certificat attestant qu'un travailleur est apte à occuper un emploi pouvant l'exposer à l'inhalation de la poussière siliceuse;
+
+ x) (paragraphe abrogé);
+
+ y) reconnaître comme caractéristique d'un travail ou reliée directement aux risques particuliers d'un travail une maladie professionnelle autre que celles mentionnées à l'annexe D;
+
+ z) généralement prescrire toute autre mesure requise pour la mise en application de la présente loi.
+
+1978, c. 57, a. 69; 1979, c. 63, a. 269; 1988, c. 66, a. 3; 1991, c. 35, a. 2; 1992, c. 68, a. 157; 1992, c. 61, a. 34.
+
+125. Un règlement adopté par la Commission en vertu de l'article 124 est soumis pour approbation au gouvernement à l'exception d'un règlement adopté en vertu du paragraphe d de cet article.
+
+1978, c. 57, a. 69; 2006, c. 53, a. 30.
+
+SECTION XVII
+~~~~~~~~~~~~
+
+**DISPOSITIONS FINALES**
+
+126. Le gouvernement désigne un ministre qui est responsable de l'application de la présente loi.
+
+1979, c. 63, a. 270.
+
+127. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXE  A
+~~~~~~~~~
+
+TABLE DES MAJORATIONS PRÉVUES À L'ARTICLE 40
+
+
+::
+
+   Année de          Taux de           Année de          Taux de
+  l'accident        majoration        l'accident        majoration
+  
+     1931             40   %            1949             12,5  %
+     1932             40   %            1950             12,5  %
+     1933             40   %            1951             12,5  %
+     1934             40   %            1952              7,14 %
+     1935             40   %            1953              7,14 %
+     1936             40   %            1954              7,14 %
+     1937             40   %            1955             10    %
+     1938             40   %            1956              9    %
+     1939             40   %            1957              5    %
+     1940             34   %            1958              2,2  %
+     1941             26   %            1959              1,1  %
+     1942             21   %            1960             10    %
+     1943             19   %            1961              9    %
+     1944             18   %            1962              8    %
+     1945             17   %            1963              6    %
+     1946             14   %            1964              4    %
+     1947             12,5 %            1965              2    %
+     1948             12,5 %
+
+1966-67, c. 52, a. 11.
+
+ANNEXE  B
+~~~~~~~~~
+
+(Articles 4, 32, 53, 56.2, 79, 84, 95, 99, 117, 124)
+
+INDUSTRIES POUR LESQUELLES LES EMPLOYEURS
+
+SONT TENUS PERSONNELLEMENT DE PAYER L'INDEMNITÉ
+
+  1. L'industrie ou l'entreprise visée dans le sous-paragraphe e du paragraphe 2 de l'article 2.
+
+ 2. La construction ou l'exploitation de chemins de fer mus par la vapeur, l'électricité ou autre force motrice, de tramways et funiculaires, mais non leur construction quand ils sont construits par une personne autre que la compagnie à laquelle appartient le chemin de fer ou qui l'exploite.
+
+ 3. La construction ou l'exploitation d'ateliers de wagons de chemin de fer, d'ateliers de machines, d'usines mues par la vapeur ou la force motrice, et d'autres usines pour les fins d'un tel chemin de fer ou servant ou devant servir à ce chemin de fer, lorsqu'ils sont construits ou exploités par la compagnie à laquelle appartient le chemin de fer ou qui l'exploite.
+
+ 4. La construction ou l'exploitation de lignes de téléphone et les travaux qui tombent sous le coup de l'autorité législative du Parlement du Canada, pour les fins de l'exploitation d'une compagnie de téléphone ou servant ou devant servir à son entreprise, lorsqu'ils sont exécutés ou exploités par la compagnie.
+
+ 5. La construction ou l'exploitation de lignes de télégraphe et les travaux pour les fins de l'entreprise d'une compagnie de télégraphe ou servant ou devant servir à son entreprise, lorsqu'ils sont exécutés ou exploités par la compagnie.
+
+ 6. La construction ou l'exploitation de bateaux à vapeur et les travaux pour les fins de l'entreprise d'une compagnie de navigation ou servant ou devant servir à son entreprise, lorsqu'ils sont construits ou exploités par la compagnie, et tout autre genre de navigation, touage, exploitation de vaisseaux et renflouage de navires.
+
+ 7. L'exploitation d'une compagnie de messageries qui exploite son entreprise sur ou concurremment avec un chemin de fer, ou de wagons-lits, wagons-salons ou wagons-restaurants, lorsqu'ils sont exploités par la compagnie de chemin de fer ou par une compagnie de messageries, ou de wagons-lits, de wagons-salons ou de wagons-restaurants.
+
+ 8. La construction ou l'exploitation d'un pont reliant le Québec avec une province ou un état voisin, mais non sa construction lorsqu'il est construit par une personne ou une compagnie autre que la personne ou la compagnie à laquelle appartient le pont ou qui l'exploite.
+
+S. R. 1964, c. 159, cédule II; 1978, c. 57, a. 1; 1979, c. 63, a. 271.
+
+ANNEXE  C
+~~~~~~~~~
+
+(Article 35 par. 10, 41)
+
+TABLE DES RENTES MINIMA PAYABLES EN 1978
+
+
+::
+
+  Conjoint seul                           227,24 $
+  Conjoint et un enfant                   286,34 $
+  Conjoint et plus d'un enfant            345,44 $
+
+1978, c. 57, a. 71.
+
+ANNEXE  D
+~~~~~~~~~
+
+(Article 124)
+
+
+::
+
+   ___________________________________________________________________
+  |                                                                   |
+  |                      MALADIES PROFESSIONNELLES                    |
+  |___________________________________________________________________|
+  |                              |                                    |
+  |      GENRE DE MALADIES       |         GENRE D'OCCUPATION         |
+  |______________________________|____________________________________|
+  |                              |                                    |
+  | 1. Ampoules infectées:       | Toute occupation comportant        |
+  |                              | continuellement une friction, un   |
+  |                              | frottement ou une vibration.       |
+  |                              |                                    |
+  | 2. Anthrax:                  | Manipulation de la laine, du       |
+  |                              | crin, du poil, du cuir et des      |
+  |                              | peaux.                             |
+  |                              |                                    |
+  | 3. Brucellose:               | Soin, entretien, abattage,         |
+  |                              | dépeçage et transport de           |
+  |                              | boucherie.  Le travail de          |
+  |                              | laboratoire chez un employeur      |
+  |                              | assujetti.                         |
+  |                              |                                    |
+  | 4. Bursite:                  | Toute occupation comportant        |
+  |                              | friction, pression,                |
+  |                              | irritation ou vibration            |
+  |                              | continue des parties affectées.    |
+  |                              |                                    |
+  | 5. Dermites:                 |                                    |
+  |                              |                                    |
+  | 6. Empoisonnements et        |                                    |
+  |    leurs suites:             |                                    |
+  |                              |                                    |
+  |    a) Arsenic:               | Toute occupation comportant        |
+  |                              | l'emploi de l'arsenic ou de ses    |
+  |                              | préparations ou de ses composés.   |
+  |                              |                                    |
+  |    b) Benzène:               | Toute occupation comportant        |
+  |                              | l'emploi de benzène.               |
+  |                              |                                    |
+  |    c) Cadmium:               | Occupation dans tout procédé       |
+  |                              | comportant l'usage ou la           |
+  |                              | préparation du cadmium ou de ses   |
+  |                              | composés.                          |
+  |                              |                                    |
+  |    d) Chrome:                | Toute occupation comportant        |
+  |                              | l'emploi du chrome ou de ses       |
+  |                              | composés.                          |
+  |                              |                                    |
+  |    e) Cuivre, nickel, zinc:  | Toute occupation comportant        |
+  |                              | l'usage du nickel ou du cuivre,    |
+  |                              | ou la fonte ou l'affinage du       |
+  |                              | zinc.                              |
+  |                              |                                    |
+  |    f) Hydrocarbures chlorés, | Occupation dans tout procédé de    |
+  |       tétrachlorure de       | leur fabrication ou comportant     |
+  |       carbone,               | l'usage de ces substances.         |
+  |       trichloréthylène,      |                                    |
+  |       tétrachloréthane,      |                                    |
+  |       trichloronaphthalène   |                                    |
+  |       et autres:             |                                    |
+  |                              |                                    |
+  |    g) Mercure:               | Toute occupation comportant        |
+  |                              | l'emploi du mercure ou de ses      |
+  |                              | préparations ou de ses composés.   |
+  |                              |                                    |
+  |    h) Nitro- et amino-       | Manipulation de nitro- ou amino-   |
+  |       dérivés du benzène,    | dérivés de benzène, phénol         |
+  |       phénol et leurs        | ou leurs homologues ou occupation  |
+  |       homologues             | dans tout procédé de leur          |
+  |       (trinitrotoluène,      | fabrication ou comportant l'usage  |
+  |       dinitrophénol,         | de ces produits.                   |
+  |       aniline et autres):    |                                    |
+  |                              |                                    |
+  |    i) Monoxyde de carbone:   | Tout procédé comportant            |
+  |                              | l'émanation de monoxyde de         |
+  |                              | carbone.                           |
+  |                              |                                    |
+  |    j) Phosphore:             | Toute occupation comportant        |
+  |                              | l'emploi du phosphore ou de ses    |
+  |                              | préparations ou de ses composés.   |
+  |                              |                                    |
+  |    k) Plomb:                 | Toute occupation comportant        |
+  |                              | l'emploi du plomb ou de ses        |
+  |                              | préparations ou de ses composés.   |
+  |                              |                                    |
+  |    l) Vapeurs nitreuses:     | Tout procédé au cours duquel se    |
+  |                              | dégagent des vapeurs nitreuses.    |
+  |                              |                                    |
+  | 7. Maladie de l'air comprimé | Tout travail fait dans l'air       |
+  |    ou maladie des caissons:  | comprimé.                          |
+  |                              |                                    |
+  | 8. Maladies consécutives à   |                                    |
+  |    l'exposition aux rayons   |                                    |
+  |    X ou radium ou autres     |                                    |
+  |    substances radio-actives: |                                    |
+  |                              |                                    |
+  | 9. Pneumoconiose (silicose   | Exploitation minière, extraction,  |
+  |    et amiantose):            | taille, concassage, dressage ou    |
+  |                              | polissage de la pierre. Fonte,     |
+  |                              | dressage ou polissage des métaux.  |
+  |                              | Poterie.                           |
+  |                              |                                    |
+  | 10. Rétinite:                | Soudure à l'arc électrique ou à    |
+  |                              | l'acétylène.                       |
+  |                              |                                    |
+  | 11. Ténosynovite:            |                                    |
+  |                              |                                    |
+  | 12. Surdité:                 | Une occupation comportant          |
+  |                              | l'exposition à des niveaux de      |
+  |                              | bruit excessif.                    |
+  |______________________________|____________________________________|            
+
+S. R. 1964, c. 159, cédule III; 1978, c. 57, a. 72.
+
+ANNEXE  E
+~~~~~~~~~
+
+(Article 38)
+
+TABLE DES VALEURS ACTUARIELLES POUR CONVERSION
+
+EN CAPITAL D'UNE RENTE MENSUELLE DE 1,00 $
+
+
+::
+
+     Âge      Valeur       Âge      Valeur       Âge      Valeur
+      15      168,45        44      137,42        73       65,22
+      16      168,00        45      135,45        74       62,47
+      17      167,55        46      133,43        75       59,74
+      18      167,08        47      131,34        76       57,04
+      19      166,60        48      129,20        77       54,36
+      20      166,09        49      127,00        78       51,71
+      21      165,54        50      124,75        79       49,11
+      22      164,95        51      122,47        80       46,56
+      23      164,31        52      120,15        81       44,08
+      24      163,61        53      117,81        82       41,66
+      25      162,86        54      115,44        83       39,31
+      26      162,06        55      113,04        84       37,03
+      27      161,20        56      110,62        85       34,84
+      28      160,27        57      108,16        86       32,73
+      29      159,29        58      105,68        87       30,71
+      30      158,25        59      103,16        88       28,77
+      31      157,16        60      100,61        89       26,91
+      32      156,00        61       98,02        90       25,15
+      33      154,80        62       95,39        91       23,47
+      34      153,54        63       92,71        92       21,88
+      35      152,22        64       89,98        93       20,36
+      36      150,83        65       87,24        94       18,92
+      37      149,38        66       84,48        95       17,57
+      38      147,87        67       81,72        96       16,28
+      39      146,29        68       78,96        97       15,07
+      40      144,64        69       76,20        98       13,90
+      41      142,93        70       73,46        99       12,76
+      42      141,16        71       70,72       100       11,54
+      43      139,32        72       67,98       101        9,92
+
+1978, c. 57, a. 73; 1979, c. 63, a. 272.
+
+ANNEXES ABROGATIVES
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 159 des Statuts refondus, 1964, tel qu'en vigueur au 31 décembre 1977, est abrogé à compter de l'entrée en vigueur du chapitre A-3 des Lois refondues.
+
+Conformément à l'article 17 de la Loi sur la refonte des lois et des règlements (chapitre R-3), l'article 39a du chapitre 159 des Statuts refondus, 1964, tel qu'en vigueur au 31 décembre 1981, est abrogé à compter de l'entrée en vigueur de la mise à jour au 31 décembre 1981 du chapitre A-3 des Lois refondues.

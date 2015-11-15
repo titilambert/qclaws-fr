@@ -1,0 +1,352 @@
+.. hint:: À jour au 1er novembre 2015
+
+.. _A-31:
+
+============================================================
+A-31 Loi sur l'assurance-stabilisation des revenus agricoles
+============================================================
+
+.. sidebar:: État courant
+
+    :Statut: À jour
+    :Date: 01 nov 2015
+
+
+
+SECTION I
+~~~~~~~~~
+
+**DÉFINITIONS**
+
+1. Dans la présente loi, à moins que le contexte n'indique un sens différent, on entend par:
+
+ a) «régime»: un régime dont l'établissement est prescrit suivant l'article 2;
+
+ b) «produit»: un produit agricole mis en marché suivant un plan conjoint ou tout autre plan prévu au régime;
+
+ c) «producteur»: un exploitant agricole qui met en marché un produit;
+
+ d) «adhérent»: un producteur, ou tout groupement de producteurs qu'un régime reconnaît comme admissible, qui adhère au régime;
+
+ e) «recettes annuelles»: pour chaque unité d'un produit, les revenus provenant de la vente ou d'une indemnité versée en vertu de la Loi sur l'assurance-récolte (chapitre A-30), majorés des compensations, subventions ou octrois venant d'organismes gouvernementaux obtenus durant l'année;
+
+ f) «revenu annuel net»: pour chaque unité d'un produit, les recettes annuelles diminuées des déboursés monétaires et de la dépréciation;
+
+ g) «revenu annuel net stabilisé»: pour chaque unité d'un produit, un montant prévu au régime, établi après consultation des représentants des producteurs;
+
+ h) (paragraphe abrogé).
+
+1975, c. 41, a. 1; 1979, c. 73, a. 12; 1991, c. 60, a. 37; 2000, c. 53, a. 68.
+
+SECTION II
+~~~~~~~~~~
+
+**RÉGIMES D'ASSURANCE**
+
+2. Le gouvernement peut prescrire, pour tout produit ou tout groupe de produits qu'il indique, l'établissement d'un régime d'assurance-stabilisation des revenus agricoles pour l'ensemble du Québec ou pour toute région du Québec qu'il désigne.
+
+1975, c. 41, a. 2.
+
+3. Un régime a pour objet de garantir un revenu annuel net positif aux producteurs ou catégories de producteurs qui opèrent selon les structures de production et de mise en marché prévues par un régime. À cette fin, une compensation est versée à l'adhérent par la Régie lorsque le revenu annuel net est inférieur au revenu annuel net stabilisé.
+
+Les compensations sont payables au temps et de la façon fixés par règlement; le règlement peut permettre le versement d'avances.
+
+La Régie remet à chaque adhérent un certificat attestant de sa participation au régime auquel il adhère.  Elle remet de plus à tout nouvel adhérent une copie certifiée du régime auquel il participe.
+
+1975, c. 41, a. 3; 1979, c. 73, a. 13; 1991, c. 60, a. 38; 1995, c. 10, a. 18.
+
+4. Dans l'établissement d'un régime, il doit être tenu compte des avantages comparatifs de production et d'utilisation optimale des ressources agricoles.
+
+1975, c. 41, a. 4.
+
+5. Le régime détermine la ou les régions, les producteurs ou les catégories de producteurs et les volumes de production auxquels il s'applique.
+
+1975, c. 41, a. 5.
+
+6. Le régime doit prévoir les éléments devant entrer dans le calcul des recettes annuelles, du revenu annuel net et du revenu annuel net stabilisé; il doit également prévoir les conditions d'admissibilité et de participation, la durée d'adhésion, la période d'assurance, les motifs et les modalités relatifs à l'exclusion d'un adhérent ainsi que la cotisation qu'il doit verser.  Une cotisation fixée en cours d'année peut être applicable à la période d'assurance en cours.
+
+Le régime peut également prévoir une réduction de cotisation par catégorie de producteurs, selon les conditions et modalités qu'il détermine.
+
+À l'égard d'un adhérent, le régime ne tient compte que des produits provenant de la propre exploitation de ce dernier.
+
+1975, c. 41, a. 6; 1991, c. 60, a. 39.
+
+6.1. Le régime peut prévoir que les valeurs attribuées aux structures de production et de mise en marché ainsi que celles attribuées aux éléments qui entrent dans le calcul des recettes annuelles, du revenu annuel net et du revenu annuel net stabilisé, sont indexées par la Régie en fonction d'études statistiques qu'elle fait ou en fonction d'autres données qu'elle juge pertinentes.
+
+Lorsqu'une indexation est établie à partir d'études statistiques faites par la Régie, le résultat de cette indexation est publié dans au moins un journal agricole ou à défaut, dans un autre journal qu'elle désigne.
+
+1991, c. 60, a. 40.
+
+SECTION III
+~~~~~~~~~~~
+
+**FONDS D'ASSURANCE-STABILISATION DES REVENUS AGRICOLES**
+
+7. Les cotisations des adhérents et les contributions du gouvernement constituent le Fonds d'assurance-stabilisation des revenus agricoles.
+
+Ce fonds constitue un patrimoine fiduciaire affecté principalement au paiement des compensations exigibles en vertu d'un régime d'assurance créé en application de la présente loi.  Il est administré par la Régie pour le bénéfice des adhérents et celle-ci en est saisie à titre de fiduciaire.
+
+En outre des cotisations des adhérents et des contributions du gouvernement, le fonds comprend les sommes suivantes:
+
+ a) les sommes versées par le ministre des Finances à titre d'avances prises sur le fonds consolidé du revenu conformément à l'article 10;
+
+ b) le montant d'un emprunt contracté par la Régie en vertu des articles 10.1 et 10.3;
+
+ c) les revenus provenant du placement des sommes constituant le fonds;
+
+ d) les sommes que peut verser le ministre de l'Agriculture, des Pêcheries et de l'Alimentation en vertu d'une entente conclue en application des articles 42 et 43.
+
+1975, c. 41, a. 7; 1984, c. 20, a. 8; 1998, c. 53, a. 20.
+
+8. (Abrogé).
+
+1975, c. 41, a. 8; 1976, c. 25, a. 1; 1979, c. 73, a. 13; 1984, c. 20, a. 9; 2000, c. 53, a. 68.
+
+9. L'ensemble des cotisations perçues par la Régie et des contributions versées par le gouvernement en vertu de l'article 8 doit permettre à long terme le paiement à tous les adhérents des compensations auxquelles ils ont droit.
+
+1975, c. 41, a. 9; 1979, c. 73, a. 13; 2000, c. 53, a. 68.
+
+Le présent article, dans la mesure où il vise les contributions versées par le gouvernement, est abrogé à compter du 17 avril 2001.  Décret 418-2001 du 11 avril 2001, (2001) 133 G. O. 2, 2597.
+
+
+
+9.1. Les cotisations des adhérents et les contributions du gouvernement sont créditées dans des comptes distincts pour chacune des productions.  Elles peuvent aussi être créditées dans des comptes distincts pour chacun des adhérents.
+
+1998, c. 53, a. 21.
+
+9.2. Un surplus ou un déficit inscrit à un compte doit être considéré dans la détermination de la cotisation afférente à ce compte.
+
+1998, c. 53, a. 21.
+
+9.3. Lorsqu'il est mis fin à un programme de protection pour une production assurée et que les parties à une entente conclue en application des articles 42 et 43 ont convenu de la mise en place d'un programme de substitution, tout surplus ou déficit au compte de la production assurée est inscrit au compte de ce programme de substitution.
+
+Si aucun programme de substitution n'est mis en place, tout surplus ou déficit au compte de la production assurée est traité conformément à une entente conclue entre les parties en application des articles 42 et 43 durant l'année qui suit la date d'expiration du programme.  À défaut d'entente, le fonds est grevé des charges du compte et tout surplus ou déficit est attribué aux adhérents et au gouvernement au prorata de leur participation à ce compte.
+
+1998, c. 53, a. 21.
+
+9.4. La Régie peut, à même les surplus d'un compte, faire une avance à court terme à un autre compte d'un fonds qu'elle administre.
+
+1998, c. 53, a. 21.
+
+9.5. (Abrogé).
+
+1998, c. 53, a. 21; 2000, c. 53, a. 68.
+
+9.6. La Régie doit, au moins tous les cinq ans, préparer une analyse actuarielle de ses opérations et colliger tous renseignements utiles à la fixation des taux de cotisation.
+
+1998, c. 53, a. 21; 2000, c. 53, a. 68.
+
+10. Lorsque les ressources du fonds sont insuffisantes pour le paiement des compensations, le ministre des Finances est autorisé à faire à la Régie, à même le fonds consolidé du revenu, des avances pour parfaire tels paiements.
+
+Toute avance est remboursable aux conditions fixées par le gouvernement; les remboursements et les intérêts payés sur cette avance sont versés au fonds consolidé du revenu.
+
+1975, c. 41, a. 10; 1979, c. 73, a. 13; 1984, c. 20, a. 10.
+
+10.1. La Régie peut parfaire le paiement des compensations au moyen d'un emprunt.  Elle peut, pour la garantie de cet emprunt, grever tout ou partie des cotisations qu'elle perçoit et des contributions que lui verse le gouvernement en vertu de la présente loi.
+
+Le gouvernement détermine le montant, le taux d'intérêt, les conditions et les modalités de l'emprunt, de même que les conditions dans lesquelles les cotisations et contributions peuvent être ainsi grevées.
+
+1984, c. 20, a. 11; 1998, c. 53, a. 22.
+
+10.2. Le gouvernement peut garantir un emprunt fait par la Régie en vertu des articles 10.1 et 10.3.
+
+Les sommes que le gouvernement peut être appelé à payer en vertu de cette garantie sont prises sur le fonds consolidé du revenu.
+
+1984, c. 20, a. 11; 1998, c. 53, a. 23.
+
+10.3. (Abrogé).
+
+1992, c. 59, a. 1; 1998, c. 53, a. 24; 2000, c. 15, a. 97; 2000, c. 53, a. 68.
+
+10.4. (Abrogé).
+
+1992, c. 59, a. 1; 2000, c. 15, a. 97; 2000, c. 53, a. 68.
+
+11. (Abrogé).
+
+1975, c. 41, a. 11; 1979, c. 73, a. 13; 1988, c. 64, a. 587; 2000, c. 53, a. 68.
+
+SECTION IV
+~~~~~~~~~~
+
+**ADMINISTRATION**
+
+12. (Abrogé).
+
+1975, c. 41, a. 12; 1979, c. 73, a. 14; 2000, c. 53, a. 68.
+
+13. (Abrogé).
+
+1975, c. 41, a. 13; 1979, c. 73, a. 14.
+
+14. (Abrogé).
+
+1975, c. 41, a. 14; 1979, c. 73, a. 14.
+
+15. (Abrogé).
+
+1975, c. 41, a. 15; 1979, c. 73, a. 14.
+
+16. (Abrogé).
+
+1975, c. 41, a. 16; 1979, c. 73, a. 14.
+
+17. (Abrogé).
+
+1975, c. 41, a. 17; 1979, c. 73, a. 14.
+
+18. (Abrogé).
+
+1975, c. 41, a. 18; 1978, c. 15, a. 140; 1979, c. 73, a. 14.
+
+19. (Abrogé).
+
+1975, c. 41, a. 19; 1979, c. 73, a. 14.
+
+20. (Abrogé).
+
+1975, c. 41, a. 20; 1978, c. 15, a. 133, a. 140; 1979, c. 73, a. 14.
+
+21. (Abrogé).
+
+1975, c. 41, a. 21; 1979, c. 73, a. 14.
+
+22. (Abrogé).
+
+1975, c. 41, a. 22; 1979, c. 73, a. 14.
+
+23. (Abrogé).
+
+1975, c. 41, a. 23; 1979, c. 73, a. 14.
+
+24. (Abrogé).
+
+1975, c. 41, a. 24; 1979, c. 73, a. 14.
+
+25. (Abrogé).
+
+1975, c. 41, a. 25; 1979, c. 73, a. 14.
+
+26. (Abrogé).
+
+1975, c. 41, a. 26; 1979, c. 73, a. 14.
+
+27. (Abrogé).
+
+1975, c. 41, a. 27; 1979, c. 73, a. 14.
+
+SECTION V
+~~~~~~~~~
+
+**ENQUÊTES**
+
+28. Tout adhérent doit fournir à la Régie, à la demande de celle-ci, les renseignements et documents requis pour le fonctionnement d'un régime.
+
+1975, c. 41, a. 28; 1979, c. 73, a. 13.
+
+29. (Abrogé).
+
+1975, c. 41, a. 29; 1979, c. 73, a. 13; 2000, c. 53, a. 68.
+
+30. (Abrogé).
+
+1975, c. 41, a. 30; 1979, c. 73, a. 13; 1992, c. 61, a. 70; 2000, c. 53, a. 68.
+
+31. (Abrogé).
+
+1975, c. 41, a. 31; 1979, c. 73, a. 13; 2000, c. 53, a. 68.
+
+32. (Abrogé).
+
+1975, c. 41, a. 32; 1979, c. 77, a. 21; 1979, c. 73, a. 13; 1987, c. 68, a. 21.
+
+SECTION VI
+~~~~~~~~~~
+
+**DES COTISATIONS DES ADHÉRENTS**
+
+33. La cotisation d'un adhérent est payable au temps et de la façon prescrits par règlement de la Régie.
+
+1975, c. 41, a. 33; 1979, c. 73, a. 13.
+
+34. Tout office de producteurs constitué en vertu de la Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1) est tenu de percevoir, à l'époque et selon les modalités prescrites par règlement de la Régie, la cotisation de chacun des adhérents inscrits à son registre ou fichier.
+
+L'office doit transmettre à la Régie, au temps fixé par règlement de la Régie, les cotisations perçues ainsi qu'une copie de son registre ou fichier.
+
+1975, c. 41, a. 34; 1979, c. 73, a. 13.
+
+35. Toute personne qui est tenue de percevoir des deniers d'un producteur en vertu de la Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche (chapitre M-35.1), d'un règlement adopté par la Régie des marchés agricoles et alimentaires du Québec conformément à l'article 159 de ladite loi, d'une convention dûment homologuée ou d'une sentence arbitrale doit, en même temps qu'elle perçoit ces deniers, percevoir et remettre, à l'époque et selon les modalités déterminées par règlement de la Régie, à l'office chargé d'appliquer le plan conjoint, la cotisation de chacun des adhérents inscrits à son registre ou fichier et participant au régime.
+
+L'office doit transmettre à la Régie, au temps fixé par ce règlement, les cotisations reçues ainsi qu'une copie de son registre ou fichier.
+
+1975, c. 41, a. 35; 1979, c. 73, a. 13; 1990, c. 13, a. 217.
+
+36. La Régie peut conclure avec un groupement d'adhérents un accord relatif à toute mesure appropriée pour la mise en application du régime et pour le prélèvement, à même les compensations qu'elle verse en vertu d'un régime, des contributions exigibles en vertu d'un plan conjoint approuvé par la Régie des marchés agricoles et alimentaires du Québec.
+
+1975, c. 41, a. 36; 1979, c. 73, a. 13; 1995, c. 10, a. 19.
+
+37. L'adhérent dont la cotisation n'a pas été perçue suivant les articles 34, 35 ou 36 est tenu d'effectuer lui-même, au temps fixé par règlement de la Régie, le paiement de sa cotisation.
+
+1975, c. 41, a. 37; 1979, c. 73, a. 13.
+
+38. Tout adhérent dont la cotisation n'a pas été payée est tenu, en tout temps, d'en effectuer le paiement sur demande de la Régie, sauf recours, le cas échéant.
+
+1975, c. 41, a. 38; 1979, c. 73, a. 13.
+
+SECTION VII
+~~~~~~~~~~~
+
+**DISPOSITIONS PÉNALES**
+
+39. (Abrogé).
+
+1975, c. 41, a. 39; 1979, c. 73, a. 13; 1991, c. 60, a. 42.
+
+40. (Abrogé).
+
+1975, c. 41, a. 40; 2000, c. 53, a. 68.
+
+41. (Abrogé).
+
+1975, c. 41, a. 41; 1990, c. 4, a. 84; 2000, c. 53, a. 68.
+
+SECTION VIII
+~~~~~~~~~~~~
+
+**DISPOSITIONS FINALES**
+
+42. (Abrogé).
+
+1975, c. 41, a. 42; 1979, c. 77, a. 21; 1985, c. 30, a. 22; 2000, c. 53, a. 68.
+
+43. Sous réserve de l'article 42, le gouvernement peut autoriser le ministre de l'Agriculture, des Pêcheries et de l'Alimentation à conclure des accords avec toute personne, association ou société dans le but de favoriser l'exécution de la présente loi.
+
+1975, c. 41, a. 43; 1979, c. 77, a. 21; 1999, c. 40, a. 32.
+
+44. (Abrogé).
+
+1975, c. 41, a. 44; 1979, c. 73, a. 15.
+
+45. Les dispositions des sections III et IV de la Loi sur les règlements (chapitre R-18.1) relatives à la publication et à l'entrée en vigueur des projets de règlement et des règlements ne s'appliquent pas aux projets de règlement et aux règlements qui peuvent être pris en application de la présente loi.
+
+Un règlement pris par le gouvernement en vertu de la présente loi entre en vigueur le jour de sa publication à la Gazette officielle du Québec ou à toute date ultérieure qui y est fixée.
+
+Un règlement pris par la Régie en vertu de la présente loi est approuvé par le gouvernement, avec ou sans modification, et entre en vigueur le jour de sa publication à la Gazette officielle du Québec ou à toute date ultérieure qui y est fixée.
+
+1975, c. 41, a. 45; 1979, c. 73, a. 13; 1991, c. 60, a. 43.
+
+45.1. (Abrogé).
+
+1999, c. 78, a. 1; 2000, c. 53, a. 68.
+
+46. Le ministre de l'Agriculture, des Pêcheries et de l'Alimentation est chargé de l'application de la présente loi.
+
+1975, c. 41, a. 48; 1979, c. 77, a. 21.
+
+47. (Cet article a cessé d'avoir effet le 17 avril 1987).
+
+1982, c. 21, a. 1; R.-U., 1982, c. 11, ann. B, ptie I, a. 33.
+
+ANNEXE ABROGATIVE
+
+Conformément à l'article 17 de la Loi sur la refonte des lois (chapitre R-3), le chapitre 41 des lois de 1975, tel qu'en vigueur au 31 décembre 1977, à l'exception des articles 46 et 49, est abrogé à compter de l'entrée en vigueur du chapitre A-31 des Lois refondues.

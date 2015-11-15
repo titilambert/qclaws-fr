@@ -1,0 +1,14 @@
+.. warning:: Abrogée le 1er mars 2006
+
+.. _B-2.2:
+
+=================================================
+B-2.2 Loi sur la Bibliothèque nationale du Québec
+=================================================
+
+.. sidebar:: État courant
+
+    :Statut: Abrogée
+    :Date: 01 mar 2006
+
+Le titre du chapitre B-2.2 ayant été remplacé par le suivant: «Loi sur Bibliothèque et Archives nationales du Québec», on retrouve maintenant ce chapitre sous le numéro B-1.2.
